@@ -863,7 +863,7 @@ $ gtk -> File|GitGui
 
 ----
 Problem: revert to specific version of mitmproxy \\
-Solution: check out a tag \\
+Solution: 'pip install mitmproxy=0.7' or check out a tag \\
 <code>
 $ git clone https://github.com/mitmproxy/mitmproxy.git
 $ cd mitmproxy
