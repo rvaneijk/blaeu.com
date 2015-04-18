@@ -644,14 +644,19 @@ sudo vi /etc/neo4j/neo4j-server.properties
 # uncomment org.neo4j.server.webserver.address=0.0.0.0
 # check: org.neo4j.server.webserver.https.enabled=true
 # check: org.neo4j.server.webserver.https.port=7473
+# change: org.neo4j.server.webserver.https.cert.location=/var/ssl/neo4j/server.crt
+# change: org.neo4j.server.webserver.https.key.location=/var/ssl/neo4j/server.key
 
 now set up access to https
+note: both the private key and the certificate need to be in DER format
+$ openssl genrsa -des3 -out ca.key 4096
+$ openssl req -new -x509 -days 365 -key ca.key -out ca.pem
+$ openssl genrsa -des3 -out server.key 4096
+$ openssl req -new -key server.key -out server.csr
+$ openssl x509 -req -days 365 -in server.csr -CA ca.pem -CAkey ca.key -set_serial 01 -out server.pem
 $ sudo mkdir -p /var/ssl/neo4j
-$ sudo openssl genrsa -des3 -out /var/ssl/ca.key 4096
-$ sudo openssl req -new -x509 -days 365 -key /var/ssl/ca.key -out /var/ssl/ca.crt
-$ sudo openssl genrsa -des3 -out /var/ssl/neo4j/server.key 4096
-$ sudo openssl req -new -key /var/ssl/neo4j/server.key -out /var/ssl/neo4j/server.csr
-$ sudo openssl x509 -req -days 365 -in /var/ssl/neo4j/server.csr -CA /var/ssl/ca.crt -CAkey /var/ssl/ca.key -set_serial 01 -out /var/ssl/neo4j/server.crt
+$ sudo openssl x509 -outform der -in server.pem -out /var/ssl/neo4j/server.crt
+$ sudo openssl rsa -in server.key -inform PEM -out /var/ssl/neo4j/server.key -outform DER
 </code>
 
 ----
