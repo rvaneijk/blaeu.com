@@ -552,7 +552,7 @@ def response(context, flow):
 
 ----
 Problem: flow (libxml/mitm) \\
-Solution: \\
+Solution: See also: pydoc libmproxy.protocol.http.HTTPRequest \\
 <code>
 # flow
 #
@@ -803,18 +803,27 @@ Solution: SHELLED PLUGIN\\
 
 
 ====== Github ======
-Problem with committing from the commandline\\
+Clone project
 <code>
-$ cd ./Tracking-Report-Card
-$ git remote add upstream git://github.com/ewfelten/Tracking-Report-Card.git
-$ git fetch upstream
-$ git status
-$ git add (filename)
-$ git status
-$ git commit -m "Add your description of the commit here"
-$ git push origin master
+Set up ssh keys by following the instructions available at https://help.github.com/articles/generating-ssh-keys/
+$ git clone ssh://git@github.com/ewfelten/Tracking-Report-Card.git
 </code>
 
+
+----
+Syncing fork \\
+<code>
+$ git clone https://github.com/YOUR-USERNAME/<project>.git
+$ git remote add upstream https://github.com/<user>/<project>.git
+$ git remote -v
+$ git fetch upstream
+$ git checkout master
+$ git merge upstream/master
+</code>
+
+Manage pullrequests: https://help.github.com/articles/using-pull-requests/
+
+----
 Pushing new repository to Github\\
 <code>
 $ \\ create <new repository> on Github portal
@@ -826,22 +835,7 @@ $ git commit -m "Add your description of the commit here"
 $ git push origin master
 </code>
 
-Checking out files from github\\
-<code>
-$ git pull origin master
-
-If local file is out of sync, stash firest
-$ git stash --keep-index
-$ git pull origin master
-</code>
-
-Problem: How to clone project from github with commandline?
-<code>
-Set up ssh keys by following the instructions available at https://help.github.com/articles/generating-ssh-keys/
-
-Run the fork command:
-$ git clone ssh://git@github.com/ewfelten/Tracking-Report-Card.git
-</code>
+----
 How to use git local with e.g. MiKTeX\\
 <code>
 $ mkdir paper.git
@@ -860,14 +854,15 @@ $ gitk & % for gui administration
 In case paper.git stays intact, a remote dir can be used, but it is not necessary to operate git.
 $ git push origin master
 
-restore a specific file:
+----
+Restore a specific file:
 $ git log
 $ git checkout HASH <filename>
 $ gtk -> File|GitGui
 </code>
 
 ----
-Problem: revert to specific version of mitmproxy \\
+Revert to specific version of mitmproxy \\
 Solution: 'pip install mitmproxy=0.7' or check out a tag \\
 <code>
 $ git clone https://github.com/mitmproxy/mitmproxy.git
@@ -876,6 +871,19 @@ $ git checkout v0.7
 $ sudo -H pip uninstall mitmproxy
 $ sudo -H pip install . % Let op de punt !
 $ which mitmdump && mitmdump --version && pip list | gep mitm
+</code>
+
+----
+Problem with committing from the commandline\\
+<code>
+$ cd ./Tracking-Report-Card
+$ git remote add upstream git://github.com/ewfelten/Tracking-Report-Card.git
+$ git fetch upstream
+$ git status
+$ git add (filename)
+$ git status
+$ git commit -m "Add your description of the commit here"
+$ git push origin master
 </code>
 
 ====== Tex ======
