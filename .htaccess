@@ -1,0 +1,5 @@
+AuthName "Secure Area"
+AuthType Basic
+AuthUserFile /usr/home/ws/rvaneijk/www.blaeu.com/www/static_result/.htpasswd
+require valid-user
+
