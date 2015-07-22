@@ -7,22 +7,22 @@
   * [[http://stackoverflow.com/users/4725192/rvaneijk|Stackoverflow]]
 
 ======== Let's encrypt email ========
-{{ :rvaneijk_x509_exp_2015-07-20.asc |}}\\
+{{ :rvaneijk_x509_exp_2017-07-03.asc |}}\\
 {{ :rvaneijk_pgp_encryption_exp_2016-10-24.asc |}}\\
 {{ :rvaneijk_pgp_signing_exp_2016-12-20.asc |}}\\
 
 See also [[http://pgp.surfnet.nl:11371/|Surfnet PGP keyserver]] or [[http://keyserver.pgp.com|PGP Global Directory]]
 
 ======= CAcert X.509 =======
-rob@blaeu.com [expires: 2015-07-20]\\
-SHA-1 fingerprint: 2D11 5DEC 55F8 068F DC3D 0A96 65E7 62A3 F9F9 170B\\
+rob@blaeu.com [expires: 2017-07-03]\\
+SHA-1 fingerprint: 7179 2EF3 4571 2D23 4B60 48F7 072B 8B5E 7FC0 17:A3\\
 
 <code>
 -----BEGIN CERTIFICATE-----
-MIIFeTCCA2GgAwIBAgIDDYhkMA0GCSqGSIb3DQEBBQUAMHkxEDAOBgNVBAoTB1Jv
+MIIFeTCCA2GgAwIBAgIDENxdMA0GCSqGSIb3DQEBDQUAMHkxEDAOBgNVBAoTB1Jv
 b3QgQ0ExHjAcBgNVBAsTFWh0dHA6Ly93d3cuY2FjZXJ0Lm9yZzEiMCAGA1UEAxMZ
 Q0EgQ2VydCBTaWduaW5nIEF1dGhvcml0eTEhMB8GCSqGSIb3DQEJARYSc3VwcG9y
-dEBjYWNlcnQub3JnMB4XDTEzMDcyMDE2MDc1NFoXDTE1MDcyMDE2MDc1NFowRDEk
+dEBjYWNlcnQub3JnMB4XDTE1MDcwNDExMjI1OVoXDTE3MDcwMzExMjI1OVowRDEk
 MCIGA1UEAxMbUm9iYmVydCBKYW4tV2lsbGVtIHZhbiBFaWprMRwwGgYJKoZIhvcN
 AQkBFg1yb2JAYmxhZXUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
 AQEAprsAuQceVbRfOKd/SIQ2GxWZ+a7thycoRYOK8WXji6MpgqlCcSiLWzyms/3r
@@ -37,18 +37,18 @@ BAQDAgOoMEAGA1UdJQQ5MDcGCCsGAQUFBwMEBggrBgEFBQcDAgYKKwYBBAGCNwoD
 BAYKKwYBBAGCNwoDAwYJYIZIAYb4QgQBMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEF
 BQcwAYYWaHR0cDovL29jc3AuY2FjZXJ0Lm9yZzAxBgNVHR8EKjAoMCagJKAihiBo
 dHRwOi8vY3JsLmNhY2VydC5vcmcvcmV2b2tlLmNybDAYBgNVHREEETAPgQ1yb2JA
-YmxhZXUuY29tMA0GCSqGSIb3DQEBBQUAA4ICAQCXNgifu4dHCCn+l6aSiEWz514T
-BdAa68oV6xhUj9BiYdu/KWtzQ6MCFuN8w788Jc0UjrLcx+ylltk5L7pUuWhlJAWr
-vM6w0bWRy7ozCbqn1KWjWZUyKDihy2cKf6Jzc/Hrm7+VRmk+dJPSMxIajw9NEumU
-jr4k7S/dCymszpadm7llw/3+NEd2mFnhUAnyXbGtNi2U52d4T1YjX23kyud+Uij4
-kfQUB/JguUMhd5kjc+B78oiCAGUy0f61cTRKR0sTqf0VSV6y93fb/27mXCyLLWzJ
-TLScYjg3X8MJ08IkjV7wBNJJt3/JuiBV0rITE9ztIhxJ/mhx9OZBDzlepXed2zm0
-FhNPQyur9dpgIqGTz7ISCK9RYV8WNS0Y85RSX7rq+kXQPDyi7IpyJdeTa7EeLQ16
-U0QbuQLjdTFwURiF09sOTABLHBe5glUnVvVN3e4yvQLOBHxxB65l19wUHFvqio8g
-JMFtPGIh14iVpx6lYaXVHpeQsVqBeZ8LgzD0hrBD7gD5D+0bawJPsJA6ujUm8kGj
-s5sR4PFNC4+yPahyttl1rfHCNn7ScBHePvvUtvVVyUftKAr3zRSK5V7QGrFe6O0x
-RSeczckum4WvX8xJzVADxY1YXL4Lo8TXfNvxgzW/s7CmAV4rZpj+2Ffkslv2fNbY
-ws4NQvjUt2rDYWC0zg==
+YmxhZXUuY29tMA0GCSqGSIb3DQEBDQUAA4ICAQBrF38wE5OGbHfxqvcsBALHgW+G
+ur2teGEaDaBHQ8mTURVGfOXcIyfQbVgVEmDD8ImvZ/lK4XDtldGeC+wRI9TnQDbx
+YnA8MBp6ckwJgeBZflgXMvUFA/s2iM76jklU8CvIGj3c4In42lihpkATKts+j59F
+R+vd+hrupElXJ9xZSX2dGz0953t1SKpywN1fxRwdPQpDLx+nwWN/VUbWpM5PE8ss
+pxOoiTPrxmGxa9tCZtwyhAbPhUgrEl/n8B1DXXYYnqhyvgXnFkb/wkzCaAIGqZir
+MYKWjK8fan8aHcNEWZ+fGgSKKvDXvaA/a0/8zz5dgXRhihE3OvfcUDVE2EyfSvz+
+CNM6sknvNOcbEbAOZ0TAamr1vkdBClEuIEwPeJfqU76qbJXxn9vbrI79Ubz/n1nc
+5JFq4cD6GJCdrF9XEq9DkppPwQhBsKhK+pypTPcKkwJjzumpedsRlMXZzo3I8HRh
+2okEY+HdeBGhvQgTdsfZBg4AIJLdTn7ineM/T9KSBdLyKP4FWND8yWh1Vn9k+rIn
++xmm8smvp5Ub5c0xpPMT4xz8akyiFF81WPe8at4PEuaUSotvQuV93clhMIBf0PYH
+1Bchyg1QH4Cow9AoAUGSVohe9ua9aQzEDzerCpmHIQ3W3ocw//GTFaNAnWupBo6f
+kWFOfGCB0XFs7DutUw==
 -----END CERTIFICATE-----
 </code>
 
@@ -57,10 +57,12 @@ Encryption key [expires: 2016-10-24] \\
 SHA-1 fingerprint: CE38 1A47 BAFE F7EA 5C6C  FAC4 32A3 B452 0E94 AE83 \\
 
 <code>
-uid Robbert Jan-Willem van Eijk (encryption key) <rob@blaeu.com> 
-sig  sig3  0E94AE83 2014-10-24 __________ 2016-10-24 [selfsig] 
-sig  sig   65D0FD58 2014-10-24 2015-10-25 __________ CA Cert Signing Authority (Root CA) <gpg@cacert.org> 
-    Policy URL: http://www.cacert.org/cps.php 
+uid Robbert Jan-Willem van Eijk (encryption key) <rob@blaeu.com>
+sig  sig3  0E94AE83 2014-10-24 __________ 2016-10-24 [selfsig]
+sig  sig   65D0FD58 2014-10-24 2015-10-25 __________ CA Cert Signing Authority (Root CA) <gpg@cacert.org>
+    Policy URL: http://www.cacert.org/cps.php
+sig  sig   65D0FD58 2015-07-17 2016-07-17 __________ CA Cert Signing Authority (Root CA) <gpg@cacert.org>
+    Policy URL: http://www.cacert.org/cps.php
 </code>
 <code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -90,10 +92,10 @@ lYSvwCg5srG9JZHXYPaowyxP1rb0t9DMP/lDNAmtw5VaNAGxlRDpLlUSxq1Mi3zG
 +ScG5az1aZNEcYyub73BRn5u5J3qUskP4YyEAA2hiHM6J3E0+qmUZQduiTSC/yvD
 M5KvztRVYYWgzg+EgW4+lGbYdr82yO6vvgNEM2reB954vxMIN7w4RlipAxC7hejk
 J9zD+3zMiRfYEW9hHqaJ90iWMk6jBBS/5RpCSNDqzVzxHJ96ARXp18k0L+Sp7MMk
-NOujGzqvX7T+7V3FbQ1iUIhrBBARAgArBQJUSp2gBYMB4oUAHhpodHRwOi8vd3d3
-LmNhY2VydC5vcmcvY3BzLnBocAAKCRDSuw0BZdD9WP6DAJ4+h3ni/ixQp58lCwsm
-7spG5WnimwCeOHqD6YVinbFgyBtpIdKg14woBxw=
-=o2AB
+NOujGzqvX7T+7V3FbQ1iUIhrBBARAgArBQJVqKDdBYMB4oUAHhpodHRwOi8vd3d3
+LmNhY2VydC5vcmcvY3BzLnBocAAKCRDSuw0BZdD9WPX+AKCU2TU0VEMDeSvYDesH
+6lkqAq4vRgCgltTOwk2XeudgINhD0l7QY2SL08c=
+=Kdr/
 -----END PGP PUBLIC KEY BLOCK-----
 </code>
 
@@ -105,6 +107,8 @@ SHA-1 fingerprint: 3F5B AB6A 5672 AF8A ACAC  86C4 54DB C270 F0CB 5B46 \\
 uid Robbert Jan-Willem van Eijk (signing key not for encryption) <rob@blaeu.com>
 sig  sig3  F0CB5B46 2014-12-20 __________ 2016-12-20 [selfsig]
 sig  sig   65D0FD58 2014-12-20 2015-12-21 __________ CA Cert Signing Authority (Root CA) <gpg@cacert.org>
+    Policy URL: http://www.cacert.org/cps.php
+sig  sig   65D0FD58 2015-07-17 2016-07-17 __________ CA Cert Signing Authority (Root CA) <gpg@cacert.org>
     Policy URL: http://www.cacert.org/cps.php
 </code>
 <code>
@@ -125,9 +129,9 @@ fvHZ/9x2DTrmF6DQYTthoqbaNnKztyqrwrRXmzmgRafid+6ICegGg2+o11vL/H2g
 T1UZQwP7y/BgwIGVT3IGu72ZxMRsrLasMBX5phec68385zErEd/xvSm+chxjlsEY
 d3kDs9zPqOoZPoLEOw+QvL+G4aPqWsMByRd/rnXilQGexN1hfWKt9eOFnH4rUzKD
 5QvCKZa6KqoV5L3W4pOpIIlYu1yM+sjw0jaM98fE2w4DLQsYUf4wmkMWaOcQYkCe
-iGsEEBECACsFAlSVWhQFgwHihQAeGmh0dHA6Ly93d3cuY2FjZXJ0Lm9yZy9jcHMu
-cGhwAAoJENK7DQFl0P1YTyYAn1SGkR8aiomvmqqOul3BVv+dyyz0AKCIbzGsgytc
-i6VMJJ12Kj0l32p+Ow==
-=DkQW
+iGsEEBECACsFAlWoofUFgwHihQAeGmh0dHA6Ly93d3cuY2FjZXJ0Lm9yZy9jcHMu
+cGhwAAoJENK7DQFl0P1YihcAn3NCzEvxI7IEuE9M8IFWFqRnIJxxAJ9EpUmm9wtJ
+voyHYFUQD5Sz/JelsQ==
+=eGVR
 -----END PGP PUBLIC KEY BLOCK-----
 </code>

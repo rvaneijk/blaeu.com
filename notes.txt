@@ -326,10 +326,10 @@ bprevious ----- navigate to buffer -1
 Problem: add ubuntu server to hyperV\\
 Solution: \\
 <code>
-create external virtual switch
-connect this switch with WIFI adapter
-create virtual machine VM2
-change VM2 firmware setting, disable secure boot
+1. create EXTERNAL virtual switch
+2. connect this switch with WIFI adapter
+3. create virtual machine VM2, old type 1
+(if type 2 (UEFI), then change VM2 firmware setting, disable secure boot)
  # sudo vi /etc/initramfs-tools/modules
 add	hv_vmbus
 	hv_storvsc
@@ -349,6 +349,13 @@ add static address
 	nameserver 192.168.178.1
  # touch /etc/apt/apt.conf.d/99force-ipv4
 	Acquire::ForceIPv4 "true";
+
+4. sudo apt-get install build-essential checkinstall
+5. sudo apt-get install cpanplus
+6. suso apt-get install xfce4 synaptic firefox htop bleachbit
+
+NOte: to search for specific packages: 
+# apt-cache search keyword
 </code>
 
 ----
@@ -432,10 +439,10 @@ Problem: update kernel
 lsb_release -sd
 lsb_release -sc
 cd /tmp
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.17.1-utopic/linux-headers-3.17.1-031701-generic_3.17.1-031701.201410150735_amd64.deb \
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.17.1-utopic/linux-headers-3.17.1-031701_3.17.1-031701.201410150735_all.deb \
-wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v3.17.1-utopic/linux-image-3.17.1-031701-generic_3.17.1-031701.201410150735_amd64.deb
-sudo dpkg -i linux-headers-3.17*.deb linux-image-3.17*.deb
+wget  wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.0-vivid/linux-headers-4.0.0-040000-generic_4.0.0-040000.201504121935_amd64.deb \
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.0-vivid/linux-headers-4.0.0-040000_4.0.0-040000.201504121935_all.deb \
+wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.0-vivid/linux-image-4.0.0-040000-generic_4.0.0-040000.201504121935_amd64.deb
+sudo dpkg -i linux-headers-4.0*.deb linux-image-4.0*.deb
 sudo reboot
 </code>
 
@@ -912,6 +919,36 @@ Higlight|Mask|*.tex:%LINE%:*,0xFF,0x00,0x00,B
 Higlight|Mask|*Warning:*,0x00,0x00,0xFF,B
 Higlight|Mask|*Fout*,0xFF,0x00,0x00,B
 Higlight|Mask|*mislukt:*,0xFF,0x00,0x00,B
+Higlight|Mask|*!:*,0xFF,0x00,0x00,B
+</code>
+
+----
+Problem: Error handling \\
+Solution: 
+<code>
+add '\errorcontextlines 10000' to preamble
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+(1) \hb@xt@ ...f \mph@tempa {}\fi \mph@orig@hb@xt@ #1{
+(2)                                                  #2\mph@tempa }
+(3) \@Prelim@EveryShipout ... \z@ {\hb@xt@ \dimen \z@ 
+                                                  {\let \protect \relax \hfi...
+
+\@EveryShipout@Hook ->\@Prelim@EveryShipout 
+                                            \setbox \@cclv =\vbox {\setbox \...
+
+\@EveryShipout@Output ->\@EveryShipout@Hook 
+                                            \@EveryShipout@AtNextHook \gdef ...
+
+Which means:
+(1) The error occured here.
+(2) The error occured exactly here, this part was not processed.
+(3) The command from where this was called.
+(4) EveryShipout@Output called EveryShipout@Hook, which called relim@EveryShipout, 
+    which called Prelim@EveryShipout, which expects argument #1 in 
+    mph@orig@hb@xt@ #1 not to be empty. 
 </code>
 
 ----
@@ -922,7 +959,7 @@ Solution: sudo apt-get install texlive-full\\
 
 ====== Swiss knife ======
   * Search: [[http://www.shodanhq.com/|Shodan]], [[https://www.wolframalpha.com/|WolframAlfa]], [[http://archive.org/web/|Save page in the Internet Archive]], [[http://sectooladdict.blogspot.co.il/2012/07/2012-web-application-scanner-benchmark.html|The Web Application Vulnerability Scanners Benchmark, 2012]]
-  * DNS: [[https://www.microsoft.com/mscorp/safety/content/technologies/senderid/wizard/|SPF wizard]], [[http://dkimvalidator.com/|DKIM, SPF, SpamAssassin Email Validator]], [[http://www.dnsstuff.com/tools#dnsReport||type=domain&&value=blaeu.com]],  [[http://pingability.com/zoneinfo.jsp|check a DNS zone]], [[https://www.ssllabs.com/ssldb/index.html|Qualsys SSL labs]], [[http://www.technicalinfo.net/tools/index.html|ISP Tools]], [[https://dns.l4x.org/|l4x]], [[http://www.norid.no/domenenavnbaser/domreg.html|Norid Toplevel domains]]
+  * DNS: [[https://www.robtex.com/|Robtex]], [[https://www.microsoft.com/mscorp/safety/content/technologies/senderid/wizard/|SPF wizard]], [[http://dkimvalidator.com/|DKIM, SPF, SpamAssassin Email Validator]], [[http://www.dnsstuff.com/tools#dnsReport||type=domain&&value=blaeu.com]],  [[http://pingability.com/zoneinfo.jsp|check a DNS zone]], [[https://www.ssllabs.com/ssldb/index.html|Qualsys SSL labs]], [[http://www.technicalinfo.net/tools/index.html|ISP Tools]], [[https://dns.l4x.org/|l4x]], [[http://www.norid.no/domenenavnbaser/domreg.html|Norid Toplevel domains]]
   * Disk: [[http://www.belarc.com/|Belarc Advisor]], [[http://www.combofix.com|CombiFix]], [[http://dban.org/|DBAN data wiping]], [[http://www.clonezilla.org|CloneZilla]], [[http://gparted.sourceforge.net/download.php|GParted]], [[http://www.deepburner.com/?r=download|DeepBurner]]
   * X: [[http://sourceforge.net/projects/vcxsrv/|VcXsrv]], [[http://sourceforge.net/projects/xming/|Xming]] X Server, [[http://www.mucommander.com/|muCommander, Windows NFS client]]
   * Traffic: [[http://www.backtrack-linux.org/|backtrack]], [[http://http://mitm.it/|Mitmproxy]], [[https://addons.mozilla.org/en-US/firefox/addon/1843/|Firebug]], [[http://www.fiddler2.com/fiddler2/|Fiddler]], [[https://www.owasp.org/index.php/WebScarab_Getting_Started|WebScarab]], [[http://www.charlesproxy.com/documentation/getting-started/|Charles]], [[http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project|WebScarab]], [[http://web-sniffer.net|web sniffer]]
@@ -1282,6 +1319,7 @@ Please login using the default user name (admin) and password (storage). The Adm
 [[http://www.w1hkj.com/FldigiHelp-3.21/html/synop_page.html#deutsche_schedule|FLDIGI SYNOP decoding NAVTEX manual]] \\
 [[http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html|FLDGI NAVTEX to Google Maps conversion]] \\
 [[http://www.w1hkj.com/FldigiHelp-3.21/Fldigi_User_Manual.pdf|FLDIGI user manual]] \\
+[[http://www.knmi.nl/neerslagradar/index.php|KNMI buienradar]] \\
 
 To: query@saildocs.com \\
 Subject: (anything) \\
