@@ -838,7 +838,7 @@ $ git branch   # list local braches
 $ git checkout master   # switch to master branch
 $ git merge certificates   # merges changes made in certificates branch to master
 
-$ git -d certificates   # delete local branch
+$ git branch -d certificates   # delete local branch
 $ git push origin :certificates   # delete github branch
 </code>
 
