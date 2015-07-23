@@ -843,6 +843,13 @@ $ git push origin :certificates   # delete github branch
 </code>
 
 Manage pullrequests: https://help.github.com/articles/using-pull-requests/
+<code>
+1. checkout forked project
+2. create a topic branch and make changes there
+3. on github.com switch to your branch and hit the Compare & review button 
+4. review the pull request (= delta with master branch)
+5. send the pull request by clicking Create pull request
+</code>
 
 ----
 Pushing new repository to Github\\
