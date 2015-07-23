@@ -820,7 +820,7 @@ $ git clone ssh://git@github.com/ewfelten/Tracking-Report-Card.git
 ----
 Syncing fork \\
 <code>
-$ git clone https://github.com/YOUR-USERNAME/<project>.git
+$ git clone git clone ssh://git@github.com/YOUR-USERNAME/<project>.git
 $ git remote add upstream https://github.com/<user>/<project>.git
 $ git remote -v
 $ git fetch upstream
