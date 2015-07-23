@@ -835,6 +835,7 @@ $ git checkout -b bugfixes origin/bugfixes   # checkout remote branch bugfixes
 $ git push origin certificates   # create automtically a remote branch
 $ git branch   # list local braches
 
+$ git checkout master   # switch to master branch
 $ git merge certificates   # merges changes made in certificates branch to master
 
 $ git -d certificates   # delete local branch
