@@ -828,6 +828,19 @@ $ git checkout master
 $ git merge upstream/master
 </code>
 
+<code>
+$ git checkout -b certificates   # create local branch
+$ git checkout master   # switch to master branch
+$ git checkout -b bugfixes origin/bugfixes   # checkout remote branch bugfixes
+$ git push origin certificates   # create automtically a remote branch
+$ git branch   # list local braches
+
+$ git merge certificates   # merges changes made in certificates branch to master
+
+$ git -d certificates   # delete local branch
+$ git push origin :certificates   # delete github branch
+</code>
+
 Manage pullrequests: https://help.github.com/articles/using-pull-requests/
 
 ----
