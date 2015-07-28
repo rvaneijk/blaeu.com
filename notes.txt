@@ -253,7 +253,9 @@ Solution: Modify both the neo4j and utils script to use /usr/local/bin/bash inst
 # pkg install lsof
 # adduser neo4j
 # su neo4j
-# neo4j/bin/neo4j start
+# wget http://neo4j.com/artifact.php?name=neo4j-community-2.1.5-unix.tar.gz
+# modify both the neo4j and utils script to use /usr/local/bin/bash instead of /bin/bash
+# neo4j/bin/neo4j console
 </code>
 
 ----
