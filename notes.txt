@@ -637,7 +637,25 @@ Problem: PUTTY: HOME and END-OF-LINE not working\\
 Solution: Change the Terminal-type String under the Connection > Data tab from the default “xterm” to “linux”
 
 ----
-Problem: Install neo4j\\
+Problem: install neo4j as a standalone project \\
+Solution: \\
+<code>
+sudo apt-get install openjdk-7-jre
+$ wget http://neo4j.com/artifact.php?name=neo4j-community-2.1.5-unix.tar.gz
+$ mv artifact.php\?name\=neo4j-community-2.1.5-unix.tar.gz neo4j-community-2.1.5-unix.tar.gz
+$ tar xvzf neo4j-community-2.1.5-unix.tar.gz
+$ mv neo4j-community-2.1.5 MYPROJECT
+$ vi neo4j/MYPROJECT/conf/neo4j-wrapper.conf
+ wrapper.name=neo4j-MYPROJECT
+ $ sudo vi neo4j/MYPROJECT/conf/neo4j-server.properties 
+# uncomment org.neo4j.server.webserver.address=0.0.0.0
+# set: dbms.security.auth_enabled=false
+# check: org.neo4j.server.webserver.https.enabled=true
+# check: org.neo4j.server.webserver.https.port=7473
+</code>
+
+----
+Problem: Install neo4j with https (apt-get)\\
 Solution: \\ 
 <code>
 sudo touch /etc/apt/sources.list.d/neo4j.list
@@ -664,6 +682,15 @@ $ openssl x509 -req -days 365 -in server.csr -CA ca.pem -CAkey ca.key -set_seria
 $ sudo mkdir -p /var/ssl/neo4j
 $ sudo openssl x509 -outform der -in server.pem -out /var/ssl/neo4j/server.crt
 $ sudo openssl rsa -in server.key -inform PEM -out /var/ssl/neo4j/server.key -outform DER
+
+----
+Problem: Disable running the default neo4j at startup \\
+Solution:\\
+<code>
+$ sudo apt-get install sysv-rc-conf
+$ sysv-rc-conf, and uncomment runlevels 2-5
+$ sudo /var/lib/neo4j/bin/neo4j stop
+$ sudo /home/rvaneijk/neo4j/MYPROJECT/bin/neo4j start
 </code>
 
 ----
@@ -710,28 +737,6 @@ install.packages("igraph")\\
 
 ## Load package\\
 library(igraph)
-
-----
-Problem: local neo4j project\\
-Solution:\\
-<code>
-$ wget http://neo4j.com/artifact.php?name=neo4j-community-2.1.5-unix.tar.gz
-$ mv artifact.php\?name\=neo4j-community-2.1.5-unix.tar.gz neo4j-community-2.1.5-unix.tar.gz
-$ tar xvzf neo4j-community-2.1.5-unix.tar.gz
-$ mv neo4j-community-2.1.5 MYPROJECT
-$ vi neo4j/MYPROJECT/conf/neo4j-wrapper.conf
- wrapper.name=neo4j-MYPROJECT
-$ sudo vi neo4j/MYPROJECT/conf/neo4j-server.properties 
-# uncomment org.neo4j.server.webserver.address=0.0.0.0
-# check: org.neo4j.server.webserver.https.enabled=true
-# check: org.neo4j.server.webserver.https.port=7473
-
-Disable running the default neo4j at startup:
-$ sudo apt-get install sysv-rc-conf
-$ sysv-rc-conf, and uncomment runlevels 2-5
-$ sudo /var/lib/neo4j/bin/neo4j stop
-$ sudo /home/rvaneijk/neo4j/MYPROJECT/bin/neo4j start
-</code>
 
 ----
 Problem: grep URL's from page\\
