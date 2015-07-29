@@ -551,6 +551,11 @@ check status ---- SELECT COUNT(*) FROM (SELECT numcrawls from list WHERE list.nu
 ----
 Problem: parse mitmdump\\
 Solution: \\
+\\
+<code>
+$ pydoc libmproxy.protocol.http.HTTPRequest
+ </code>
+ \\
 <code>
 def response(context, flow):
 #       print dir(flow)
