@@ -1480,32 +1480,57 @@ send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind
 INMARSAT-C GMDSS SafetyNet: 
 
 send [http://weather.gmdss.org/image/metareas_2009.jpeg](http://weather.gmdss.org/image/metareas_2009.jpeg) 
+
 send [http://weather.gmdss.org/I.html](http://weather.gmdss.org/I.html), Offshore forecast: SHIPPING FORECAST ISSUED BY THE MET OFFICE 
+
 send [http://weather.gmdss.org/II.html](http://weather.gmdss.org/II.html) 
+
 send [http://weather.gmdss.org/III.html](http://weather.gmdss.org/III.html) 
+
 send [http://weather.gmdss.org/IV.html](http://weather.gmdss.org/IV.html) 
+
 send [http://weather.gmdss.org/V.html](http://weather.gmdss.org/V.html) 
+
 send [http://weather.gmdss.org/VI.html](http://weather.gmdss.org/VI.html) 
+
 send [http://weather.gmdss.org/VII.html](http://weather.gmdss.org/VII.html) 
+
 send [http://weather.gmdss.org/VIII.html](http://weather.gmdss.org/VIII.html) 
+
 send [http://weather.gmdss.org/IX.html](http://weather.gmdss.org/IX.html) 
+
 send [http://weather.gmdss.org/X.html](http://weather.gmdss.org/X.html) 
+
 send [http://weather.gmdss.org/XI.html](http://weather.gmdss.org/XI.html) 
+
 send [http://weather.gmdss.org/XII.html](http://weather.gmdss.org/XII.html) 
+
 send [http://weather.gmdss.org/XIII.html](http://weather.gmdss.org/XIII.html) 
+
 send [http://weather.gmdss.org/XIV.html](http://weather.gmdss.org/XIV.html) 
+
 send [http://weather.gmdss.org/XV.html](http://weather.gmdss.org/XV.html) 
+
 send [http://weather.gmdss.org/XVI.html](http://weather.gmdss.org/XVI.html) 
+
 send [http://weather.gmdss.org/XVII.html](http://weather.gmdss.org/XVII.html) 
+
 send [http://weather.gmdss.org/XVIII.html](http://weather.gmdss.org/XVIII.html) 
+
 send [http://weather.gmdss.org/XIX.html](http://weather.gmdss.org/XIX.html) 
+
 send [http://weather.gmdss.org/XX.html](http://weather.gmdss.org/XX.html) 
+
 send [http://weather.gmdss.org/XXI.html](http://weather.gmdss.org/XXI.html) 
 
 Projects
 ===================
 [1] [Dokuwiki, on 256 Mb VPS, FreeBSD](https://www.atlantic.net/blog/2012/12/31/vps-hosting-cheap-vps-vs-quality-vps/), [Nginx ezJail](https://www.kirkg.us/posts/how-to-configure-a-freebsd-jail-on-a-digital-ocean-droplet/), [naar voorbeeld van iRedMail in ezjail](http://iredmail.net/docs/install.iredmail.on.freebsd.with.jail.html), [ssl](https://aralbalkan.com/scribbles/setting-up-ssl-with-nginx-using-a-namecheap-essentialssl-wildcard-certificate-on-digitalocean/), [Hardening Nginx](http://www.acunetix.com/blog/articles/nginx-server-security-hardening-configuration-1/), [check other things](https://forums.freebsd.org/threads/unofficial-freebsd-security-checklist-links-resources.4108/), [install Aide](http://hardenubuntu.com/monitoring-tools/check-integrity-using-aide/), [disable compilers](http://hardenubuntu.com/software/disable-compilers/), [breach detector bash](http://hardenubuntu.com/software/install-breach-detector/), [fail2ban SSH](http://hardenubuntu.com/software/install-fail2ban/), [PHP settings](http://hardenubuntu.com/hardening/php/), [check open ports](http://hardenubuntu.com/monitoring-tools/scan-open-ports/), [test](https://www.rapid7.com/products/metasploit/download.jsp), [scan](http://www.tenable.com/products/nessus/select-your-operating-system), [monitor](https://www.acunetix.com/vulnerability-scanner/register-online-vulnerability-scanner/) 
+
 [2] [Hardening Ubuntu](http://hardenubuntu.com/), [Mail-in-a-box](https://www.digitalocean.com/) 
+
 [3] [Install something else on SS4400-E](https://www.youtube.com/watch?v=eEgVSlLXw5g), [like Debian](https://www.youtube.com/watch?v=7Op0AUJDpQQ) which uses [these notes](https://web.archive.org/web/20121008051051/http://d-i.alioth.debian.org/manual/en.armel/ch05s01.html). REF: [original user guide](http://download.intel.com/support/motherboards/server/ss4000-e/sb/d39172006_ss4000e_user_guide.pdf) 
+
 [4] []https://www.digitalocean.com/community/tutorials/how-to-install-nagios-on-ubuntu-12-10](Monitor) [servers](https://www.digitalocean.com/community/tutorials/how-to-install-nagios-4-and-monitor-your-servers-on-ubuntu-14-04), but then from freebsd-jail 
+
 [5] [Let't encrypt](https://letsencrypt.org/)
