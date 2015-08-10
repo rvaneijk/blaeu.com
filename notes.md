@@ -8,17 +8,16 @@ HF email
 [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos)  <br />
 [Bekendmakingen Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx), [VHF sectoren, Aanroepnaam: Haven Coördinatie Centrum](http://www.portofrotterdam.com/nl/Scheepvaart/communicatie-en-vts/Documents/informatie_scheepvaart_VTMS.pdf) 
 [Binnenhavenbrug](http://www.rotterdam.nl/voorziening:binnenhavenbrug), [Basculebrug](http://www.rotterdam.nl/voorziening:erasmusbrug), [Koningshavenbrug de hef](http://www.rotterdam.nl/voorziening:koningshavenbrug) (Erasmusbrug 010-4857900, 06-20060132, Marifoon VHF 20)  <br />
-[DWD NAVTEX](http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&_pageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter&T43402027281174298183241gsbDocumentPath=Content%2FSchifffahrt%2FSeewetter%2FNavtex__Empfang__teaser.html&_state=maximized&_windowLabel=T43402027281174298183241&lastPageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter), [NAVTEX Abbreviations](http://weather.mailasail.com/Franks-Weather/European-And-Mediterranean-Navtex-Schedules#abbreviations) 
+[DWD NAVTEX](http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&_pageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter&T43402027281174298183241gsbDocumentPath=Content%2FSchifffahrt%2FSeewetter%2FNavtex__Empfang__teaser.html&_state=maximized&_windowLabel=T43402027281174298183241&lastPageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter), [NAVTEX Abbreviations](http://weather.mailasail.com/Franks-Weather/European-And-Mediterranean-Navtex-Schedules#abbreviations) <br />
 [Wetterkartesymbole](http://www.deutscher-wetterdienst.de/lexikon/download.php?file=Bodenwetterkartensymbole.pdf), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg)  <br />
 [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms)  <br />
-[FLDIGI SYNOP decoding NAVTEX manual](http://www.w1hkj.com/FldigiHelp-3.21/html/synop_page.html#deutsche_schedule)  <br />
-[FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html)  <br />
-[FLDIGI user manual](http://www.w1hkj.com/FldigiHelp-3.21/Fldigi_User_Manual.pdf)  <br />
+[FLDIGI SYNOP decoding NAVTEX manual](http://www.w1hkj.com/FldigiHelp-3.21/html/synop_page.html#deutsche_schedule), [FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html), [FLDIGI user manual](http://www.w1hkj.com/FldigiHelp-3.21/Fldigi_User_Manual.pdf)  <br />
 [KNMI buienradar](http://www.knmi.nl/neerslagradar/index.php)  <br />
 
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
+send [http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop/?_nfpb=true&_pageLabel=dwdwww_result_page&portletMasterPortlet_i1gsbDocumentPath=Navigation%2FSchifffahrt%2FSeewetter%2FNavtex__Empfang__518__Emden__node.html%3F__nnn%3Dtrue](send http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop/?_nfpb=true&_pageLabel=dwdwww_result_page&portletMasterPortlet_i1gsbDocumentPath=Navigation%2FSchifffahrt%2FSeewetter%2FNavtex__Empfang__518__Emden__node.html%3F__nnn%3Dtrue)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
@@ -1499,11 +1498,3 @@ The Intel® Entry Storage System SS4000-E will reboot to complete the system res
 Please login using the default user name (admin) and password (storage). The Administrator login can be changed from the defaults under the Advanced tab, System selection.
 
 1 For additional information on the system reset button location, see the Intel® Entry Storage System SS4000-E User Guide.
-
-Projects
-===================
-[1] [Dokuwiki, on 256 Mb VPS, FreeBSD](https://www.atlantic.net/blog/2012/12/31/vps-hosting-cheap-vps-vs-quality-vps/), [Nginx ezJail](https://www.kirkg.us/posts/how-to-configure-a-freebsd-jail-on-a-digital-ocean-droplet/), [naar voorbeeld van iRedMail in ezjail](http://iredmail.net/docs/install.iredmail.on.freebsd.with.jail.html), [ssl](https://aralbalkan.com/scribbles/setting-up-ssl-with-nginx-using-a-namecheap-essentialssl-wildcard-certificate-on-digitalocean/), [Hardening Nginx](http://www.acunetix.com/blog/articles/nginx-server-security-hardening-configuration-1/), [check other things](https://forums.freebsd.org/threads/unofficial-freebsd-security-checklist-links-resources.4108/), [install Aide](http://hardenubuntu.com/monitoring-tools/check-integrity-using-aide/), [disable compilers](http://hardenubuntu.com/software/disable-compilers/), [breach detector bash](http://hardenubuntu.com/software/install-breach-detector/), [fail2ban SSH](http://hardenubuntu.com/software/install-fail2ban/), [PHP settings](http://hardenubuntu.com/hardening/php/), [check open ports](http://hardenubuntu.com/monitoring-tools/scan-open-ports/), [test](https://www.rapid7.com/products/metasploit/download.jsp), [scan](http://www.tenable.com/products/nessus/select-your-operating-system), [monitor](https://www.acunetix.com/vulnerability-scanner/register-online-vulnerability-scanner/)  <br />
-[2] [Hardening Ubuntu](http://hardenubuntu.com/), [Mail-in-a-box](https://www.digitalocean.com/)  <br />
-[3] [Install something else on SS4400-E](https://www.youtube.com/watch?v=eEgVSlLXw5g), [like Debian](https://www.youtube.com/watch?v=7Op0AUJDpQQ) which uses [these notes](https://web.archive.org/web/20121008051051/http://d-i.alioth.debian.org/manual/en.armel/ch05s01.html). REF: [original user guide](http://download.intel.com/support/motherboards/server/ss4000-e/sb/d39172006_ss4000e_user_guide.pdf)  <br />
-[4] https://www.digitalocean.com/community/tutorials/how-to-install-nagios-on-ubuntu-12-10](Monitor) [servers](https://www.digitalocean.com/community/tutorials/how-to-install-nagios-4-and-monitor-your-servers-on-ubuntu-14-04), but then from freebsd-jail  <br />
-[5] [Let't encrypt](https://letsencrypt.org/)
