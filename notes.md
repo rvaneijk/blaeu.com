@@ -13,6 +13,7 @@ HF email
 [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms)  <br />
 [FLDIGI SYNOP decoding NAVTEX manual](http://www.w1hkj.com/FldigiHelp-3.21/html/synop_page.html#deutsche_schedule), [FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html), [FLDIGI user manual](http://www.w1hkj.com/FldigiHelp-3.21/Fldigi_User_Manual.pdf)  <br />
 [KNMI buienradar](http://www.knmi.nl/neerslagradar/index.php)  <br />
+sub URL time=00:00 interval=6 <br />
 
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
