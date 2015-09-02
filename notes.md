@@ -20,7 +20,7 @@ sub URL time=00:00 interval=6 <br />
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
-send [http://www.knmi.nl/neerslagradar/images/meest_recente_radarloop451.gif?11044](http://www.knmi.nl/neerslagradar/images/meest_recente_radarloop451.gif?11044)   <br />
+send [http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif)   <br />
 send [http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1) <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt)  <br />
@@ -1149,6 +1149,7 @@ Swiss knife
  , [Mitmproxy](http://http://mitm.it/)
 , [Firebug](https://addons.mozilla.org/en-US/firefox/addon/1843/), [Fiddler](http://www.fiddler2.com/fiddler2/), [WebScarab](https://www.owasp.org/index.php/WebScarab_Getting_Started), [Charles](http://www.charlesproxy.com/documentation/getting-started/), [WebScarab](http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project), [web sniffer](http://web-sniffer.net)
   * [quick python overview](http://www.stavros.io/tutorials/python/)
+  * [Seti setup](https://www.digitalocean.com/community/tutorials/how-to-set-up-seti-home-on-ubuntu-14-04-or-debian-7)
  
 
  Firefox tweaks
