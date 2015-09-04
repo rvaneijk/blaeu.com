@@ -12,6 +12,7 @@ HF email
 [KNRM app](https://www.knrm.nl/helpt/)  <br />
 [Wetterkartesymbole](http://www.deutscher-wetterdienst.de/lexikon/download.php?file=Bodenwetterkartensymbole.pdf), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg)  <br />
 [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms), [Shipping forcast locations](https://en.wikipedia.org/wiki/Shipping_Forecast#/media/File:UK_shipping_forecast_zones.png)  <br />
+[BAZ verbeterbladen](https://www.defensie.nl/onderwerpen/berichten-aan-zeevarenden/inhoud/verbeterbladen/zeekaarten-en-1800-serie) <br />
 
 To: query@saildocs.com  <br />
 Subject: URL time=00:00 interval=6  <br />
