@@ -17,7 +17,6 @@ To: query@saildocs.com  <br />
 Subject: URL time=00:00 interval=6  <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
 send [http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif)   <br />
-
 send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt)  <br />
