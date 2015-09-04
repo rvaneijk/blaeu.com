@@ -37,7 +37,7 @@ Charts:
 
 send grib:35N,65N,40W,15E|1|0,3..48|PRMSL,WIND,HGT,SEATMP,AIRTMP,WAVES  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Analysekarten/Analysekarten__Default__Boden__Europa__Luftdruck__Bild,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Analysekarten/Analysekarten__Default__Boden__Europa__Luftdruck__Bild,property=default.png)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.png)  <br />
+send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg)  <br />
 send [http://weather.mailasail.com/charts/PPVA89.PNG](http://weather.mailasail.com/charts/PPVA89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVE89.PNG](http://weather.mailasail.com/charts/PPVE89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVG89.PNG](http://weather.mailasail.com/charts/PPVG89.PNG)  <br />
@@ -50,7 +50,7 @@ send [http://weather.mailasail.com/charts/PPVO89.PNG](http://weather.mailasail.c
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte18Z__Default__TKB__H_2B30__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte18Z__Default__TKB__H_2B30__Europa__Bild,property=default.jpg)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B48__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B48__Europa__Bild,property=default.jpg)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B84__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B84__Europa__Bild,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg)  <br />
+send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.png)  <br />
 
 ----
 Nordsee: 
