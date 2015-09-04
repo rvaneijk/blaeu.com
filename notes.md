@@ -5,7 +5,7 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 HF email
 ===================
-[Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos)  <br />
+[Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [radarbeelden](http://www.ziltmeteo.nl/radar_weerslag.html), [satellietbeelden](http://www.ziltmeteo.nl/satelliet_ir.html)  <br />
 [Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363), [Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx)<br \>
 [Rotterdam Rijnmond Stroomatlas] (http://www.wetwetwet.nl/stroomatlas/index.php?lang=nl), [actuele waterstand Rotterdam](http://www.rijkswaterstaat.nl/apps/geoservices/rwsnl/awd.php?mode=html&projecttype=waterstanden&category=1&loc=ROTT&net=LMW)   <br />
 [Wetterkartesymbole](http://www.deutscher-wetterdienst.de/lexikon/download.php?file=Bodenwetterkartensymbole.pdf), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg)  <br />
@@ -17,6 +17,10 @@ To: query@saildocs.com  <br />
 Subject: URL time=00:00 interval=6  <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
 send [http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif)   <br />
+send [http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent) <br />
+send [http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent) <br />
+send [http://www.meteociel.fr/accueil/sat24ir.gif](http://www.meteociel.fr/accueil/sat24ir.gif) <br />
+send [http://api.buienradar.nl/image/image.ashx?k=3&l=1&c=eu](http://api.buienradar.nl/image/image.ashx?k=3&l=1&c=eu) <be />
 send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt)  <br />
