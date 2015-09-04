@@ -18,13 +18,13 @@ Subject: URL time=00:00 interval=6  <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
 send [http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif)   <br />
 send [http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1) <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt)  <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt)  <br />
 send [http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
 send [http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR](http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR)  <br />
 send [http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html](http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html) (wind, sea state, weather, visibility) <br />
 send [http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html)  <br />
