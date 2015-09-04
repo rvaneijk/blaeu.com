@@ -5,15 +5,13 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 HF email
 ===================
-[Neerslag KNMI](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif), [NL](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent), [EU](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent), [satelliet](http://api.buienradar.nl/image/image.ashx?k=3&l=1&c=eu), [infrarood](http://www.meteociel.fr/accueil/sat24ir.gif), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos) <br />
-[Windguru Scheveningen](http://www.windguru.cz/int/index.php?sc=572&sty=m_spot), [Numansdorp](http://www.windguru.cz/int/index.php?sc=48314&sty=m_spot)   <br />
-
 [Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363), [Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx)<br \>
 [Rotterdam Rijnmond Stroomatlas] (http://www.wetwetwet.nl/stroomatlas/index.php?lang=nl), [actuele waterstand Rotterdam](http://www.rijkswaterstaat.nl/apps/geoservices/rwsnl/awd.php?mode=html&projecttype=waterstanden&category=1&loc=ROTT&net=LMW)   <br />
-
+[Neerslag KNMI](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif), [NL](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent), [EU](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent), [satelliet](http://api.buienradar.nl/image/image.ashx?k=3&l=1&c=eu), [infrarood](http://www.meteociel.fr/accueil/sat24ir.gif), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos) <br />
+[Windguru Scheveningen](http://www.windguru.cz/int/index.php?sc=572&sty=m_spot), [Numansdorp](http://www.windguru.cz/int/index.php?sc=48314&sty=m_spot)   <br />
+[KNRM app](https://www.knrm.nl/helpt/)
 [Wetterkartesymbole](http://www.deutscher-wetterdienst.de/lexikon/download.php?file=Bodenwetterkartensymbole.pdf), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg)  <br />
 [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms), [Shipping forcast locations](https://en.wikipedia.org/wiki/Shipping_Forecast#/media/File:UK_shipping_forecast_zones.png)  <br />
-[KNRM app](https://www.knrm.nl/helpt/)
 
 To: query@saildocs.com  <br />
 Subject: URL time=00:00 interval=6  <br />
