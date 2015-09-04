@@ -10,7 +10,7 @@ HF email
 [Rotterdam Rijnmond Stroomatlas] (http://www.wetwetwet.nl/stroomatlas/index.php?lang=nl)   <br />
 [Wetterkartesymbole](http://www.deutscher-wetterdienst.de/lexikon/download.php?file=Bodenwetterkartensymbole.pdf), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg)  <br />
 [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms)  <br />
-[Windguru Scheveningen](http://www.windguru.cz/int/index.php?sc=572&sty=m_spot), [Numansdorp](http://www.windguru.cz/int/index.php?sc=48314&sty=m_spot)
+[Windguru Scheveningen](http://www.windguru.cz/int/index.php?sc=572&sty=m_spot), [Numansdorp](http://www.windguru.cz/int/index.php?sc=48314&sty=m_spot)   <br />
 [KNRM app](https://www.knrm.nl/helpt/)
 
 To: query@saildocs.com  <br />
