@@ -5,7 +5,6 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 HF email
 ===================
-[Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos)  <br />
 [Bekendmakingen Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx), [Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363)<br \>
 [VHF sectoren, Aanroepnaam: Haven Coördinatie Centrum](http://www.portofrotterdam.com/nl/Scheepvaart/communicatie-en-vts/Documents/informatie_scheepvaart_VTMS.pdf) 
 [Binnenhavenbrug](http://www.rotterdam.nl/voorziening:binnenhavenbrug), [Basculebrug](http://www.rotterdam.nl/voorziening:erasmusbrug), [Koningshavenbrug de hef](http://www.rotterdam.nl/voorziening:koningshavenbrug) (Erasmusbrug 010-4857900, 06-20060132, Marifoon VHF 20)  <br />
@@ -14,8 +13,10 @@ HF email
 [Wetterkartesymbole](http://www.deutscher-wetterdienst.de/lexikon/download.php?file=Bodenwetterkartensymbole.pdf), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg)  <br />
 [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms)  <br />
 [FLDIGI SYNOP decoding NAVTEX manual](http://www.w1hkj.com/FldigiHelp-3.21/html/synop_page.html#deutsche_schedule), [FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html), [FLDIGI user manual](http://www.w1hkj.com/FldigiHelp-3.21/Fldigi_User_Manual.pdf)  <br />
-[KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten)  <br />
+[KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos) <br />
 sub URL time=00:00 interval=6 <br />
+Vlaggen: [Geus](https://nl.wikipedia.org/wiki/Geus_%28vlag%29), [Blauwe vlag](http://www.blauwevlag.nl/vaantje), [KNMR wimpel](https://www.knrm.nl/wat-wij-doen/reddingwinkel/), [Toerzeilers wimpel](http://www.toerzeilers.nl/winkel/index) <br />
+Links: [Dieseldokter](http://dieseldokter.nl/, )[Knopenenzo](http://www.knoopenzo.nl/#beeldoverzicht), [Vuilwater.info](http://www.vuilwater.info/brochures), [Zeebrief](http://www.anwbwatersport.nl/vaarinformatie/varen-in-europa/meer-over-internationaal-certificaat-pleziervaartuigen.html), [Toerzeilers]{http://www.toerzeilers.nl/diversen/links}, [PZV](http://pzv-zeezeilen.nl/weten-en-kunnen/) <br />
 
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
