@@ -5,40 +5,41 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 HF email
 ===================
-[Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360&tabIndex=1), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363&tabIndex=1), [Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx), [binnnvaart NL](http://nos.nl/teletekst#721), [binenvaart EU](http://nos.nl/teletekst#722) <br \>
-[Zon en Maan](http://nos.nl/teletekst#718), [Rotterdam Rijnmond Stroomatlas] (http://www.wetwetwet.nl/stroomatlas/index.php?lang=nl), [actuele waterstand Rotterdam](http://www.rijkswaterstaat.nl/apps/geoservices/rwsnl/awd.php?mode=html&projecttype=waterstanden&category=1&loc=ROTT&net=LMW)   <br />
-[Neerslag KNMI](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif), [NL](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent), [EU](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent), [satelliet](http://api.buienradar.nl/image/image.ashx?k=3&l=1&c=eu), [infrarood](http://www.meteociel.fr/accueil/sat24ir.gif), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos) <br />
-[Windguru Scheveningen](http://www.windguru.cz/int/index.php?sc=572&sty=m_spot), [Numansdorp](http://www.windguru.cz/int/index.php?sc=48314&sty=m_spot)   <br />
-[KNRM app](https://www.knrm.nl/helpt/)  <br />
+[Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos)  <br />
+[Bekendmakingen Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx), [Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363)<br \>
+[VHF sectoren, Aanroepnaam: Haven Coördinatie Centrum](http://www.portofrotterdam.com/nl/Scheepvaart/communicatie-en-vts/Documents/informatie_scheepvaart_VTMS.pdf) 
+[Binnenhavenbrug](http://www.rotterdam.nl/voorziening:binnenhavenbrug), [Basculebrug](http://www.rotterdam.nl/voorziening:erasmusbrug), [Koningshavenbrug de hef](http://www.rotterdam.nl/voorziening:koningshavenbrug) (Erasmusbrug 010-4857900, 06-20060132, Marifoon VHF 20)  <br />
+[Rotterdam Rijnmond Stroomatlas] (http://www.wetwetwet.nl/stroomatlas/index.php?lang=nl)   <br />
+[DWD NAVTEX](http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&_pageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter&T43402027281174298183241gsbDocumentPath=Content%2FSchifffahrt%2FSeewetter%2FNavtex__Empfang__teaser.html&_state=maximized&_windowLabel=T43402027281174298183241&lastPageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter), [NAVTEX Abbreviations](http://weather.mailasail.com/Franks-Weather/European-And-Mediterranean-Navtex-Schedules#abbreviations), [NAVTEX LIVE](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1) <br />
 [Wetterkartesymbole](http://www.deutscher-wetterdienst.de/lexikon/download.php?file=Bodenwetterkartensymbole.pdf), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg)  <br />
-[MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms), [Shipping forcast locations](https://en.wikipedia.org/wiki/Shipping_Forecast#/media/File:UK_shipping_forecast_zones.png)  <br />
-[BAZ verbeterbladen](https://www.defensie.nl/onderwerpen/berichten-aan-zeevarenden/inhoud/verbeterbladen/zeekaarten-en-1800-serie) <br />
+[MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms)  <br />
+[FLDIGI SYNOP decoding NAVTEX manual](http://www.w1hkj.com/FldigiHelp-3.21/html/synop_page.html#deutsche_schedule), [FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html), [FLDIGI user manual](http://www.w1hkj.com/FldigiHelp-3.21/Fldigi_User_Manual.pdf)  <br />
+[KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten)  <br />
+sub URL time=00:00 interval=6 <br />
 
 To: query@saildocs.com  <br />
-Subject: URL time=00:00 interval=6  <br />
+Subject: (anything)  <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
-send [http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif)   <br />
+send [http://www.knmi.nl/neerslagradar/images/meest_recente_radarloop451.gif?11044](http://www.knmi.nl/neerslagradar/images/meest_recente_radarloop451.gif?11044)   <br />
+send [http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1) <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt)  <br />
-send [http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
-send [http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html](http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
-send [http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html)  <br />
-send [http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html)  <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt)  <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
+send [http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
 send [http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR](http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR)  <br />
 send [http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html](http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html) (wind, sea state, weather, visibility) <br />
+send [http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html)  <br />
 send [http://www.metoffice.gov.uk/public/weather/marine-printable/high-seas-forecast.html](http://www.metoffice.gov.uk/public/weather/marine-printable/high-seas-forecast.html)  <br />
-send [http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1) <br />
+send [http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html)  <br />
+send [http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html](http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html)  <br />
+send grib:35N,65N,40W,15E|1|0,3..48|PRMSL,WIND,HGT,SEATMP,AIRTMP,WAVES  <br />
 
 ----
 Charts: 
 
-send grib:35N,65N,40W,15E|1|0,3..48|PRMSL,WIND,HGT,SEATMP,AIRTMP,WAVES  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Analysekarten/Analysekarten__Default__Boden__Europa__Luftdruck__Bild,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Analysekarten/Analysekarten__Default__Boden__Europa__Luftdruck__Bild,property=default.png)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg)  <br />
 send [http://weather.mailasail.com/charts/PPVA89.PNG](http://weather.mailasail.com/charts/PPVA89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVE89.PNG](http://weather.mailasail.com/charts/PPVE89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVG89.PNG](http://weather.mailasail.com/charts/PPVG89.PNG)  <br />
@@ -48,9 +49,11 @@ send [http://weather.mailasail.com/charts/PPVK89.PNG](http://weather.mailasail.c
 send [http://weather.mailasail.com/charts/PPVL89.PNG](http://weather.mailasail.com/charts/PPVL89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVM89.PNG](http://weather.mailasail.com/charts/PPVM89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVO89.PNG](http://weather.mailasail.com/charts/PPVO89.PNG)  <br />
+send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Analysekarten/Analysekarten__Default__Boden__Europa__Luftdruck__Bild,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Analysekarten/Analysekarten__Default__Boden__Europa__Luftdruck__Bild,property=default.png)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte18Z__Default__TKB__H_2B30__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte18Z__Default__TKB__H_2B30__Europa__Bild,property=default.jpg)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B48__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B48__Europa__Bild,property=default.jpg)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B84__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B84__Europa__Bild,property=default.jpg)  <br />
+send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.png)  <br />
 
 ----
@@ -60,14 +63,6 @@ send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__24__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__24__Bild__default,property=default.png)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__48__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__48__Bild__default,property=default.png)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__72__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__72__Bild__default,property=default.png)  <br />
-
-----
-Nordatlantic: 
-
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__24__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__24__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__48__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__48__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__72__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__72__Bild__default,property=default.jpg)  <br />
 
 ----
 Ostsee: 
@@ -84,6 +79,14 @@ send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__24__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__24__Bild__default,property=default.jpg)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__48__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__48__Bild__default,property=default.jpg)  <br />
 send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__72__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__72__Bild__default,property=default.jpg)  <br />
+
+----
+Nordatlantic: 
+
+send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__Bild__default,property=default.jpg)  <br />
+send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__24__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__24__Bild__default,property=default.jpg)  <br />
+send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__48__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__48__Bild__default,property=default.jpg)  <br />
+send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__72__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__72__Bild__default,property=default.jpg)  <br />
 
 ----
 Westiches Mittelmeer: 
@@ -1146,7 +1149,6 @@ Swiss knife
  , [Mitmproxy](http://http://mitm.it/)
 , [Firebug](https://addons.mozilla.org/en-US/firefox/addon/1843/), [Fiddler](http://www.fiddler2.com/fiddler2/), [WebScarab](https://www.owasp.org/index.php/WebScarab_Getting_Started), [Charles](http://www.charlesproxy.com/documentation/getting-started/), [WebScarab](http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project), [web sniffer](http://web-sniffer.net)
   * [quick python overview](http://www.stavros.io/tutorials/python/)
-  * [Seti setup](https://www.digitalocean.com/community/tutorials/how-to-set-up-seti-home-on-ubuntu-14-04-or-debian-7)
  
 
  Firefox tweaks
