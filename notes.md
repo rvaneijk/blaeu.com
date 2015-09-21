@@ -17,7 +17,6 @@ To: query@saildocs.com  <br />
 Subject: (anything)  <br />
 send XXX URL time=00:00 interval=6 <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
-send [http://www.knmi.nl/neerslagradar/images/meest_recente_radarloop451.gif?11044](http://www.knmi.nl/neerslagradar/images/meest_recente_radarloop451.gif?11044)   <br />
 send [http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1) <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt)  <br />
