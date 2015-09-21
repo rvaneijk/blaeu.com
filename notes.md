@@ -14,7 +14,7 @@ HF email
 [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos) <br />
 sub URL time=00:00 interval=6 <br />
 Vlaggen: [Geus](https://nl.wikipedia.org/wiki/Geus_%28vlag%29), [Blauwe vlag](http://www.blauwevlag.nl/vaantje), [KNMR wimpel](https://www.knrm.nl/wat-wij-doen/reddingwinkel/), [Toerzeilers wimpel](http://www.toerzeilers.nl/winkel/index) <br />
-Links: [Dieseldokter](http://dieseldokter.nl/, )[Knopenenzo](http://www.knoopenzo.nl/#beeldoverzicht), [Vuilwater.info](http://www.vuilwater.info/brochures), [Zeebrief](http://www.anwbwatersport.nl/vaarinformatie/varen-in-europa/meer-over-internationaal-certificaat-pleziervaartuigen.html), [Toerzeilers]{http://www.toerzeilers.nl/diversen/links}, [PZV](http://pzv-zeezeilen.nl/weten-en-kunnen/) <br />
+Links: [Dieseldokter](http://dieseldokter.nl/, )[Knopenenzo](http://www.knoopenzo.nl/#beeldoverzicht), [Vuilwater.info](http://www.vuilwater.info/brochures), [Zeebrief](http://www.anwbwatersport.nl/vaarinformatie/varen-in-europa/meer-over-internationaal-certificaat-pleziervaartuigen.html), [Toerzeilers](http://www.toerzeilers.nl/diversen/links), [PZV](http://pzv-zeezeilen.nl/weten-en-kunnen/) <br />
 
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
