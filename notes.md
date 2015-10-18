@@ -47,68 +47,68 @@ send [http://weather.mailasail.com/charts/PPVK89.PNG](http://weather.mailasail.c
 send [http://weather.mailasail.com/charts/PPVL89.PNG](http://weather.mailasail.com/charts/PPVL89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVM89.PNG](http://weather.mailasail.com/charts/PPVM89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVO89.PNG](http://weather.mailasail.com/charts/PPVO89.PNG)  <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_24.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_48.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_72.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_na_ana.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_ana.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_030.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_036.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_048.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_072.png
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_wassertemp_na_ana.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_24.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_48.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_72.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_na_ana.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_ana.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_030.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_036.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_048.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_072.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_wassertemp_na_ana.png <br />
 
 ----
 Nordsee: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_00.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_24.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_48.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_72.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_00.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_24.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_48.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_72.png <br />
 
 ----
 Ostsee: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_00.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_24.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_48.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_72.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_00.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_24.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_48.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_72.png <br />
 
 ----
 Nordatlantic: 
 
-send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png
-send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_24.png
-send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_48.png
-send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_72.png
+send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png <br />
+send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_24.png <br />
+send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_48.png <br />
+send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_72.png <br />
 
 ----
 Ostatlantic: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_00.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_24.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_48.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_72.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_00.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_24.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_48.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_72.png <br />
 
 ----
 Westiches Mittelmeer: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_00.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_24.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_48.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_72.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_00.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_24.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_48.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_72.png <br />
 
 
 ----
 Ostliches Mittelmeer: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_00.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_24.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_00.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_24.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 
 ----
 INMARSAT-C GMDSS SafetyNet: 
