@@ -18,22 +18,22 @@ Links: [Dieseldokter](http://dieseldokter.nl/), [Knopenenzo](http://www.knoopenz
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
 send XXX URL time=00:00 interval=6 <br />
-send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
-send [http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1) <br />
+send [http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html)  <br />
+send [http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
+send [http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1) <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt)  <br />
+send [http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
-send [http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
-send [http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR](http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR)  <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
 send [http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html](http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html) (wind, sea state, weather, visibility) <br />
-send [http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html)  <br />
+send [http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR](http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR)  <br />
 send [http://www.metoffice.gov.uk/public/weather/marine-printable/high-seas-forecast.html](http://www.metoffice.gov.uk/public/weather/marine-printable/high-seas-forecast.html)  <br />
-send [http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html](http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html)  <br />
 send [http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html](http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html)  <br />
 send grib:35N,65N,40W,15E|1|0,3..48|PRMSL,WIND,HGT,SEATMP,AIRTMP,WAVES  <br />
+send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/)  <br />
 
 ----
 Charts: 
