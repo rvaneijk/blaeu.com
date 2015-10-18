@@ -12,7 +12,7 @@ HF email
 [Wetterkartesymbole](http://www.deutscher-wetterdienst.de/lexikon/download.php?file=Bodenwetterkartensymbole.pdf), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg), [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms)  <br />
 [DWD Seewettrerbericht](http://www.deutschlandradio.de/seewetter.275.de.html), [BBC4 shipping forcast](http://www.bbc.co.uk/programmes/b006qfvv) <br \>
 [NAVTEX Abbreviations](http://weather.mailasail.com/Franks-Weather/European-And-Mediterranean-Navtex-Schedules#abbreviations), [DWD NAVTEX](http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&_pageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter&T43402027281174298183241gsbDocumentPath=Content%2FSchifffahrt%2FSeewetter%2FNavtex__Empfang__teaser.html&_state=maximized&_windowLabel=T43402027281174298183241&lastPageLabel=_dwdwww_spezielle_nutzer_schiffffahrt_seewetter), [NAVTEX LIVE](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1), [FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html) <br />
-Vlaggen: [Geus](https://nl.wikipedia.org/wiki/Geus_%28vlag%29), [Blauwe vlag](http://www.blauwevlag.nl/vaantje), [KNRM wimpel](https://www.knrm.nl/wat-wij-doen/reddingwinkel/), [Toerzeilers wimpel](http://www.toerzeilers.nl/winkel/index), [EOC](http://www.eoc.nl/pleziervaart/Verzekeringen/Zeiljacht) <br />
+Vlaggen: [Rotterdam](https://nl.wikipedia.org/wiki/Vlag_van_Rotterdam), [Geus](https://nl.wikipedia.org/wiki/Geus_%28vlag%29), [Blauwe vlag](http://www.blauwevlag.nl/vaantje), [KNRM wimpel](https://www.knrm.nl/wat-wij-doen/reddingwinkel/), [Toerzeilers wimpel](http://www.toerzeilers.nl/winkel/index), [EOC](http://www.eoc.nl/pleziervaart/Verzekeringen/Zeiljacht) <br />
 Links: [Dieseldokter](http://dieseldokter.nl/), [Knopenenzo](http://www.knoopenzo.nl/#beeldoverzicht), [Vuilwater.info](http://www.vuilwater.info/brochures), [Zeebrief](http://www.anwbwatersport.nl/vaarinformatie/varen-in-europa/meer-over-internationaal-certificaat-pleziervaartuigen.html), [Toerzeilers](http://www.toerzeilers.nl/diversen/links), [PZV](http://pzv-zeezeilen.nl/weten-en-kunnen/), [CVO keuring](http://www.boottaxeren.nl/jachtkeuring/) <br />
 
 To: query@saildocs.com  <br />
@@ -47,60 +47,68 @@ send [http://weather.mailasail.com/charts/PPVK89.PNG](http://weather.mailasail.c
 send [http://weather.mailasail.com/charts/PPVL89.PNG](http://weather.mailasail.com/charts/PPVL89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVM89.PNG](http://weather.mailasail.com/charts/PPVM89.PNG)  <br />
 send [http://weather.mailasail.com/charts/PPVO89.PNG](http://weather.mailasail.com/charts/PPVO89.PNG)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Analysekarten/Analysekarten__Default__Boden__Europa__Luftdruck__Bild,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Analysekarten/Analysekarten__Default__Boden__Europa__Luftdruck__Bild,property=default.png)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte18Z__Default__TKB__H_2B30__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte18Z__Default__TKB__H_2B30__Europa__Bild,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B48__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B48__Europa__Bild,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B84__Europa__Bild,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Oeffentlichkeit/KU/KUPK/Hobbymet/Wetterkarten/Kurzfrist-Prognosekarten/KFprogkarte00Z__Default__TKB__H_2B84__Europa__Bild,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wassertemperaturen__Bild__default,property=default.png)  <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_24.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_48.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_72.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_na_ana.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_ana.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_030.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_036.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_048.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_072.png
+send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_wassertemp_na_ana.png
 
 ----
 Nordsee: 
 
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__24__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__24__Bild__default,property=default.png)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__48__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__48__Bild__default,property=default.png)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__72__Bild__default,property=default.png](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordsee__72__Bild__default,property=default.png)  <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_00.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_24.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_48.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_72.png
 
 ----
 Ostsee: 
 
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostsee__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostsee__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostsee__24__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostsee__24__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostsee__48__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostsee__48__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostsee__72__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostsee__72__Bild__default,property=default.jpg)  <br />
-
-----
-Ostatlantic: 
-
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__24__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__24__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__48__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__48__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__72__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Ostatlantik__72__Bild__default,property=default.jpg)  <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_00.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_24.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_48.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_72.png
 
 ----
 Nordatlantic: 
 
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__24__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__24__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__48__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__48__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__72__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Nordatlantik__72__Bild__default,property=default.jpg)  <br />
+send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png
+send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_24.png
+send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_48.png
+send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_72.png
+
+----
+Ostatlantic: 
+
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_00.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_24.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_48.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_72.png
 
 ----
 Westiches Mittelmeer: 
 
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Westliches__Mittelmeer__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Westliches__Mittelmeer__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Westliches__Mittelmeer__24__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Westliches__Mittelmeer__24__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Westliches__Mittelmeer__48__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Westliches__Mittelmeer__48__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Westliches__Mittelmeer__72__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Westliches__Mittelmeer__72__Bild__default,property=default.jpg)  <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_00.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_24.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_48.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_72.png
+
 
 ----
 Ostliches Mittelmeer: 
 
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Oestliches__Mittelmeer__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Oestliches__Mittelmeer__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Oestliches__Mittelmeer__24__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Oestliches__Mittelmeer__24__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Oestliches__Mittelmeer__48__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Oestliches__Mittelmeer__48__Bild__default,property=default.jpg)  <br />
-send [http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Oestliches__Mittelmeer__72__Bild__default,property=default.jpg](http://www.dwd.de/bvbw/generator/DWDWWW/Content/Schifffahrt/Seewetter/Wind__Seegang__Oestliches__Mittelmeer__72__Bild__default,property=default.jpg)  <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_00.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_24.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png
 
 ----
 INMARSAT-C GMDSS SafetyNet: 
