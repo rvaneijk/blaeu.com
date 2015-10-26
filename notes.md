@@ -16,12 +16,12 @@ Vlaggen: [Rotterdam](https://nl.wikipedia.org/wiki/Vlag_van_Rotterdam), [Geus](h
 Links: [Dieseldokter](http://dieseldokter.nl/), [Knopenenzo](http://www.knoopenzo.nl/#beeldoverzicht), [Vuilwater.info](http://www.vuilwater.info/brochures), [Zeebrief](http://www.anwbwatersport.nl/vaarinformatie/varen-in-europa/meer-over-internationaal-certificaat-pleziervaartuigen.html), [Toerzeilers](http://www.toerzeilers.nl/diversen/links), [PZV](http://pzv-zeezeilen.nl/weten-en-kunnen/), [CVO keuring](http://www.boottaxeren.nl/jachtkeuring/) <br />
 Regelgeving:  <br />
 [Scheepvaartverkeerswet (SVW), art.27](http://wetten.overheid.nl/BWBR0004364/#Hoofdstuk7_Artikel27) <br />
-[Binnenvaartwet (BVW), art.25 lid 1 en 2, art. 27 lid 1a](http://http://wetten.overheid.nl/BWBR0023009/)  <br />
+[Binnenvaartwet (BVW), art.25 lid 1 en 2, art. 27 lid 1a](http://wetten.overheid.nl/BWBR0023009/)  <br />
 [Binnenvaartbesluit (BVB), art.13, art.15 lid 1a1 en 1b, art.16, art.22 lid 4 en 5](http://wetten.overheid.nl/BWBR0025631) <br />
 [Binnenvaartregeling (BVR)](http://wetten.overheid.nl/BWBR0025958)  <br />
-[Wetboek van Koophandel, art.785](http://http://wetten.overheid.nl/BWBR0001838/TweedeBoek/Dertiendetitel/Derdeafdeeling/Artikel785) <br />
+[Wetboek van Koophandel, art.785](http://wetten.overheid.nl/BWBR0001838/TweedeBoek/Dertiendetitel/Derdeafdeeling/Artikel785) <br />
 [Binnenvaartpolitiereglement (BPR)](http://wetten.overheid.nl/BWBR0003628) <br />
-[Rijnvaartpolitiereglement (RPR)](wetten.overheid.nl/BWBR0006923/)	 <br />
+[Rijnvaartpolitiereglement (RPR)](http://wetten.overheid.nl/BWBR0006923/)	 <br />
 [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen (SRKGT)](http://wetten.overheid.nl/BWBR0005315)  <br />
 [Scheepvaartreglement Gemeenschappelijke Maas (SRGM)](http://wetten.overheid.nl/BWBR0006618/)<br />
 [Scheepvaartreglement Westerschelde (SRW)](http://wetten.overheid.nl/BWBR0005393)	 <br />
