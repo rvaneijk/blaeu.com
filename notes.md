@@ -14,6 +14,17 @@ HF email
 [NAVTEX Abbreviations](http://weather.mailasail.com/Franks-Weather/European-And-Mediterranean-Navtex-Schedules#abbreviations), [DWD NAVTEX](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/navtex/518_emd.html?nn=391882), [NAVTEX LIVE](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1), [FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html) <br />
 Vlaggen: [Rotterdam](https://nl.wikipedia.org/wiki/Vlag_van_Rotterdam), [Geus](https://nl.wikipedia.org/wiki/Geus_%28vlag%29), [Blauwe vlag](http://www.blauwevlag.nl/vaantje), [KNRM wimpel](https://www.knrm.nl/wat-wij-doen/reddingwinkel/), [Toerzeilers wimpel](http://www.toerzeilers.nl/winkel/index), [EOC](http://www.eoc.nl/pleziervaart/Verzekeringen/Zeiljacht) <br />
 Links: [Dieseldokter](http://dieseldokter.nl/), [Knopenenzo](http://www.knoopenzo.nl/#beeldoverzicht), [Vuilwater.info](http://www.vuilwater.info/brochures), [Zeebrief](http://www.anwbwatersport.nl/vaarinformatie/varen-in-europa/meer-over-internationaal-certificaat-pleziervaartuigen.html), [Toerzeilers](http://www.toerzeilers.nl/diversen/links), [PZV](http://pzv-zeezeilen.nl/weten-en-kunnen/), [CVO keuring](http://www.boottaxeren.nl/jachtkeuring/) <br />
+Regelgeving:  <br />
+[Scheepvaartverkeerswet (SVW), art.27](http://wetten.overheid.nl/BWBR0004364/#Hoofdstuk7_Artikel27) <br />
+[Binnenvaartwet (BVW)](http://http://wetten.overheid.nl/BWBR0023009/)  <br />
+[Binnenvaartbesluit (BVB)](http://wetten.overheid.nl/BWBR0025631) <br />
+[Binnenvaartregeling (BVR)](http://wetten.overheid.nl/BWBR0025958)  <br />
+[Wetboek van Koophandel, art.785](http://http://wetten.overheid.nl/BWBR0001838/TweedeBoek/Dertiendetitel/Derdeafdeeling/Artikel785) <br />
+	 <br />
+	  <br />
+	   <br />
+	    <br />
+		 <br />
 
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
