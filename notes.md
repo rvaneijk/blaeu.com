@@ -26,6 +26,7 @@ Regelgeving:  <br />
 [Scheepvaartreglement Gemeenschappelijke Maas (SRGM)](http://wetten.overheid.nl/BWBR0006618/)<br />
 [Scheepvaartreglement Westerschelde (SRW)](http://wetten.overheid.nl/BWBR0005393)	 <br />
 [Scheepvaartreglement Eemsmonding (SRE)](http://wetten.overheid.nl/BWBR0004552)	 <br />
+[COLREG (BVA-EN)](http://wetten.overheid.nl/BWBV0001014/AuthentiekEN), [BVA-NL](http://wetten.overheid.nl/BWBV0001014/VertalingNL) <br />
 
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
