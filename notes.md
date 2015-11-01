@@ -5,7 +5,7 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 HF email
 ===================
-[Marifoonkanalen]( http://www.maritiemfreelancer.nl/communicatie/marifoonkanalen.html), [Bekendmakingen Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx), [Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363), [Binnenvaart NL](http://nos.nl/teletekst#721), [Binnenvaart EU](http://nos.nl/teletekst#722), [Havenbeheersverordening](https://www.portofrotterdam.com/nl/file/421/download?token=Cwj6YhYn) <br />
+[Marifoonkanalen]( http://www.maritiemfreelancer.nl/communicatie/marifoonkanalen.html), [Bekendmakingen Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx), [Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363), [Binnenvaart NL](http://nos.nl/teletekst#721), [Binnenvaart EU](http://nos.nl/teletekst#722), [Havenbeheersverordening](https://www.portofrotterdam.com/nl/file/421/download?token=Cwj6YhYn), [Vaarsnelheid Rdam](http://portofrotterdam.com/vaarsnelheid), [Tabel aktuele Vaarsnelheid Rdam](http://vaarsnelheden.mx-systems.nl/por/por_wap.htm) <br />
 [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [bewolking](http://nos.nl/teletekst#707_2), [wolkenatlas](http://www.wolkenatlas.de/), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://www.wolkenatlas.de/) <br />
 [Neerslagradar KNMI](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif), [NL](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent), [D](http://www.dwd.de/DWD/wetter/radar/radfilm_brd_akt.gif), [EU](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent), [satelliet](http://api.buienradar.nl/image/image.ashx?k=3&amp;l=1&amp;c=eu), [infrarood](http://www.meteociel.fr/accueil/sat24ir.gif)  <br \>
 [Zon en Maan](http://nos.nl/teletekst#718), [Rotterdam Rijnmond Stroomatlas] (http://www.wetwetwet.nl/stroomatlas/index.php?lang=nl), [Actuele waterstand R'dam](http://www.rijkswaterstaat.nl/apps/geoservices/rwsnl/awd.php?mode=html&projecttype=waterstanden&category=1&loc=ROTT&net=LMW), [EasyTide R'dam](http://www.ukho.gov.uk/easytide/EasyTide/ShowPrediction.aspx?PortID=1508&PredictionLength=7&DaylightSavingOffset=0&PrinterFriendly=True&HeightUnits=0&GraphSize=7)   <br />
@@ -15,18 +15,16 @@ HF email
 Vlaggen: [Rotterdam](https://nl.wikipedia.org/wiki/Vlag_van_Rotterdam), [Geus](https://nl.wikipedia.org/wiki/Geus_%28vlag%29), [Blauwe vlag](http://www.blauwevlag.nl/vaantje), [KNRM wimpel](https://www.knrm.nl/wat-wij-doen/reddingwinkel/), [Toerzeilers wimpel](http://www.toerzeilers.nl/winkel/index), [EOC](http://www.eoc.nl/pleziervaart/Verzekeringen/Zeiljacht) <br />
 Links: [Dieseldokter](http://dieseldokter.nl/), [Knopenenzo](http://www.knoopenzo.nl/#beeldoverzicht), [Vuilwater.info](http://www.vuilwater.info/brochures), [Zeebrief](http://www.anwbwatersport.nl/vaarinformatie/varen-in-europa/meer-over-internationaal-certificaat-pleziervaartuigen.html), [Toerzeilers](http://www.toerzeilers.nl/diversen/links), [PZV](http://pzv-zeezeilen.nl/weten-en-kunnen/), [CVO keuring](http://www.boottaxeren.nl/jachtkeuring/) <br />
 Regelgeving:  <br />
-[Scheepvaartverkeerswet (SVW), art.27](http://wetten.overheid.nl/BWBR0004364/#Hoofdstuk7_Artikel27) <br />
-[Binnenvaartwet (BVW), art.25 lid 1 en 2, art. 27 lid 1a](http://wetten.overheid.nl/BWBR0023009/)  <br />
-[Binnenvaartbesluit (BVB), art.13, art.15 lid 1a1 en 1b, art.16, art.22 lid 4 en 5](http://wetten.overheid.nl/BWBR0025631) <br />
-[Binnenvaartregeling (BVR)](http://wetten.overheid.nl/BWBR0025958)  <br />
-[Wetboek van Koophandel, art.785](http://wetten.overheid.nl/BWBR0001838/TweedeBoek/Dertiendetitel/Derdeafdeeling/Artikel785) <br />
-[Binnenvaartpolitiereglement (BPR)](http://wetten.overheid.nl/BWBR0003628) <br />
+[Scheepvaartverkeerswet (SVW), art.27](http://wetten.overheid.nl/BWBR0004364/#Hoofdstuk7_Artikel27), [Hiërarchie Scheepvaartverkeerswet](https://staticresources.rijkswaterstaat.nl/binaries/Scheepvaartverkeerswet_tcm174-139417_tcm21-5683.pdf), [Vaarregels](http://www.vaarweginformatie.nl/fdd/main/infra/wetgeving) <br />
+[Binnenvaartwet (BVW), art.25 lid 1 en 2, art. 27 lid 1a](http://wetten.overheid.nl/BWBR0023009/), [Binnenvaartbesluit (BVB), art.13, art.15 lid 1a1 en 1b, art.16, art.22 lid 4 en 5](http://wetten.overheid.nl/BWBR0025631), [Binnenvaartregeling (BVR)](http://wetten.overheid.nl/BWBR0025958), [Wetboek van Koophandel, art.785](http://wetten.overheid.nl/BWBR0001838/TweedeBoek/Dertiendetitel/Derdeafdeeling/Artikel785) <br />
+[Binnenvaartpolitiereglement (BPR)](http://wetten.overheid.nl/BWBR0003628), [Vaststellingsbesluit Binnenvaartpolitiereglement](http://wetten.overheid.nl/BWBR0003627) <br />
 [Rijnvaartpolitiereglement (RPR)](http://wetten.overheid.nl/BWBR0006923/)	 <br />
-[Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen (SRKGT)](http://wetten.overheid.nl/BWBR0005315)  <br />
-[Scheepvaartreglement Gemeenschappelijke Maas (SRGM)](http://wetten.overheid.nl/BWBR0006618/)<br />
+[Scheepvaartreglement Eemsmonding (SRE)](http://wetten.overheid.nl/BWBR0004552), [Eems-Dollardverdrag](http://wetten.overheid.nl/BWBV0005343)	 <br />
+[Scheepvaartreglement Gemeenschappelijke Maas (SRGM)](http://wetten.overheid.nl/BWBR0006618/), [Verdrag gemeenschappelijke Maas](http://wetten.overheid.nl/BWBV0001232) <br />
 [Scheepvaartreglement Westerschelde (SRW)](http://wetten.overheid.nl/BWBR0005393)	 <br />
-[Scheepvaartreglement Eemsmonding (SRE)](http://wetten.overheid.nl/BWBR0004552)	 <br />
-[COLREG (BVA-EN)](http://wetten.overheid.nl/BWBV0001014/AuthentiekEN), [BVA-NL](http://wetten.overheid.nl/BWBV0001014/VertalingNL) <br />
+[Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen (SRKGT)](http://wetten.overheid.nl/BWBR0005315)  <br />
+[Scheepvaartreglement Territoriale Zee](http://wetten.overheid.nl/BWBR0007914)  <br />
+[BVA](http://wetten.overheid.nl/BWBV0001014/VertalingNL), [COLREG](http://wetten.overheid.nl/BWBV0001014/AuthentiekEN) <br />
 
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
