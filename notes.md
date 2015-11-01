@@ -24,7 +24,7 @@ Regelgeving:  <br />
 [Scheepvaartreglement Westerschelde (SRW)](http://wetten.overheid.nl/BWBR0005393)	 <br />
 [Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen (SRKGT)](http://wetten.overheid.nl/BWBR0005315)  <br />
 [Scheepvaartreglement Territoriale Zee](http://wetten.overheid.nl/BWBR0007914)  <br />
-[BVA](http://wetten.overheid.nl/BWBV0001014/VertalingNL), [COLREG](http://wetten.overheid.nl/BWBV0001014/AuthentiekEN) <br />
+[BVA](http://wetten.overheid.nl/BWBV0001014/VertalingNL), [COLREG](http://wetten.overheid.nl/BWBV0001014/AuthentiekEN), [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS)](http://wetten.overheid.nl/BWBV0003264/) <br />
 
 To: query@saildocs.com  <br />
 Subject: (anything)  <br />
