@@ -146,6 +146,20 @@ send [http://weather.gmdss.org/XIX.html](http://weather.gmdss.org/XIX.html)  <br
 send [http://weather.gmdss.org/XX.html](http://weather.gmdss.org/XX.html)  <br />
 send [http://weather.gmdss.org/XXI.html](http://weather.gmdss.org/XXI.html)  <br />
 
+Windows 10
+===================
+
+Problem: update not installing, e.g. kb3122947
+Solution: install from commandline
+
+- Explore "C:\Windows\SoftwareDistribution\Download"
+- Locate folder containing the cab file with the corresponding kb-number
+- Shift + right click on the cab file, and "copy as path"
+- Run command prompt as Administrator
+- dism /online /add-package /packagepath:"insertpathhere"
+- reboot, check updates
+
+
 FreeBSD
 ===================
 
