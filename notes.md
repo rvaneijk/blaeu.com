@@ -1167,6 +1167,7 @@ Solution: sudo apt-get install texlive-full
 
 Swiss knife
 ===================
+  * Transscription [Transscribe](https://transcribe.wreally.com/login)
   * Search: [Shodan](http://www.shodanhq.com/)
  , [WolframAlfa](https://www.wolframalpha.com/)
 , [Save page in the Internet Archive](http://archive.org/web/), [The Web Application Vulnerability Scanners Benchmark, 2012](http://sectooladdict.blogspot.co.il/2012/07/2012-web-application-scanner-benchmark.html)
