@@ -999,12 +999,14 @@ $ git clone ssh://git@github.com/ewfelten/Tracking-Report-Card.git
 ----
 Syncing fork 
 ```bash
-$ git clone git clone ssh://git@github.com/YOUR-USERNAME/<project>.git
-$ git remote add upstream https://github.com/<user>/<project>.git
+$ git remote -v
+$ git clone git clone ssh://git@github.com/YOUR-USERNAME/<project>.git # if workspace is empty
+$ git remote add upstream https://github.com/<user>/<project>.git # if remote is empty
 $ git remote -v
 $ git fetch upstream
 $ git checkout master
-$ git merge upstream/master
+$ git merge upstream/master # sync local workspace
+$ git push origin master # sync workspace with github
 ```
 
 ```bash
