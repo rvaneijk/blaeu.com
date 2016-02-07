@@ -711,6 +711,17 @@ parse ----------- mitmdump -n -q -s parse_cookies.py -r <file>.mitm
 unique headers -- mitmdump -n -q -s parse_headers.py -r <file>.mitm | cut -d : -f 1 | sort | uniq
 check status ---- SELECT COUNT(*) FROM (SELECT numcrawls from list WHERE list.numcrawls = 1)
 ```
+----
+Revert to specific version of mitmproxy 
+Solution: 'pip install mitmproxy=0.7' or check out a tag 
+```bash
+$ git clone https://github.com/mitmproxy/mitmproxy.git
+$ cd mitmproxy
+$ git checkout v0.7
+$ sudo -H pip uninstall mitmproxy
+$ sudo -H pip install . % Let op de punt !
+$ which mitmdump && mitmdump --version && pip list | gep mitm
+```
 
 ----
 Problem: parse mitmdump
@@ -1072,17 +1083,17 @@ $ gtk -> File|GitGui
 ```
 
 ----
-Revert to specific version of mitmproxy 
-Solution: 'pip install mitmproxy=0.7' or check out a tag 
+Problem with committing from the commandline
 ```bash
-$ git clone https://github.com/mitmproxy/mitmproxy.git
-$ cd mitmproxy
-$ git checkout v0.7
-$ sudo -H pip uninstall mitmproxy
-$ sudo -H pip install . % Let op de punt !
-$ which mitmdump && mitmdump --version && pip list | gep mitm
+$ cd ./Tracking-Report-Card
+$ git remote add upstream git://github.com/ewfelten/Tracking-Report-Card.git
+$ git fetch upstream
+$ git status
+$ git add (filename)
+$ git status
+$ git commit -m "Add your description of the commit here"
+$ git push origin master
 ```
-
 
 Tex
 ===================
