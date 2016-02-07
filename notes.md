@@ -170,6 +170,7 @@ Solution: ZFS
 # sudo portsnap fetch && sudo portsnap update
 # sudo pkg audit -F
 # sudo pkg updating | more
+# cat /usr/ports/UPDATING | more
 # sudo pkg update -f && sudo pkg upgrade && sudo pkg autoremove && sudo pkg audit -F 
 # perl -MCPANPLUS -e shell
 # cpanplus> o # to check old PERL modules
@@ -1082,18 +1083,6 @@ $ sudo -H pip install . % Let op de punt !
 $ which mitmdump && mitmdump --version && pip list | gep mitm
 ```
 
-----
-Problem with committing from the commandline
-```bash
-$ cd ./Tracking-Report-Card
-$ git remote add upstream git://github.com/ewfelten/Tracking-Report-Card.git
-$ git fetch upstream
-$ git status
-$ git add (filename)
-$ git status
-$ git commit -m "Add your description of the commit here"
-$ git push origin master
-```
 
 Tex
 ===================
