@@ -1187,7 +1187,16 @@ Swiss knife
  , [Mitmproxy](http://http://mitm.it/)
 , [Firebug](https://addons.mozilla.org/en-US/firefox/addon/1843/), [Fiddler](http://www.fiddler2.com/fiddler2/), [WebScarab](https://www.owasp.org/index.php/WebScarab_Getting_Started), [Charles](http://www.charlesproxy.com/documentation/getting-started/), [WebScarab](http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project), [web sniffer](http://web-sniffer.net)
   * [quick python overview](http://www.stavros.io/tutorials/python/)
- 
+
+  * Directory listing vulnerabilities: site:blaeu.com intitle:index.of
+  * Configuration files exposed: site:blaeu.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+  * Database files exposed: site:blaeu.com ext:sql | ext:dbf | ext:mdb
+  * Log files exposed: site:blaeu.com ext:log
+  * Backup and old files: site:blaeu.com ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
+  * Login pages: site:blaeu.com inurl:login
+  * SQL errors: site:blaeu.com intext:"sql syntax near" | intext:"syntax error has occurred" | intext:"incorrect syntax near" | intext:"unexpected end of SQL command" | intext:"Warning: mysql_connect()" | intext:"Warning: mysql_query()" | intext:"Warning: pg_connect()"
+  * Publicly exposed documents: site:blaeu.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
+  * phpinfo(): site:blaeu.com ext:php intitle:phpinfo "published by the PHP Group"  
 
  Firefox tweaks
 ===================
