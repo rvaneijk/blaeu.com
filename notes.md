@@ -70,7 +70,7 @@ send [http://weather.mailasail.com/charts/PPVO89.PNG](http://weather.mailasail.c
 Nordatlantic:  <br />
 
 Synopsis: <br />
-send https://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png <br />
+send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_na_ana.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_030.png <br />
@@ -132,7 +132,6 @@ send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_24.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_48.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_72.png <br />
 
-
 ----
 Ostliches Mittelmeer: 
 
@@ -140,32 +139,6 @@ send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_00.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_24.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
-
-----
-INMARSAT-C GMDSS SafetyNet: 
-
-send [http://weather.gmdss.org/image/metareas_2009.jpeg](http://weather.gmdss.org/image/metareas_2009.jpeg)  <br />
-send [http://weather.gmdss.org/I.html](http://weather.gmdss.org/I.html), Offshore forecast: SHIPPING FORECAST ISSUED BY THE MET OFFICE  <br />
-send [http://weather.gmdss.org/II.html](http://weather.gmdss.org/II.html)  <br />
-send [http://weather.gmdss.org/III.html](http://weather.gmdss.org/III.html)  <br />
-send [http://weather.gmdss.org/IV.html](http://weather.gmdss.org/IV.html)  <br />
-send [http://weather.gmdss.org/V.html](http://weather.gmdss.org/V.html)  <br />
-send [http://weather.gmdss.org/VI.html](http://weather.gmdss.org/VI.html)  <br />
-send [http://weather.gmdss.org/VII.html](http://weather.gmdss.org/VII.html)  <br />
-send [http://weather.gmdss.org/VIII.html](http://weather.gmdss.org/VIII.html)  <br />
-send [http://weather.gmdss.org/IX.html](http://weather.gmdss.org/IX.html)  <br />
-send [http://weather.gmdss.org/X.html](http://weather.gmdss.org/X.html)  <br />
-send [http://weather.gmdss.org/XI.html](http://weather.gmdss.org/XI.html)  <br />
-send [http://weather.gmdss.org/XII.html](http://weather.gmdss.org/XII.html)  <br />
-send [http://weather.gmdss.org/XIII.html](http://weather.gmdss.org/XIII.html)  <br />
-send [http://weather.gmdss.org/XIV.html](http://weather.gmdss.org/XIV.html)  <br />
-send [http://weather.gmdss.org/XV.html](http://weather.gmdss.org/XV.html)  <br />
-send [http://weather.gmdss.org/XVI.html](http://weather.gmdss.org/XVI.html)  <br />
-send [http://weather.gmdss.org/XVII.html](http://weather.gmdss.org/XVII.html)  <br />
-send [http://weather.gmdss.org/XVIII.html](http://weather.gmdss.org/XVIII.html)  <br />
-send [http://weather.gmdss.org/XIX.html](http://weather.gmdss.org/XIX.html)  <br />
-send [http://weather.gmdss.org/XX.html](http://weather.gmdss.org/XX.html)  <br />
-send [http://weather.gmdss.org/XXI.html](http://weather.gmdss.org/XXI.html)  <br />
 
 Windows 10
 ===================
