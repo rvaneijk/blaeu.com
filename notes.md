@@ -43,7 +43,8 @@ send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knm
 send [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
 
 MET Office: <br />
-send http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html <br />
+send http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html (wind, sea state, weather, visibility) <br />
+send http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR <br />
 send http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html <br />
 send http://www.metoffice.gov.uk/public/weather/marine-printable/inshore-waters.html <br />
 send http://www.metoffice.gov.uk/public/weather/marine-printable/shetland.html <br />
