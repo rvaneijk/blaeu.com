@@ -29,11 +29,14 @@ Regelgeving:  <br />
 To: query@saildocs.com  <br />
 Subject: (anything) or cancel <br />
 send XXX URL time=00:00 interval=6 <br />
-send grib:35N,65N,40W,15E|1|0,3..84|PRMSL,WIND,SEATMP,AIRTMP,WAVES time=06:00 interval=12 <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt) time=06:00 interval=12 <br />
+send grib:35N,65N,40W,15E|1|0,3..84|PRMSL,WIND,SEATMP,AIRTMP,WAVES time=06:00 interval=24 <br />
+send grib:35N,65N,40W,15E|1|0,3..84|PRMSL,WIND,SEATMP,AIRTMP,WAVES time=19:00 interval=24 <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt) time=06:00 interval=24 <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt) time=19:00 interval=24 <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=06:00 interval=24 <br />
+send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=19:00 interval=24 <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=14:00 interval=24 <br />
-send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/) time=06:00 interval=24 <br />
+send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/) time=19:00 interval=24 <br />
 
 KNMI: <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
