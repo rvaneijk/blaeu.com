@@ -42,15 +42,15 @@ send [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](f
 send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
 
-MET Office: <br />
-send http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html (wind, sea state, weather, visibility) <br />
+MET Office: (wind, sea state, weather, visibility) <br />
 send http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR <br />
-send http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html <br />
-send http://www.metoffice.gov.uk/public/weather/marine-printable/inshore-waters.html <br />
-send http://www.metoffice.gov.uk/public/weather/marine-printable/shetland.html <br />
-send http://www.metoffice.gov.uk/public/weather/marine-printable/high-seas-forecast.html <br />
-send http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html <br />
-send http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html <br />
+http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html <br />
+http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html <br />
+http://www.metoffice.gov.uk/public/weather/marine-printable/inshore-waters.html <br />
+http://www.metoffice.gov.uk/public/weather/marine-printable/shetland.html <br />
+http://www.metoffice.gov.uk/public/weather/marine-printable/high-seas-forecast.html <br />
+http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html <br />
+http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html <br />
 
 ----
 West Europa (let op, relative humidity Zygrib 500 hPa):  <br />
