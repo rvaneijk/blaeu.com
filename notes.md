@@ -218,7 +218,7 @@ http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulonimbus capillatus (often with an anvil), with or without cumulonimbus calvus, cumulus, stratocumulus, Stratus or pannus |
 
 ----
-METAR/WMO PRESENT WHEATHER symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/symbols/ww_PresentWeather/README.md)
+[METAR/WMO PRESENT WHEATHER symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/symbols/ww_PresentWeather/README.md)
 
 |     | Symbols |
 | --- |:-------:|![WeatherSymbol_WMO_PresentWeather_ww_00](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_00.svg)|
