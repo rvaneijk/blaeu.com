@@ -145,7 +145,7 @@ send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png <br />
 send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 
 ----
-World Metereological Organization (WMO) high cloud symbols
+[WMO HIGH cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
 
 |     | Symbols |
 | --- |:-------:|
@@ -169,7 +169,7 @@ World Metereological Organization (WMO) high cloud symbols
 | **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrocumulus alone, or cirrocumulus predominant among the CH clouds |
 
 ----
-World Metereological Organization (WMO) medium cloud symbols
+[WMO MEDIUM cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
 
 |     | Symbols |
 | --- |:-------:|
@@ -193,7 +193,8 @@ World Metereological Organization (WMO) medium cloud symbols
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus of a chaotic sky, generally at several levels |
 
 ----
-World Metereological Organization (WMO) low cloud symbols
+[WMO LOW cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
+
 
 |     | Symbols |
 | --- |:-------:|
