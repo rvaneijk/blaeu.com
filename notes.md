@@ -145,7 +145,7 @@ http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png <br />
 http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 
 ----
-[WMO/METAR HIGH cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
+[METAR/WMO HIGH cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
 
 |     | Symbols |
 | --- |:-------:|
@@ -168,8 +168,8 @@ http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 | **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_9.svg)|
 | **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrocumulus alone, or cirrocumulus predominant among the CH clouds |
 
----SAR MEDIUM 
-cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
+----
+METAR/WMO MEDIUM cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
 
 |     | Symbols |
 | --- |:-------:|![WeatherSymbol_WMO_CloudMedium_CM_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_1.svg)|
@@ -191,8 +191,8 @@ cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master
 | **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_9.svg)|
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus of a chaotic sky, generally at several levels |
 
----SAR LOW clo
-ud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
+---
+METAR/WMO LOW cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
 
 
 |     | Symbols |
@@ -217,8 +217,8 @@ ud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/sy
 | **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_9.svg)|
 | **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulonimbus capillatus (often with an anvil), with or without cumulonimbus calvus, cumulus, stratocumulus, Stratus or pannus |
 
----SAR PRESENT
- WHEATHER symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/symbols/ww_PresentWeather/README.md)
+----
+METAR/WMO PRESENT WHEATHER symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/symbols/ww_PresentWeather/README.md)
 
 |     | Symbols |
 | --- |:-------:|![WeatherSymbol_WMO_PresentWeather_ww_00](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_00.svg)|
