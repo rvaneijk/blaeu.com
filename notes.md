@@ -40,14 +40,14 @@ send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/) time=19:00 interval=24 <br />
 
 KNMI: <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
-send [http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
+[ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
+[http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
+[ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
+[ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
+[ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
 
 MET Office: (wind, sea state, weather, visibility) <br />
-send http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR <br />
+http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR <br />
 http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html <br />
 http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html <br />
 http://www.metoffice.gov.uk/public/weather/marine-printable/inshore-waters.html <br />
@@ -59,90 +59,90 @@ http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.htm
 ----
 West Europa (let op, relative humidity Zygrib 500 hPa):  <br />
 
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_weu_ana.png <br />
-send [http://weather.mailasail.com/charts/PPVA89.PNG](http://weather.mailasail.com/charts/PPVA89.PNG)  <br />
-send [http://weather.mailasail.com/charts/PPVE89.PNG](http://weather.mailasail.com/charts/PPVE89.PNG)  <br />
-send [http://weather.mailasail.com/charts/PPVG89.PNG](http://weather.mailasail.com/charts/PPVG89.PNG)  <br />
-send [http://weather.mailasail.com/charts/PPVI89.PNG](http://weather.mailasail.com/charts/PPVI89.PNG)  <br />
-send [http://weather.mailasail.com/charts/PPVJ89.PNG](http://weather.mailasail.com/charts/PPVJ89.PNG)  <br />
-send [http://weather.mailasail.com/charts/PPVK89.PNG](http://weather.mailasail.com/charts/PPVK89.PNG)  <br />
-send [http://weather.mailasail.com/charts/PPVL89.PNG](http://weather.mailasail.com/charts/PPVL89.PNG)  <br />
-send [http://weather.mailasail.com/charts/PPVM89.PNG](http://weather.mailasail.com/charts/PPVM89.PNG)  <br />
-send [http://weather.mailasail.com/charts/PPVO89.PNG](http://weather.mailasail.com/charts/PPVO89.PNG)  <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_weu_ana.png <br />
+[http://weather.mailasail.com/charts/PPVA89.PNG](http://weather.mailasail.com/charts/PPVA89.PNG)  <br />
+[http://weather.mailasail.com/charts/PPVE89.PNG](http://weather.mailasail.com/charts/PPVE89.PNG)  <br />
+[http://weather.mailasail.com/charts/PPVG89.PNG](http://weather.mailasail.com/charts/PPVG89.PNG)  <br />
+[http://weather.mailasail.com/charts/PPVI89.PNG](http://weather.mailasail.com/charts/PPVI89.PNG)  <br />
+[http://weather.mailasail.com/charts/PPVJ89.PNG](http://weather.mailasail.com/charts/PPVJ89.PNG)  <br />
+[http://weather.mailasail.com/charts/PPVK89.PNG](http://weather.mailasail.com/charts/PPVK89.PNG)  <br />
+[http://weather.mailasail.com/charts/PPVL89.PNG](http://weather.mailasail.com/charts/PPVL89.PNG)  <br />
+[http://weather.mailasail.com/charts/PPVM89.PNG](http://weather.mailasail.com/charts/PPVM89.PNG)  <br />
+[http://weather.mailasail.com/charts/PPVO89.PNG](http://weather.mailasail.com/charts/PPVO89.PNG)  <br />
 
 ----
 Nordatlantic:  <br />
 
 Synopsis: <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_na_ana.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_030.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_036.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_048.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_060.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_084.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_108.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/na_00.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_na_ana.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_030.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_036.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_048.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_060.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_084.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_108.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
 
 Temperature 500 hPa: <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_024.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_048.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_072.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_024.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_048.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_072.png <br />
 
 Relative humidity 700 hPa: <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_ana.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_024.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_048.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_072.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_ana.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_024.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_048.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_072.png <br />
 
 Temperature 850 hPa: <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_ana.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_024.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_048.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_072.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_wassertemp_na_ana.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_ana.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_024.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_048.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_072.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_wassertemp_na_ana.png <br />
 
 ----
 Nordsee: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_00.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_24.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_48.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_72.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_00.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_24.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_48.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/nordsa_72.png <br />
 
 ----
 Ostsee: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_00.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_24.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_48.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_72.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_00.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_24.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_48.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/ostsa_72.png <br />
 
 ----
 Ostatlantic: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_00.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_24.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_48.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_72.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_00.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_24.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_48.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/oantik_72.png <br />
 
 ----
 Westiches Mittelmeer: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_00.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_24.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_48.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_72.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_00.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_24.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_48.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/wmitme_72.png <br />
 
 ----
 Ostliches Mittelmeer: 
 
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_00.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_24.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png <br />
-send http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_00.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_24.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 
 ----
 [WMO/METAR HIGH cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
