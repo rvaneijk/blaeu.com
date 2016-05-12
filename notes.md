@@ -169,7 +169,7 @@ http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 | **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrocumulus alone, or cirrocumulus predominant among the CH clouds |
 
 ----
-METAR/WMO MEDIUM cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
+[METAR/WMO MEDIUM cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
 
 |     | Symbols |
 | --- |:-------:|![WeatherSymbol_WMO_CloudMedium_CM_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_1.svg)|
@@ -192,7 +192,7 @@ METAR/WMO MEDIUM cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSy
 | **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus of a chaotic sky, generally at several levels |
 
 ---
-METAR/WMO LOW cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
+[METAR/WMO LOW cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
 
 
 |     | Symbols |
