@@ -37,6 +37,9 @@ send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://f
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=06:00 interval=24 <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=14:00 interval=24 <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=19:00 interval=24 <br />
+send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=06:00 interval=24 <br />
+send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=14:00 interval=24 <br />
+send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=19:00 interval=24 <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/) time=19:00 interval=24 <br />
 
 KNMI: <br />
