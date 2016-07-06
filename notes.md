@@ -1472,6 +1472,7 @@ Solution: sudo apt-get install texlive-full
 
 Swiss knife
 ===================
+  * [Firefox privacy settings](https://addons.mozilla.org/firefox/addon/privacy-settings/)
   * Transscription [Transscribe](https://transcribe.wreally.com/login)
   * Search: [Shodan](http://www.shodanhq.com/)
  , [WolframAlfa](https://www.wolframalpha.com/)
