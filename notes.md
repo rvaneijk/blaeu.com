@@ -3,6 +3,13 @@ NOTES
 
 Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
+HAM
+===================
+[RFI]([QSO gemist](http://qsogemist.nl/), http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile)
+, [PA1ETE](http://shorties.be/podcast/?C=M;O=D), [PA3ANG](http://pa3ang.nl/wp/), [DMR borrelronde](http://ham-dmr.nl/?p=5089) <br />
+[RedPita](http://redpitaya.com/) <br />
+
+
 HF email
 ===================
 Vertrekkers: [Crevecoeur](http://www.crevecoeur.nl/tips-voor-vertrekkers-voor-een-rondje-atlantic.html) </br />
