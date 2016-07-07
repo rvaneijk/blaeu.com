@@ -3,7 +3,7 @@ NOTES
 
 Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
-HAM
+Ham spirit
 ===================
 [QSO gemist](http://qsogemist.nl/), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [PA3ANG](http://pa3ang.nl/wp/), [Delftse DMR ronde](http://ham-dmr.nl/?p=5089) <br />
 [RedPita](http://redpitaya.com/), [NL hackathons](https://www.eventbrite.nl/d/nederland--rotterdam/events/) <br />
