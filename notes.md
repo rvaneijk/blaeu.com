@@ -5,8 +5,8 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 Ham spirit
 ===================
-[QSO gemist](http://qsogemist.nl/), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [Delftse DMR ronde (zo, 12h00](http://hose.brandmeister.network/2042/) <br />
-[RedPita](http://redpitaya.com/), [NL hackathons](https://www.eventbrite.nl/d/nederland--rotterdam/events/) <br />
+[QSO gemist](http://qsogemist.nl/), [Delftse DMR ronde (zo, 12h00)](http://hose.brandmeister.network/2042/) , [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
+[PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [RedPita](http://redpitaya.com/), [EB](https://www.eventbrite.nl/d/nederland--rotterdam/events/) <br />
 
 
 HF email
