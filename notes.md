@@ -15,7 +15,7 @@ Wo: - <br />
 Do: - <br />
 Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/) <br />
 Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
-Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Radiogram (MFSK32, 02h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=15670am) <br />
+Zo: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=15670am) , [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Radiogram (MFSK32, 02h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am) <br />
 
 160 METER: <br />
 [1807](http://websdr.ewi.utwente.nl:8901/?tune=1807usb) - PSK31, MT63 and MFSK <br />
