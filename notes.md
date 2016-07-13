@@ -7,13 +7,13 @@ Ham spirit
 ===================
 [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda) [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA) <br />
 
-OnAir: [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am) <br />
+OnAir: PA0ETE (PI2NOS, 10h30 en 19h00), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://www.youtube.com/user/K0RUSHam)  <br />
 Ma: - <br />
 Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde) <br />
 Wo: - <br />
 Do: - <br />
-Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/) <br />
+Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), PA0ETE (PI3UTR, 22h30) <br />
 Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
 Zo: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=15670am) , [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Radiogram (MFSK32, 02h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am) <br />
 
