@@ -5,10 +5,18 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 Ham spirit
 ===================
-[QSO gemist](http://qsogemist.nl/), [20m BPSF-31](http://websdr.ewi.utwente.nl:8901/?tune=14070usb), [DMR IJsselmond](http://hose.brandmeister.network/20441/), [DMR Nederland](http://hose.brandmeister.network/204/), [Delftse DMR ronde (zo, 12h00)](http://hose.brandmeister.network/2042/), [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
-[PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda) [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [G3YUH cw keys](http://www.ronayling.dsl.pipex.com/) <br />
-[DigiDX in MFSK32 en ander modes daily 18h30 - 19h00 UTC](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC in MFSK32 0130 UTC](http://websdr.ewi.utwente.nl:8901/?tune=9925am)  <br />
-[VOA Radiogram in MFSK32](http://voaradiogram.net/): [Sa, 09h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [Sa, 16h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=17580am), [Sun, 02h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [Sun, 09h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=15670am), [VOA Radiogram (archiefje)](https://www.youtube.com/user/K0RUSHam) <br />
+[PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda) [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA) <br />
+
+
+OnAir: [20m BPSF-31](http://websdr.ewi.utwente.nl:8901/?tune=14070usb), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=9925am) <br />
+Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://www.youtube.com/user/K0RUSHam)  <br />
+Ma:  <br />
+Di:  <br />
+Wo:  <br />
+Do:  <br />
+Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/) <br />
+Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
+Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Radiogram (MFSK32, 02h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=15670am) <br />
 
 HF email
 ===================
