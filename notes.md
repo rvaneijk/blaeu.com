@@ -7,7 +7,7 @@ Ham spirit
 ===================
 [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda) [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA) <br />
 
-OnAir: [20m BPSF31](http://websdr.ewi.utwente.nl:8901/?tune=14070usb), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=9925am) <br />
+OnAir: [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=9925am) <br />
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://www.youtube.com/user/K0RUSHam)  <br />
 Ma: - <br />
 Di: - <br />
@@ -38,7 +38,7 @@ Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Ra
 20 meters <br />
 [14064.5](http://websdr.ewi.utwente.nl:8901/?tune=14064.5usb) - Clover <br />
 [14065](http://websdr.ewi.utwente.nl:8901/?tune=14065usb)  - Clover <br />
-[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - Just about everything MixW offers can be found here <br />
+[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31 and just about everything MixW offers can be found here <br />
 [14109](http://websdr.ewi.utwente.nl:8901/?tune=14109usb)  - Mostly MT63, some MFSK and occasional Q15X25 <br />
 [14109.5](http://websdr.ewi.utwente.nl:8901/?tune=14109.5usb) - Q15X25 - MixW centers at 1375Hz above VFO frequency  <br />
 [14111](http://websdr.ewi.utwente.nl:8901/?tune=14111usb)  - same as 14109.5 <br />
