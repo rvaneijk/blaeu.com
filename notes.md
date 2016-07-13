@@ -28,7 +28,7 @@ Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Ra
 
 40 METER: <br />
 [7030](http://websdr.ewi.utwente.nl:8901/?tune=7030usb) - PSK31 - Europe PSK frequency <br />
-[7035](http://websdr.ewi.utwente.nl:8901/?tune=7035usb) - PSK31, MT63, digital modes for all DX 7037 - MT63 - Europe MT63  <br />
+[7035](http://websdr.ewi.utwente.nl:8901/?tune=7035usb) - PSK31, MT63  <br />
 [7035 ](http://websdr.ewi.utwente.nl:8901/?tune=7035usb) - PSK31 <br />
 
 30 meters <br />
@@ -38,19 +38,19 @@ Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Ra
 20 meters <br />
 [14064.5](http://websdr.ewi.utwente.nl:8901/?tune=14064.5usb) - Clover <br />
 [14065](http://websdr.ewi.utwente.nl:8901/?tune=14065usb)  - Clover <br />
-[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31 and just about everything MixW offers can be found here <br />
-[14109](http://websdr.ewi.utwente.nl:8901/?tune=14109usb)  - Mostly MT63, some MFSK and occasional Q15X25 <br />
+[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31 and other modes <br />
+[14109](http://websdr.ewi.utwente.nl:8901/?tune=14109usb)  - MT63, some MFSK and occasional Q15X25 <br />
 [14109.5](http://websdr.ewi.utwente.nl:8901/?tune=14109.5usb) - Q15X25 - MixW centers at 1375Hz above VFO frequency  <br />
-[14111](http://websdr.ewi.utwente.nl:8901/?tune=14111usb)  - same as 14109.5 <br />
-[14113](http://websdr.ewi.utwente.nl:8901/?tune=14113usb)  - same as 14109.5 <br />
-[14115](http://websdr.ewi.utwente.nl:8901/?tune=14115usb)  - same as 14109.5 <br />
+[14111](http://websdr.ewi.utwente.nl:8901/?tune=14111usb)  - idem <br />
+[14113](http://websdr.ewi.utwente.nl:8901/?tune=14113usb)  - idem <br />
+[14115](http://websdr.ewi.utwente.nl:8901/?tune=14115usb)  - idem <br />
 
 17 METER: <br />
 [18100](http://websdr.ewi.utwente.nl:8901/?tune=18100usb)  - PSK, MT63 and other modes <br />
 
 15 METER: <br />
-[21109](http://websdr.ewi.utwente.nl:8901/?tune=21109usb)  - PSK, MT63 and other modes - MT63 on sked <br />
-[21130](http://websdr.ewi.utwente.nl:8901/?tune=21130usb)  - PSK, MT63 and other modes - EU <br />
+[21109](http://websdr.ewi.utwente.nl:8901/?tune=21109usb)  - PSK, MT63 and other modes <br />
+[21130](http://websdr.ewi.utwente.nl:8901/?tune=21130usb)  - PSK, MT63 and other modes <br />
 [21070](http://websdr.ewi.utwente.nl:8901/?tune=21070usb)  - PSK, MT63 and other modes <br />
 
 12 METER: <br />
