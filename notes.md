@@ -7,7 +7,7 @@ Ham spirit
 ===================
 [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda) [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA) <br />
 
-OnAir: [20m BPSF-31](http://websdr.ewi.utwente.nl:8901/?tune=14070usb), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=9925am) <br />
+OnAir: [20m BPSF31](http://websdr.ewi.utwente.nl:8901/?tune=14070usb), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC](http://websdr.ewi.utwente.nl:8901/?tune=9925am) <br />
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://www.youtube.com/user/K0RUSHam)  <br />
 Ma: - <br />
 Di: - <br />
@@ -16,6 +16,43 @@ Do: - <br />
 Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/) <br />
 Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
 Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Radiogram (MFSK32, 02h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=15670am) <br />
+
+160 meters <br />
+[1807](http://websdr.ewi.utwente.nl:8901/?tune=1807usb) - PSK31, MT63 and MFSK
+[1838](http://websdr.edi.utwente.nl:8901/?tune=1838usb) - PSK31 and MFSK <br />
+80 meters <br />
+[3580](http://websdr.edi.utwente.nl:8901/?tune=3580usb) - PSK31 and PSK63 <br />
+[3582](http://websdr.edi.utwente.nl:8901/?tune=3582usb) - MFSK16 and MT63 500Hz Short <br /> interleave
+[3585](http://websdr.edi.utwente.nl:8901/?tune=3585usb) - MT63 1000Hz Long <br />
+40 meters <br />
+[7030](http://websdr.edi.utwente.nl:8901/?tune=7030usb) - PSK31 - Europe PSK frequency <br />
+[7035](http://websdr.edi.utwente.nl:8901/?tune=7035usb) - PSK31, MT63, digital modes for <br /> all DX 7037 - MT63 - Europe MT63
+[7035 ](http://websdr.edi.utwente.nl:8901/?tune=7035usb) - PSK31 <br />
+30 meters <br />
+[10132](http://websdr.edi.utwente.nl:8901/?tune=10132usb)  through 10139 - PSK31 and other <br /> modes
+[10137](http://websdr.edi.utwente.nl:8901/?tune=10137usb)  - MT63 <br />
+20 meters <br />
+[14064.5](http://websdr.edi.utwente.nl:8901/?tune=14064.5usb) - Clover <br />
+[14065](http://websdr.edi.utwente.nl:8901/?tune=14065usb)  - Clover <br />
+[14070](http://websdr.edi.utwente.nl:8901/?tune=14070usb)  - Just about everything MixW <br /> offers can be found here
+[14109](http://websdr.edi.utwente.nl:8901/?tune=14109usb)  - Mostly MT63, some MFSK and <br /> occasional Q15X25
+[14109.5](http://websdr.edi.utwente.nl:8901/?tune=14109.5usb) - Q15X25 - MixW centers at <br /> 1375Hz above VFO frequency. 
+[14111](http://websdr.edi.utwente.nl:8901/?tune=14111usb)  - same as 14109.5 <br />
+[14113](http://websdr.edi.utwente.nl:8901/?tune=14113usb)  - same as 14109.5 <br />
+[14115](http://websdr.edi.utwente.nl:8901/?tune=14115usb)  - same as 14109.5 <br />
+17 meters <br />
+[18100](http://websdr.edi.utwente.nl:8901/?tune=18100usb)  - PSK, MT63 and other modes <br />
+15 meters <br />
+[21109](http://websdr.edi.utwente.nl:8901/?tune=21109usb)  - PSK, MT63 and other modes - <br /> MT63 on sked
+[21130](http://websdr.edi.utwente.nl:8901/?tune=21130usb)  - PSK, MT63 and other modes - EU <br />
+[21070](http://websdr.edi.utwente.nl:8901/?tune=21070usb)  - PSK, MT63 and other modes <br />
+12 meters <br />
+[24920](http://websdr.edi.utwente.nl:8901/?tune=24920usb)  - PSK, MT63 and other modes <br />
+[24930](http://websdr.edi.utwente.nl:8901/?tune=24930usb)  - MT63 in Europe, although this <br /> is the upper edge of the CW/data subband in the US and is the 12m NCDXF beacon [frequ](http://websdr.edi.utwente.nl:8901/?tune=frequusb) ency <br />
+10 meters <br />
+[28120](http://websdr.edi.utwente.nl:8901/?tune=28120usb)  - PSK, MT63 and other modes <br />
+[28130](http://websdr.edi.utwente.nl:8901/?tune=28130usb)  - PSK, MT63 and other modes <br />
+
 
 HF email
 ===================
