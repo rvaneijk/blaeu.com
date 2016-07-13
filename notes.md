@@ -10,7 +10,7 @@ Ham spirit
 OnAir: [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am) <br />
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://www.youtube.com/user/K0RUSHam)  <br />
 Ma: - <br />
-Di: - <br />
+Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde) <br />
 Wo: - <br />
 Do: - <br />
 Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/) <br />
