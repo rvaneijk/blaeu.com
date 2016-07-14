@@ -65,6 +65,7 @@ De eigenschappen liggen tussen die van de 17 meterband en de 12 meterband in. Va
 [28120](http://websdr.ewi.utwente.nl:8901/?tune=28120usb)  - PSK, MT63 and other modes <br />
 [28130](http://websdr.ewi.utwente.nl:8901/?tune=28130usb)  - PSK, MT63 and other modes <br />
 
+Zie o.a. [PE1ORG](http://www.pe1org.diwil.nl/documents/amateur_banden.htm)
 
 HF email
 ===================
