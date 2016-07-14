@@ -14,7 +14,7 @@ Weather: [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://e
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://www.youtube.com/user/K0RUSHam)  <br />
 Ma: - <br />
 Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde) <br />
-Wo: [IBC (MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am) <br />
+Wo: PI4HAL, [IBC (MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am) <br />
 Do: - <br />
 Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), PA00NEWS (PI3UTR, 22h30) <br />
 Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [via NJ antenne](http://71.172.24.227:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
