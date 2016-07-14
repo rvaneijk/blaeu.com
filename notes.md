@@ -8,13 +8,12 @@ Ham spirit
 [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar), [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [ASIO soundcard](http://www.bhphotovideo.com/c/product/616367-REG/Behringer_UCA222_UCA222_USB_1_1.html), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/) <br />
 
 OnAir: Daily Minutes (PI2NOS, 10h30 en 19h00), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
-PI4HAL: (1) VHF 2 meter [145.525 Mhz FM](http://erc-websdr.esa.int/?tune=145525fm) / [144.320 Mhz. ssb verticaal](http://erc-websdr.esa.int/?tune=144320lsb), (2) HF
-40 meter [7.080 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=3570cw) <br />
 Weather: [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://www.youtube.com/user/K0RUSHam)  <br />
 Ma: - <br />
 Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde) <br />
-Wo: PI4HAL, [IBC (MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am) <br />
+Wo: [IBC (MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), PI4HAL: (1) VHF 2 meter [145.525 Mhz FM](http://erc-websdr.esa.int/?tune=145525fm) / [144.320 Mhz. ssb verticaal](http://erc-websdr.esa.int/?tune=144320lsb), (2) HF
+40 meter [7.080 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=3570cw) <br />
 Do: - <br />
 Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), PA00NEWS (PI3UTR, 22h30) <br />
 Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [via NJ antenne](http://71.172.24.227:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
