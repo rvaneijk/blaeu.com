@@ -41,7 +41,7 @@ Minder geschikt voor korte afstand. 's Nachts redelijk geschikt voor het lange a
 20 METER: Spraak vanaf 14,10 MHz, DX rond 14,20 MHz, 's avonds zijn er vooral stations van over de gehele wereld te horen. Dit is een band voor het DX-verkeer. <br />
 [14064.5](http://websdr.ewi.utwente.nl:8901/?tune=14064.5usb) - Clover <br />
 [14065](http://websdr.ewi.utwente.nl:8901/?tune=14065usb)  - Clover <br />
-[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31 and other modes <br />
+[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31 and other modes \<- <br />
 [14109](http://websdr.ewi.utwente.nl:8901/?tune=14109usb)  - MT63, some MFSK and occasional Q15X25 <br />
 [14109.5](http://websdr.ewi.utwente.nl:8901/?tune=14109.5usb) - Q15X25 - MixW centers at 1375Hz above VFO frequency  <br />
 [14111](http://websdr.ewi.utwente.nl:8901/?tune=14111usb)  - idem <br />
