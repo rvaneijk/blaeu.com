@@ -18,25 +18,26 @@ Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigin
 Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [via NJ antenne](http://71.172.24.227:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
 Zo: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=15670am) , [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Radiogram (MFSK32, 02h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [via NJ antenne](http://71.172.24.227:8902/?tune=5745am) <br />
 
-160 METER: <br />
+160 METER: Overdag zijn lokale verbindingen door grondgolven tot ca. 50km over land, maar een grotere afstand over zee is mogelijk. Het hele jaar bruikbaar. 's Nachts zijn doorgaans afstanden mogelijk van ca. 800km   tot enige duizenden kilimeters. In de zomer moet rekening gehouden worden met ernstige statische etherstoring. <br />
 [1807](http://websdr.ewi.utwente.nl:8901/?tune=1807usb) - PSK31, MT63 and MFSK <br />
 [1838](http://websdr.ewi.utwente.nl:8901/?tune=1838usb) - PSK31 and MFSK <br />
 
-80 METER: <br />
+80 METER: Altijd zijn er Europese stations te beluisteren. 's Avonds zijn zij het sterkst; het bereik omvat hier doorgaans West-Europa. Daardoor zijn er veel zendamateurs uit ons land en omringende landen aan te treffen. 's Nachts zijn de te overbruggen afstanden erg variabel maar enige duizenden kilometers kunnen in de winter worden overbrugd. <br />
 [3580](http://websdr.ewi.utwente.nl:8901/?tune=3580usb) - PSK31 and PSK63 <br />
 [3582](http://websdr.ewi.utwente.nl:8901/?tune=3582usb) - MFSK16 and MT63 500Hz Short interleave <br />
 [3585](http://websdr.ewi.utwente.nl:8901/?tune=3585usb) - MT63 1000Hz Long <br />
 
-40 METER: <br />
+40 METER: Spraak vanaf  7,04 MHz, er zijn voornamelijk stations uit Europa te horen. Dezelfde gegevens als de 80 meterband, maar de maximale afstanden zijn meestal groter. <br />
 [7030](http://websdr.ewi.utwente.nl:8901/?tune=7030usb) - PSK31 - Europe PSK frequency <br />
 [7035](http://websdr.ewi.utwente.nl:8901/?tune=7035usb) - PSK31, MT63  <br />
 [7035 ](http://websdr.ewi.utwente.nl:8901/?tune=7035usb) - PSK31 <br />
 
-30 meters <br />
+30 METER: Alleen morse. Overdag een goede band voor lange afstandsverkeer (DX).
+Minder geschikt voor korte afstand. 's Nachts redelijk geschikt voor het lange afstandsverkeer (DX) tijdens bepaalde jaargetijden. <br />
 [10132](http://websdr.ewi.utwente.nl:8901/?tune=10132usb)  through 10139 - PSK31 and other modes <br />
 [10137](http://websdr.ewi.utwente.nl:8901/?tune=10137usb)  - MT63 <br />
 
-20 meters <br />
+20 METER: Spraak vanaf 14,10 MHz, DX rond 14,20 MHz, 's avonds zijn er vooral stations van over de gehele wereld te horen. Dit is een band voor het DX-verkeer. <br />
 [14064.5](http://websdr.ewi.utwente.nl:8901/?tune=14064.5usb) - Clover <br />
 [14065](http://websdr.ewi.utwente.nl:8901/?tune=14065usb)  - Clover <br />
 [14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31 and other modes <br />
@@ -46,19 +47,21 @@ Zo: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=
 [14113](http://websdr.ewi.utwente.nl:8901/?tune=14113usb)  - idem <br />
 [14115](http://websdr.ewi.utwente.nl:8901/?tune=14115usb)  - idem <br />
 
-17 METER: <br />
+17 METER: Een prima band voor lange afstandsverkeer (DX). <br />
 [18100](http://websdr.ewi.utwente.nl:8901/?tune=18100usb)  - PSK, MT63 and other modes <br />
 
-15 METER: <br />
+15 METER: Spraak vanaf  21,100 MHz. Zendamateurs van alle delen van de wereld zijn in deze band vaak te beluisteren. Laat in de avond is deze band meestal niet bruikbaar. Er is een sterke beinvloeding door ionosferische omstandigheden merkbaar (condities). Deze band wordt meestal voor het DX-verkeer gebruikt.
+De eigenschappen liggen tussen die van de 17 meterband en de 12 meterband in. Vaak is de band 'open' als de 10meter band 'dicht' is. <br />
 [21109](http://websdr.ewi.utwente.nl:8901/?tune=21109usb)  - PSK, MT63 and other modes <br />
 [21130](http://websdr.ewi.utwente.nl:8901/?tune=21130usb)  - PSK, MT63 and other modes <br />
 [21070](http://websdr.ewi.utwente.nl:8901/?tune=21070usb)  - PSK, MT63 and other modes <br />
 
-12 METER: <br />
+12 METER: Overdag kan op deze band-afhankelijk van de ionosferische omstandigheden-uitstekend lange afstandsverkeer (DX) worden gewerkt. 's Nachts alleen geschikt  voor lokale grondgolf verbindingen. <br />
 [24920](http://websdr.ewi.utwente.nl:8901/?tune=24920usb)  - PSK, MT63 and other modes <br />
 [24930](http://websdr.ewi.utwente.nl:8901/?tune=24930usb)  - MT63 <br />
 
-10 METER: <br />
+10 METER: Spraak vanaf  28,200 MHz,  DX rond 28,500 MHz. Deze band is alleen gedurende bepaalde periodes bruikbaar en dan nog voornamelijk overdag. Er is een nog sterkere invloed van condities dan op 15 meter. Tijdens de goede condities vindt er veel DX-verkeer op plaats. Overdag is deze band af en toe beter dan de 20meter band, maar dat is sterk afhankelijk van ionosferische omstandigheden. Grondgolf verbindingen zijn vaak slecht.
+'s Nachts alleen geschikt voor lokale grondgolf verbindingen. <br />
 [28120](http://websdr.ewi.utwente.nl:8901/?tune=28120usb)  - PSK, MT63 and other modes <br />
 [28130](http://websdr.ewi.utwente.nl:8901/?tune=28130usb)  - PSK, MT63 and other modes <br />
 
