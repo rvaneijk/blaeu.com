@@ -9,7 +9,7 @@ Ham spirit
 
 OnAir: Daily Minutes (PI2NOS, 10h30 en 19h00), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
 PI4HAL: (1) VHF 2 meter [145.525 Mhz FM](http://erc-websdr.esa.int/?tune=145525fm) / [144.320 Mhz. ssb verticaal](http://erc-websdr.esa.int/?tune=144320ssb), (2) HF
-40 meter [7.080 Mhz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Mhz](http://websdr.ewi.utwente.nl:8901/?tune=7020cw) CW; (3) HF 80 meter [3.635 Mhz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb)) / [3.570 Mhz](http://websdr.ewi.utwente.nl:8901/?tune=3570cw)) CW <br />
+40 meter [7.080 Mhz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Mhz CW](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Mhz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Mhz CW](http://websdr.ewi.utwente.nl:8901/?tune=3570cw) <br />
 Weather: [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://www.youtube.com/user/K0RUSHam)  <br />
 Ma: - <br />
