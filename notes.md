@@ -107,6 +107,8 @@ send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt
 send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=06:00 interval=24 <br />
 send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=14:00 interval=24 <br />
 send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=19:00 interval=24 <br />
+send http://www.estofex.org/forecasts/tempmap/.png  time=06:30:00 interval=24 <br />
+send http://old.wetterzentrale.de/pics/MS_065530_g05.png  time=06:30:00 interval=24 <br />
 send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/) time=19:00 interval=24 <br />
 
 KNMI: <br />
