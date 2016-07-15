@@ -5,7 +5,7 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 Ham spirit
 ===================
-[WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar), [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [ASIO soundcard](http://www.bhphotovideo.com/c/product/616367-REG/Behringer_UCA222_UCA222_USB_1_1.html), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/) <br />
+[WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar), [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [ASIO soundcard](http://www.bhphotovideo.com/c/product/616367-REG/Behringer_UCA222_UCA222_USB_1_1.html), [USB powered ASIO soundcard](http://www.ebay.com/itm/Black-SMSL-VMV-Magic-CM6631A-AK4390-32bit-192kHz-ASIO-Sound-Card-USB-DAC-Coaxial-/252411922483), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/),  [APT-06/MX-137 NOAA receiver](http://www.wraase.de/e_hardw.htm) <br />
 
 OnAir: Daily Minutes (PI2NOS, 10h30 en 19h00), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
 Weather: [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
@@ -74,7 +74,7 @@ Vertrekkers: [Crevecoeur](http://www.crevecoeur.nl/tips-voor-vertrekkers-voor-ee
 Marifoon: Nederlandse Kustwacht: weerbericht voor de kust- en ruime binnenwateren op marifoonkanalen 23 en 83 om 08.05u, 13.05u, 19.05u en 23.05u (lokale tijd). <br />
 Bekendmakingen: [P en T-lijst](https://www.defensie.nl/onderwerpen/berichten-aan-zeevarenden/inhoud/periodieke-lijsten), [RWS vaarwegenoverzicht](http://www.rijkswaterstaat.nl/water/vaarwegenoverzicht/index.aspx), [Bekendmakingen Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx), [Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363), [Binnenvaart NL](http://nos.nl/teletekst#721), [Binnenvaart EU](http://nos.nl/teletekst#722), [Havenbeheersverordening](https://www.portofrotterdam.com/nl/file/421/download?token=Cwj6YhYn), [Vaarsnelheid Rdam](http://portofrotterdam.com/vaarsnelheid), [Tabel aktuele Vaarsnelheid Rdam](http://vaarsnelheden.mx-systems.nl/por/por_wap.htm), [Ligplaatsen voor de binnenvaart (niet recreatie)](https://blauwegolfverbindend.nl/kaart) <br />
 Getij: [Zon en Maan](http://nos.nl/teletekst#718), [waterhoogte NAP](http://www.rijkswaterstaat.nl/kaarten/waterstand-tov-nap.aspx), [NAP kentering R'dam](http://mx-systems.nl/osr/page/rotterdam.htm), [OLW R'dam](http://getij.rws.nl/getij_resultaat.cfm?location=ROTTDM), [LAT EasyTide R'dam](http://www.ukho.gov.uk/easytide/EasyTide/ShowPrediction.aspx?PortID=1508&PredictionLength=7&DaylightSavingOffset=0&PrinterFriendly=True&HeightUnits=0&GraphSize=7), [Rotterdam Rijnmond Stroomatlas] (http://www.wetwetwet.nl/stroomatlas/index.php?lang=nl), [Actuele waterstand R'dam](http://www.rijkswaterstaat.nl/apps/geoservices/rwsnl/awd.php?mode=html&projecttype=waterstanden&category=1&loc=ROTT&net=LMW), [TideMap R'dam](http://tides.mobilegeographics.com/locations/5419.html), [TotalTides](http://www.ukho.gov.uk/ProductsandServices/DigitalPublications/Pages/ATT.aspx), [NL Tides](https://www.defensie.nl/onderwerpen/hydrografie/inhoud/nautische-producten/nautische-computerprogramma%E2%80%99s/nltides---hp33d)   <br />
-Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [actuele windwaarneming](https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png), [Teletekst bewolking](http://nos.nl/teletekst#707_2), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [xcweather](http://www.xcweather.co.uk/forecast/rotterdam), [buienalarm](http://www.buienalarm.be/location/rotterdam), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://ww2010.atmos.uiuc.edu/%28Gh%29/home.rxml) <br />
+Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [actuele windwaarneming](https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png), [DWD 10d Meteogramm](http://www.wetterzentrale.de/pics/MS_065530_g05.png), [WXSIM forecast](http://www.weerstation-grootegast.nl/sivu5.php), [Teletekst bewolking](http://nos.nl/teletekst#707_2), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [xcweather](http://www.xcweather.co.uk/forecast/rotterdam), [buienalarm](http://www.buienalarm.be/location/rotterdam), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [9 day forcast Grootegast](http://www.weerstation-grootegast.nl/wxall3/verwachting3.php?lang=nl), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://ww2010.atmos.uiuc.edu/%28Gh%29/home.rxml) <br />
 [Neerslagradar KNMI](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif), [NL](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent), [D](http://www.dwd.de/DWD/wetter/radar/radfilm_brd_akt.gif), [EU](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent), [satelliet](http://api.buienradar.nl/image/image.ashx?k=3&amp;l=1&amp;c=eu), [infrarood](http://www.meteociel.fr/accueil/sat24ir.gif)  <br \>
 [Wetterkartesymbole](http://www.dwd.de/DE/service/lexikon/begriffe/B/Bodenwetterkartensymbole_pdf.pdf?__blob=publicationFile&v=5), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg), [Present Weather METAR/WMO symbols](http://weather.rap.ucar.edu/info/about_wxsymbol.html), [wolkenatlas](http://www.wolkenatlas.de/), [wolkengeslachten](https://nl.wikipedia.org/wiki/Wolkengeslacht), Flight Level FL350 = 35,000 ft = 10.668 m, [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms), [MET forecast locations](http://static.bbci.co.uk/weather/0.5.350/images/coast-and-sea/shipping-forecast-locations.png), [MET high seas locations](http://static.bbci.co.uk/weather/0.5.350/images/coast-and-sea/high-seas-locations.png), [MET inland forcast locations](http://www.metoffice.gov.uk/public/weather/marine-inshore-waters/#iw7)  <br />
 [DWD Seewettrerbericht](http://www.deutschlandradio.de/seewetter.275.de.html), [BBC4 shipping forcast](http://www.bbc.co.uk/programmes/b006qfvv) <br \>
@@ -155,24 +155,32 @@ http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_084.pn
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_108.png <br />
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
 
-Temperature 500 hPa: <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_024.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_048.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_072.png <br />
+Thunderstorms: <br />
+[storm forecast ESTOFAX](http://estofex.org/cgi-bin/polygon/showforecast.cgi?lightningmap=yes) <br />
 
-Relative humidity 700 hPa: <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_ana.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_024.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_048.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_700rf_na_072.png <br />
+A thunderstorm is predicted when all three factors (CAPE, lift, and  Vertical movement 700 hPa) are present. <br />
 
-Temperature 850 hPa: <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_ana.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_024.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_048.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_850ht_na_072.png <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_wassertemp_na_ana.png <br />
+Thunderstorm factors (1) CAPE and (2) lift: <br />
+http://www.wetterzentrale.de/pics/Rmgfs036.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs066.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs096.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs126.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs156.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs186.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs216.gif <br />
+
+
+Thunderstorm factors (3) Vertical movement 700 hPa: <br />
+http://www.wetterzentrale.de/pics/Rmgfs037.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs067.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs097.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs127.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs157.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs187.gif <br />
+http://www.wetterzentrale.de/pics/Rmgfs217.gif <br />
+
+
+
 
 ----
 Nordsee: 
