@@ -16,8 +16,10 @@ Wo: [IBC (MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?
 40 meter [7.080 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=3570cw) <br />
 Do: - <br />
 Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), PA00NEWS (PI3UTR, 22h30) <br />
-Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [via NJ antenne](http://71.172.24.227:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
-Zo: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=15670am) , [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Radiogram (MFSK32, 02h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [via NJ antenne](http://71.172.24.227:8902/?tune=5745am) <br />
+Za: [VAO Radiogram (MFSK32, 09h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [via NJ antenne](http://71.172.24.227:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h30 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
+Zo: [VAO Radiogram (MFSK32, 09h30 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=15670am) , [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/), [VAO Radiogram (MFSK32, 02h30 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=5745am), [via NJ antenne](http://71.172.24.227:8902/?tune=5745am) <br />
+
+* The shortwave transmissions marked with an * are usually audible in Europe. <br />
 
 160 METER: Overdag zijn lokale verbindingen door grondgolven tot ca. 50km over land, maar een grotere afstand over zee is mogelijk. Het hele jaar bruikbaar. 's Nachts zijn doorgaans afstanden mogelijk van ca. 800km   tot enige duizenden kilimeters. In de zomer moet rekening gehouden worden met ernstige statische etherstoring. <br />
 [1807](http://websdr.ewi.utwente.nl:8901/?tune=1807usb) - PSK31, MT63 and MFSK <br />
