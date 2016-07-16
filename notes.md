@@ -7,7 +7,13 @@ Ham spirit
 ===================
 [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar), [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [ASIO soundcard](http://www.bhphotovideo.com/c/product/616367-REG/Behringer_UCA222_UCA222_USB_1_1.html), [USB powered ASIO soundcard](http://www.ebay.com/itm/Black-SMSL-VMV-Magic-CM6631A-AK4390-32bit-192kHz-ASIO-Sound-Card-USB-DAC-Coaxial-/252411922483), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/),  [APT-06/MX-137 NOAA receiver](http://www.wraase.de/e_hardw.htm), [LCWO](http://lcwo.net) <br />
 
-OnAir: Daily Minutes (PI2NOS, 10h30 en 19h00), [DMR Nederland](http://hose.brandmeister.network/204/), [DigiDX (MFSK32, 05h30 en 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [via UK](http://www.160m.net/?tune=6070am), [via AT](www.websdr.at/?tune=6070am), [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [via stream](http://stream02.audisi.nl/kbc-high) [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile), [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
+OnAir: <br />
+- Daily Minutes (PI2NOS, 10h30 en 19h00) <br />
+- [DMR Nederland](http://hose.brandmeister.network/204/) <br />
+- [DigiDX (MFSK32, 05h30 en 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [via UK](http://www.160m.net/?tune=6070am), [via AT](www.websdr.at/?tune=6070am) <br />
+- [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [via stream](http://stream02.audisi.nl/kbc-high) <br />
+- [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
+- [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
 Weather: [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
 Ma: - <br />
