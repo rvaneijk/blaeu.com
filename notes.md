@@ -18,7 +18,7 @@ OnAir: <br />
 
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
 Ma: - <br />
-Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde), [JazzKasteel](http://213.124.21.62:8000/listen.pls) <br />
+Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde), [JazzKasteel (22h00)](http://213.124.21.62:8000/listen.pls) <br />
 Wo: [IBC (MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), PI4HAL (10h00 - 17h00): (1) VHF 2 meter [145.525 Mhz FM](http://erc-websdr.esa.int/?tune=145525fm) / [144.320 Mhz. ssb verticaal](http://erc-websdr.esa.int/?tune=144320lsb), (2) HF
 40 meter [7.080 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=3570cw) <br />
 Do: - <br />
