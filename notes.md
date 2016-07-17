@@ -15,6 +15,7 @@ OnAir: <br />
 - [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
 - [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
 - [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
+- [Northwood WEFAX576](http://info.yachtcom.co.uk/weather.php): [2618.5 (2616.6) kHz](http://websdr.ewi.utwente.nl:8901/?tune=2618.5usb), [4610 (4608.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=4610usb), [8040 (8038.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=8040usb), [11086.5 (11084.6) kHz](http://websdr.ewi.utwente.nl:8901/?tune=11086.5usb), [18261 (18259.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=18261usb)  <br />
 
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
 Ma: - <br />
@@ -24,7 +25,7 @@ Wo: PI4HAL (10h00 - 17h00) (check skipzone): (1) VHF 2 meter [145.525 Mhz FM](ht
 Do: - <br />
 Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), PA00NEWS (PI3UTR, 22h30) <br />
 Za: [PI4VRZ 10h00 cw, 10h30 RTTY/PSK31 op 40m](http://websdr.ewi.utwente.nl:8901/?tune=7062lsb), [op 2m](http://websdr.pi1nos.ampr.org:8901/?tune=145250fm), [herh. via stream](http://stream.pi4vrz.nl:9000/webstream.mp3), [VAO Radiogram (MFSK32, 09h30 UTC via NJ)](http://71.172.24.227:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h00 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
-Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/),  [VAO Radiogram (MFSK32, 19h30 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=15670am) <br />
+Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/),  [VAO Radiogram (MFSK32, 19h30 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=15670am), [JazzKasteel (22h00)](http://213.124.21.62:8000/listen.pls) <br />
 
 VOA: the shortwave transmissions of marked with an * are usually audible in Europe. <br />
 
