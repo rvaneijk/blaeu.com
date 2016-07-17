@@ -15,8 +15,8 @@ OnAir: <br />
 - [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
 - [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
 - [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
-- [DWD WEFAX576](http://info.yachtcom.co.uk/weather.php): [3855 kHz](http://websdr.ewi.utwente.nl:8901/?tune=3855usb), [7880 kHz](http://websdr.ewi.utwente.nl:8901/?tune=7880usb), [ 13882.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune= 13882.5usb) <br />
-- [Northwood WEFAX576](http://info.yachtcom.co.uk/weather.php): [2618.5 (2616.6) kHz](http://websdr.ewi.utwente.nl:8901/?tune=2618.5usb), [4610 (4608.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=4610usb), [8040 (8038.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=8040usb), [11086.5 (11084.6) kHz](http://websdr.ewi.utwente.nl:8901/?tune=11086.5usb), [18261 (18259.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=18261usb)  <br />
+- [DWD WEFAX576](http://info.yachtcom.co.uk/weather.php): [3855 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=3855usb), [7880 kHz](http://websdr.ewi.utwente.nl:8901/?tune=7880usb), [ 13882.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune= 13882.5usb) <br />
+- [Northwood WEFAX576](http://info.yachtcom.co.uk/weather.php): [2618.5 (2616.6) kHz](http://websdr.ewi.utwente.nl:8901/?tune=2618.5usb), [4610 (4608.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=4610usb), [8040 (8038.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=8040usb), [11086.5 (11084.6) kHz*](http://websdr.ewi.utwente.nl:8901/?tune=11086.5usb), [18261 (18259.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=18261usb)  <br />
 
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
 Ma: - <br />
