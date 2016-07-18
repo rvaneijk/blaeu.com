@@ -21,8 +21,6 @@ OnAir: <br />
 - [DWD RTTY Program 2 (-1.9 KHZ usb, Rv on, Tx: Carrier Shift 85, Baud 50, 5 baudot bpc, no parity, 1.5 stop bits)](http://info.yachtcom.co.uk/weather.php): [Sendeplan 2](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/sendeplan_rtty_02_052014.pdf?__blob=publicationFile&v=1): [4583 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=4581.5usb), [7646 kHz](http://websdr.ewi.utwente.nl:8901/?tune=7644.5usb), [10100.8 kHz](http://websdr.ewi.utwente.nl:8901/?tune=10199.3am) <br />
 - [Northwood WEFAX576 (-1.9 KHZ usb, slant 0.011; record first to denoise)](http://info.yachtcom.co.uk/weather.php): [2618.5 (2616.6) kHz](http://websdr.ewi.utwente.nl:8901/?tune=2618.5usb), [4610 (4608.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=4610usb), [8040 (8038.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=8040usb), [11086.5 (11084.6) kHz*](http://websdr.ewi.utwente.nl:8901/?tune=11086.5usb), [18261 (18259.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=18261usb)  <br />
 
-Jackd/Catia: Desktop Audio Output to FLDIGI Audio Input. No bandpass needed, only digital camera noise removal (psp).  
-
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32; digital camera noise removal)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
 Ma: - <br />
 Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde), [JazzKasteel (22h00)](http://213.124.21.62:8000/listen.pls) <br />
