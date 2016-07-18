@@ -14,6 +14,9 @@ OnAir: <br />
 - [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [(herh.) via stream](http://stream02.audisi.nl/kbc-high) <br />
 - [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
 - [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
+- DSC MH/HF: [2187.5 KHz](http://websdr.ewi.utwente.nl:8901/?tune=2187.5), [4207.5 KHz](http://websdr.ewi.utwente.nl:8901/?tune=4207.5), [6312.0 KHz](http://websdr.ewi.utwente.nl:8901/?tune=6312), [8414.5 KHz](http://websdr.ewi.utwente.nl:8901/?tune=8414.5), [12577.0 KHz](http://websdr.ewi.utwente.nl:8901/?tune=12577), [16804.5 KHz](http://websdr.ewi.utwente.nl:8901/?tune=16804.5) <br /> 
+- DCS VHF: (Ch 70) 156.525 MHz, 156.525 MHz <br />
+- AIS: AIS1 (Ch 87H) 161.975 MHz, 161.975 MHz, AIS2 (Ch 88H) 162.025 MHZ, 162.025 MHz <br />
 - [NOAA operational status](http://www.ospo.noaa.gov/Operations/POES/status.html), [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
 - [NAVTEX](http://info.yachtcom.co.uk/weather.php): [490 kHz](http://websdr.ewi.utwente.nl:8901/?tune=488.5usb), [518 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=516.5usb), [4209.5  kHz](http://websdr.ewi.utwente.nl:8901/?tune=4208usb) <br />
 - [DWD Seewetter (01h05, 06,40, 18h10 via DAB+, Sat, stream)](http://ondemand-mp3.dradio.de/file/dradio/seewetter/seewetter.mp3) <br />
