@@ -5,7 +5,7 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 Ham spirit
 ===================
-[WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar), [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [ASIO soundcard](http://www.bhphotovideo.com/c/product/616367-REG/Behringer_UCA222_UCA222_USB_1_1.html), [USB powered ASIO soundcard](http://www.ebay.com/itm/Black-SMSL-VMV-Magic-CM6631A-AK4390-32bit-192kHz-ASIO-Sound-Card-USB-DAC-Coaxial-/252411922483), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/),  [APT-06/MX-137 NOAA receiver](http://www.wraase.de/e_hardw.htm), [LCWO](http://lcwo.net) <br />
+[IARU Region 1 HF Band Plan 2016 (Europe, Africa, Middle East and Northern Asia)](http://iaru-r1.org/index.php/downloads/func-download/719/chk,eeb06a4b11eda5f6ca502f3b9dd238f5/no_html,1/), [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar), [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [ASIO soundcard](http://www.bhphotovideo.com/c/product/616367-REG/Behringer_UCA222_UCA222_USB_1_1.html), [USB powered ASIO soundcard](http://www.ebay.com/itm/Black-SMSL-VMV-Magic-CM6631A-AK4390-32bit-192kHz-ASIO-Sound-Card-USB-DAC-Coaxial-/252411922483), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/),  [APT-06/MX-137 NOAA receiver](http://www.wraase.de/e_hardw.htm), [LCWO](http://lcwo.net) <br />
 
 OnAir: <br />
 - Daily Minutes (PI2NOS, 10h30 en 19h00) <br />
@@ -18,6 +18,7 @@ OnAir: <br />
 - MF/HF Voice distress calls: [4.125 MHz](http://websdr.ewi.utwente.nl:8901/?tune=4125), [6.215 MHz](http://websdr.ewi.utwente.nl:8901/?tune=6215), [8.291 MHz](http://websdr.ewi.utwente.nl:8901/?tune=8291), [12.290 MHz](http://websdr.ewi.utwente.nl:8901/?tune=12290), [16.420 MHz](http://websdr.ewi.utwente.nl:8901/?tune=16420) <br /> 
 - DCS VHF: (Ch 70) 156.525 MHz <br />
 - AIS: AIS1 (Ch 87H) 161.975 MHz, AIS2 (Ch 88H) 162.025 MHZ <br />
+- depreciated: [500 KHz (2010)], [2182 KHz (2013)]
 - Cospas-Sarsat: 406 MHz, 406.1 MHz <br />
 - [NOAA operational status](http://www.ospo.noaa.gov/Operations/POES/status.html), [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
 - [NAVTEX](http://info.yachtcom.co.uk/weather.php): [490 kHz](http://websdr.ewi.utwente.nl:8901/?tune=488.5usb), [518 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=516.5usb), [4209.5  kHz](http://websdr.ewi.utwente.nl:8901/?tune=4208usb) <br />
