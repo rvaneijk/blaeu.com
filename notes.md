@@ -14,7 +14,7 @@ OnAir: <br />
 - [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [via stream](http://stream02.audisi.nl/kbc-high) <br />
 - [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
 - [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
-- [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
+- [NOAA operational status](http://www.ospo.noaa.gov/Operations/POES/status.html), [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
 - [NAVTEX](http://info.yachtcom.co.uk/weather.php): [490 kHz](http://websdr.ewi.utwente.nl:8901/?tune=488.5usb), [518 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=516.5usb), [4209.5  kHz](http://websdr.ewi.utwente.nl:8901/?tune=4208usb) <br />
 - [DWD Seewetter](http://ondemand-mp3.dradio.de/file/dradio/seewetter/seewetter.mp3) <br />
 - [DWD WEFAX576, (-1.9 KHZ usb, slant 0.011; record first to denoise)](http://info.yachtcom.co.uk/weather.php), [Sendeplan FAX](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/sendeplan_fax_d_042016.pdf?__blob=publicationFile&v=1): [3855 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=3853.1usb), [7880 kHz](http://websdr.ewi.utwente.nl:8901/?tune=7878.1usb), [13882.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune=13880.6usb) <br />
