@@ -24,8 +24,8 @@ OnAir: <br />
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32; digital camera noise removal)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
 Ma: - <br />
 Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde), [JazzKasteel (22h00)](http://213.124.21.62:8000/listen.pls) <br />
-Wo: PI4HAL (10h00 - 17h00) (check skipzone): (1) VHF 2 meter [145.525 Mhz FM](http://erc-websdr.esa.int/?tune=145525fm) / [144.320 Mhz. ssb verticaal](http://erc-websdr.esa.int/?tune=144320lsb), (2) HF
-40 meter [7.080 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Khz CW](http://websdr.ewi.utwente.nl:8901/?tune=3570cw), IBC [(MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am) <br />
+Wo: PI4HAL (10h00 - 17h00) (check skipzone): (1) VHF 2 meter [145.525 Mhz](http://erc-websdr.esa.int/?tune=145525cw) / [144.320 Mhz. ssb verticaal](http://erc-websdr.esa.int/?tune=144320lsb), (2) HF
+40 meter [7.080 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Khz](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Khz](http://websdr.ewi.utwente.nl:8901/?tune=3570cw), IBC [(MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am) <br />
 Do: - <br />
 Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), PA00NEWS (PI3UTR, 22h30) <br />
 Za: [PI4VRZ 10h00 cw, 10h30 RTTY/PSK31 op 40m](http://websdr.ewi.utwente.nl:8901/?tune=7062lsb), [op 2m](http://websdr.pi1nos.ampr.org:8901/?tune=145250fm), [herh. via stream](http://stream.pi4vrz.nl:9000/webstream.mp3), [VAO Radiogram (MFSK32, 09h30 UTC via NJ)](http://71.172.24.227:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h00 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
