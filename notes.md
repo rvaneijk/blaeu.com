@@ -11,7 +11,7 @@ OnAir: <br />
 - Daily Minutes (PI2NOS, 10h30 en 19h00) <br />
 - [DMR Nederland](http://hose.brandmeister.network/204/) <br />
 - [DigiDX (MFSK32, 05h30 en 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [via UK](http://www.160m.net/?tune=6070am), [via AT](www.websdr.at/?tune=6070am) <br />
-- [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [via stream](http://stream02.audisi.nl/kbc-high) <br />
+- [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [(herh.) via stream](http://stream02.audisi.nl/kbc-high) <br />
 - [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
 - [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
 - [NOAA operational status](http://www.ospo.noaa.gov/Operations/POES/status.html), [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
