@@ -252,7 +252,7 @@ http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png <br />
 http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 
 ----
-RTTY Sendeplan 1 and 2 Deutsche Wetterdienst
+RTTY [Sendeplan 1](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/sendeplan_rtty_01_052014.pdf?__blob=publicationFile&v=2), Sendeplan 2](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/sendeplan_rtty_02_052014.pdf?__blob=publicationFile&v=1) of the Deutsche Wetterdienst
 
 **[FQEN50](http://www.dwd.de/DE/leistungen/seewetternordostsee/seewetternordostsee.html): Seewetterbericht Nord- und Ostsee** <br />
 **[FQEN51](http://www.dwd.de/DE/leistungen/kuestenseewetterbericht/kuestenseewetterbericht.html): Seewetterbericht Deutsche [Nord-](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/nordseekueste_500.png) und [Ostseeküste](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/ostseekueste_500.png)** <br />
