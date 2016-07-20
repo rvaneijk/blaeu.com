@@ -32,7 +32,9 @@ OnAir: <br />
 - [DWD WEFAX576, (-1.9 KHZ usb, slant 0.011; record first to denoise)](http://info.yachtcom.co.uk/weather.php), [Sendeplan FAX](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/sendeplan_fax_d_042016.pdf?__blob=publicationFile&v=1): [3855 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=3853.1usb), [-2.07 KHz](http://websdr.ewi.utwente.nl:8901/?tune=3852.93usb), [7880 kHz](http://websdr.ewi.utwente.nl:8901/?tune=7878.1usb), [13882.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune=13880.6usb) <br />
 - [Northwood WEFAX576 (-1.9 KHZ usb, slant 0.011; record first to denoise)](http://info.yachtcom.co.uk/weather.php): [2618.5 (2616.6) kHz](http://websdr.ewi.utwente.nl:8901/?tune=2618.5usb), [4610 (4608.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=4610usb), [8040 (8038.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=8040usb), [11086.5 (11084.6) kHz*](http://websdr.ewi.utwente.nl:8901/?tune=11086.5usb), [18261 (18259.1) kHz](http://websdr.ewi.utwente.nl:8901/?tune=18261usb)  <br />
 
-Note: best results with -2.07 KHz, sampling on 2KHz sync tone, and 6db Noise reduction.
+Note: best results with -2.07 KHz, sampling on 2KHz sync tone, and 3db Gauss filter.
+
+Baudot: Q = 1, W = 2, E = 3, R = 4, T = 5, Y = 6, U = 7, I = 8, O = 9, P = , A = -, D = $, F = !, G = &, H = #, J = ', K = (, L = ), Z = ", X = /, C = :, V = ;, B = ?, N = ',', M = '.'.
 
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32; digital camera noise removal)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
 Ma: - <br />
