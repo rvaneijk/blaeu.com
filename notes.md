@@ -34,7 +34,7 @@ OnAir: <br />
 
 Note: best results with -2.07 KHz, sampling on 2KHz sync tone, and 3db Gauss filter.
 
-Baudot: Q = 1, W = 2, E = 3, R = 4, T = 5, Y = 6, U = 7, I = 8, O = 9, P = , A = -, D = $, F = !, G = &, H = #, J = ', K = (, L = ), Z = ", X = /, C = :, V = ;, B = ?, N = ',', M = '.'.
+Baudot: Q = 1 , W = 2 , E = 3 , R = 4 , T = 5 , Y = 6 , U = 7 , I = 8 , O = 9 , P =  , A = - , D = $ , F = ! , G = & , H = # , J = ' , K = ( , L = ) , Z = " , X = / , C = : , V = ; , B = ? , N = ',' , M = '.'.
 
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32; digital camera noise removal)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
 Ma: - <br />
