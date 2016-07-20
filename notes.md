@@ -184,6 +184,16 @@ http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_084.pn
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_108.png <br />
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
 
+[NOAA Atlantic Surface Analysis](http://www.opc.ncep.noaa.gov/shtml/A_sfc_full_ocean_mobile.gif) <br />
+[NOAA 00UTC color analysis](http://www.opc.ncep.noaa.gov/shtml/atl_00_sfc_analysis.gif) <br />
+[NOAA 06UTC color analysis](http://www.opc.ncep.noaa.gov/shtml/atl_06_sfc_analysis.gif) <br />
+[NOAA 12UTC color analysis](http://www.opc.ncep.noaa.gov/shtml/atl_12_sfc_analysis.gif) <br />
+[NOAA 18UTC color analysis](http://www.opc.ncep.noaa.gov/shtml/atl_18_sfc_analysis.gif) <br />
+[NOAA 24-hr forecast](http://www.opc.ncep.noaa.gov/shtml/A_24hrsfcbw_mobile.gif) <br />
+[NOAA 48-hr forecast](http://www.opc.ncep.noaa.gov/shtml/A_48hrsfcbwug_mobile.gif) <br />
+[NOAA 96-hr forecast](http://www.opc.ncep.noaa.gov/shtml/A_96hrsfcbwug_mobile.gif) <br />
+
+
 Thunderstorms: <br />
 [storm forecast ESTOFAX](http://estofex.org/cgi-bin/polygon/showforecast.cgi?lightningmap=yes) <br />
 
