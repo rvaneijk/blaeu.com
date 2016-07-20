@@ -254,52 +254,52 @@ http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 ----
 RTTY Sendeplan 1 Deutsche Wetterdienst
 
-FEBQ72: Zeitreihenbericht Mittelfrist Ostsee, Prognosen für 5 Tage
-FEEN73: Zeitreihenbericht Mittelfrist Nordsee, Prognosen für 5 Tage
-FEMM74: Zeitreihenbericht Mittelfrist Mittelmeer, Prognosen für 5 Tage
-FEAE75: Zeitreihenbericht Mittelfrist Ostatlantik, Prognosen für 5 Tage
-FQEN70: Seewetterbericht Nord- und Ostsee
-FQEN71: Seewetterbericht Deutsche Nord- und Ostseeküste
-FQEN75: Zeitreihenbericht Norwegische See und Ostsee, Inhalt wie 2. Programm 06:30 UTC
-FQEW77: Zeitreihenbericht westeuropäische Gewässer, Inhalt wie 2. Programm 08:20 UTC
-FQMM78: Zeitreihenbericht westliches Mittelmeer, Inhalt wie 2. Programm 08:40 UTC
-FQMM79: Zeitreihenbericht östliches Mittelmeer, Inhalt wie 2. Programm 09:30 UTC
-FQMM80: Seewetterbericht Mittelmeer in Textform
-FQNT76: Zeitreihenbericht Nordatlantik, Inhalt wie 2. Programm 07:00 UTC
-NODL41: Hinweis auf Datennutzung
-NODL61: Allgemeine Hinweise und Störungshinweise
-NOXX70: Hinweis auf Datennutzung
-NOXX70: Hinweis auf Datennutzung
-NOXX70: Hinweis auf Datennutzung
-SIVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer von 03 UTC –
-SMVX25: Bojenwettermeldungen aus den Seegebieten Atlantik und Nordpolarmeer von 06 UTC –
-SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer von 00 U-
-WOBQ61: Warnungen für die Ostsee (englisch)
-WODL45: Sturmwarnungen, Gebiete wie 00.00 UTC
-WOEN69: Warnungen für die Nord- und Ostsee (englisch)
-WWXX60: Nautische Warnnachrichten
-WWXX60: Nautische Warnnachrichten
+FEBQ72: Zeitreihenbericht Mittelfrist Ostsee, Prognosen für 5 Tage <br />
+FEEN73: Zeitreihenbericht Mittelfrist Nordsee, Prognosen für 5 Tage <br />
+FEMM74: Zeitreihenbericht Mittelfrist Mittelmeer, Prognosen für 5 Tage <br />
+FEAE75: Zeitreihenbericht Mittelfrist Ostatlantik, Prognosen für 5 Tage <br />
+FQEN70: Seewetterbericht Nord- und Ostsee <br />
+FQEN71: Seewetterbericht Deutsche Nord- und Ostseeküste <br />
+FQEN75: Zeitreihenbericht Norwegische See und Ostsee, Inhalt wie 2. Programm 06:30 UTC <br />
+FQEW77: Zeitreihenbericht westeuropäische Gewässer, Inhalt wie 2. Programm 08:20 UTC <br />
+FQMM78: Zeitreihenbericht westliches Mittelmeer, Inhalt wie 2. Programm 08:40 UTC <br />
+FQMM79: Zeitreihenbericht östliches Mittelmeer, Inhalt wie 2. Programm 09:30 UTC <br />
+FQMM80: Seewetterbericht Mittelmeer in Textform <br />
+FQNT76: Zeitreihenbericht Nordatlantik, Inhalt wie 2. Programm 07:00 UTC <br />
+NODL41: Hinweis auf Datennutzung <br />
+NODL61: Allgemeine Hinweise und Störungshinweise <br />
+NOXX70: Hinweis auf Datennutzung <br />
+NOXX70: Hinweis auf Datennutzung <br />
+NOXX70: Hinweis auf Datennutzung <br />
+SIVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer von 03 UTC – <br />
+SMVX25: Bojenwettermeldungen aus den Seegebieten Atlantik und Nordpolarmeer von 06 UTC – <br />
+SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer von 00 U- <br />
+WOBQ61: Warnungen für die Ostsee (englisch) <br />
+WODL45: Sturmwarnungen, Gebiete wie 00.00 UTC <br />
+WOEN69: Warnungen für die Nord- und Ostsee (englisch) <br />
+WWXX60: Nautische Warnnachrichten <br />
+WWXX60: Nautische Warnnachrichten <br />
 
 ----
 RTTY Sendeplan 2 Deutsche Wetterdienst
 
-FEAE55: Zeitreihenbericht Mittelfrist Ostatlantik, Prognosen für 5 Tage
-[FEBQ52](http://www.dwd.de/DE/leistungen/seevorhersageostsee/seevorhersagenostsee.html): Zeitreihenbericht Mittelfrist Ostsee, Prognosen für 5 Tage
-[FEEN53](http://www.dwd.de/DE/leistungen/seevorhersagenordsee/seevorhersagennordsee.html?): Zeitreihenbericht Mittelfrist Nordsee, Prognosen für 5 Tage
-FEMM54: Zeitreihenbericht Mittelfrist Mittelmeer, Prognosen für 5 Tage
-[FQEN50](http://www.dwd.de/DE/leistungen/seewetternordostsee/seewetternordostsee.html): Seewetterbericht Nord- und Ostsee
-[FQEN51](http://www.dwd.de/DE/leistungen/kuestenseewetterbericht/kuestenseewetterbericht.html): Seewetterbericht Deutsche [Nord-](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/nordseekueste_500.png) und [Ostseeküste](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/ostseekueste_500.png)
-FQEN55: Zeitreihenbericht Norwegische See und Ostsee (Nordkap bisShetlands,
-FQEW57: Zeitreihenbericht westeurop. Gewässer (südl. Irland bis Kanaren Süd), Prognosen für 2 Tage
-[FQMM58](http://www.dwd.de/DE/leistungen/seevorhersagemmwest/seewettermittelmeerwest.html): Zeitreihenbericht westliches Mittelmeer (Alboran bis Tunis), Prognosen für 2 Tag
-[FQMM59](http://www.dwd.de/DE/leistungen/seevorhersagemmost/seewettermittelmeerost.htm): Zeitreihenbericht östliches Mittelmeer (östlich Tunis bis Rhodos/Zypern), Prognosen für 2 Tag
-[FQMM60](http://www.dwd.de/DE/leistungen/seewettermittelmeer/seewettermittelmeer.html): Seewetterbericht Mittelmeer in Textform
-FQNT56: Zeitreihenbericht Nordatlantik (Pentlands bis Südwestgrönland), Prognosen für 2 Tag
-SMVX41    Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer von 18 UTC –
-[SXEN40](http://www.dwd.de/DE/leistungen/stationsmeldungennord/stationsmeldungennord.html): Stationsmeldungen Nordsee / Ostsee von 00 UTC
-[SXMM41](http://www.dwd.de/DE/leistungen/stationsmeldungensued/stationsmeldungensued.html): Stationsmeldungen Mittelmeer von 00 UTC
-[WODL45](http://www.dwd.de/DE/leistungen/windvorhersage/windvorhersage.htm): Sturmwarnungen für Deutsche Bucht, Westliche u. Südliche Ostsee, Nord- und Ostseeküste
-WWXX60: Nautische Warnnachrichten
+FEAE55: Zeitreihenbericht Mittelfrist Ostatlantik, Prognosen für 5 Tage <br />
+[FEBQ52](http://www.dwd.de/DE/leistungen/seevorhersageostsee/seevorhersagenostsee.html): <br /> Zeitreihenbericht Mittelfrist Ostsee, Prognosen für 5 Tage
+[FEEN53](http://www.dwd.de/DE/leistungen/seevorhersagenordsee/seevorhersagennordsee.html?): <br /> Zeitreihenbericht Mittelfrist Nordsee, Prognosen für 5 Tage
+FEMM54: Zeitreihenbericht Mittelfrist Mittelmeer, Prognosen für 5 Tage <br />
+[FQEN50](http://www.dwd.de/DE/leistungen/seewetternordostsee/seewetternordostsee.html): <br /> Seewetterbericht Nord- und Ostsee
+[FQEN51] <br />(http://www.dwd.de/DE/leistungen/kuestenseewetterbericht/kuestenseewetterbericht.html): <br /> Seewetterbericht Deutsche [Nord-](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/nordseekueste_500.png) und [Ostseeküste] <br />(http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/ostseekueste_500.png)
+FQEN55: Zeitreihenbericht Norwegische See und Ostsee (Nordkap bisShetlands, <br />
+FQEW57: Zeitreihenbericht westeurop. Gewässer (südl. Irland bis Kanaren Süd), Prognosen für <br /> 2 Tage
+[FQMM58](http://www.dwd.de/DE/leistungen/seevorhersagemmwest/seewettermittelmeerwest.html): <br /> Zeitreihenbericht westliches Mittelmeer (Alboran bis Tunis), Prognosen für 2 Tag
+[FQMM59](http://www.dwd.de/DE/leistungen/seevorhersagemmost/seewettermittelmeerost.htm): <br /> Zeitreihenbericht östliches Mittelmeer (östlich Tunis bis Rhodos/Zypern), Prognosen für 2 Tag <br />
+[FQMM60](http://www.dwd.de/DE/leistungen/seewettermittelmeer/seewettermittelmeer.html): <br /> Seewetterbericht Mittelmeer in Textform
+FQNT56: Zeitreihenbericht Nordatlantik (Pentlands bis Südwestgrönland), Prognosen für 2 Tag <br />
+SMVX41    Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer von 18 UTC – <br />
+[SXEN40](http://www.dwd.de/DE/leistungen/stationsmeldungennord/stationsmeldungennord.html): <br /> Stationsmeldungen Nordsee / Ostsee von 00 UTC
+[SXMM41](http://www.dwd.de/DE/leistungen/stationsmeldungensued/stationsmeldungensued.html): <br /> Stationsmeldungen Mittelmeer von 00 UTC
+[WODL45](http://www.dwd.de/DE/leistungen/windvorhersage/windvorhersage.htm): Sturmwarnungen <br /> für Deutsche Bucht, Westliche u. Südliche Ostsee, Nord- und Ostseeküste
+WWXX60: Nautische Warnnachrichten <br />
 
 ----
 [METAR/WMO HIGH cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
