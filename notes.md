@@ -256,10 +256,6 @@ RTTY Sendeplan 1 and 2 Deutsche Wetterdienst
 
 **[FQEN50](http://www.dwd.de/DE/leistungen/seewetternordostsee/seewetternordostsee.html): Seewetterbericht Nord- und Ostsee** <br />
 **[FQEN51](http://www.dwd.de/DE/leistungen/kuestenseewetterbericht/kuestenseewetterbericht.html): Seewetterbericht Deutsche [Nord-](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/nordseekueste_500.png) und [Ostseeküste](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/ostseekueste_500.png)** <br />
-**WOBQ61: Warnungen für die Ostsee (englisch)** <br />
-**[WODL45](http://www.dwd.de/DE/leistungen/windvorhersage/windvorhersage.htm): Sturmwarnungen für Deutsche Bucht, Westliche u. Südliche Ostsee, Nord- und Ostseeküste** <br />
-**WOEN69: Warnungen für die Nord- und Ostsee (englisch)** <br />
-**WWXX60: Nautische Warnnachrichten** <br />
 
 FQEN55: Zeitreihenbericht Norwegische See und Ostsee (Nordkap bisShetlands <br />
 FQEW57: Zeitreihenbericht westeurop. Gewässer (südl. Irland bis Kanaren Süd), Prognosen für 2 Tage <br />
@@ -281,6 +277,11 @@ SMVX25: Bojenwettermeldungen aus den Seegebieten Atlantik und Nordpolarmeer <br 
 SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br />
 [SXEN40](http://www.dwd.de/DE/leistungen/stationsmeldungennord/stationsmeldungennord.html): Stationsmeldungen Nordsee / Ostsee <br />
 [SXMM41](http://www.dwd.de/DE/leistungen/stationsmeldungensued/stationsmeldungensued.html): Stationsmeldungen Mittelmeer <br />
+
+**WOBQ61: Warnungen für die Ostsee (englisch)** <br />
+**[WODL45](http://www.dwd.de/DE/leistungen/windvorhersage/windvorhersage.htm): Sturmwarnungen für Deutsche Bucht, Westliche u. Südliche Ostsee, Nord- und Ostseeküste** <br />
+**WOEN69: Warnungen für die Nord- und Ostsee (englisch)** <br />
+**WWXX60: Nautische Warnnachrichten** <br />
 
 ----
 [METAR/WMO HIGH cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
