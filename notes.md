@@ -254,7 +254,7 @@ http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 ----
 RTTY Sendeplan 1 and 2 Deutsche Wetterdienst
 
-[FQEN50](http://www.dwd.de/DE/leistungen/seewetternordostsee/seewetternordostsee.html): Seewetterbericht Nord- und Ostsee <br />
+*[FQEN50](http://www.dwd.de/DE/leistungen/seewetternordostsee/seewetternordostsee.html): Seewetterbericht Nord- und Ostsee* <br />
 [FQEN51](http://www.dwd.de/DE/leistungen/kuestenseewetterbericht/kuestenseewetterbericht.html): Seewetterbericht Deutsche [Nord-](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/nordseekueste_500.png) und [Ostseeküste](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/ostseekueste_500.png) <br />
 FQEN55: Zeitreihenbericht Norwegische See und Ostsee (Nordkap bisShetlands <br />
 FQEW57: Zeitreihenbericht westeurop. Gewässer (südl. Irland bis Kanaren Süd), Prognosen für 2 Tage <br />
