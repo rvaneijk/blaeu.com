@@ -260,22 +260,22 @@ FEMM74: Zeitreihenbericht Mittelfrist Mittelmeer, Prognosen für 5 Tage <br />
 FEAE75: Zeitreihenbericht Mittelfrist Ostatlantik, Prognosen für 5 Tage <br />
 FQEN70: Seewetterbericht Nord- und Ostsee <br />
 FQEN71: Seewetterbericht Deutsche Nord- und Ostseeküste <br />
-FQEN75: Zeitreihenbericht Norwegische See und Ostsee, Inhalt wie 2. Programm 06:30 UTC <br />
-FQEW77: Zeitreihenbericht westeuropäische Gewässer, Inhalt wie 2. Programm 08:20 UTC <br />
-FQMM78: Zeitreihenbericht westliches Mittelmeer, Inhalt wie 2. Programm 08:40 UTC <br />
-FQMM79: Zeitreihenbericht östliches Mittelmeer, Inhalt wie 2. Programm 09:30 UTC <br />
+FQEN75: Zeitreihenbericht Norwegische See und Ostsee <br />
+FQEW77: Zeitreihenbericht westeuropäische Gewässer <br />
+FQMM78: Zeitreihenbericht westliches Mittelmeer <br />
+FQMM79: Zeitreihenbericht östliches Mittelmeer <br />
 FQMM80: Seewetterbericht Mittelmeer in Textform <br />
-FQNT76: Zeitreihenbericht Nordatlantik, Inhalt wie 2. Programm 07:00 UTC <br />
+FQNT76: Zeitreihenbericht Nordatlantik <br />
 NODL41: Hinweis auf Datennutzung <br />
 NODL61: Allgemeine Hinweise und Störungshinweise <br />
 NOXX70: Hinweis auf Datennutzung <br />
 NOXX70: Hinweis auf Datennutzung <br />
 NOXX70: Hinweis auf Datennutzung <br />
-SIVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer von 03 UTC – <br />
-SMVX25: Bojenwettermeldungen aus den Seegebieten Atlantik und Nordpolarmeer von 06 UTC – <br />
-SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer von 00 U- <br />
+SIVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br />
+SMVX25: Bojenwettermeldungen aus den Seegebieten Atlantik und Nordpolarmeer <br />
+SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br />
 WOBQ61: Warnungen für die Ostsee (englisch) <br />
-WODL45: Sturmwarnungen, Gebiete wie 00.00 UTC <br />
+WODL45: Sturmwarnungen, <br />
 WOEN69: Warnungen für die Nord- und Ostsee (englisch) <br />
 WWXX60: Nautische Warnnachrichten <br />
 WWXX60: Nautische Warnnachrichten <br />
