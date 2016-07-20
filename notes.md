@@ -252,53 +252,34 @@ http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_48.png <br />
 http://www.dwd.de/DWD/wetter/wv_spez/seewetter/omitme_72.png <br />
 
 ----
-RTTY Sendeplan 1 Deutsche Wetterdienst
+RTTY Sendeplan 1 and 2 Deutsche Wetterdienst
 
-FEBQ72: Zeitreihenbericht Mittelfrist Ostsee, Prognosen für 5 Tage <br />
-FEEN73: Zeitreihenbericht Mittelfrist Nordsee, Prognosen für 5 Tage <br />
-FEMM74: Zeitreihenbericht Mittelfrist Mittelmeer, Prognosen für 5 Tage <br />
-FEAE75: Zeitreihenbericht Mittelfrist Ostatlantik, Prognosen für 5 Tage <br />
-FQEN70: Seewetterbericht Nord- und Ostsee <br />
-FQEN71: Seewetterbericht Deutsche Nord- und Ostseeküste <br />
-FQEN75: Zeitreihenbericht Norwegische See und Ostsee <br />
-FQEW77: Zeitreihenbericht westeuropäische Gewässer <br />
-FQMM78: Zeitreihenbericht westliches Mittelmeer <br />
-FQMM79: Zeitreihenbericht östliches Mittelmeer <br />
-FQMM80: Seewetterbericht Mittelmeer in Textform <br />
-FQNT76: Zeitreihenbericht Nordatlantik <br />
-NODL41: Hinweis auf Datennutzung <br />
-NODL61: Allgemeine Hinweise und Störungshinweise <br />
-NOXX70: Hinweis auf Datennutzung <br />
-NOXX70: Hinweis auf Datennutzung <br />
-NOXX70: Hinweis auf Datennutzung <br />
-SIVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br />
-SMVX25: Bojenwettermeldungen aus den Seegebieten Atlantik und Nordpolarmeer <br />
-SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br />
-WOBQ61: Warnungen für die Ostsee (englisch) <br />
-WODL45: Sturmwarnungen, <br />
-WOEN69: Warnungen für die Nord- und Ostsee (englisch) <br />
-WWXX60: Nautische Warnnachrichten <br />
-WWXX60: Nautische Warnnachrichten <br />
-
-----
-RTTY Sendeplan 2 Deutsche Wetterdienst
-
-FEAE55: Zeitreihenbericht Mittelfrist Ostatlantik, Prognosen für 5 Tage <br />
-[FEBQ52](http://www.dwd.de/DE/leistungen/seevorhersageostsee/seevorhersagenostsee.html): Zeitreihenbericht Mittelfrist Ostsee, Prognosen für 5 Tage <br />
-[FEEN53](http://www.dwd.de/DE/leistungen/seevorhersagenordsee/seevorhersagennordsee.html?): Zeitreihenbericht Mittelfrist Nordsee, Prognosen für 5 Tage <br />
-FEMM54: Zeitreihenbericht Mittelfrist Mittelmeer, Prognosen für 5 Tage <br />
 [FQEN50](http://www.dwd.de/DE/leistungen/seewetternordostsee/seewetternordostsee.html): Seewetterbericht Nord- und Ostsee <br />
 [FQEN51](http://www.dwd.de/DE/leistungen/kuestenseewetterbericht/kuestenseewetterbericht.html): Seewetterbericht Deutsche [Nord-](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/nordseekueste_500.png) und [Ostseeküste](http://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/ostseekueste_500.png) <br />
 FQEN55: Zeitreihenbericht Norwegische See und Ostsee (Nordkap bisShetlands <br />
 FQEW57: Zeitreihenbericht westeurop. Gewässer (südl. Irland bis Kanaren Süd), Prognosen für 2 Tage <br />
+FQEN70: Seewetterbericht Nord- und Ostsee <br />
+FQEN71: Seewetterbericht Deutsche Nord- und Ostseeküste <br />
+FQEN75: Zeitreihenbericht Norwegische See und Ostsee <br />
+FQEW77: Zeitreihenbericht westeuropäische Gewässer <br />
 [FQMM58](http://www.dwd.de/DE/leistungen/seevorhersagemmwest/seewettermittelmeerwest.html): Zeitreihenbericht westliches Mittelmeer (Alboran bis Tunis), Prognosen für 2 Tag <br />
 [FQMM59](http://www.dwd.de/DE/leistungen/seevorhersagemmost/seewettermittelmeerost.htm): Zeitreihenbericht östliches Mittelmeer (östlich Tunis bis Rhodos/Zypern), Prognosen für 2 Tag <br />
 [FQMM60](http://www.dwd.de/DE/leistungen/seewettermittelmeer/seewettermittelmeer.html): Seewetterbericht Mittelmeer in Textform <br />
+FQMM78: Zeitreihenbericht westliches Mittelmeer <br />
+FQMM79: Zeitreihenbericht östliches Mittelmeer <br />
+FQMM80: Seewetterbericht Mittelmeer in Textform <br />
+FQNT76: Zeitreihenbericht Nordatlantik <br />
+
 FQNT56: Zeitreihenbericht Nordatlantik (Pentlands bis Südwestgrönland), Prognosen für 2 Tag <br />
-SMVX41    Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br />
+SIVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br />
+SMVX25: Bojenwettermeldungen aus den Seegebieten Atlantik und Nordpolarmeer <br />
+SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br />
 [SXEN40](http://www.dwd.de/DE/leistungen/stationsmeldungennord/stationsmeldungennord.html): Stationsmeldungen Nordsee / Ostsee <br />
 [SXMM41](http://www.dwd.de/DE/leistungen/stationsmeldungensued/stationsmeldungensued.html): Stationsmeldungen Mittelmeer <br />
+
+WOBQ61: Warnungen für die Ostsee (englisch) <br />
 [WODL45](http://www.dwd.de/DE/leistungen/windvorhersage/windvorhersage.htm): Sturmwarnungen für Deutsche Bucht, Westliche u. Südliche Ostsee, Nord- und Ostseeküste <br />
+WOEN69: Warnungen für die Nord- und Ostsee (englisch) <br />
 WWXX60: Nautische Warnnachrichten <br />
 
 ----
