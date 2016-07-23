@@ -68,7 +68,7 @@ Minder geschikt voor korte afstand. 's Nachts redelijk geschikt voor het lange a
 20 METER: Spraak vanaf 14,10 MHz, DX rond 14,20 MHz, 's avonds zijn er vooral stations van over de gehele wereld te horen. Dit is een band voor het DX-verkeer. <br />
 [14064.5](http://websdr.ewi.utwente.nl:8901/?tune=14064.5usb) - Clover <br />
 [14065](http://websdr.ewi.utwente.nl:8901/?tune=14065usb)  - Clover <br />
-[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31 and other modes \<- !! <br />
+[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31, PSK31 [(WinWarler)](http://www.dxlabsuite.com/winwarbler/) and other modes \<- !! <br />
 [14109](http://websdr.ewi.utwente.nl:8901/?tune=14109usb)  - MT63, some MFSK and occasional Q15X25 <br />
 [14109.5](http://websdr.ewi.utwente.nl:8901/?tune=14109.5usb) - Q15X25 - MixW centers at 1375Hz above VFO frequency  <br />
 [14111](http://websdr.ewi.utwente.nl:8901/?tune=14111usb)  - idem <br />
@@ -94,6 +94,23 @@ De eigenschappen liggen tussen die van de 17 meterband en de 12 meterband in. Va
 [28130](http://websdr.ewi.utwente.nl:8901/?tune=28130usb)  - PSK, MT63 and other modes <br />
 
 Zie o.a. [PE1ORG](http://www.pe1org.diwil.nl/documents/amateur_banden.htm)
+
+----
+WSPR:  <br />
+[wspr 502.4 KHz](http://websdr.ewi.utwente.nl:8901/?tune=502.4usb) <br />
+[wspr 1836.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1836.6usb) <br />
+[wspr 3592.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=3592.6usb) <br />
+[wspr 5287.2 KHz](http://websdr.ewi.utwente.nl:8901/?tune=5287.2usb) <br />
+[wspr 7038.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=7038.6usb) <br />
+[wspr 10138.7 KHz](http://websdr.ewi.utwente.nl:8901/?tune=10138.7usb) <br />
+[wspr 14095.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=14095.6usb) <br />
+[wspr 18146 KHz](http://websdr.ewi.utwente.nl:8901/?tune=18146usb) <br />
+[wspr 21094.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=21094.6usb) <br />
+[wspr 24924.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=24924.6usb) <br />
+[wspr 28124.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=28124.6usb) <br />
+[wspr 50293 KHz](http://websdr.ewi.utwente.nl:8901/?tune=50293usb) <br />
+[wspr 70028.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=70028.6usb) <br />
+[wspr 144489 KHz](http://websdr.ewi.utwente.nl:8901/?tune=144489usb) <br />
 
 HF email
 ===================
@@ -146,7 +163,6 @@ KNMI: <br />
 [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
 
 MET Office: (wind, sea state, weather, visibility) <br />
-http://www.atmos.albany.edu/weather/gopher-data/local/fxus21/EGRR <br />
 http://www.metoffice.gov.uk/public/weather/marine-printable/shipping-forecast.html <br />
 http://www.metoffice.gov.uk/public/weather/marine-printable/gale-warnings.html <br />
 http://www.metoffice.gov.uk/public/weather/marine-printable/inshore-waters.html <br />
@@ -184,7 +200,7 @@ http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_084.pn
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_108.png <br />
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_tkboden_na_024.png <br />
 
-NOAA, see also [weather.noaa.gov/pub/fax](http://weather.noaa.gov/pub/fax/) and [FTPMAIL (appendix B, worldwide marine radiofacsimile broadcast schedules](https://www.nws.noaa.gov/os/marine/rfax.pdf): <br />
+NOAA, see also [weather.noaa.gov/pub/fax](http://weather.noaa.gov/pub/fax/) and [FTPMAIL (appendix B, worldwide marine radiofacsimile broadcast schedules)](https://www.nws.noaa.gov/os/marine/rfax.pdf): <br />
 [NOAA Atlantic Surface Analysis](http://www.opc.ncep.noaa.gov/shtml/A_sfc_full_ocean_mobile.gif) <br />
 [NOAA 00UTC color analysis](http://www.opc.ncep.noaa.gov/shtml/atl_00_sfc_analysis.gif) <br />
 [NOAA 06UTC color analysis](http://www.opc.ncep.noaa.gov/shtml/atl_06_sfc_analysis.gif) <br />
