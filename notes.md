@@ -97,20 +97,23 @@ Zie o.a. [PE1ORG](http://www.pe1org.diwil.nl/documents/amateur_banden.htm)
 
 ----
 WSPR:  <br />
-[wspr 502.4 KHz](http://websdr.ewi.utwente.nl:8901/?tune=502.4usb) <br />
-[wspr 1836.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1836.6usb) <br />
-[wspr 3592.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=3592.6usb) <br />
-[wspr 5287.2 KHz](http://websdr.ewi.utwente.nl:8901/?tune=5287.2usb) <br />
-[wspr 7038.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=7038.6usb) <br />
-[wspr 10138.7 KHz](http://websdr.ewi.utwente.nl:8901/?tune=10138.7usb) <br />
-[wspr 14095.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=14095.6usb) <br />
-[wspr 18146 KHz](http://websdr.ewi.utwente.nl:8901/?tune=18146usb) <br />
-[wspr 21094.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=21094.6usb) <br />
-[wspr 24924.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=24924.6usb) <br />
-[wspr 28124.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=28124.6usb) <br />
-[wspr 50293 KHz](http://websdr.ewi.utwente.nl:8901/?tune=50293usb) <br />
-[wspr 70028.6 KHz](http://websdr.ewi.utwente.nl:8901/?tune=70028.6usb) <br />
-[wspr 144489 KHz](http://websdr.ewi.utwente.nl:8901/?tune=144489usb) <br />
+[wspr 0.136 KHz](http://websdr.ewi.utwente.nl:8901/?tune=0.136usb) <br />
+[wspr 0.4742 KHz](http://websdr.ewi.utwente.nl:8901/?tune=0.4742usb) <br />
+[wspr 1.8366 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1.8366usb) <br />
+[wspr 3.5926 KHz](http://websdr.ewi.utwente.nl:8901/?tune=3.5926usb) <br />
+[wspr 5.2872 KHz](http://websdr.ewi.utwente.nl:8901/?tune=5.2872usb) <br />
+[wspr 7.0386 KHz](http://websdr.ewi.utwente.nl:8901/?tune=7.0386usb) <br />
+[wspr 10.1387 KHz](http://websdr.ewi.utwente.nl:8901/?tune=10.1387usb) <br />
+[wspr 14.0956 KHz](http://websdr.ewi.utwente.nl:8901/?tune=14.0956usb) <br />
+[wspr 18.1046 KHz](http://websdr.ewi.utwente.nl:8901/?tune=18.1046usb) <br />
+[wspr 21.0946 KHz](http://websdr.ewi.utwente.nl:8901/?tune=21.0946usb) <br />
+[wspr 24.9246 KHz](http://websdr.ewi.utwente.nl:8901/?tune=24.9246usb) <br />
+[wspr 28.1246 KHz](http://websdr.ewi.utwente.nl:8901/?tune=28.1246usb) <br />
+[wspr 50.293 KHz](http://websdr.ewi.utwente.nl:8901/?tune=50.293usb) <br />
+[wspr 70.091 KHz](http://websdr.ewi.utwente.nl:8901/?tune=70.091usb) <br />
+[wspr 144.489 KHz](http://websdr.ewi.utwente.nl:8901/?tune=144.489usb) <br />
+[wspr 432.300 KHz](http://websdr.ewi.utwente.nl:8901/?tune=432.300usb) <br />
+[wspr 1296.500 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1296.500usb) <br />
 
 HF email
 ===================
