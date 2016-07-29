@@ -5,8 +5,8 @@ Disclaimer: this page contains my notes on system admin. Feel free to use them.
 
 Ham spirit
 ===================
-[IARU Region 1 HF Band Plan 2016 (Europe, Africa, Middle East and Northern Asia)](http://iaru-r1.org/index.php/downloads/func-download/719/chk,eeb06a4b11eda5f6ca502f3b9dd238f5/no_html,1/), [NOAA worldwide fax schedule](http://www.nws.noaa.gov/om/marine/rfax.pdf), [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [Digisonde sites](http://digisonde.com/digisonde-station-map.html), [Ionogram interpretation(waar zitten de reflectielagen, wat is de MUF, dus welke band gebruiken, welke afstand kun je daarmee overbruggen?)](http://www.g0lfp.com/ionograms/index.php) <br />
-[PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar) <br />
+[IARU Region 1 HF Band Plan 2016 (Europe, Africa, Middle East and Northern Asia)](http://iaru-r1.org/index.php/downloads/func-download/719/chk,eeb06a4b11eda5f6ca502f3b9dd238f5/no_html,1/), [NOAA worldwide fax schedule](http://www.nws.noaa.gov/om/marine/rfax.pdf), [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [Digisonde sites](http://digisonde.com/digisonde-station-map.html), [Ionogram interpretation (waar zitten de reflectielagen, wat is de MUF, dus welke band gebruiken, welke afstand kun je daarmee overbruggen?)](http://www.g0lfp.com/ionograms/index.php) <br />
+[PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PA3HFN](http://www.pa3hfn.com), [PA3HCM](http://www.pa3hcm.nl/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar) <br />
 [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [ASIO soundcard](http://www.bhphotovideo.com/c/product/616367-REG/Behringer_UCA222_UCA222_USB_1_1.html), [USB powered ASIO soundcard](http://www.ebay.com/itm/Black-SMSL-VMV-Magic-CM6631A-AK4390-32bit-192kHz-ASIO-Sound-Card-USB-DAC-Coaxial-/252411922483), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/),  [APT-06/MX-137 NOAA receiver](http://www.wraase.de/e_hardw.htm), [LCWO](http://lcwo.net) <br />
 [fmscan.org](http://fmscan.org/index.php), [mwlist](http://www.mwlist.org/now.php?kHz=3855), [Global frequency database](http://qrg.globaltuners.com/?q=3.855), [Shortwave.info](www.short-wave.info/index.php?freq=3855) <br />
 
@@ -90,7 +90,7 @@ De eigenschappen liggen tussen die van de 17 meterband en de 12 meterband in. Va
 Zie o.a. [PE1ORG](http://www.pe1org.diwil.nl/documents/amateur_banden.htm)
 
 ----
-WSPR:  <br />
+WSPR (WSPR uitzendingen beginnen één seconde over de even minuut):  <br />
 [wspr 0.136 KHz](http://websdr.ewi.utwente.nl:8901/?tune=0.136usb) (2,200 METER)<br />
 [wspr 0.4742 KHz](http://websdr.ewi.utwente.nl:8901/?tune=0.4742usb) (600 METER)<br />
 [wspr 1.8366 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1.8366usb) (160 METER)<br />
