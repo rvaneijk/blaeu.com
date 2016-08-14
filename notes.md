@@ -1,24 +1,9 @@
-NOTES
-NOTES
-===================
-
 Disclaimer: this page contains my notes on system admin. Feel free to use them.
-
-Ham spirit
 ===================
-[IARU Region 1 HF Band Plan 2016 (Europe, Africa, Middle East and Northern Asia)](http://iaru-r1.org/index.php/downloads/func-download/719/chk,eeb06a4b11eda5f6ca502f3b9dd238f5/no_html,1/), [NOAA worldwide fax schedule](http://www.nws.noaa.gov/om/marine/rfax.pdf), [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [Digisonde sites](http://digisonde.com/digisonde-station-map.html), [Ionogram interpretation (waar zitten de reflectielagen, wat is de MUF, dus welke band gebruiken, welke afstand kun je daarmee overbruggen?)](http://www.g0lfp.com/ionograms/index.php) <br />
-[PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PA3HFN](http://www.pa3hfn.com), [PA3HCM](http://www.pa3hcm.nl/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar) <br />
-[RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [ASIO soundcard](http://www.bhphotovideo.com/c/product/616367-REG/Behringer_UCA222_UCA222_USB_1_1.html), [USB powered ASIO soundcard](http://www.ebay.com/itm/Black-SMSL-VMV-Magic-CM6631A-AK4390-32bit-192kHz-ASIO-Sound-Card-USB-DAC-Coaxial-/252411922483), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/),  [APT-06/MX-137 NOAA receiver](http://www.wraase.de/e_hardw.htm), [LCWO](http://lcwo.net) <br />
-[fmscan.org](http://fmscan.org/index.php), [mwlist](http://www.mwlist.org/now.php?kHz=3855), [Global frequency database](http://qrg.globaltuners.com/?q=3.855), [Shortwave.info](www.short-wave.info/index.php?freq=3855) <br />
 
-OnAir: <br />
-- Daily Minutes (PI2NOS, 10h30 en 19h00) <br />
-- [DMR Nederland](http://hose.brandmeister.network/204/) <br />
-- [DigiDX (MFSK32, 05h30 en 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [via UK](http://www.160m.net/?tune=6070am), [via AT](www.websdr.at/?tune=6070am) <br />
-- [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [(herh.) via stream](http://stream02.audisi.nl/kbc-high) <br />
-- [RFI](http://savoirs.rfi.fr/fr/apprendre-enseigner/langue-francaise/journal-en-francais-facile) <br />
-- [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
-- [NOAA operational status](http://www.ospo.noaa.gov/Operations/POES/status.html), [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
+HF email
+===================
+- [Azimuth map](http://ns6t.net/azimuth/azimuth.html), [NOAA operational status](http://www.ospo.noaa.gov/Operations/POES/status.html), [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
 - [NAVTEX](http://info.yachtcom.co.uk/weather.php): [490 kHz](http://websdr.ewi.utwente.nl:8901/?tune=488.5usb), [518 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=516.5usb), [4209.5  kHz](http://websdr.ewi.utwente.nl:8901/?tune=4208usb) <br />
 - [DWD Seewetter (01h05, 06,40, 18h10 via DAB+, Sat, stream)](http://ondemand-mp3.dradio.de/file/dradio/seewetter/seewetter.mp3) <br />
 - BBC 4 Shipping Forcast (00h48, 05h20, 12h01, 17h54) Wind, Sea state, Weather, Visibility: [198 KHz*](http://websdr.ewi.utwente.nl:8901/?tune=198am), Aberdeen [1449 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1449am), Belfast [720 KHz](http://websdr.ewi.utwente.nl:8901/?tune=720am), Carlisle [1485 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1485am), Cornwall [756 KHz](http://websdr.ewi.utwente.nl:8901/?tune=756am), Enniskillen [774 KHz](http://websdr.ewi.utwente.nl:8901/?tune=774am), London [720 KHz](http://websdr.ewi.utwente.nl:8901/?tune=720am), Londonderry [720 KHz](http://websdr.ewi.utwente.nl:8901/?tune=720am), Newcastle [603 KHz](http://websdr.ewi.utwente.nl:8901/?tune=603am), Plymouth [774 KHz](http://websdr.ewi.utwente.nl:8901/?tune=774am), 92-95 FM, 103-105 FM, [stream](http://www.bbc.co.uk/programmes/b006qfvv) <br />
@@ -31,98 +16,30 @@ Note: best results with -2.07 KHz, sampling on 2KHz sync tone, and 3db Gauss fil
 
 Baudot: Q = 1 , W = 2 , E = 3 , R = 4 , T = 5 , Y = 6 , U = 7 , I = 8 , O = 9 , P =  , A = - , D = $ , F = ! , G = & , H = # , J = ' , K = ( , L = ) , Z = " , X = / , C = : , V = ; , B = ? , N = ',' , M = '.'
 
-Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32; digital camera noise removal)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
-Ma: - <br />
-Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde), [JazzKasteel (22h00)](http://213.124.21.62:8000/listen.pls) <br />
-Wo: PI4HAL (10h00 - 17h00) (check skipzone): (1) VHF 2 meter [145.525 Mhz](http://erc-websdr.esa.int/?tune=145525cw) / [144.320 Mhz. ssb verticaal](http://erc-websdr.esa.int/?tune=144320lsb), (2) HF
-40 meter [7.080 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Khz](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Khz](http://websdr.ewi.utwente.nl:8901/?tune=3570cw), IBC [(MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am) <br />
-Do: - <br />
-Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), PA00NEWS (PI3UTR, 22h30) <br />
-Za: [PI4VRZ 10h00 cw, 10h30 RTTY/PSK31 op 40m](http://websdr.ewi.utwente.nl:8901/?tune=7062lsb), [op 2m](http://websdr.pi1nos.ampr.org:8901/?tune=145250fm), [herh. via stream](http://stream.pi4vrz.nl:9000/webstream.mp3), [VAO Radiogram (MFSK32, 09h30 UTC via NJ)*](http://74.102.24.130:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h00 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
-Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/),  [VAO Radiogram (MFSK32, 19h30 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=15670am), [JazzKasteel (22h00)](http://213.124.21.62:8000/listen.pls) <br />
-
-160 METER (lsb): Overdag zijn lokale verbindingen door grondgolven tot ca. 50km over land, maar een grotere afstand over zee is mogelijk. Het hele jaar bruikbaar. 's Nachts zijn doorgaans afstanden mogelijk van ca. 800km   tot enige duizenden kilimeters. In de zomer moet rekening gehouden worden met ernstige statische etherstoring. <br />
-[1807](http://websdr.ewi.utwente.nl:8901/?tune=1807lsb) - PSK31, MT63 and MFSK <br />
-[1838](http://websdr.ewi.utwente.nl:8901/?tune=1838lsb) - PSK31 and MFSK <br />
-
-80 METER (lsb): Altijd zijn er Europese stations te beluisteren. 's Avonds zijn zij het sterkst; het bereik omvat hier doorgaans West-Europa. Daardoor zijn er veel zendamateurs uit ons land en omringende landen aan te treffen. 's Nachts zijn de te overbruggen afstanden erg variabel maar enige duizenden kilometers kunnen in de winter worden overbrugd. <br />
-[3580](http://websdr.ewi.utwente.nl:8901/?tune=3580lsb) - PSK31 and PSK63 <br />
-[3582](http://websdr.ewi.utwente.nl:8901/?tune=3582lsb) - MFSK16 and MT63 500Hz Short interleave <br />
-[3585](http://websdr.ewi.utwente.nl:8901/?tune=3585lsb) - MT63 1000Hz Long <br />
-
-40 METER (lsb): Spraak vanaf  7,04 MHz, er zijn voornamelijk stations uit Europa te horen. Dezelfde gegevens als de 80 meterband, maar de maximale afstanden zijn meestal groter. <br />
-[7030](http://websdr.ewi.utwente.nl:8901/?tune=7030lsb) - PSK31 - Europe PSK frequency <br />
-[7035](http://websdr.ewi.utwente.nl:8901/?tune=7035lsb) - PSK31, MT63  <br />
-[7035 ](http://websdr.ewi.utwente.nl:8901/?tune=7035lsb) - PSK31 <br />
-
-30 METER (usb): Alleen morse. Overdag een goede band voor lange afstandsverkeer (DX).
-Minder geschikt voor korte afstand. 's Nachts redelijk geschikt voor het lange afstandsverkeer (DX) tijdens bepaalde jaargetijden. <br />
-[10132](http://websdr.ewi.utwente.nl:8901/?tune=10132usb)  through 10139 - PSK31 and other modes <br />
-[10137](http://websdr.ewi.utwente.nl:8901/?tune=10137usb)  - MT63 <br />
-
-20 METER (usb): Spraak vanaf 14,10 MHz, DX rond 14,20 MHz, 's avonds zijn er vooral stations van over de gehele wereld te horen. Dit is een band voor het DX-verkeer. <br />
-[14064.5](http://websdr.ewi.utwente.nl:8901/?tune=14064.5usb) - Clover <br />
-[14065](http://websdr.ewi.utwente.nl:8901/?tune=14065usb)  - Clover <br />
-[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31, PSK31 [(WinWarler)](http://www.dxlabsuite.com/winwarbler/) and other modes \<- !! <br />
-[14109](http://websdr.ewi.utwente.nl:8901/?tune=14109usb)  - MT63, some MFSK and occasional Q15X25 <br />
-[14109.5](http://websdr.ewi.utwente.nl:8901/?tune=14109.5usb) - Q15X25 - MixW centers at 1375Hz above VFO frequency  <br />
-[14111](http://websdr.ewi.utwente.nl:8901/?tune=14111usb)  - idem <br />
-[14113](http://websdr.ewi.utwente.nl:8901/?tune=14113usb)  - idem <br />
-[14115](http://websdr.ewi.utwente.nl:8901/?tune=14115usb)  - idem <br />
-
-17 METER (usb): Een prima band voor lange afstandsverkeer (DX). <br />
-[18100](http://websdr.ewi.utwente.nl:8901/?tune=18100usb)  - PSK, MT63 and other modes <br />
-
-15 METER (usb): Spraak vanaf  21,100 MHz. Zendamateurs van alle delen van de wereld zijn in deze band vaak te beluisteren. Laat in de avond is deze band meestal niet bruikbaar. Er is een sterke beinvloeding door ionosferische omstandigheden merkbaar (condities). Deze band wordt meestal voor het DX-verkeer gebruikt.
-De eigenschappen liggen tussen die van de 17 meterband en de 12 meterband in. Vaak is de band 'open' als de 10meter band 'dicht' is. <br />
-[21109](http://websdr.ewi.utwente.nl:8901/?tune=21109usb)  - PSK, MT63 and other modes <br />
-[21130](http://websdr.ewi.utwente.nl:8901/?tune=21130usb)  - PSK, MT63 and other modes <br />
-[21070](http://websdr.ewi.utwente.nl:8901/?tune=21070usb)  - PSK, MT63 and other modes <br />
-
-12 METER (usb): Overdag kan op deze band-afhankelijk van de ionosferische omstandigheden-uitstekend lange afstandsverkeer (DX) worden gewerkt. 's Nachts alleen geschikt  voor lokale grondgolf verbindingen. <br />
-[24920](http://websdr.ewi.utwente.nl:8901/?tune=24920usb)  - PSK, MT63 and other modes <br />
-[24930](http://websdr.ewi.utwente.nl:8901/?tune=24930usb)  - MT63 <br />
-
-10 METER (usb): Spraak vanaf  28,200 MHz,  DX rond 28,500 MHz. Deze band is alleen gedurende bepaalde periodes bruikbaar en dan nog voornamelijk overdag. Er is een nog sterkere invloed van condities dan op 15 meter. Tijdens de goede condities vindt er veel DX-verkeer op plaats. Overdag is deze band af en toe beter dan de 20meter band, maar dat is sterk afhankelijk van ionosferische omstandigheden. Grondgolf verbindingen zijn vaak slecht.
-'s Nachts alleen geschikt voor lokale grondgolf verbindingen. <br />
-[28120](http://websdr.ewi.utwente.nl:8901/?tune=28120usb)  - PSK, MT63 and other modes <br />
-[28130](http://websdr.ewi.utwente.nl:8901/?tune=28130usb)  - PSK, MT63 and other modes <br />
-
-Zie o.a. [PE1ORG](http://www.pe1org.diwil.nl/documents/amateur_banden.htm)
+----
+Vertrekkers: [Viking survival immursion suit](http://www.viking-life.com/viking.nsf/public/products-immersionconstantwearsuits.html), [NOAA Mariners info](http://www.nws.noaa.gov/om/marine/home.htm), [NOAA Marine wx charts](http://www.opc.ncep.noaa.gov/mobile_atl.php), [Crevecoeur](http://www.crevecoeur.nl/tips-voor-vertrekkers-voor-een-rondje-atlantic.html) </br />
 
 ----
-WSPR (WSPR uitzendingen beginnen één seconde over de even minuut):  <br />
-[wspr 0.136 KHz](http://websdr.ewi.utwente.nl:8901/?tune=0.136usb) (2,200 METER)<br />
-[wspr 0.4742 KHz](http://websdr.ewi.utwente.nl:8901/?tune=0.4742usb) (600 METER)<br />
-[wspr 1.8366 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1.8366usb) (160 METER)<br />
-[wspr 3.5926 KHz](http://websdr.ewi.utwente.nl:8901/?tune=3.5926usb) (80  METER)<br />
-[wspr 5.2872 KHz](http://websdr.ewi.utwente.nl:8901/?tune=5.2872usb) (50 METER)<br />
-[wspr 7.0386 KHz](http://websdr.ewi.utwente.nl:8901/?tune=7.0386usb) (40 METER)<br />
-[wspr 10.1387 KHz](http://websdr.ewi.utwente.nl:8901/?tune=10.1387usb) (30 METER)<br />
-[wspr 14.0956 KHz](http://websdr.ewi.utwente.nl:8901/?tune=14.0956usb) (20 METER)<br />
-[wspr 18.1046 KHz](http://websdr.ewi.utwente.nl:8901/?tune=18.1046usb) (17 METER)<br />
-[wspr 21.0946 KHz](http://websdr.ewi.utwente.nl:8901/?tune=21.0946usb) (15 METER)<br />
-[wspr 24.9246 KHz](http://websdr.ewi.utwente.nl:8901/?tune=24.9246usb) (12 METER)<br />
-[wspr 28.1246 KHz](http://websdr.ewi.utwente.nl:8901/?tune=28.1246usb) (10 METER)<br />
-[wspr 50.293 KHz](http://websdr.ewi.utwente.nl:8901/?tune=50.293usb) (5 METER)<br />
-[wspr 70.091 KHz](http://websdr.ewi.utwente.nl:8901/?tune=70.091usb) (4 METER)<br />
-[wspr 144.489 KHz](http://websdr.ewi.utwente.nl:8901/?tune=144.489usb) (2 METER)<br />
-[wspr 432.300 KHz](http://websdr.ewi.utwente.nl:8901/?tune=432.300usb) (70 CENTIMETER)<br />
-[wspr 1296.500 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1296.500usb) (23 CENTIMETER)<br />
-
-HF email
-===================
-Vertrekkers: [NOAA Mariners info](http://www.nws.noaa.gov/om/marine/home.htm), [NOAA Marine wx charts](http://www.opc.ncep.noaa.gov/mobile_atl.php), [Crevecoeur](http://www.crevecoeur.nl/tips-voor-vertrekkers-voor-een-rondje-atlantic.html) </br />
 Marifoon: Nederlandse Kustwacht: weerbericht voor de kust- en ruime binnenwateren op marifoonkanalen 23 en 83 om 08.05u, 13.05u, 19.05u en 23.05u (lokale tijd). <br />
+
+----
 Bekendmakingen: [P en T-lijst](https://www.defensie.nl/onderwerpen/berichten-aan-zeevarenden/inhoud/periodieke-lijsten), [RWS vaarwegenoverzicht](http://www.rijkswaterstaat.nl/water/vaarwegenoverzicht/index.aspx), [Bekendmakingen Havenbedrijf Rotterdam](http://www.portofrotterdam.com/NL/SCHEEPVAART/ACTUEEL/BEKENDMAKINGEN/Pages/default.aspx), [Bekendmakingen Rijksoverheid](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/actueel), [Zuid Holland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409360), [Zeeland](http://www.vaarweginformatie.nl/fdd/main/berichtgeving/scheepvaart/gebied/result?gebied=409363), [Binnenvaart NL](http://nos.nl/teletekst#721), [Binnenvaart EU](http://nos.nl/teletekst#722), [Havenbeheersverordening](https://www.portofrotterdam.com/nl/file/421/download?token=Cwj6YhYn), [Vaarsnelheid Rdam](http://portofrotterdam.com/vaarsnelheid), [Tabel aktuele Vaarsnelheid Rdam](http://vaarsnelheden.mx-systems.nl/por/por_wap.htm), [Ligplaatsen voor de binnenvaart (niet recreatie)](https://blauwegolfverbindend.nl/kaart) <br />
+
+----
 Getij: [Zon en Maan](http://nos.nl/teletekst#718), [waterhoogte NAP](http://www.rijkswaterstaat.nl/kaarten/waterstand-tov-nap.aspx), [NAP kentering R'dam](http://mx-systems.nl/osr/page/rotterdam.htm), [OLW R'dam](http://getij.rws.nl/getij_resultaat.cfm?location=ROTTDM), [LAT EasyTide R'dam](http://www.ukho.gov.uk/easytide/EasyTide/ShowPrediction.aspx?PortID=1508&PredictionLength=7&DaylightSavingOffset=0&PrinterFriendly=True&HeightUnits=0&GraphSize=7), [Rotterdam Rijnmond Stroomatlas] (http://www.wetwetwet.nl/stroomatlas/index.php?lang=nl), [Actuele waterstand R'dam](http://www.rijkswaterstaat.nl/apps/geoservices/rwsnl/awd.php?mode=html&projecttype=waterstanden&category=1&loc=ROTT&net=LMW), [TideMap R'dam](http://tides.mobilegeographics.com/locations/5419.html), [TotalTides](http://www.ukho.gov.uk/ProductsandServices/DigitalPublications/Pages/ATT.aspx), [NL Tides](https://www.defensie.nl/onderwerpen/hydrografie/inhoud/nautische-producten/nautische-computerprogramma%E2%80%99s/nltides---hp33d)   <br />
-Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [actuele windwaarneming](https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png), [Europa Wetterkarte](http://www.dwd.de/DWD/wetter/wv_allg/europa/bilder/vhs_euro_heute.jpg), [DWD 10d Meteogramm](http://www.wetterzentrale.de/pics/MS_065530_g05.png), [WXSIM forecast](http://www.weerstation-grootegast.nl/sivu5.php), [Teletekst bewolking](http://nos.nl/teletekst#707_2), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [xcweather](http://www.xcweather.co.uk/forecast/rotterdam), [buienalarm](http://www.buienalarm.be/location/rotterdam), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [9 day forcast Grootegast](http://www.weerstation-grootegast.nl/wxall3/verwachting3.php?lang=nl), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://ww2010.atmos.uiuc.edu/%28Gh%29/home.rxml) <br />
+
+----
+Weer: [MET office weather symbols](http://www.metoffice.gov.uk/guide/weather/symbols), [APT-06/MX-137 NOAA receiver](http://www.wraase.de/e_hardw.htm), [NOAA worldwide fax schedule](http://www.nws.noaa.gov/om/marine/rfax.pdf), [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [actuele windwaarneming](https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png), [Europa Wetterkarte](http://www.dwd.de/DWD/wetter/wv_allg/europa/bilder/vhs_euro_heute.jpg), [DWD 10d Meteogramm](http://www.wetterzentrale.de/pics/MS_065530_g05.png), [WXSIM forecast](http://www.weerstation-grootegast.nl/sivu5.php), [Teletekst bewolking](http://nos.nl/teletekst#707_2), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [xcweather](http://www.xcweather.co.uk/forecast/rotterdam), [buienalarm](http://www.buienalarm.be/location/rotterdam), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [9 day forcast Grootegast](http://www.weerstation-grootegast.nl/wxall3/verwachting3.php?lang=nl), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://ww2010.atmos.uiuc.edu/%28Gh%29/home.rxml) <br />
 [Neerslagradar KNMI](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif), [NL](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent), [D](http://www.dwd.de/DWD/wetter/radar/radfilm_brd_akt.gif), [EU](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent), [satelliet](http://api.buienradar.nl/image/image.ashx?k=3&amp;l=1&amp;c=eu), [infrarood](http://www.meteociel.fr/accueil/sat24ir.gif)  <br \>
 [Wetterkartesymbole](http://www.dwd.de/DE/service/lexikon/begriffe/B/Bodenwetterkartensymbole_pdf.pdf?__blob=publicationFile&v=5), [Stationsmodell DWD](http://www.deutscher-wetterdienst.de/scripts/getimg.php?src=/sundl/lexikon/Stationsmodell.jpg), [Present Weather METAR/WMO symbols](http://weather.rap.ucar.edu/info/about_wxsymbol.html), [wolkenatlas](http://www.wolkenatlas.de/), [wolkengeslachten](https://nl.wikipedia.org/wiki/Wolkengeslacht), Flight Level FL350 = 35,000 ft = 10.668 m, [MET shipping forecast terminology](http://weather.mailasail.com/Franks-Weather/Marine-Weather-Forecast-Terms), [MET forecast locations](http://static.bbci.co.uk/weather/0.5.350/images/coast-and-sea/shipping-forecast-locations.png), [MET high seas locations](http://static.bbci.co.uk/weather/0.5.350/images/coast-and-sea/high-seas-locations.png), [MET inland forcast locations](http://www.metoffice.gov.uk/public/weather/marine-inshore-waters/#iw7)  <br />
 [DWD Seewettrerbericht](http://www.deutschlandradio.de/seewetter.275.de.html), [BBC4 shipping forcast](http://www.bbc.co.uk/programmes/b006qfvv) <br \>
 [NAVTEX Abbreviations](http://weather.mailasail.com/Franks-Weather/European-And-Mediterranean-Navtex-Schedules#abbreviations), [DWD NAVTEX](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/navtex/518_emd.html?nn=391882), [NAVTEX LIVE](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1), [FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html) <br />
+
+----
 Vlaggen: [Rotterdam](https://nl.wikipedia.org/wiki/Vlag_van_Rotterdam), [Geus](https://nl.wikipedia.org/wiki/Geus_%28vlag%29), [Blauwe vlag](http://www.blauwevlag.nl/vaantje), [KNRM wimpel](https://www.knrm.nl/wat-wij-doen/reddingwinkel/), [Toerzeilers wimpel](http://www.toerzeilers.nl/winkel/index), [EOC](http://www.eoc.nl/pleziervaart/Verzekeringen/Zeiljacht) <br />
 Links: [Dieseldokter](http://dieseldokter.nl/), [Knopenenzo](http://www.knoopenzo.nl/#beeldoverzicht), [Vuilwater.info](http://www.vuilwater.info/brochures), [Zeebrief](http://www.anwbwatersport.nl/vaarinformatie/varen-in-europa/meer-over-internationaal-certificaat-pleziervaartuigen.html), [Toerzeilers](http://www.toerzeilers.nl/diversen/links), [PZV](http://pzv-zeezeilen.nl/weten-en-kunnen/), [CVO keuring](http://www.boottaxeren.nl/jachtkeuring/), [Positierapport met Winlink] (http://www.winlink.org/userPositions)<br />
+
+----
 Regelgeving:  <br />
 [Scheepvaartverkeerswet (SVW)](http://wetten.overheid.nl/BWBR0004364/#Hoofdstuk7_Artikel27), [Hiërarchie Scheepvaartverkeerswet](https://staticresources.rijkswaterstaat.nl/binaries/Hi%C3%ABrarchie%20Scheepvaartverkeerswet_tcm174-284088_tcm21-20409.pdf), [Vaarregels](http://www.vaarweginformatie.nl/fdd/main/infra/wetgeving) <br />
 [Binnenvaartwet (BVW)](http://wetten.overheid.nl/BWBR0023009/), [Binnenvaartbesluit (BVB), art.13, art.15 lid 1a1 en 1b, art.16, art.22 lid 4 en 5](http://wetten.overheid.nl/BWBR0025631), [Binnenvaartregeling (BVR)](http://wetten.overheid.nl/BWBR0025958), [Wetboek van Koophandel, art.785](http://wetten.overheid.nl/BWBR0001838/TweedeBoek/Dertiendetitel/Derdeafdeeling/Artikel785) <br />
@@ -135,6 +52,7 @@ Regelgeving:  <br />
 [Scheepvaartreglement Territoriale Zee](http://wetten.overheid.nl/BWBR0007914)  <br />
 [BVA](http://wetten.overheid.nl/BWBV0001014/VertalingNL), [COLREG](http://wetten.overheid.nl/BWBV0001014/AuthentiekEN), [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS)](http://wetten.overheid.nl/BWBV0003264/) <br />
 
+----
 To: query@saildocs.com  <br />
 Subject: (anything) or cancel <br />
 send XXX URL time=00:00 interval=6 <br />
@@ -142,17 +60,8 @@ send RTOFS:35N,65N,40W,15E|0.05,0.06|0,24,48,72,96,12 0 <br />
 send grib:35N,65N,40W,15E|1|0,3..84|PRMSL,WIND,SEATMP,AIRTMP,WAVES time=06:00 interval=24 <br />
 send grib:35N,65N,40W,15E|1|0,3..84|PRMSL,WIND,SEATMP,AIRTMP,WAVES time=19:00 interval=24 <br />
 send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt) time=06:00 interval=24 <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_modelbeoordeling.txt) time=19:00 interval=24 <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=06:00 interval=24 <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=14:00 interval=24 <br />
-send [ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) time=19:00 interval=24 <br />
-send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=06:00 interval=24 <br />
-send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=14:00 interval=24 <br />
-send https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png  time=19:00 interval=24 <br />
-send http://www.estofex.org/forecasts/tempmap/.png  time=06:30 interval=24 <br />
-send http://old.wetterzentrale.de/pics/MS_065530_g05.png  time=06:30 interval=24 <br />
-send [http://cookievrij.nos.nl/nieuws/](http://cookievrij.nos.nl/nieuws/) time=19:00 interval=24 <br />
 
+----
 KNMI: <br />
 [ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/basisverwachting.txt)  <br />
 [http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
@@ -308,305 +217,108 @@ SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br 
 **WOEN69: Warnungen für die Nord- und Ostsee (englisch)** <br />
 **WWXX60: Nautische Warnnachrichten** <br />
 
-----
-[METAR/WMO HIGH cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
-
-|     | Symbols |
-| --- |:-------:|
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_1.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus fibratus, sometimes uncinus, not progressively invading the sky |
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_2.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus, in patches or entangled sheaves, which usually do not increase and sometimes seem to be the remains of the upper part of a cumulonimbus; or cirrus castellanus or floccus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_3.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus spissatus cumulonimbogenitus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_4.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus uncinus or fibratus, or both, progressively invading the sky; they generally thicken as a whole |
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_5.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus (often in bands) and cirrostratus, or cirrostratus alone, progressively invading the sky; they generally thicken as a whole, but the continuous veil does not reach 45 degrees above the horizon |
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_6.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrus (often in bands) and cirrostratus, or cirrostratus alone, progressively invading the sky; they generally thicken as a whole; the continuous veil extends more than 45 degrees above the horizon, without the sky being totally covered |
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_7.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrostratus covering the whole sky |
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_8.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrostratus not progressively invading the sky and not entirely covering it |
-| **Symbol** | ![WeatherSymbol_WMO_CloudHigh_CH_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CH_CloudHigh/WeatherSymbol_WMO_CloudHigh_CH_9.svg)|
-| **Description** | Clouds of the genera Cirrus, Cirrocumulus and Cirrostratus: Cirrocumulus alone, or cirrocumulus predominant among the CH clouds |
+Ham spirit
+===================
+Conditions: [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [Digisonde sites](http://digisonde.com/digisonde-station-map.html), [Ionogram interpretation (waar zitten de reflectielagen, wat is de MUF, dus welke band gebruiken, welke afstand kun je daarmee overbruggen?)](http://www.g0lfp.com/ionograms/index.php) <br />
 
 ----
-[METAR/WMO MEDIUM cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
-
-|     | Symbols |
-| --- |:-------:|![WeatherSymbol_WMO_CloudMedium_CM_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_1.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altostratus translucidus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_2.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altostratus opacus or nimbostratus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_3.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus translucidus at a single level |
-| **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_4.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Patches (often lenticular) of altocumulus translucidus, continually changing and occurring at one or more levels |
-| **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_5.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus translucidus in bands, or one or more layers of altocumulus translucidus or opacus, progressively invading the sky; these altocumulus clouds generally thicken as a whole |
-| **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_6.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus cumulogenitus (or cumulonimbogenitus) |
-| **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_7.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus translucidus or opacus in two or more layers, or altocumulus opacus in a single layer, not progressively invading the sky, or altocumulus with altostratus or nimbostratus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_8.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus castellanus or floccus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudMedium_CM_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CM_CloudMedium/WeatherSymbol_WMO_CloudMedium_CM_9.svg)|
-| **Description** | Clouds of the genera Altocumulus, Altostratus and Nimbostratus: Altocumulus of a chaotic sky, generally at several levels |
-
----
-[METAR/WMO LOW cloud symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/symbols)
-
-
-|     | Symbols |
-| --- |:-------:|![WeatherSymbol_WMO_CloudLow_CL_1](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_1.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulus humilis or cumulus fractus other than of bad weather,* or both |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_2](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_2.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulus mediocris or congestus, with or without cumulus of species fractus or humilis or stratocumulus, all having their bases at the same level |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_3](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_3.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulonimbus calvus, with or without cumulus, stratocumulus or Stratus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_4](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_4.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Stratocumulus cumulogenitus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_5](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_5.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Stratocumulus other than stratocumulus cumulogenitus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_6](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_6.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Stratus nebulosus or Stratus fractus other 6 than of bad weather,* or both |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_7](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_7.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Stratus fractus or cumulus fractus of bad weather,* or both (pannus), usually below altostratus or nimbostratusx |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_8a](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_8a.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulus and stratocumulus other than stratocumulus cumulogenitus, with bases at different levels. It is known that the base of the Stratocumulus is below the base of the Cumulus |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_8](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_8.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulus and stratocumulus other than stratocumulus cumulogenitus, with bases at different levels |
-| **Symbol** | ![WeatherSymbol_WMO_CloudLow_CL_9](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/CL_CloudLow/WeatherSymbol_WMO_CloudLow_CL_9.svg)|
-| **Description** | Clouds of the genera Stratocumulus, Stratus, Cumulus and Cumulonimbus: Cumulonimbus capillatus (often with an anvil), with or without cumulonimbus calvus, cumulus, stratocumulus, Stratus or pannus |
+Schedules, bands: [IARU Region 1 HF Band Plan 2016 (Europe, Africa, Middle East and Northern Asia)](http://iaru-r1.org/index.php/downloads/func-download/719/chk,eeb06a4b11eda5f6ca502f3b9dd238f5/no_html,1/), [fmscan.org](http://fmscan.org/index.php), [mwlist](http://www.mwlist.org/now.php?kHz=3855), [Global frequency database](http://qrg.globaltuners.com/?q=3.855), [Shortwave.info](www.short-wave.info/index.php?freq=3855) <br />
 
 ----
-[METAR/WMO PRESENT WHEATHER symbols](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/blob/master/symbols/ww_PresentWeather/README.md)
+Blogs: [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PA3HFN](http://www.pa3hfn.com), [PA3HCM](http://www.pa3hcm.nl/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar) <br /> 
 
-|     | Symbols |
-| --- |:-------:|![WeatherSymbol_WMO_PresentWeather_ww_00](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_00.svg)|
-| **Description** | Present weather reported from a manned weather station: Cloud development not observed or not observable |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_01](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_01.svg)|
-| **Description** | Present weather reported from a manned weather station: Clouds generally dissolving or becoming less developed |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_02](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_02.svg)|
-| **Description** | Present weather reported from a manned weather station: State of sky on the whole unchanged |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_03](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_03.svg)|
-| **Description** | Present weather reported from a manned weather station: Clouds generally forming or developing |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_04](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_04.svg)|
-| **Description** | Present weather reported from a manned weather station: Visibility reduced by smoke, e.g. veldt or forest fires, industrial smoke or volcanic ashes |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_05](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_05.svg)|
-| **Description** | Present weather reported from a manned weather station: Haze |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_06](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_06.svg)|
-| **Description** | Present weather reported from a manned weather station: Widespread dust in suspension in the air, not raised by wind at or near the station at the time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_07a](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_07a.svg)|
-| **Description** | Present weather reported from a manned weather station: Dust or sand raised by wind at or near the station at the time of observation, but no well developed dust whirl(s) or sand whirl(s), and no duststorm or sandstorm seen |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_07b](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_07b.svg)|
-| **Description** | Present weather reported from a manned weather station: Blowing spray at the station, in the case of ships |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_07](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_07.svg)|
-| **Description** | Present weather reported from a manned weather station: Dust or sand raised by wind at or near the station at the time of observation, but no well developed dust whirl(s) or sand whirl(s), and no duststorm or sandstorm seen; or, in the case of ships, blowing spray at the station |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_08](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_08.svg)|
-| **Description** | Present weather reported from a manned weather station: Well-developed dust whirl(s) or sand whirl(s) seen at or near the station during the preceding hour or at the time of observation, but no duststorm or sandstorm |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_09](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_09.svg)|
-| **Description** | Present weather reported from a manned weather station: Duststorm or sandstorm within sight at the time of observation, or at the station during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_10](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_10.svg)|
-| **Description** | Present weather reported from a manned weather station: Mist |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_11](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_11.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog Patches, shallow fog or ice fog at the station, whether on land or sea, not deeper than about 2 metres on land or 10 metres at sea |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_12](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_12.svg)|
-| **Description** | Present weather reported from a manned weather station: More or less continuous shallow fog or ice fog at the station, whether on land or sea, not deeper than about 2 metres on land or 10 metres at sea |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_13](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_13.svg)|
-| **Description** | Present weather reported from a manned weather station: Lightning visible, no thunder heard |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_14](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_14.svg)|
-| **Description** | Present weather reported from a manned weather station: Precipitation within sight, not reaching the ground or the surface of the sea |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_15](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_15.svg)|
-| **Description** | Present weather reported from a manned weather station: Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e. estimated to be more than 5 km from the station |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_16](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_16.svg)|
-| **Description** | Present weather reported from a manned weather station: Precipitation within sight, reaching the ground or the surface of the sea, near to, but not at the station |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_17](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_17.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, but no precipitation at the time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_18](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_18.svg)|
-| **Description** | Present weather reported from a manned weather station: Squalls at or within sight of the station during the preceding hour or at the time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_19](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_19.svg)|
-| **Description** | Present weather reported from a manned weather station: Funnel cloud(s)** at or within sight of the station during the preceding hour or at the time of observation. ** Tornado cloud or waterspout |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_20](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_20.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle (not freezing) or snow grains not falling as shower(s) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_21](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_21.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain (not freezing) not falling as shower(s) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_22](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_22.svg)|
-| **Description** | Present weather reported from a manned weather station: Snow not falling as shower(s) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_23](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_23.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain and snow or ice pellets not falling as shower(s) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_24](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_24.svg)|
-| **Description** | Present weather reported from a manned weather station: Freezing drizzle or freezing rain not falling as shower(s) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_25](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_25.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of rain |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_26](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_26.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of snow, or of rain and snow |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_27](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_27.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of hail,*** or of rain and hail***. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_28](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_28.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog or ice fog |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_29](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_29.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm (with or without precipitation) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_30](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_30.svg)|
-| **Description** | Present weather reported from a manned weather station: Slight or moderate duststorm or sandstorm – has decreased during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_31](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_31.svg)|
-| **Description** | Present weather reported from a manned weather station: Slight or moderate duststorm or sandstorm – no appreciable change during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_32](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_32.svg)|
-| **Description** | Present weather reported from a manned weather station: Slight or moderate duststorm or sandstorm – has begun or has increased during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_33](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_33.svg)|
-| **Description** | Present weather reported from a manned weather station: Severe duststorm or sandstorm – has decreased during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_34](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_34.svg)|
-| **Description** | Present weather reported from a manned weather station: Severe duststorm or sandstorm – no appreciable change during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_35](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_35.svg)|
-| **Description** | Present weather reported from a manned weather station: Severe duststorm or sandstorm - has begun or has increased during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_36](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_36.svg)|
-| **Description** | Present weather reported from a manned weather station: Slight or moderate drifting snow generally low (below eye level) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_37](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_37.svg)|
-| **Description** | Present weather reported from a manned weather station: Heavy drifting snow generally low (below eye level) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_38](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_38.svg)|
-| **Description** | Present weather reported from a manned weather station: Heavy drifting snow generally low (below eye level) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_39](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_39.svg)|
-| **Description** | Present weather reported from a manned weather station: Present weather reported from a manned weather station: Heavy blowing snow generally high (above eye level) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_40](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_40.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog or ice fog at a distance at the time of observation, but not at the station during the preceding hour, the fog or ice fog extending to a level above that of the observer |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_41](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_41.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog or ice fog in patches |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_42](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_42.svg)|
-| **Description** | Present weather reported from a manned weather station: og or ice fog, sky visible, has become thinner during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_43](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_43.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog or ice fog, sky invisible, has become thinner during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_44](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_44.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog of ice fog, sky visible, no appreciable change during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_45](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_45.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog or ice fog, sky invisible, no appreciable change during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_46](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_46.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog or ice fog, sky visible, has begun or has become thicker during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_47](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_47.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog or ice fog, sky invisible, has begun or has become thicker during the preceding hour |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_48](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_48.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog, depositing rime, sky visible |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_49](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_49.svg)|
-| **Description** | Present weather reported from a manned weather station: Fog, depositing rime, sky invisible |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_50](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_50.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle, not freezing, intermittent, slight at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_51](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_51.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle, not freezing, continuous, slight at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_52](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_52.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle, not freezing, intermittent, moderate at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_53](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_53.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle, not freezing, continuous, moderate at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_54](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_54.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle, not freezing, intermittent, heavy (dense) at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_55](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_55.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle, not freezing, continuous, heavy (dense) at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_56](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_56.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle, freezing, slight |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_57](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_57.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle, freezing, moderate or heavy (dense) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_58](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_58.svg)|
-| **Description** | Present weather reported from a manned weather station: Drizzle and rain, slight |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_59](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_59.svg)|
-| **Description** | Present weather reported from a manned weather station: rizzle and rain, moderate or heavy |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_60](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_60.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain, not freezing, intermittent, slight at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_61](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_61.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain, not freezing, continuous, slight at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_62](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_62.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain, not freezing, intermittent, moderate at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_63](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_63.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain, not freezing, continuous, moderate at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_64](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_64.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain, not freezing, intermittent, heavy at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_65](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_65.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain, not freezing, continuous, heavy at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_66](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_66.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain, freezing, slight |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_67](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_67.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain, freezing, moderate or heavy |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_68](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_68.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain or drizzle and snow, slight |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_69](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_69.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain or drizzle and snow, moderate or heavy |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_70](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_70.svg)|
-| **Description** | Present weather reported from a manned weather station: Intermittent fall of snowflakes, slight at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_71](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_71.svg)|
-| **Description** | Present weather reported from a manned weather station: Continuous fall of snowflakes, slight at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_72](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_72.svg)|
-| **Description** | Present weather reported from a manned weather station: Intermittent fall of snowflakes, moderate at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_73](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_73.svg)|
-| **Description** | Present weather reported from a manned weather station: Continuous fall of snowflakes, moderate at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_74](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_74.svg)|
-| **Description** | Present weather reported from a manned weather station: Intermittent fall of snowflakes, heavy at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_75](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_75.svg)|
-| **Description** | Present weather reported from a manned weather station: Continuous fall of snowflakes, heavy at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_76](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_76.svg)|
-| **Description** | Present weather reported from a manned weather station: Diamond dust (with or without fog) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_77](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_77.svg)|
-| **Description** | Present weather reported from a manned weather station: Snow grains (with or without fog) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_78](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_78.svg)|
-| **Description** | Present weather reported from a manned weather station: Isolated star-like snow crystals (with or without fog) |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_79](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_79.svg)|
-| **Description** | Present weather reported from a manned weather station: Ice pellets |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_80](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_80.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain shower(s), slight |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_81](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_81.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain shower(s), moderate or heavy |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_82](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_82.svg)|
-| **Description** | Present weather reported from a manned weather station: Rain shower(s), violent |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_83](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_83.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of rain and snow mixed, slight |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_84](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_84.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of rain and snow mixed, moderate or heavy |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_85](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_85.svg)|
-| **Description** | Present weather reported from a manned weather station: Snow shower(s), slight |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_86](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_86.svg)|
-| **Description** | Present weather reported from a manned weather station: Snow shower(s), moderate or heavy |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_87](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_87.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of snow pellets or small hail, with or without rain  |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_88](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_88.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of snow pellets or small hail, with or without rain  |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_89](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_89.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of hail,**** with or without rain or rain and snow  |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_90](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_90.svg)|
-| **Description** | Present weather reported from a manned weather station: Shower(s) of hail,**** with or without rain or rain and snow mixed, not associated with thunder – moderate or heavy. **** French: grêle |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_91](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_91.svg)|
-| **Description** | Present weather reported from a manned weather station: Slight rain at time of observation, thunderstorm during the preceding hour but not at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_92](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_92.svg)|
-| **Description** | Present weather reported from a manned weather station: Moderate or heavy rain at time of observation, thunderstorm during the preceding hour but not at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_93a](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_93a.svg)|
-| **Description** | Present weather reported from a manned weather station: Slight snow, or rain and snow mixed at time of observation, thunderstorm during the preceding hour but not at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_93b](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_93b.svg)|
-| **Description** | Present weather reported from a manned weather station: Slight hail*** at time of observation, thunderstorm during the preceding hour but not at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_93](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_93.svg)|
-| **Description** | Present weather reported from a manned weather station: Slight snow, or rain and snow mixed or hail*** at time of observation, thunderstorm during the preceding hour but not at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_94a](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_94a.svg)|
-| **Description** | Present weather reported from a manned weather station: Moderate or heavy snow, or rain and snow mixed, at time of observation, thunderstorm during the preceding hour but not at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_94b](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_94b.svg)|
-| **Description** | Present weather reported from a manned weather station: Moderate or heavy hail***, at time of observation, thunderstorm during the preceding hour but not at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_94](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_94.svg)|
-| **Description** | Present weather reported from a manned weather station: Moderate or heavy snow, or rain and snow mixed or hail***, at time of observation, thunderstorm during the preceding hour but not at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_95a](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_95a.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, slight or moderate, without hail,*** but with rain at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_95b](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_95b.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, slight or moderate, without hail,*** but with snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_95](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_95.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, slight or moderate, without hail,*** but with rain and/or snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_96](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_96.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, slight or moderate, with hail*** at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_97a](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_97a.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, heavy, without hail, *** but with rain at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_97b](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_97b.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, heavy, without hail, *** but with snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_97](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_97.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, heavy, without hail, *** but with rain and/or snow at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_98](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_98.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm combined with duststorm or sandstorm at time of observation |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_99](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_99.svg)|
-| **Description** | Present weather reported from a manned weather station: Thunderstorm, heavy, with hail*** at time of observation. *** Hail, small hail, snow pellets. French: grêle, grésil ou neige roulée |
-| **Symbol** | ![WeatherSymbol_WMO_PresentWeather_ww_DoubleSlash](https://cdn.rawgit.com/OGCMetOceanDWG/WorldWeatherSymbols/master/symbols/ww_PresentWeather/WeatherSymbol_WMO_PresentWeather_ww_DoubleSlash.svg)|
-| **Description** | Present weather reported from a manned weather station: No observation was made or the data are missing |
+----
+Tinkering: [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/), [LCWO](http://lcwo.net) <br />
+
+----
+OnAir: <br />
+- Daily Minutes (PI2NOS, 10h30 en 19h00) <br />
+- [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
+- [DMR Nederland](http://hose.brandmeister.network/204/) <br />
+- [DigiDX (MFSK32, 05h30 en 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [via UK](http://www.160m.net/?tune=6070am), [via AT](www.websdr.at/?tune=6070am) <br />
+- [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [(herh.) via stream](http://stream02.audisi.nl/kbc-high) <br />
+
+----
+Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32; digital camera noise removal)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
+Ma: - <br />
+Di: [PD4FMJ D-STAR ronde (20h30)](http://d-star-nederland.nl/verslag-d-star-ronde/audio-d-star-ronde), [JazzKasteel (22h00)](http://213.124.21.62:8000/listen.pls) <br />
+Wo: PI4HAL (10h00 - 17h00) (check skipzone): (1) VHF 2 meter [145.525 Mhz](http://erc-websdr.esa.int/?tune=145525cw) / [144.320 Mhz. ssb verticaal](http://erc-websdr.esa.int/?tune=144320lsb), (2) HF
+40 meter [7.080 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=7080lsb) / [7.020 Khz](http://websdr.ewi.utwente.nl:8901/?tune=7020cw); (3) HF 80 meter [3.635 Khz LSB](http://websdr.ewi.utwente.nl:8901/?tune=3635lsb) / [3.570 Khz](http://websdr.ewi.utwente.nl:8901/?tune=3570cw), IBC [(MFSK32, Olivia 16/500, 20h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am) <br />
+Do: - <br />
+Vr: [PI4AA (1e vr/mnd, 21h00)](https://www.veron.nl/activiteiten/pi4aa-verenigingszender/pi4aa-uitzending-gemist-mp3/uitzendingen-seizoen-2015-2016/), PA00NEWS (PI3UTR, 22h30) <br />
+Za: [PI4VRZ 10h00 cw, 10h30 RTTY/PSK31 op 40m](http://websdr.ewi.utwente.nl:8901/?tune=7062lsb), [op 2m](http://websdr.pi1nos.ampr.org:8901/?tune=145250fm), [herh. via stream](http://stream.pi4vrz.nl:9000/webstream.mp3), [VAO Radiogram (MFSK32, 09h30 UTC via NJ)*](http://74.102.24.130:8902/?tune=5745am), [VAO Radiogram (MFSK32, 16h00 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=17580am) <br />
+Zo: [Delftse DMR ronde (12h00)](http://hose.brandmeister.network/2042/),  [VAO Radiogram (MFSK32, 19h30 UTC)*](http://websdr.ewi.utwente.nl:8901/?tune=15670am), [JazzKasteel (22h00)](http://213.124.21.62:8000/listen.pls) <br />
+
+----
+Digimodes:  <br />
+160 METER (lsb): Overdag zijn lokale verbindingen door grondgolven tot ca. 50km over land, maar een grotere afstand over zee is mogelijk. Het hele jaar bruikbaar. 's Nachts zijn doorgaans afstanden mogelijk van ca. 800km   tot enige duizenden kilimeters. In de zomer moet rekening gehouden worden met ernstige statische etherstoring. <br />
+[1807](http://websdr.ewi.utwente.nl:8901/?tune=1807lsb) - PSK31, MT63 and MFSK <br />
+[1838](http://websdr.ewi.utwente.nl:8901/?tune=1838lsb) - PSK31 and MFSK <br />
+
+80 METER (lsb): Altijd zijn er Europese stations te beluisteren. 's Avonds zijn zij het sterkst; het bereik omvat hier doorgaans West-Europa. Daardoor zijn er veel zendamateurs uit ons land en omringende landen aan te treffen. 's Nachts zijn de te overbruggen afstanden erg variabel maar enige duizenden kilometers kunnen in de winter worden overbrugd. <br />
+[3580](http://websdr.ewi.utwente.nl:8901/?tune=3580lsb) - PSK31 and PSK63 <br />
+[3582](http://websdr.ewi.utwente.nl:8901/?tune=3582lsb) - MFSK16 and MT63 500Hz Short interleave <br />
+[3585](http://websdr.ewi.utwente.nl:8901/?tune=3585lsb) - MT63 1000Hz Long <br />
+
+40 METER (lsb): Spraak vanaf  7,04 MHz, er zijn voornamelijk stations uit Europa te horen. Dezelfde gegevens als de 80 meterband, maar de maximale afstanden zijn meestal groter. <br />
+[7030](http://websdr.ewi.utwente.nl:8901/?tune=7030lsb) - PSK31 - Europe PSK frequency <br />
+[7035](http://websdr.ewi.utwente.nl:8901/?tune=7035lsb) - PSK31, MT63  <br />
+[7035 ](http://websdr.ewi.utwente.nl:8901/?tune=7035lsb) - PSK31 <br />
+
+30 METER (usb): Alleen morse. Overdag een goede band voor lange afstandsverkeer (DX).
+Minder geschikt voor korte afstand. 's Nachts redelijk geschikt voor het lange afstandsverkeer (DX) tijdens bepaalde jaargetijden. <br />
+[10132](http://websdr.ewi.utwente.nl:8901/?tune=10132usb)  through 10139 - PSK31 and other modes <br />
+[10137](http://websdr.ewi.utwente.nl:8901/?tune=10137usb)  - MT63 <br />
+
+20 METER (usb): Spraak vanaf 14,10 MHz, DX rond 14,20 MHz, 's avonds zijn er vooral stations van over de gehele wereld te horen. Dit is een band voor het DX-verkeer. <br />
+[14064.5](http://websdr.ewi.utwente.nl:8901/?tune=14064.5usb) - Clover <br />
+[14065](http://websdr.ewi.utwente.nl:8901/?tune=14065usb)  - Clover <br />
+[14070](http://websdr.ewi.utwente.nl:8901/?tune=14070usb)  - BPSF31, PSK31 [(WinWarler)](http://www.dxlabsuite.com/winwarbler/) and other modes \<- !! <br />
+[14109](http://websdr.ewi.utwente.nl:8901/?tune=14109usb)  - MT63, some MFSK and occasional Q15X25 <br />
+[14109.5](http://websdr.ewi.utwente.nl:8901/?tune=14109.5usb) - Q15X25 - MixW centers at 1375Hz above VFO frequency  <br />
+[14111](http://websdr.ewi.utwente.nl:8901/?tune=14111usb)  - idem <br />
+[14113](http://websdr.ewi.utwente.nl:8901/?tune=14113usb)  - idem <br />
+[14115](http://websdr.ewi.utwente.nl:8901/?tune=14115usb)  - idem <br />
+
+17 METER (usb): Een prima band voor lange afstandsverkeer (DX). <br />
+[18100](http://websdr.ewi.utwente.nl:8901/?tune=18100usb)  - PSK, MT63 and other modes <br />
+
+15 METER (usb): Spraak vanaf  21,100 MHz. Zendamateurs van alle delen van de wereld zijn in deze band vaak te beluisteren. Laat in de avond is deze band meestal niet bruikbaar. Er is een sterke beinvloeding door ionosferische omstandigheden merkbaar (condities). Deze band wordt meestal voor het DX-verkeer gebruikt.
+De eigenschappen liggen tussen die van de 17 meterband en de 12 meterband in. Vaak is de band 'open' als de 10meter band 'dicht' is. <br />
+[21109](http://websdr.ewi.utwente.nl:8901/?tune=21109usb)  - PSK, MT63 and other modes <br />
+[21130](http://websdr.ewi.utwente.nl:8901/?tune=21130usb)  - PSK, MT63 and other modes <br />
+[21070](http://websdr.ewi.utwente.nl:8901/?tune=21070usb)  - PSK, MT63 and other modes <br />
+
+12 METER (usb): Overdag kan op deze band-afhankelijk van de ionosferische omstandigheden-uitstekend lange afstandsverkeer (DX) worden gewerkt. 's Nachts alleen geschikt  voor lokale grondgolf verbindingen. <br />
+[24920](http://websdr.ewi.utwente.nl:8901/?tune=24920usb)  - PSK, MT63 and other modes <br />
+[24930](http://websdr.ewi.utwente.nl:8901/?tune=24930usb)  - MT63 <br />
+
+10 METER (usb): Spraak vanaf  28,200 MHz,  DX rond 28,500 MHz. Deze band is alleen gedurende bepaalde periodes bruikbaar en dan nog voornamelijk overdag. Er is een nog sterkere invloed van condities dan op 15 meter. Tijdens de goede condities vindt er veel DX-verkeer op plaats. Overdag is deze band af en toe beter dan de 20meter band, maar dat is sterk afhankelijk van ionosferische omstandigheden. Grondgolf verbindingen zijn vaak slecht.
+'s Nachts alleen geschikt voor lokale grondgolf verbindingen. <br />
+[28120](http://websdr.ewi.utwente.nl:8901/?tune=28120usb)  - PSK, MT63 and other modes <br />
+[28130](http://websdr.ewi.utwente.nl:8901/?tune=28130usb)  - PSK, MT63 and other modes <br />
+
+Zie o.a. [PE1ORG](http://www.pe1org.diwil.nl/documents/amateur_banden.htm)
+
+----
+WSPR (WSPR uitzendingen beginnen één seconde over de even minuut):  <br />
+[wspr 0.136 KHz](http://websdr.ewi.utwente.nl:8901/?tune=0.136usb) (2,200 METER)<br />
+[wspr 0.4742 KHz](http://websdr.ewi.utwente.nl:8901/?tune=0.4742usb) (600 METER)<br />
+[wspr 1.8366 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1.8366usb) (160 METER)<br />
+[wspr 3.5926 KHz](http://websdr.ewi.utwente.nl:8901/?tune=3.5926usb) (80  METER)<br />
+[wspr 5.2872 KHz](http://websdr.ewi.utwente.nl:8901/?tune=5.2872usb) (50 METER)<br />
+[wspr 7.0386 KHz](http://websdr.ewi.utwente.nl:8901/?tune=7.0386usb) (40 METER)<br />
+[wspr 10.1387 KHz](http://websdr.ewi.utwente.nl:8901/?tune=10.1387usb) (30 METER)<br />
+[wspr 14.0956 KHz](http://websdr.ewi.utwente.nl:8901/?tune=14.0956usb) (20 METER)<br />
+[wspr 18.1046 KHz](http://websdr.ewi.utwente.nl:8901/?tune=18.1046usb) (17 METER)<br />
+[wspr 21.0946 KHz](http://websdr.ewi.utwente.nl:8901/?tune=21.0946usb) (15 METER)<br />
+[wspr 24.9246 KHz](http://websdr.ewi.utwente.nl:8901/?tune=24.9246usb) (12 METER)<br />
+[wspr 28.1246 KHz](http://websdr.ewi.utwente.nl:8901/?tune=28.1246usb) (10 METER)<br />
+[wspr 50.293 KHz](http://websdr.ewi.utwente.nl:8901/?tune=50.293usb) (5 METER)<br />
+[wspr 70.091 KHz](http://websdr.ewi.utwente.nl:8901/?tune=70.091usb) (4 METER)<br />
+[wspr 144.489 KHz](http://websdr.ewi.utwente.nl:8901/?tune=144.489usb) (2 METER)<br />
+[wspr 432.300 KHz](http://websdr.ewi.utwente.nl:8901/?tune=432.300usb) (70 CENTIMETER)<br />
+[wspr 1296.500 KHz](http://websdr.ewi.utwente.nl:8901/?tune=1296.500usb) (23 CENTIMETER)<br />
 
 Windows 10
 ===================
