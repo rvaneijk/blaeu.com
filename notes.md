@@ -80,8 +80,14 @@ http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html 
 http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html <br />
 
 ----
-West Europa (let op, relative humidity Zygrib 500 hPa):  <br />
+DWD 500mb charts (Hoogte trog, Jetstream and forcast transport direction and speed of the depressions):  <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_024.png
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_048.png
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_072.png
 
+----
+West Europa (let op, relative humidity Zygrib 500 hPa):  <br />
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/bwk_bodendruck_weu_ana.png <br />
 [http://weather.mailasail.com/charts/PPVA89.PNG](http://weather.mailasail.com/charts/PPVA89.PNG)  <br />
 [http://weather.mailasail.com/charts/PPVE89.PNG](http://weather.mailasail.com/charts/PPVE89.PNG)  <br />
@@ -142,9 +148,6 @@ http://www.wetterzentrale.de/pics/Rmgfs127.gif <br />
 http://www.wetterzentrale.de/pics/Rmgfs157.gif <br />
 http://www.wetterzentrale.de/pics/Rmgfs187.gif <br />
 http://www.wetterzentrale.de/pics/Rmgfs217.gif <br />
-
-
-
 
 ----
 Nordsee: 
