@@ -1,6 +1,3 @@
-Disclaimer: this page contains my notes on system admin. Feel free to use them.
-===================
-
 HF email
 ===================
 - [Azimuth map](http://ns6t.net/azimuth/azimuth.html), [NOAA operational status](http://www.ospo.noaa.gov/Operations/POES/status.html), [NOAA-15](http://erc-websdr.esa.int/?tune=137350am), [NOAA-18](http://erc-websdr.esa.int/?tune=137913am), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137100am)  <br />
