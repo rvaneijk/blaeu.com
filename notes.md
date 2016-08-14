@@ -80,7 +80,7 @@ http://www.metoffice.gov.uk/public/weather/marine-printable/storm-warnings.html 
 http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.html <br />
 
 ----
-DWD 500mb Temperature charts (Hoogte trog, Jetstream and forcast transport direction and speed of the depressions):  <br />
+DWD 500mb (let op, temperature Zygrib 500 hPa) Hoogte trog, Jetstream and forcast transport direction and speed of the depressions:  <br />
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_024.png
 http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_048.png
