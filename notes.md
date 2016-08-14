@@ -81,10 +81,10 @@ http://www.metoffice.gov.uk/public/weather/marine-printable/extended-outlook.htm
 
 ----
 DWD 500mb (let op, temperature Zygrib 500 hPa) Hoogte trog, Jetstream and forcast transport direction and speed of the depressions:  <br />
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_024.png
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_048.png
-http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_072.png
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_ana.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_024.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_048.png <br />
+http://www.dwd.de/DWD/wetter/wv_spez/hobbymet/wetterkarten/ico_500ht_na_072.png <br />
 
 ----
 West Europa (let op, relative humidity Zygrib 500 hPa):  <br />
