@@ -148,6 +148,76 @@ http://www.wetterzentrale.de/pics/Rmgfs157.gif <br />
 http://www.wetterzentrale.de/pics/Rmgfs187.gif <br />
 http://www.wetterzentrale.de/pics/Rmgfs217.gif <br />
 
+[GYA surface charts](http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/_SCharts_5.html): <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/HFFAX_Polar_AA_SfcAnalysis_UNCL_0600_T000.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/HFFAX%20Polar_AB_SfcPrognosis_UNCL_0600_T024.bmp <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/HFFAX%20Polar_AB_SfcPrognosis_UNCL_0000_T048.bmp <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/HFFAX%20Polar_AB_SfcPrognosis_UNCL_0000_T072.bmp <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/HFFAX%20Polar_AB_SfcPrognosis_UNCL_0000_T096.bmp <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/HFFAX%20Polar_AB_SfcPrognosis_UNCL_0000_T120.bmp <br />
+
+[GYA 10m winds](http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/_HFFax_10mWINDS_5.html): <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0600_T006.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0600_T012.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0600_T018.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0600_T024.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0600_T030.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0600_T036.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0600_T042.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0600_T048.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0000_T060.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0000_T072.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0000_T084.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0000_T096.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0000_T108.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_10M_WINDS_0000_T120.png <br />
+
+[GYA precipitation and visibility](http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/_PPTN%20&%20VIS_5.html): <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0600_T006.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0600_T012.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0600_T018.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0600_T024.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0600_T030.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0600_T036.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0600_T042.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0600_T048.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0000_T060.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0000_T072.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0000_T084.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0000_T096.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0000_T108.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_PPTN_AND_VIS_0000_T120.png <br />
+
+[GYA sea surface temperature](http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/_SST%20BW_5.html): <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T000.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T012.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T024.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T036.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T048.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T060.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T072.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T084.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T096.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T108.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SST_BW_0000_T120.png <br />
+
+[GYA swell height and direction](http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/_SWELL%20HEIGHT%20&%20DIR_5.html): <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T000.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T006.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T012.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T018.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T024.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T030.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T036.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T042.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T048.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T060.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T072.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T084.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T096.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T108.png <br />
+http://www.cincfleetwoc.com/HF-Fax/North_Atlantic/NEATL_SWELL_HEIGHT_AND_DIR_0000_T120.png <br />
+
 ----
 Nordsee: 
 
