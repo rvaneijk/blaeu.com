@@ -1071,11 +1071,11 @@ Solution: Change the Terminal-type String under the Connection > Data tab from t
 Problem: install neo4j as a standalone project 
 Solution: 
 ```bash
-sudo apt-get install openjdk-7-jre
-$ wget http://neo4j.com/artifact.php?name=neo4j-community-2.1.5-unix.tar.gz
-$ mv artifact.php\?name\=neo4j-community-2.1.5-unix.tar.gz neo4j-community-2.1.5-unix.tar.gz
-$ tar xvzf neo4j-community-2.1.5-unix.tar.gz
-$ mv neo4j-community-2.1.5 MYPROJECT
+sudo apt-get install openjdk-8-jre
+$ wget https://neo4j.com/artifact.php?name=neo4j-community-3.0.4-unix.tar.gz
+$ mv artifact.php?name=neo4j-community-3.0.4-unix.tar.gz neo4j-community-3.0.4-unix.tar.gz
+$ tar xvzf neo4j-community-3.0.4-unix.tar.gz
+$ mv neo4j-community-3.0.4 MYPROJECT
 $ vi neo4j/MYPROJECT/conf/neo4j-wrapper.conf
  wrapper.name=neo4j-MYPROJECT
  $ sudo vi neo4j/MYPROJECT/conf/neo4j-server.properties 
