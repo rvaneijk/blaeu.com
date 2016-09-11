@@ -67,6 +67,7 @@ KNMI: <br />
 [http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png](http://www.knmi.nl/exp/pluim/Data/PLUIM_06260_NWT.png)  <br />
 [ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt](ftp://ftp.knmi.nl/pub_weerberichten/middellange_termijn_verwachting.txt)  <br />
 [ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt](ftp://ftp.knmi.nl/pub_weerberichten/guidance_meerdaagse.txt)  <br />
+[ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/weerbericht_scheepvaart_nederlands.txt) <br />
 [ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt](ftp://ftp.knmi.nl/pub_weerberichten/continentaal_plat_nederlands.txt)  <br />
 
 MET Office: (wind, sea state, weather, visibility) <br />
