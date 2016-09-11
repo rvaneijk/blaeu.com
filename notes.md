@@ -24,7 +24,7 @@ Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-
 Baudot: Q = 1 , W = 2 , E = 3 , R = 4 , T = 5 , Y = 6 , U = 7 , I = 8 , O = 9 , P =  , A = - , D = $ , F = ! , G = & , H = # , J = ' , K = ( , L = ) , Z = " , X = / , C = : , V = ; , B = ? , N = ',' , M = '.'
 
 ----
-Vertrekkers: [Visionary 7x50 with Compass](Visopnaryhttps://www.amazon.de/Visionary-Binoculars-Individual-Waterproof-Compass/dp/B00C68368C/ref=sr_1_2?s=photo&ie=UTF8&qid=1470482777&sr=1-2), [Visionary Stormforce 7x50 Marine Binoculars](
+Vertrekkers: [Visionary 7x50 with Compass](https://www.amazon.de/Visionary-Binoculars-Individual-Waterproof-Compass/dp/B00C68368C/ref=sr_1_2?s=photo&ie=UTF8&qid=1470482777&sr=1-2), [Visionary Stormforce 7x50 Marine Binoculars](
 http://www.telescopesandbinoculars.co.uk/acatalog/Visionary-Stormforce-7x50-Marine-Binoculars-1630.html), [PLB1 OCean Signal](http://oceansignal.com/products/plb1/), [Viking survival immursion suit](http://www.viking-life.com/viking.nsf/public/products-immersionconstantwearsuits.html), [APT-06/MX-137 NOAA receiver](http://www.wraase.de/e_hardw.htm), [NOAA Mariners info](http://www.nws.noaa.gov/om/marine/home.htm), [NOAA Marine wx charts](http://www.opc.ncep.noaa.gov/mobile_atl.php), [Crevecoeur](http://www.crevecoeur.nl/tips-voor-vertrekkers-voor-een-rondje-atlantic.html) </br />
 
 ----
