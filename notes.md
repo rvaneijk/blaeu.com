@@ -1421,6 +1421,7 @@ Solution: sudo apt-get install texlive-full
 Swiss knife
 ===================
   * [Firefox privacy settings](https://addons.mozilla.org/firefox/addon/privacy-settings/)
+  * Telemetry: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection\AllowTelemetry\DataCollection=0 DWORD (32-bit) Value. Disable Task Scheduler Library -> Microsoft -> Windows -> Customer Experience Improvement Program. Disable Task Scheduler Library -> Microsoft -> Windows -> Application Experience. 
   * Transscription [Transscribe](https://transcribe.wreally.com/login)
   * Search: [Shodan](http://www.shodanhq.com/)
  , [WolframAlfa](https://www.wolframalpha.com/)
