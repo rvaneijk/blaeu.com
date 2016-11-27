@@ -314,6 +314,7 @@ OnAir: <br />
 - [DMR Nederland](http://hose.brandmeister.network/204/) <br />
 - [DigiDX (MFSK32, 05h30 en 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [via UK](http://www.160m.net/?tune=6070am), [via AT](www.websdr.at/?tune=6070am) <br />
 - [The Mighty KBC (MFSK32, 01h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=9925am), [(herh.) via stream](http://stream02.audisi.nl/kbc-high) <br />
+- [KJNP 1170 AM: Trapline Chatter](http://www.mosquitonet.com/~kjnp/KJNP%20AM%20Schedule.pdf) </br>
 
 ----
 Gemist: [QSO gemist](http://qsogemist.nl/), [VOA Radiogram gemist (MFSK32; digital camera noise removal)](https://onedrive.live.com/redir?resid=F24C5799D08FDF1E%21507)  <br />
@@ -432,7 +433,14 @@ Solution: ZFS
 # sudo /etc/periodic/weekly/310.locate
 # sudo zpool scrub zroot
 ```
-
+----
+Problem: Shared object "libssl.so.7" not found, required by "pkg"
+Solution: rebuilding all packages after release upgrade
+```bash
+# su -
+# pkg-static install -f pkg
+# pkg upgrade -f
+```
 ----
 check /etc/hosts:
 ```bash
@@ -1421,12 +1429,14 @@ Solution: sudo apt-get install texlive-full
 Swiss knife
 ===================
   * [Firefox privacy settings](https://addons.mozilla.org/firefox/addon/privacy-settings/)
+  * [Zone-h](http://www.zone-h.org/archive/filter=1/fulltext=1/domain=.nl), [Siph0n](http://siph0n.net/leaks.php), [HaveIbeenPwned](http://feeds.feedburner.com/HaveIBeenPwnedLatestPastes), [LeakedSources](https://www.leakedsource.com/main/databaselist), [Vigilante.pw](https://vigilante.pw/), [#datalek](https://twitter.com/hashtag/datalek), [#data breach](https://twitter.com/hashtag/databreach)
+
   * Telemetry: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection\AllowTelemetry\DataCollection=0 DWORD (32-bit) Value. Disable Task Scheduler Library -> Microsoft -> Windows -> Customer Experience Improvement Program. Disable Task Scheduler Library -> Microsoft -> Windows -> Application Experience. 
   * Transscription [Transscribe](https://transcribe.wreally.com/login)
   * Search: [Shodan](http://www.shodanhq.com/)
  , [WolframAlfa](https://www.wolframalpha.com/)
 , [Save page in the Internet Archive](http://archive.org/web/), [The Web Application Vulnerability Scanners Benchmark, 2012](http://sectooladdict.blogspot.co.il/2012/07/2012-web-application-scanner-benchmark.html)
-  * DNS: [Robtex](https://www.robtex.com/)
+  * DNS:  [DNS Dumpster](https://dnsdumpster.com/), [Robtex](https://www.robtex.com/)
  , [SPF wizard](https://www.microsoft.com/mscorp/safety/content/technologies/senderid/wizard/)
 , [DKIM, SPF, SpamAssassin Email Validator](http://dkimvalidator.com/), [|type=domain&&value=blaeu.com](http://www.dnsstuff.com/tools#dnsReport),  [check a DNS zone](http://pingability.com/zoneinfo.jsp), [Qualsys SSL labs](https://www.ssllabs.com/ssldb/index.html), [ISP Tools](http://www.technicalinfo.net/tools/index.html), [l4x](https://dns.l4x.org/), [Norid Toplevel domains](http://www.norid.no/domenenavnbaser/domreg.html)
   * Disk: [Belarc Advisor](http://www.belarc.com/)
