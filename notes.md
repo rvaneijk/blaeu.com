@@ -1430,7 +1430,7 @@ Swiss knife
 ===================
   * [Firefox privacy settings](https://addons.mozilla.org/firefox/addon/privacy-settings/)
   * [Zone-h](http://www.zone-h.org/archive/filter=1/fulltext=1/domain=.nl), [Siph0n](http://siph0n.net/leaks.php), [HaveIbeenPwned](http://feeds.feedburner.com/HaveIBeenPwnedLatestPastes), [LeakedSources](https://www.leakedsource.com/main/databaselist), [Vigilante.pw](https://vigilante.pw/), [#datalek](https://twitter.com/hashtag/datalek), [#data breach](https://twitter.com/hashtag/databreach)
-
+  * Configuratiescherm\Systeem en beveiliging\Beveiliging en onderhoud\Betrouwbaarheidscontrole
   * Telemetry: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection\AllowTelemetry\DataCollection=0 DWORD (32-bit) Value. Disable Task Scheduler Library -> Microsoft -> Windows -> Customer Experience Improvement Program. Disable Task Scheduler Library -> Microsoft -> Windows -> Application Experience. 
   * Transscription [Transscribe](https://transcribe.wreally.com/login)
   * Search: [Shodan](http://www.shodanhq.com/)
@@ -1450,7 +1450,7 @@ Swiss knife
  , [Mitmproxy](http://http://mitm.it/)
 , [Firebug](https://addons.mozilla.org/en-US/firefox/addon/1843/), [Fiddler](http://www.fiddler2.com/fiddler2/), [WebScarab](https://www.owasp.org/index.php/WebScarab_Getting_Started), [Charles](http://www.charlesproxy.com/documentation/getting-started/), [WebScarab](http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project), [web sniffer](http://web-sniffer.net)
   * [quick python overview](http://www.stavros.io/tutorials/python/)
-
+  * [Hitchhikers guide to DataScience](http://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
   * Directory listing vulnerabilities: site:blaeu.com intitle:index.of
   * Configuration files exposed: site:blaeu.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
   * Database files exposed: site:blaeu.com ext:sql | ext:dbf | ext:mdb
@@ -1461,7 +1461,40 @@ Swiss knife
   * Publicly exposed documents: site:blaeu.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
   * phpinfo(): site:blaeu.com ext:php intitle:phpinfo "published by the PHP Group"  
 
- Firefox tweaks
+  
+Windows 10 tweaks
+===================
+Problem: Remove default apps 
+Solution: 
+```bash
+Get-AppxPackage *3dbuilder* | Remove-AppxPackage
+Get-AppxPackage *windowsalarms* | Remove-AppxPackage
+Get-AppxPackage *windowscalculator* | Remove-AppxPackage
+Get-AppxPackage *windowscommunicationsapps* | Remove-AppxPackage
+Get-AppxPackage *windowscamera* | Remove-AppxPackage
+Get-AppxPackage *officehub* | Remove-AppxPackage
+Get-AppxPackage *skypeapp* | Remove-AppxPackage
+Get-AppxPackage *getstarted* | Remove-AppxPackage
+Get-AppxPackage *zunemusic* | Remove-AppxPackage
+Get-AppxPackage *windowsmaps* | Remove-AppxPackage
+Get-AppxPackage *solitairecollection* | Remove-AppxPackage
+Get-AppxPackage *bingfinance* | Remove-AppxPackage
+Get-AppxPackage *zunevideo* | Remove-AppxPackage
+Get-AppxPackage *bingnews* | Remove-AppxPackage
+Get-AppxPackage *onenote* | Remove-AppxPackage
+Get-AppxPackage *people* | Remove-AppxPackage
+Get-AppxPackage *windowsphone* | Remove-AppxPackage
+Get-AppxPackage *bingsports* | Remove-AppxPackage
+Get-AppxPackage *soundrecorder* | Remove-AppxPackage
+Get-AppxPackage *bingweather* | Remove-AppxPackage
+Get-AppxPackage *xboxapp* | Remove-AppxPackage
+Get-AppxPackage *freshpaint* | Remove-AppxPackage
+Get-AppxPackage *feedbackhub* | Remove-AppxPackage
+Get-AppxPackage *messages* | Remove-AppxPackage
+Get-AppxPackage *stickynotes* | Remove-AppxPackage
+```
+  
+Firefox tweaks
 ===================
 Problem: Open all links 
 Solution: 
