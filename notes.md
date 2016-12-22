@@ -412,6 +412,18 @@ Solution: install from commandline
 - reboot, check updates
 
 
+Amazon S3
+===================
+
+Problem: Deleting folders from S3 recurively
+Solution: 
+```
+$ sudo apt-get install s3cmd
+$ sudo apt-get s3cmd --configure
+$ s3cmd rm s3://foo/bar --recursive
+```
+
+
 FreeBSD
 ===================
 
