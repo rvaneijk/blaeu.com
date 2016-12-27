@@ -1440,6 +1440,7 @@ Solution: sudo apt-get install texlive-full
 
 Swiss knife
 ===================
+  * [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   * [Firefox privacy settings](https://addons.mozilla.org/firefox/addon/privacy-settings/)
   * [Zone-h](http://www.zone-h.org/archive/filter=1/fulltext=1/domain=.nl), [Siph0n](http://siph0n.net/leaks.php), [HaveIbeenPwned](http://feeds.feedburner.com/HaveIBeenPwnedLatestPastes), [LeakedSources](https://www.leakedsource.com/main/databaselist), [Vigilante.pw](https://vigilante.pw/), [#datalek](https://twitter.com/hashtag/datalek), [#data breach](https://twitter.com/hashtag/databreach)
   * Configuratiescherm\Systeem en beveiliging\Beveiliging en onderhoud\Betrouwbaarheidscontrole
