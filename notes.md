@@ -1867,3 +1867,23 @@ The Intel® Entry Storage System SS4000-E will reboot to complete the system res
 Please login using the default user name (admin) and password (storage). The Administrator login can be changed from the defaults under the Advanced tab, System selection.
 
 1 For additional information on the system reset button location, see the Intel® Entry Storage System SS4000-E User Guide.
+
+
+R - snippets
+===================
+Problem: working with lists
+Solution: keep fiddling
+```r
+library(jsonlite)
+library(curl)
+library(plyr)
+
+# ophalen JSON
+book <- fromJSON("https://www.googleapis.com/books/v1/volumes?q=isbn:9780029123003")
+# title eruit halen
+title = unlist(book$items$volumeInfo$title[1])
+# platslaan: 1. unlist, 2. collapse met paste commando
+authors = paste(c(unlist(book$items$volumeInfo$authors)), collapse=', ' )
+# resultaat
+resultaat = paste(title, authors, sep=": ")
+```
