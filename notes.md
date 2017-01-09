@@ -852,7 +852,7 @@ Solution:
  %admin ALL=(ALL) ALL
  %samba   ALL=(ALL) /bin/mount,/bin/umount,/sbin/mount.cifs,/sbin/umount.cifs
 
- sudo mount -t cifs //<ip-address>/D ~/mnt -o username=xx,password=xx
+ sudo mount -t cifs //<ip-address>/workspace ~/mnt -o username=xx,password=xx,vers=2.0
  sudo mitmdump -w ~/mnt/130313\ 18h42\ rondje\ dagbladen
  sudo umount ~/mnt
 ```
