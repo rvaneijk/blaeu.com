@@ -760,6 +760,18 @@ Ubuntu
 ===================
 
 ----
+Problem: install ipython stuff 
+Solution: 
+```bash
+$ sudo apt-get -y install python2.7 python-pip python-dev
+$ sudo apt-get -y install ipython ipython-notebook
+$ sudo -H pip install jupyter
+
+Running the notebook:
+$ jupyter notebook --ip='*'
+```   
+
+----
 Problem: add ubuntu server to hyperV
 Solution: 
 ```bash
