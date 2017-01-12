@@ -1397,10 +1397,12 @@ NPP_RUN "H:\portable_apps\Aspell\bin\aspell.exe" -t --add-tex-command="definecol
 -----
 Problem: Console Highlighting
 Solution: 
-(6) <F6>, ```bashNPP_SAVE
+```bash
+(6) <F6>, 
+NPP_SAVE
 cd /cygdrive/h/
 cd "! Viriya\PhD dissertatie Rob van Eijk\dissertatie v9"
-make all```
+make all
 (7) <SHIFT-F6>, replace|ReplaceFilter1|replace / with \ 
 (8) <SHIFT-F6>, Higlight|Mask ```bash%ABSFILE%:%LINE%:*,0xFF,0x00,0x00,B
 Higlight|Mask|*.tex:%LINE%:*,0xFF,0x00,0x00,B
