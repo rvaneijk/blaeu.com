@@ -771,6 +771,22 @@ Running the notebook:
 $ jupyter notebook --ip='*'
 ```   
 
+Problem: update anaconda 
+Solution: 
+```bash
+$ sudo /usr/local/anaconda3/bin/conda update conda
+$ sudo apt-get remove ipython
+$ sudo apt-get install ipython
+``` 
+
+Problem: jupyter couldn't find a kernel matching Python 2. 
+Solution: 
+```bash
+$ python --version
+Python 3.5.2 :: Anaconda 4.2.0 (64-bit)
+$ sudo /usr/local/anaconda3/bin/conda create -n ana42py35 anaconda python=3.5
+``` 
+
 ----
 Problem: add ubuntu server to hyperV
 Solution: 
