@@ -1394,6 +1394,34 @@ $ git commit -m "Add your description of the commit here"
 $ git push origin master
 ```
 
+----
+Problem with running gitk on local mounted s3bucket
+```bash
+install FUSE:
+$ sudo apt-get install s3fs
+Set s3 cerdentials:
+$ cat '<your_aws_key_id>:<your_aws_secret_key>' > ~/.passwd-s3fs
+Set mountpoint:
+$ mkdir ~/tmp/cache
+$ mkdir ~/mnt.s3
+$ chmod 777 ~/tmp/cache ~/mnt.s3
+$ chmod 600 ~/.passwd-s3fs
+Set display for root
+$ xauth list $DISPLAY
+$ su - && cp /home/rvaneijk/.Xauthority . 
+$ xauth list $DISPLAY
+$ sudo apt-get install gitk && gitk &
+mount:
+$ sudo s3fs -o use_cache=/home/rvaneijk/tmp/cache <your_bucket_name> /home/rvaneijk/mnt.s3
+umount:
+$ sudo umount /home/rvaneijk/mnt.s3
+test s3 origin:
+$ git remote -v
+origin  /home/rvaneijk/mnt.s3/workspace/paper (fetch)
+origin  /home/rvaneijk/mnt.s3/workspace/paper (push)
+
+```
+
 Tex
 ===================
 Problem: Syntax higlighting, Notepad++/TeX integration 
