@@ -1470,14 +1470,8 @@ Problem: Compiling MikTex document on Ubuntu
 Solution: sudo apt-get install texlive-full
 
 
-
 Swiss knife
 ===================
-  * [CygwinPorts](https://sourceware.org/cygwinports/)
-```
-   cygstart -- /path/to/setup-x86.exe -K http://cygwinports.org/ports.gpg
-   On Choose Download Site(s), ftp://ftp.cygwinports.org/pub/cygwinports 
-```
   * [Dash test player 1](http://dashif.org/reference/players/javascript/v2.0.0/samples/dash-if-reference-player/index.html)
   * [Dash test player 2](http://bitmovin.com/hls-mpeg-dash-test-player/)
   * [Dash test player 3](http://shaka-player-demo.appspot.com/demo/)
@@ -1516,6 +1510,21 @@ Swiss knife
   * Publicly exposed documents: site:blaeu.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
   * phpinfo(): site:blaeu.com ext:php intitle:phpinfo "published by the PHP Group"  
 
+Cygwin tweaks
+===================
+  * [CygwinPorts](https://sourceware.org/cygwinports/)
+```
+   cygstart -- /path/to/setup-x86.exe -K http://cygwinports.org/ports.gpg
+   On Choose Download Site(s), ftp://ftp.cygwinports.org/pub/cygwinports 
+```
+
+----
+Problem: gitk
+Solution: 
+```bash
+first install xinit, git, VcXsrv 
+$ DISPLAY=:0 gitk
+```
   
 Windows 10 tweaks
 ===================
