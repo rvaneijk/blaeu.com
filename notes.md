@@ -788,6 +788,15 @@ $ sudo /usr/local/anaconda3/bin/conda create -n ana42py35 anaconda python=3.5
 ``` 
 
 ----
+Problem: install pycharm 
+Solution:  prerequisites: JRE (or OpenJDK) and Anaconda
+sudo apt-get install openjdk-TODO-jre
+java -version
+sudo add-apt-repository ppa:mystic-mirage/pycharm 
+sudo apt-get update
+sudo apt-get install pycharm-community
+
+----
 Problem: add ubuntu server to hyperV
 Solution: 
 ```bash
@@ -1500,9 +1509,7 @@ Solution: sudo apt-get install texlive-full
 
 Swiss knife
 ===================
-  * [Dash test player 1](http://dashif.org/reference/players/javascript/v2.0.0/samples/dash-if-reference-player/index.html)
-  * [Dash test player 2](http://bitmovin.com/hls-mpeg-dash-test-player/)
-  * [Dash test player 3](http://shaka-player-demo.appspot.com/demo/)
+  * [Dash howto](http://wiki.webmproject.org/adaptive-streaming/instructions-to-do-webm-live-streaming-via-dash), [Dash test player 1](http://dashif.org/reference/players/javascript/v2.0.0/samples/dash-if-reference-player/index.html), [Dash test player 2](http://bitmovin.com/hls-mpeg-dash-test-player/), [Dash test player 3](http://shaka-player-demo.appspot.com/demo/)
   * [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   * [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [MetaSploit](https://www.metasploit.com/), [Acunetix](http://www.acunetix.com/)
   * [Firefox privacy settings](https://addons.mozilla.org/firefox/addon/privacy-settings/)
