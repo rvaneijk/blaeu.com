@@ -790,11 +790,13 @@ $ sudo /usr/local/anaconda3/bin/conda create -n ana42py35 anaconda python=3.5
 ----
 Problem: install pycharm 
 Solution:  prerequisites: JRE (or OpenJDK) and Anaconda
+```bash
 sudo apt-get install openjdk-TODO-jre
 java -version
 sudo add-apt-repository ppa:mystic-mirage/pycharm 
 sudo apt-get update
 sudo apt-get install pycharm-community
+``` 
 
 ----
 Problem: add ubuntu server to hyperV
