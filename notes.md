@@ -793,7 +793,7 @@ Solution:  prerequisites: JRE (or OpenJDK) and Anaconda
 ```bash
 sudo apt-get install openjdk-TODO-jre
 java -version
-sudo add-apt-repository ppa:mystic-mirage/pycharm 
+sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make 
 sudo apt-get update
 sudo apt-get install pycharm-community
 ``` 
