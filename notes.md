@@ -779,6 +779,18 @@ $ sudo apt-get remove ipython
 $ sudo apt-get install ipython
 ``` 
 
+Problem: update anaconda (WINDOWS)
+Solution: 
+```bash
+$ conda --version  # test conda from commandline
+$ conda update conda  # update self
+$ conda search --full-name python  # list all installed puhon versions
+$ conda list  # View a list of packages and versions installed in an environment
+$ conda update --all  # update all packages
+$ conda install <package> && conda list  # install with conda (preferred)
+$ pip install see && conda list  # install with pip if not present in anaconda
+``` 
+
 Problem: jupyter couldn't find a kernel matching Python 2. 
 Solution: 
 ```bash
