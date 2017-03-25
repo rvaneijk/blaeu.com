@@ -785,6 +785,8 @@ Solution:
 $ conda --version  # test conda from commandline
 $ conda update conda  # update self
 $ conda search --full-name python  # list all installed puhon versions
+$ conda install python=3.6.1  # bring conda environment up to latest version of python
+$ conda search --full-name python  # list all installed puhon versions
 $ conda list  # View a list of packages and versions installed in an environment
 $ conda update --all  # update all packages
 $ conda install <package> && conda list  # install with conda (preferred)
