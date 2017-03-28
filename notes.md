@@ -409,8 +409,13 @@ Solution: install from commandline
 - Shift + right click on the cab file, and "copy as path"
 - Run command prompt as Administrator
 - dism /online /add-package /packagepath:"insertpathhere"
-- reboot, check updates
+- reboot
+- check updates, to trigger update fresh/manually run the following VB script
+```bash
+Set automaticUpdates = CreateObject("Microsoft.Update.AutoUpdate")
 
+automaticUpdates.DetectNow()
+```
 
 Amazon S3
 ===================
