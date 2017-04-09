@@ -2008,3 +2008,60 @@ authors = paste(c(unlist(book$items$volumeInfo$authors)), collapse=', ' )
 # resultaat
 resultaat = paste(title, authors, sep=": ")
 ```
+
+Python - snippets
+===================
+Problem: getting help
+Solution: use standard Python library exceptions
+```python
+pydoc.browse()
+
+from apihelper import info
+info(zip, 30,0) # geeft __DOC__ van alle callable dir()
+dir(zip)
+type(tip)
+info(__builtin__, 30, 0)
+
+import sys
+print('\n'.join(sys.modules.keys()) # list all modules
+info(sys, 30, 1)
+
+import os
+info(os,30, 1)
+import os.path
+info(os.path,30, 1)
+```
+
+Problem: exception
+Solution: use standard Python library exceptions
+```python
+Accessing a non-existent dictionary key will raise a KeyError exception
+Searchin a a list for a non-existent value will raise a ValueError exception
+Calling a non-existent method will raise a AttributeError exception
+Referencing a non-existent variable key will raise a NameError exception
+Mixing datatypes withoud coercion will raise a TypeError exception
+```
+
+Problem: dictionary based string formatting
+Solution: keep fiddling
+```python
+def unknown_starttag(self, tag, attrs):
+	strattrs = "".join([' %s="%s"' % (key, value) for key, value in attrs])
+	self.pieces.append("<%(tag)s%(strattrs)s>" % locals())
+
+# When this method is called, attrs is a list of key/value tuples, just like the items of a dictionary, which
+# means you can use multi−variable assignment to iterate through it. This should be a familiar pattern by now,
+# but there's a lot going on here, so let's break it down:
+# a. Suppose attrs is [('href', 'index.html'), ('title', 'Go to home page')].
+# b. In the first round of the list comprehension, key will get 'href', and value will get 'index.html'.
+# c. The string formatting ' %s="%s"' % (key, value) will resolve to
+#    ' href="index.html"'. This string becomes the first element of the list comprehension's return value.
+# d. In the second round, key will get 'title', and value will get 'Go to home page'.
+# e. The string formatting will resolve to ' title="Go to home page"'.
+# f. The list comprehension returns a list of these two resolved strings, and strattrs will join both
+# elements of this list together to form ' href="index.html" title="Go to home page"'.
+#
+# Now, using dictionary−based string formatting, you insert the value of tag and strattrs into a string. So if
+# tag is 'a', the final result would be '<a href="index.html" title="Go to home page">',
+# and that is what gets appended to self.pieces.
+```
