@@ -1610,31 +1610,41 @@ Windows 10 tweaks
 Problem: Remove default apps 
 Solution: 
 ```bash
-Get-AppxPackage *3dbuilder* | Remove-AppxPackage
-Get-AppxPackage *windowsalarms* | Remove-AppxPackage
-Get-AppxPackage *windowscalculator* | Remove-AppxPackage
-Get-AppxPackage *windowscommunicationsapps* | Remove-AppxPackage
-Get-AppxPackage *windowscamera* | Remove-AppxPackage
-Get-AppxPackage *officehub* | Remove-AppxPackage
-Get-AppxPackage *skypeapp* | Remove-AppxPackage
-Get-AppxPackage *getstarted* | Remove-AppxPackage
-Get-AppxPackage *zunemusic* | Remove-AppxPackage
-Get-AppxPackage *windowsmaps* | Remove-AppxPackage
-Get-AppxPackage *solitairecollection* | Remove-AppxPackage
-Get-AppxPackage *bingfinance* | Remove-AppxPackage
-Get-AppxPackage *zunevideo* | Remove-AppxPackage
-Get-AppxPackage *bingnews* | Remove-AppxPackage
-Get-AppxPackage *onenote* | Remove-AppxPackage
-Get-AppxPackage *people* | Remove-AppxPackage
-Get-AppxPackage *windowsphone* | Remove-AppxPackage
-Get-AppxPackage *bingsports* | Remove-AppxPackage
-Get-AppxPackage *soundrecorder* | Remove-AppxPackage
-Get-AppxPackage *bingweather* | Remove-AppxPackage
-Get-AppxPackage *xboxapp* | Remove-AppxPackage
-Get-AppxPackage *freshpaint* | Remove-AppxPackage
-Get-AppxPackage *feedbackhub* | Remove-AppxPackage
-Get-AppxPackage *messages* | Remove-AppxPackage
-Get-AppxPackage *stickynotes* | Remove-AppxPackage
+Get-AppxPackage -name "3dbuilder" | Remove-AppxPackage
+Get-AppxPackage -name "windowsalarms" | Remove-AppxPackage
+Get-AppxPackage -name "windowscalculator" | Remove-AppxPackage
+Get-AppxPackage -name "windowscommunicationsapps" | Remove-AppxPackage
+Get-AppxPackage -name "windowscamera" | Remove-AppxPackage
+Get-AppxPackage -name "officehub" | Remove-AppxPackage
+Get-AppxPackage -name "skypeapp" | Remove-AppxPackage
+Get-AppxPackage -name "getstarted" | Remove-AppxPackage
+Get-AppxPackage -name "zunemusic" | Remove-AppxPackage
+Get-AppxPackage -name "windowsmaps" | Remove-AppxPackage
+Get-AppxPackage -name "solitairecollection" | Remove-AppxPackage
+Get-AppxPackage -name "bingfinance" | Remove-AppxPackage
+Get-AppxPackage -name "zunevideo" | Remove-AppxPackage
+Get-AppxPackage -name "bingnews" | Remove-AppxPackage
+Get-AppxPackage -name "onenote" | Remove-AppxPackage
+Get-AppxPackage -name "people" | Remove-AppxPackage
+Get-AppxPackage -name "windowsphone" | Remove-AppxPackage
+Get-AppxPackage -name "bingsports" | Remove-AppxPackage
+Get-AppxPackage -name "soundrecorder" | Remove-AppxPackage
+Get-AppxPackage -name "bingweather" | Remove-AppxPackage
+Get-AppxPackage -name "xboxapp" | Remove-AppxPackage
+Get-AppxPackage -name "freshpaint" | Remove-AppxPackage
+Get-AppxPackage -name "feedbackhub" | Remove-AppxPackage
+Get-AppxPackage -name "messages" | Remove-AppxPackage
+Get-AppxPackage -name "stickynotes" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.BioEnrollment" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.Windows.CloudExperienceHost" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.Windows.ParentalControls" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.Windows.SecondaryTileExperience" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.Windows.SecureAssessmentBrowser" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.XboxGameCallableUI" | Remove-AppxPackage
+Get-AppxPackage -name "Windows.ContactSupport" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.WindowsScan" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.Windows.Cortana" | Remove-AppxPackage
+Get-AppxPackage -name "Microsoft.Windows.ShellExperienceHost" | Remove-AppxPackage
 ```
   
 Firefox tweaks
@@ -2043,15 +2053,14 @@ Mixing datatypes withoud coercion will raise a TypeError exception
 ```
 
 Problem: dictionary based string formatting
-Solution: keep fiddling
+Solution: assigning functions to get references to functions and other attribures dynamically
 ```python
 def unknown_starttag(self, tag, attrs):
 	strattrs = "".join([' %s="%s"' % (key, value) for key, value in attrs])
 	self.pieces.append("<%(tag)s%(strattrs)s>" % locals())
 
 # When this method is called, attrs is a list of key/value tuples, just like the items of a dictionary, which
-# means you can use multi−variable assignment to iterate through it. This should be a familiar pattern by now,
-# but there's a lot going on here, so let's break it down:
+# means you can use multi−variable assignment to iterate through it. 
 # a. Suppose attrs is [('href', 'index.html'), ('title', 'Go to home page')].
 # b. In the first round of the list comprehension, key will get 'href', and value will get 'index.html'.
 # c. The string formatting ' %s="%s"' % (key, value) will resolve to
