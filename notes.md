@@ -1600,8 +1600,8 @@ cryptremote     gcrypt::<user>@<ssh-server>:<path>/ (fetch)
 cryptremote     gcrypt::<user>@<ssh-server>:<path>/ (push)
 nas01   /cygdrive/<drive>/<path> (fetch)
 nas01   /cygdrive/<drive>/<path> (push)
-$ git push nas01 master
-$ git push cryptremote master
+$ git push nas01 master (from cygwin prompt)
+$ git push cryptremote master (from ubuntu prompt as root)
 $ DISPLAY=:0 gitk
 ```
   
