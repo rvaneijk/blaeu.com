@@ -428,6 +428,21 @@ $ sudo apt-get s3cmd --configure
 $ s3cmd rm s3://foo/bar --recursive
 ```
 
+Problem: updating letsencrypt certificate
+Solution: 
+```
+$ whoami
+root
+$ pwd
+/root
+$ which letsencrypt
+$ echo $PATH
+(...)/home/rvaneijk/.local/share/letsencrypt/local/bin
+eventueel: $ PATH=$PATH:/home/rvaneijk/.local/share/letsencrypt/local/bin
+$ letsencrypt certonly --manual -d natuurlijkehaarkleuring.nl -d www.natuurlijkehaarkleuring.nl
+$ upload the acm-challenge files
+$ aws iam upload-server-certificate --server-certificate-name cert_170506_natuurlijkehaarkleuring.nl --certificate-body file:///etc/letsencrypt/live/natuurlijkehaarkleuring.nl/cert.pem --private-key file:///etc/letsencrypt/live/natuurlijkehaarkleuring.nl/privkey.pem --certificate-chain file:///etc/letsencrypt/live/natuurlijkehaarkleuring.nl/chain.pem --path /cloudfront/certs/
+```
 
 FreeBSD
 ===================
