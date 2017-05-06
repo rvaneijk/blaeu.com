@@ -1466,6 +1466,38 @@ origin  /home/rvaneijk/mnt.s3/workspace/paper (push)
 
 ```
 
+----
+Problem: gitk
+Solution: 
+```bash
+first install xinit, git, VcXsrv 
+$ DISPLAY=:0 gitk
+```
+
+----
+Problem: git 3 repositories (local, encrypted (ssh server), nas)
+Solution: 
+```bash
+$ gpg --gen-key
+$ find / > /dev/null (to generate disk activity)
+$ ssh gcrypt::<user>@<ssh-server>:<path>/ and git init --bare
+$ cd /cygdrive/<drive>/<path> and git init --bare
+$ git clone <user>@<ssh-server>:<path>/
+$ git remote add cryptremote gcrypt::<user>@<ssh-server>:<path>/
+$ git remote add nas01 /cygdrive/<drive>/<path>
+$ git add .
+$ git commit -a -m "initial commit 17.02"
+$ git tag -a "17.02" -m "17.02"
+$ git remote -v
+cryptremote     gcrypt::<user>@<ssh-server>:<path>/ (fetch)
+cryptremote     gcrypt::<user>@<ssh-server>:<path>/ (push)
+nas01   /cygdrive/<drive>/<path> (fetch)
+nas01   /cygdrive/<drive>/<path> (push)
+$ git push nas01 master (from cygwin prompt)
+$ git push cryptremote master (from ubuntu prompt as root)
+$ DISPLAY=:0 gitk
+```
+
 Tex
 ===================
 Problem: Syntax higlighting, Notepad++/TeX integration 
@@ -1586,38 +1618,6 @@ Cygwin tweaks
 ```
    cygstart -- /path/to/setup-x86.exe -K http://cygwinports.org/ports.gpg
    On Choose Download Site(s), ftp://ftp.cygwinports.org/pub/cygwinports 
-```
-
-----
-Problem: gitk
-Solution: 
-```bash
-first install xinit, git, VcXsrv 
-$ DISPLAY=:0 gitk
-```
-
-----
-Problem: git 3 repositories (local, encrypted (ssh server), nas)
-Solution: 
-```bash
-$ gpg --gen-key
-$ find / > /dev/null (to generate disk activity)
-$ ssh gcrypt::<user>@<ssh-server>:<path>/ and git init --bare
-$ cd /cygdrive/<drive>/<path> and git init --bare
-$ git clone <user>@<ssh-server>:<path>/
-$ git remote add cryptremote gcrypt::<user>@<ssh-server>:<path>/
-$ git remote add nas01 /cygdrive/<drive>/<path>
-$ git add .
-$ git commit -a -m "initial commit 17.02"
-$ git tag -a "17.02" -m "17.02"
-$ git remote -v
-cryptremote     gcrypt::<user>@<ssh-server>:<path>/ (fetch)
-cryptremote     gcrypt::<user>@<ssh-server>:<path>/ (push)
-nas01   /cygdrive/<drive>/<path> (fetch)
-nas01   /cygdrive/<drive>/<path> (push)
-$ git push nas01 master (from cygwin prompt)
-$ git push cryptremote master (from ubuntu prompt as root)
-$ DISPLAY=:0 gitk
 ```
   
 Windows 10 tweaks
