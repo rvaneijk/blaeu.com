@@ -1612,11 +1612,27 @@ Swiss knife
   * Publicly exposed documents: site:blaeu.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
   * phpinfo(): site:blaeu.com ext:php intitle:phpinfo "published by the PHP Group"  
 
+ Problem: DANE TLSA record for SSL-certificate in the DNS zone 
+Solution: 
+```bash
+1. navigate to site
+2. export (all) certificates to .PEM (not tested: open PEM and export only site cert to .CER)
+3. use: https://www.huque.com/bin/gen_tlsa, DANE-EE: Domain Issued Certificate, SPKI, sha256
+3. add to DNS: _443._tcp.natuurlijkehaarkleuring.nl. IN TLSA 3 1 1 bf5c5e10e9acf01066583edfb02c16ee2db7c7706e39622b8bd4ec34bb54bf06
+4. Test: https://www.dnssec-validator.cz/
+```
+
+Problem: CAA Mandated by CA_Browser in the DNS zone 
+Solution: 
+```bash
+natuurlijkehaarkleuring.nl. CAA 128 issue "letsencrypt.org"
+```
+
 Problem: DANE TLSA record for AMAZON mailserver in the DNS zone 
 Solution: 
 ```bash
 1. lookup PEM certificate: www.checktls.com, CertDetail
-2. use: https://ssl-tools.net/tlsa-generator
+2. use: https://ssl-tools.net/tlsa-generator, DANE-EE: Domain Issued Certificate 
 
 or,
 a. copy/paste all certificate (top-down order) to cert1.pem, cert2.prm, cert3.pem
