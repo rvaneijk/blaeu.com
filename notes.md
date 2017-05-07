@@ -1612,7 +1612,8 @@ Swiss knife
   * Publicly exposed documents: site:blaeu.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
   * phpinfo(): site:blaeu.com ext:php intitle:phpinfo "published by the PHP Group"  
 
- Problem: DANE TLSA record for SSL-certificate in the DNS zone 
+----
+Problem: DANE TLSA record for SSL-certificate in the DNS zone 
 Solution: 
 ```bash
 1. navigate to site
@@ -1622,12 +1623,14 @@ Solution:
 4. Test: https://www.dnssec-validator.cz/
 ```
 
+----
 Problem: CAA Mandated by CA_Browser in the DNS zone 
 Solution: 
 ```bash
 natuurlijkehaarkleuring.nl. CAA 128 issue "letsencrypt.org"
 ```
 
+----
 Problem: DANE TLSA record for AMAZON mailserver in the DNS zone 
 Solution: 
 ```bash
@@ -1650,7 +1653,6 @@ the “3 0 1” means: “sha256 hash of a full domain-issued certificate”. Se
 4. Test: https://dane.sys4.de/smtp/blaeu.com
 5. Test: https://ssl-tools.net/mailservers/blaeu.com
 ```
-  
   
 Cygwin tweaks
 ===================
