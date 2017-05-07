@@ -1627,7 +1627,9 @@ Solution:
 Problem: CAA Mandated by CA_Browser in the DNS zone 
 Solution: 
 ```bash
-natuurlijkehaarkleuring.nl. CAA 128 issue "letsencrypt.org"
+1. use: https://sslmate.com/labs/caa/
+	natuurlijkehaarkleuring.nl. CAA 128 issue "letsencrypt.org"
+2. Test: https://www.dnssec-validator.cz/
 ```
 
 ----
