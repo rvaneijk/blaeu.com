@@ -1615,15 +1615,15 @@ Swiss knife
 Problem: DANE TLSA record for AMAZON mailserver in the DNS zone 
 Solution: 
 ```bash
-lookup PEM certificate: www.checktls.com, CertDetail
-use https://ssl-tools.net/tlsa-generator
+1. lookup PEM certificate: www.checktls.com, CertDetail
+2. use: https://ssl-tools.net/tlsa-generator
 
 or,
-copy/paste all certificate (top-down order) to cert1.pem, cert2.prm, cert3.pem
-cat cert1.pem cert2.pem cert3.pem > cert.pem 
-openssl x509 -in cert.pem -outform DER | openssl sha256
+a. copy/paste all certificate (top-down order) to cert1.pem, cert2.prm, cert3.pem
+b. cat cert1.pem cert2.pem cert3.pem > cert.pem 
+c. openssl x509 -in cert.pem -outform DER | openssl sha256
 
-	_25._tcp.inbound-smtp.eu-west-1.amazonaws.com. IN TLSA 3 0 1 8ce9852422a62e7cf75657e0c65ea3ae9c60550982c0373dfa3fb5e91d954ce7
+3. add to DNS: _25._tcp.inbound-smtp.eu-west-1.amazonaws.com. IN TLSA 3 0 1 8ce9852422a62e7cf75657e0c65ea3ae9c60550982c0373dfa3fb5e91d954ce7
 
 	Name	_25._tcp.inbound-smtp.eu-west-1.amazonaws.com
 	Type	TLSA
@@ -1631,8 +1631,8 @@ openssl x509 -in cert.pem -outform DER | openssl sha256
 
 the “3 0 1” means: “sha256 hash of a full domain-issued certificate”. See RFC6698 section 7.2 – 7.4.
 
-Test: https://dane.sys4.de/smtp/blaeu.com
-Test: https://ssl-tools.net/mailservers/blaeu.com
+4. Test: https://dane.sys4.de/smtp/blaeu.com
+5. Test: https://ssl-tools.net/mailservers/blaeu.com
 ```
   
   
