@@ -1577,6 +1577,7 @@ Solution: sudo apt-get install texlive-full
 Swiss knife
 ===================
   * [Dash howto](http://wiki.webmproject.org/adaptive-streaming/instructions-to-do-webm-live-streaming-via-dash), [Dash test player 1](http://dashif.org/reference/players/javascript/v2.0.0/samples/dash-if-reference-player/index.html), [Dash test player 2](http://bitmovin.com/hls-mpeg-dash-test-player/), [Dash test player 3](http://shaka-player-demo.appspot.com/demo/)
+  * [checktls.com](https://www.checktls.com/perl/live/TestReceiver.pl), [DANE SMTP Validator](https://dane.sys4.de/smtp/blaeu.com), [Verisign DNSSEC](https://dnssec-debugger.verisignlabs.com/), [DANE Validator by SIDN Labs](https://check.sidnlabs.nl/dane/), [DANE TLSA Server Checker](https://www.huque.com/bin/danecheck), [MX Toolbox](http://mxtoolbox.com/)
   * [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   * [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [MetaSploit](https://www.metasploit.com/), [Acunetix](http://www.acunetix.com/)
   * [Firefox privacy settings](https://addons.mozilla.org/firefox/addon/privacy-settings/)
