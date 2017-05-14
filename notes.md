@@ -1617,13 +1617,12 @@ Swiss knife
 Problem: DANE TLSA record for SSL-certificate in the DNS zone 
 Solution: 
 ```bash
-1. navigate to site
-2. export (all) certificates to .PEM (not tested: open PEM and export only site cert to .CER)
+1. openssl s_client -showcerts -connect natuurlijkehaarkleuring.nl:443 -servername natuurlijkehaarkleuring.nl
 3. use: https://www.huque.com/bin/gen_tlsa, [1] PKIX-EE: Service Certificate Constraint, [0] Cert: Use full certificate, [1] SHA-256: SHA-256 hash
-... past all PEM certificates, top/down (order matters!)
-3a. add to DNS: _443._tcp.natuurlijkehaarkleuring.nl. IN TLSA 1 0 1 0687260331a72403d909f105e69bcf0d32e1bd2493ffc6d9206d11bcd6770739
-3b. add to DNS: _443._tcp.www.natuurlijkehaarkleuring.nl. IN TLSA 1 0 1 0687260331a72403d909f105e69bcf0d32e1bd2493ffc6d9206d11bcd6770739
-4. Test: https://www.dnssec-validator.cz/
+... past all PEM certificates, top/down from openssl results (order matters!)
+3a. add to DNS: _443._tcp.natuurlijkehaarkleuring.nl. IN TLSA 1 0 1 409881389ec73bf54dfb8f9f6b7d9ac5e585467c9b93441b73145309e57d8fc9
+3b. add to DNS: _443._tcp.www.natuurlijkehaarkleuring.nl. IN TLSA 1 0 1 409881389ec73bf54dfb8f9f6b7d9ac5e585467c9b93441b73145309e57d8fc9
+4. Test: https://www.huque.com/bin/danecheck, en https://www.dnssec-validator.cz/
 ```
 
 ----
