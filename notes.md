@@ -1619,8 +1619,10 @@ Solution:
 ```bash
 1. navigate to site
 2. export (all) certificates to .PEM (not tested: open PEM and export only site cert to .CER)
-3. use: https://www.huque.com/bin/gen_tlsa, DANE-EE: Domain Issued Certificate, SPKI, sha256
-3. add to DNS: _443._tcp.natuurlijkehaarkleuring.nl. IN TLSA 3 1 1 bf5c5e10e9acf01066583edfb02c16ee2db7c7706e39622b8bd4ec34bb54bf06
+3. use: https://www.huque.com/bin/gen_tlsa, [1] PKIX-EE: Service Certificate Constraint, [0] Cert: Use full certificate, [1] SHA-256: SHA-256 hash
+... past all PEM certificates, top/down (order matters!)
+3a. add to DNS: _443._tcp.natuurlijkehaarkleuring.nl. IN TLSA 1 0 1 0687260331a72403d909f105e69bcf0d32e1bd2493ffc6d9206d11bcd6770739
+3b. add to DNS: _443._tcp.www.natuurlijkehaarkleuring.nl. IN TLSA 1 0 1 0687260331a72403d909f105e69bcf0d32e1bd2493ffc6d9206d11bcd6770739
 4. Test: https://www.dnssec-validator.cz/
 ```
 
