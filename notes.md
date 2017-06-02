@@ -342,6 +342,7 @@ Digimodes:  <br />
 [7030](http://websdr.ewi.utwente.nl:8901/?tune=7030lsb) - PSK31 - Europe PSK frequency <br />
 [7035](http://websdr.ewi.utwente.nl:8901/?tune=7035lsb) - PSK31, MT63  <br />
 [7035 ](http://websdr.ewi.utwente.nl:8901/?tune=7035lsb) - PSK31 <br />
+[7053](http://websdr.ewi.utwente.nl:8901/?tune=7053usb)  - SSTV <br />
 
 30 METER (usb): Alleen morse. Overdag een goede band voor lange afstandsverkeer (DX).
 Minder geschikt voor korte afstand. 's Nachts redelijk geschikt voor het lange afstandsverkeer (DX) tijdens bepaalde jaargetijden. <br />
@@ -357,6 +358,7 @@ Minder geschikt voor korte afstand. 's Nachts redelijk geschikt voor het lange a
 [14111](http://websdr.ewi.utwente.nl:8901/?tune=14111usb)  - idem <br />
 [14113](http://websdr.ewi.utwente.nl:8901/?tune=14113usb)  - idem <br />
 [14115](http://websdr.ewi.utwente.nl:8901/?tune=14115usb)  - idem <br />
+[14230](http://websdr.ewi.utwente.nl:8901/?tune=14230usb)  - SSTV - !!!!! <br />
 
 17 METER (usb): Een prima band voor lange afstandsverkeer (DX). <br />
 [18100](http://websdr.ewi.utwente.nl:8901/?tune=18100usb)  - PSK, MT63 and other modes <br />
