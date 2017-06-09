@@ -1574,6 +1574,16 @@ Which means:
 ----
 Problem: Compiling MikTex document on Ubuntu 
 Solution: sudo apt-get install texlive-full
+```
+(1) make copy of whole texmfs tree as backup
+(2) remove read-only attribute on texmfs tree incl subdirectories
+(3) temporarily disable Defender/anti virus
+```
+
+
+----
+Problem: MikTex update Error: Permission denied: path="C:\portable_apps\miktex-portable\texmfs\install\miktex/bin/internal/copystart.exe" 
+Solution:
 
 
 Swiss knife
