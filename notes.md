@@ -1512,8 +1512,8 @@ Solution: sudo apt-get install texlive-full
 
 
 ----
-Problem: MikTex update Error: Permission denied: path="C:\portable_apps\miktex-portable\texmfs\install\miktex/bin/internal/copystart.exe" 
-Solution:
+Problem: MikTex update Error: Permission denied: path="C:\portable_apps\miktex-portable\texmfs\install\miktex/bin/internal/copystart.exe" \\
+Solution: Antivirus uitzetten ! \\
 
 
 Swiss knife
