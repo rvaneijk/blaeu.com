@@ -42,6 +42,7 @@ Links: [Dieseldokter](http://dieseldokter.nl/), [Knopenenzo](http://www.knoopenz
 
 ----
 Regelgeving:  <br />
+[Regeling snelle motorboten Rijkswateren 1995](http://wetten.overheid.nl/BWBR0007331/) <br />
 [Scheepvaartverkeerswet (SVW)](http://wetten.overheid.nl/BWBR0004364/#Hoofdstuk7_Artikel27), [Hiërarchie Scheepvaartverkeerswet](https://staticresources.rijkswaterstaat.nl/binaries/Hi%C3%ABrarchie%20Scheepvaartverkeerswet_tcm174-333620_tcm21-5680.pdf), [Vaarregels](http://www.vaarweginformatie.nl/fdd/main/infra/wetgeving) <br />
 [Binnenvaartwet (BVW)](http://wetten.overheid.nl/BWBR0023009/), [Binnenvaartbesluit (BVB), art.13, art.15 lid 1a1 en 1b, art.16, art.22 lid 4 en 5](http://wetten.overheid.nl/BWBR0025631), [Binnenvaartregeling (BVR)](http://wetten.overheid.nl/BWBR0025958), [Wetboek van Koophandel, art.785](http://wetten.overheid.nl/BWBR0001838/TweedeBoek/Dertiendetitel/Derdeafdeeling/Artikel785) <br />
 [Binnenvaartpolitiereglement (BPR)](http://wetten.overheid.nl/BWBR0003628), [Vaststellingsbesluit Binnenvaartpolitiereglement](http://wetten.overheid.nl/BWBR0003627) <br />
