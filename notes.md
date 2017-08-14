@@ -353,6 +353,43 @@ automaticUpdates.DetectNow()
 Amazon S3
 ===================
 
+Problem: Lambda conditional DNT
+Solution: 
+```
+'use strict';
+exports.handler = (event, context, callback) => {
+
+    const request = event.Records[0].cf.request;
+    const response = event.Records[0].cf.response;
+    if (request.headers['DNT'] = '0') {
+      response.headers['Tk'] = 'T';
+    } else {
+      response.headers['Tk'] = 'N';
+    }
+
+    callback(null, response);
+};
+```
+
+Problem: Lamda security response headers
+Solution: 
+```
+'use strict';
+exports.handler = (event, context, callback) => {
+
+    const response = event.Records[0].cf.response;
+    response.headers['Strict-Transport-Security'] = 'max-age=2592000; includeSubDomains; preload';
+    response.headers['Tk'] = 'N';
+    response.headers['X-Frame-Options'] = 'SAMEORIGIN';
+    response.headers['X-Xss-Protection'] = '1; mode=block';
+    response.headers['X-Content-Type-Options'] = 'nosniff';
+    response.headers['Referrer-Policy'] = 'no-referrer-when-downgrade';
+
+    callback(null, response);
+};
+```
+
+
 Problem: Deleting folders from S3 recurively
 Solution: 
 ```
