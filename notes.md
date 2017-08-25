@@ -375,15 +375,36 @@ Problem: Lamda security response headers
 Solution: 
 ```
 'use strict';
+
 exports.handler = (event, context, callback) => {
+    console.log('Adding additional headers to CloudFront response.');
 
     const response = event.Records[0].cf.response;
-    response.headers['Strict-Transport-Security'] = 'max-age=2592000; includeSubDomains; preload';
-    response.headers['Tk'] = 'N';
-    response.headers['X-Frame-Options'] = 'SAMEORIGIN';
-    response.headers['X-Xss-Protection'] = '1; mode=block';
-    response.headers['X-Content-Type-Options'] = 'nosniff';
-    response.headers['Referrer-Policy'] = 'no-referrer-when-downgrade';
+    response.headers['strict-transport-security'] = [{
+        key: 'Strict-Transport-Security',
+        value: 'max-age=2592000; includeSubDomains; preload',
+    }];
+    response.headers['x-content-type-options'] = [{
+        key: 'X-Content-Type-Options',
+        value: 'nosniff',
+    }];
+    response.headers['tk'] = [{
+        key: 'Tk',
+        value: 'N',
+    }];
+    response.headers['x-frame-options'] = [{
+        key: 'X-Frame-Options',
+        value: 'SAMEORIGIN',
+    }];
+    response.headers['x-Xss-protection'] = [{
+        key: 'X-Xss-Protection',
+        value: '1; mode=block',
+    }];
+    response.headers['referrer-policy'] = [{
+        key: 'Referrer-Policy',
+        value: 'no-referrer-when-downgrade',
+    }];
+
 
     callback(null, response);
 };
