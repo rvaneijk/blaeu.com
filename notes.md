@@ -372,13 +372,11 @@ exports.handler = (event, context, callback) => {
 ```
 
 Problem: Lamda security response headers
-Solution: 
+Solution: visit pages with Fiddler CSP extension
 ```
 'use strict';
 
 exports.handler = (event, context, callback) => {
-    console.log('Adding additional headers to CloudFront response.');
-
     const response = event.Records[0].cf.response;
     response.headers['strict-transport-security'] = [{
         key: 'Strict-Transport-Security',
@@ -404,8 +402,11 @@ exports.handler = (event, context, callback) => {
         key: 'Referrer-Policy',
         value: 'no-referrer-when-downgrade',
     }];
-
-
+    response.headers['content-security-policy'] = [{
+        key: 'Content-Security-Policy',
+        value: "default-src 'none'; frame-src app.acuityscheduling.com; child-src app.acuityscheduling.com; connect-src *.tiles.mapbox.com 'self'; font-src d3gxy7nm8y4yjr.cloudfront.net fonts.gstatic.com 'self'; img-src *.tiles.mapbox.com 'self'; media-src blob: 'self'; style-src d3gxy7nm8y4yjr.cloudfront.net fonts.googleapis.com hello.myfonts.net 'unsafe-inline' 'self'; script-src d3gxy7nm8y4yjr.cloudfront.net d3jr8soghewg74.cloudfront.net 'unsafe-inline' 'unsafe-eval' 'self'; object-src 'none'; frame-ancestors 'none'; block-all-mixed-content",
+    }];
+ 
     callback(null, response);
 };
 ```
