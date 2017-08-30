@@ -411,6 +411,35 @@ exports.handler = (event, context, callback) => {
 };
 ```
 
+Problem: HPKP certificate pinning security response headers
+Solution: fiddle with the certificates
+```
+Generate two backup keys and calculate hashes for (1) Backup RSA key, (2) Backup Elliptic Curve key, (3) ISRG Root X1, (4) Let’s Encrypt Authority X3, (5) Let’s Encrypt Authority X4, (6) DST Root CA X3, (7) COMODORSACertificationAuthority:
+
+openssl req -nodes -sha256 -newkey rsa:4096 -keyout "natuurlijkehaarkleuring.nl.rsa.key" -out "natuurlijkehaarkleuring.nl.rsa.csr"
+openssl req -nodes -newkey ec:<(openssl ecparam -name prime256v1) -keyout "natuurlijkehaarkleuring.nl.ec.key" -out "natuurlijkehaarkleuring.nl.ec.csr"
+openssl req -pubkey < natuurlijkehaarkleuring.nl.rsa.csr | openssl pkey -pubin -outform der | openssl dgst -sha256 -binary | base64
+openssl req -pubkey < natuurlijkehaarkleuring.nl.ec.csr | openssl pkey -pubin -outform der | openssl dgst -sha256 -binary | base64
+curl https://letsencrypt.org/certs/lets-encrypt-x4-cross-signed.pem | openssl x509 -pubkey | openssl pkey -pubin -outform der | openssl dgst -sha256 -binary | base64
+curl https://letsencrypt.org/certs/lets-encrypt-x3-cross-signed.pem | openssl x509 -pubkey | openssl pkey -pubin -outform der | openssl dgst -sha256 -binary | base64
+curl https://letsencrypt.org/certs/isrgrootx1.pem | openssl x509 -pubkey | openssl pkey -pubin -outform der | openssl dgst -sha256 -binary | base64
+Extract hash from comodo certificate (op transip.nl):
+openssl x509 -in COMODORSACertificationAuthority.crt -pubkey -noout | openssl pkey -pubin -outform der | openssl dgst -sha256 -binary | openssl enc -base64
+
+Chain of trust Let's Encrypt: https://letsencrypt.org/certificates/
+Chain of trust Comodo: https://support.comodo.com/index.php?/comodo/Knowledgebase/List/Index/75/instantsslenterprisesslintranetssl
+Hashes https://report-uri.io/home/pkp_hash 
+See also: https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning
+
+Public-Key-Pins: pin-sha256="xxx"; max-age=60; includeSubDomains  (DEV, max-age is 1 minute)
+Public-Key-Pins: pin-sha256="xxx"; max-age=5184000; includeSubDomains  (PROD, max-age is 2 months)
+
+Lambda function:
+    response.headers['public-key-pins'] = [{
+        key: 'Public-Key-Pins', 
+		value: 'pin-sha256="Vp3iPtadw5jpRyZE5Ka9IHTv3awE/ALTELQKA9jZhfY="; pin-sha256="TwaXS39MBfX2++jjV0nPcvYwvoq67TVrQjkOOvfiM+4="; pin-sha256="sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis="; pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="; pin-sha256="C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M="; pin-sha256="Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys="; pin-sha256="grX4Ta9HpZx6tSHkmCrvpApTQGo67CYDnvprLg5yRME="; max-age=60; includeSubDomains',
+    }];
+```
 
 Problem: Deleting folders from S3 recurively
 Solution: 
