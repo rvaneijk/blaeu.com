@@ -1,6 +1,6 @@
 HF email
 ===================
-Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [actuele windwaarneming](https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png), [Europa Wetterkarte](http://www.dwd.de/DWD/wetter/wv_allg/europa/bilder/vhs_euro_heute.jpg), [DWD 10d Meteogramm](http://www.wetterzentrale.de/pics/MS_065530_g05.png), [WXSIM forecast](http://www.weerstation-grootegast.nl/sivu5.php), [Teletekst bewolking](http://nos.nl/teletekst#707_2), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [xcweather](http://www.xcweather.co.uk/forecast/rotterdam), [buienalarm](http://www.buienalarm.be/location/rotterdam), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [9 day forcast Grootegast](http://www.weerstation-grootegast.nl/wxall3/verwachting3.php?lang=nl), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://ww2010.atmos.uiuc.edu/%28Gh%29/home.rxml) <br />
+Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [actuele windwaarneming](https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png), [Europa Wetterkarte](http://www.dwd.de/DWD/wetter/wv_allg/europa/bilder/vhs_euro_heute.jpg), [DWD 10d Meteogramm](http://www.wetterzentrale.de/pics/MS_065530_g05.png), [WXSIM forecast](http://www.weerstation-grootegast.nl/sivu5.php), [Teletekst bewolking](http://nos.nl/teletekst#707_2), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [xcweather](http://www.xcweather.co.uk/forecast/rotterdam), [Windy](https://www.windy.com/51.923/4.463), [buienalarm](http://www.buienalarm.be/location/rotterdam), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [9 day forcast Grootegast](http://www.weerstation-grootegast.nl/wxall3/verwachting3.php?lang=nl), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://ww2010.atmos.uiuc.edu/%28Gh%29/home.rxml) <br />
 
 [Neerslagradar KNMI](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif), [NL](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-Onweer-550x550&type=Freecontent), [D](http://www.dwd.de/DWD/wetter/radar/radfilm_brd_akt.gif), [EU](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent), [satelliet](http://api.buienradar.nl/image/image.ashx?k=3&amp;l=1&amp;c=eu), [infrarood](http://www.meteociel.fr/accueil/sat24ir.gif), [straalstromen](https://earth.nullschool.net/#current/wind/isobaric/250hPa/orthographic=-329.24,32.47,314)
 
@@ -55,6 +55,17 @@ Regelgeving:  <br />
 [BVA](http://wetten.overheid.nl/BWBV0001014/VertalingNL), [COLREG](http://wetten.overheid.nl/BWBV0001014/AuthentiekEN), [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974 (SOLAS)](http://wetten.overheid.nl/BWBV0003264/) <br />
 [MARPOL](http://wetten.overheid.nl/BWBV0001014/2016-01-01#Verdrag_2) <br />
 [Code of Safe Working Practices for Seamen](https://www.amnautical.com/blogs/news/57378117-code-of-safe-working-practices-for-merchant-seafarers-2015-edition-released) <br />
+[Eisen pleziervaartuig voldoen](https://www.rijksoverheid.nl/onderwerpen/binnenvaart/vraag-en-antwoord/aan-welke-eisen-moet-mijn-pleziervaartuig-voldoen)  <br />
+[Directive 2003/44/EC](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:214:0018:0035:NL:PDF)  <br />
+[Wet pleziervaartuigen 2016](http://wetten.overheid.nl/BWBR0037546) <br />
+[Vereiste documenten pleziervaartuig in het buitenland](https://www.rijksoverheid.nl/onderwerpen/binnenvaart/vraag-en-antwoord/welke-documenten-heb-ik-nodig-als-ik-met-mijn-pleziervaartuig-in-het-buitenland-wil-varen) <br />
+[https://www.vaarbewijzen.nl/wp-includes/pdf/snelvaargebieden.pdf](snelheid op het water) <br />
+[http://wetten.overheid.nl/BWBR0007331](Regeling snelle motorboten Rijkswateren 1995) <br />
+
+In en nabij havens mag nooit harder dan twintig kilometer gevaren worden.
+Boten die binnen een afstand van twintig meter tot de oever varen, moeten verplicht vaart minderen.
+Dat geldt tevens als uw boot binnen een afstand van vijftig meter van een zwem- of aanlegplaats vaart. In de buurt van veren, wedstrijden, waterfeesten en demonstraties moet ook altijd vaart geminderd worden.
+Datzelfde geldt voor het varen bij slecht zicht en in de nacht.
 
 ----
 To: query@saildocs.com  <br />
