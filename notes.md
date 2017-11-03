@@ -812,26 +812,41 @@ Ubuntu
 ===================
 
 ----
-Problem: install ipython stuff 
-Solution: 
-```bash
-$ sudo apt-get -y install python2.7 python-pip python-dev
-$ sudo apt-get -y install ipython ipython-notebook
-$ sudo -H pip install jupyter
+Problem: install linux subsystem
+Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
+```cmd (as admin)
+lxrun /uninstall /full (removes ubuntu completely)
+lxrun /install (installs ubuntu)
+bash (as admin)
+export DISPLAY=:0
+sudo vi /etc/ssh/sshd_config
+	Modify PermitRootLogin to no
+	Add AllowUsers yourusername
+	Modify PasswordAuthentication to yes
+	Modify UsePrivilegeSeparation to no
+sudo service ssh --full-restart
+```
 
-Running the notebook:
-$ jupyter notebook --ip='*'
-```   
-
-Problem: update anaconda 
-Solution: 
+----
+Problem: install pycharm 
+Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
 ```bash
-$ sudo /usr/local/anaconda3/bin/conda update conda
-$ sudo apt-get remove ipython
-$ sudo apt-get install ipython
+wget https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+mkdir /usr/local/anaconda3
+bash https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+$ conda list
+$ conda --version
+$ conda update conda  # update self
+$ conda update --all  # update all packages
+$ jupyter notebook
+sudo apt-get install openjdk-8-jre
+sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make 
+sudo add-apt-repository ppa:mystic-mirage/pycharm
+sudo apt-get update
+sudo apt-get install pycharm-community
 ``` 
 
-Problem: update anaconda (WINDOWS)
+Problem: update anaconda
 Solution: 
 ```bash
 $ conda --version  # test conda from commandline
@@ -851,16 +866,6 @@ Solution:
 $ python --version
 Python 3.5.2 :: Anaconda 4.2.0 (64-bit)
 $ sudo /usr/local/anaconda3/bin/conda create -n ana42py35 anaconda python=3.5
-``` 
-
-----
-Problem: install pycharm 
-Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
-```bash
-sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make 
-sudo add-apt-repository ppa:mystic-mirage/pycharm
-sudo apt-get update
-sudo apt-get install pycharm-community
 ``` 
 
 ----
