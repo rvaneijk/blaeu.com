@@ -818,13 +818,17 @@ Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update a
 lxrun /uninstall /full (removes ubuntu completely)
 lxrun /install (installs ubuntu)
 bash (as admin)
-export DISPLAY=:0
+cd ~
+# vi .bashrc
+	export DISPLAY=:0
 sudo vi /etc/ssh/sshd_config
 	Modify PermitRootLogin to no
 	Add AllowUsers yourusername
 	Modify PasswordAuthentication to yes
 	Modify UsePrivilegeSeparation to no
 sudo service ssh --full-restart
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
+sudo apt-get install build-essential checkinstall cpanplus install xfce4 synaptic htop bleachbit
 ```
 
 ----
