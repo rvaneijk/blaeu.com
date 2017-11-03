@@ -828,7 +828,9 @@ sudo vi /etc/ssh/sshd_config
 	Modify UsePrivilegeSeparation to no
 sudo service ssh --full-restart
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
-sudo apt-get install build-essential checkinstall cpanplus install xfce4 synaptic htop bleachbit
+sudo apt-get install build-essential checkinstall
+sudo apt-get install cpanplus
+sudo apt-get install xfce4 synaptic htop bleachbit
 ```
 
 ----
