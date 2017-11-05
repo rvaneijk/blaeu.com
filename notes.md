@@ -812,7 +812,7 @@ Ubuntu
 ===================
 
 ----
-Problem: install linux subsystem
+Problem: install linux subsystem on WIndows 10
 Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
 ```cmd (as admin)
 lxrun /uninstall /full (removes ubuntu completely)
@@ -970,6 +970,22 @@ Solution:
  sudo mount -t cifs //<ip-address>/workspace ~/mnt -o username=xx,password=xx,vers=2.0
  sudo mitmdump -w ~/mnt/130313\ 18h42\ rondje\ dagbladen
  sudo umount ~/mnt
+```
+
+----
+Problem: UNC mounts
+Solution: mount network drive on WSL
+```bash
+/mnt/c/Windows/SysWOW64/net.exe use '\\192.168.178.80\kantoor' PWD /user:USER /persistent:no
+sudo mount -t drvfs '\\IP\SHARE' /mnt/***/***
+sudo umount /mnt/***/***
+```
+
+----
+Problem: firewall linux
+Solution: regenerate /etc/mtab file on WSL
+```bash
+sudo sh -c 'grep -v rootfs /proc/mounts > /etc/mtab' 
 ```
 
 ----
@@ -2189,4 +2205,63 @@ def unknown_starttag(self, tag, attrs):
 # Now, using dictionary−based string formatting, you insert the value of tag and strattrs into a string. So if
 # tag is 'a', the final result would be '<a href="index.html" title="Go to home page">',
 # and that is what gets appended to self.pieces.
+```
+
+Docker
+===================
+
+Problem: rebuilding database and check system
+Solution: ZFS
+```bash
+# DOCKERD (in C:\windows\system32)
+# dockerd --register-service
+# 
+# DOCKER (in C:\Program Files\Docker and PATH)
+# docker
+# docker -v
+# docker version
+# docker system prune (Delete all containers but not images)
+# docker rmi ubuntu nginx (Delete image)
+# docker-machine rm default (Delete container, NIET deleten in Hyper-V manager)
+# 
+# MACHINE
+# docker-machine ls
+#   NAME      ACTIVE   DRIVER   STATE     URL                        SWARM   DOCKER        ERRORS
+#   default   *        hyperv   Running   tcp://192.168.0.154:2376           v17.10.0-ce
+# (als admin CMD) docker-machine create -d hyperv --hyperv-memory 512 --hyperv-virtual-switch "Externe switch v2" default
+# docker-machine start default
+# docker-machine stop default
+# docker-machine.exe env --shell cmd default
+# @FOR /f "tokens=*" %i IN ('docker-machine.exe env --shell cmd default') DO @%i
+# docker-machine ip default
+# See also https://docs.docker.com/toolbox/toolbox_install_windows/#step-2-install-docker-toolbox
+# See also https://docs.docker.com/machine/drivers/hyper-v/#4-create-the-nodes-with-docker-machine-and-the-microsoft-hyper-v-driver
+# 
+# IMAGES
+# docker images
+#   REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+#   nginx               latest              40960efd7b8f        2 hours ago         108MB
+#   ubuntu              latest              dd6f76d9cc90        11 hours ago        122MB
+#   hello-world         latest              725dcfab7d63        20 hours ago        1.84kB
+#   busybox             latest              6ad733544a63        22 hours ago        1.13MB
+# docker run busybox echo hello world
+# docker run hello-world
+# docker run -it ubuntu /bin/bash (en uname -a)
+# docker run -d -p 8000:80 nginx (en test http://192.168.0.154:8000 -> YES)
+# docker run --rm -it -p 8080:8080 mitmproxy/mitmproxy mitmdump
+# docker search centos
+# docker pull centos:latest
+# docker run -t -i centos /bin/bash
+# docker pull m0elnx/vlocity-7.2
+# docker run -t -i m0elnx/vlocity-7.2 /bin/bash
+# docker search freebsd
+# docker run -t -i amontalban/freebsd /bin/csh
+# 
+# CONTAINERS:
+# docker ps -a
+#   CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                         PORTS               NAMES
+#   9f794a4d7b6f        hello-world         "/hello"                 24 minutes ago      Exited (0) 24 minutes ago                          gifted_newton
+#   23667de4c740        ubuntu              "/bin/bash"              25 minutes ago      Exited (0) 24 minutes ago                          laughing_poincare
+#   8357b61eed4a        nginx               "nginx -g 'daemon ..."   About an hour ago   Exited (0) About an hour ago                       trusting_swanson
+#   420a10372aec        busybox             "echo hello world"       About an hour ago   Exited (0) About an hour ago                       serene_mccarthy
 ```
