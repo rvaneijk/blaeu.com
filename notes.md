@@ -823,6 +823,8 @@ sudo vi /etc/ssh/sshd_config
 	Add AllowUsers yourusername
 	Modify PasswordAuthentication to yes
 	Modify UsePrivilegeSeparation to no
+sudo su -
+passwd
 sudo apt-get install libssl-dev (to correct MCPAN [ERROR] Unable to create a new distribution object for 'Net::SSLeay')
 sudo systemctl enable ssh
 sudo service ssh start
@@ -832,7 +834,7 @@ sudo apt-get install build-essential checkinstall cpanplus xfce4 synaptic htop b
 ```
 
 ----
-Problem: install pycharm 
+Problem: install pycharm (LET OP: kan ook via Docker, https://hub.docker.com/r/continuumio/anaconda3/) 
 Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
 ```bash
 wget https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
