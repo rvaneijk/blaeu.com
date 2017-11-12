@@ -826,9 +826,9 @@ sudo vi /etc/ssh/sshd_config
 sudo su -
 passwd
 sudo apt-get install libssl-dev (to correct MCPAN [ERROR] Unable to create a new distribution object for 'Net::SSLeay')
+sudo /usr/bin/ssh-keygen -A (to correct ssh install)
 sudo systemctl enable ssh
 sudo service ssh start
-sudo systemctl enable ssh
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
 sudo apt-get install build-essential checkinstall cpanplus xfce4 synaptic htop bleachbit
 ```
