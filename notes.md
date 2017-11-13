@@ -497,6 +497,15 @@ Solution: ZFS
 # sudo /etc/periodic/weekly/310.locate
 # sudo zpool scrub zroot
 ```
+
+Problem: sudo not found and segmentation fault
+Solution: 
+```bash
+# pkg install sudo
+# visudo, remove # for wheel
+# hostname VIRIYA, sudo will throw segmention fault is hostname is NULL
+```
+
 ----
 Problem: Shared object "libssl.so.7" not found, required by "pkg"
 Solution: rebuilding all packages after release upgrade
