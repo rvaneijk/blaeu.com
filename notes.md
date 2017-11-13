@@ -505,6 +505,7 @@ Solution:
 # pkg install sudo
 # visudo, remove # for wheel
 # hostname VIRIYA, sudo will throw segmention fault is hostname is NULL
+# perl -MCPAN -e shell, (INSTALL CPANPLUS)
 ```
 
 ----
