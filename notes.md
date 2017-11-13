@@ -501,6 +501,7 @@ Solution: ZFS
 Problem: sudo not found and segmentation fault
 Solution: 
 ```bash
+# vi /etc/rc.conf, (sshd_enable="YES", hostname="VIRIYA")
 # pkg install sudo
 # visudo, remove # for wheel
 # hostname VIRIYA, sudo will throw segmention fault is hostname is NULL
