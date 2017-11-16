@@ -1657,6 +1657,8 @@ Solution: Antivirus uitzetten ! \\
 Swiss knife
 ===================
   * DNT HTTP Header: 'application/tracking-status+json; charset=utf-8'
+  * Dig +trace blaeu.com, speedtest (wget https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py)
+  * https://github.com/aws/chalice
   * [Vulnerability scan URL's](http://retire.insecurity.today/#)
   * [Dash howto](http://wiki.webmproject.org/adaptive-streaming/instructions-to-do-webm-live-streaming-via-dash), [Dash test player 1](http://dashif.org/reference/players/javascript/v2.0.0/samples/dash-if-reference-player/index.html), [Dash test player 2](http://bitmovin.com/hls-mpeg-dash-test-player/), [Dash test player 3](http://shaka-player-demo.appspot.com/demo/)
   * [checktls.com](https://www.checktls.com/perl/live/TestReceiver.pl), [DANE SMTP Validator](https://dane.sys4.de/smtp/blaeu.com), [Verisign DNSSEC](https://dnssec-debugger.verisignlabs.com/), [DANE Validator by SIDN Labs](https://check.sidnlabs.nl/dane/), [DANE TLSA Server Checker](https://www.huque.com/bin/danecheck), [MX Toolbox](http://mxtoolbox.com/)
