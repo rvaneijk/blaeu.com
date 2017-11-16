@@ -461,7 +461,7 @@ $ s3cmd rm s3://foo/bar --recursive
 ```
 
 Problem: updating letsencrypt certificate
-Solution: 
+Solution: ppa (zie https://certbot.eff.org/#ubuntuxenial-nginx)
 ```
 $ whoami
 root
