@@ -1698,6 +1698,14 @@ Swiss knife
   * phpinfo(): site:blaeu.com ext:php intitle:phpinfo "published by the PHP Group"  
 
 ----
+Problem: changing subreaource integrity 
+Solution: 
+```bash
+wget https://d3gxy7nm8y4yjr.cloudfront.net/js/embed.js
+shasum -b -a 384 embed.js | xxd -r -p | base64
+``` 
+ 
+----
 Problem: DANE TLSA record for SSL-certificate in the DNS zone 
 Solution: 
 ```bash
