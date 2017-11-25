@@ -841,7 +841,7 @@ sudo /usr/bin/ssh-keygen -A (to correct ssh install)
 sudo systemctl enable ssh
 sudo service ssh start
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
-sudo apt-get install build-essential checkinstall cpanplus xfce4 synaptic htop bleachbit
+sudo apt-get install build-essential checkinstall cpanplus  libssl-dev xfce4 synaptic htop bleachbit poppler-utils
 ```
 
 ----
