@@ -1578,6 +1578,7 @@ $ sudo apt-get install make gcc flex
 $ cd opendetex && make && sudo make install
 $ pdftotext -layout ClassicThesis.pdf (beste resultaat met afbreektekens en voetnoten)
 $ open in notepad++, <ctrl>-a, <ctrl>-c, open libreoffice writer, <ctrl>-v
+$ in libreofice, alles omzetten naar consolas 8pt
 $ detex ClassicThesis.tex > ClassicThesis.txt
 ```
 
