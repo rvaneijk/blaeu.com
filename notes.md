@@ -1570,6 +1570,18 @@ $ DISPLAY=:0 gitk
 
 Tex
 ===================
+Problem: pdf to word 
+Solution: 
+```bash
+$ git clone https://github.com/pkubowicz/opendetex.git
+$ sudo apt-get install make gcc flex
+$ cd opendetex && make && sudo make install
+$ pdftotext -layout ClassicThesis.pdf (beste resultaat met afbreektekens en voetnoten)
+$ open in notepad++, <ctrl>-a, <ctrl>-c, open libreoffice writer, <ctrl>-v
+$ detex ClassicThesis.tex > ClassicThesis.txt
+```
+
+----
 Problem: Syntax higlighting, Notepad++/TeX integration 
 Solution: 
 ```bash
