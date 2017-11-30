@@ -840,8 +840,9 @@ sudo apt-get install libssl-dev (to correct MCPAN [ERROR] Unable to create a new
 sudo /usr/bin/ssh-keygen -A (to correct ssh install)
 sudo systemctl enable ssh
 sudo service ssh start
+sudo add-apt-repository ppa:notepadqq-team/notepadqq
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
-sudo apt-get install build-essential checkinstall cpanplus  libssl-dev xfce4 synaptic htop bleachbit poppler-utils
+sudo apt-get install build-essential checkinstall cpanplus  libssl-dev xfce4 synaptic htop bleachbit poppler-utils notepadqq
 ```
 
 ----
