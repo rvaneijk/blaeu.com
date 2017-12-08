@@ -1466,7 +1466,7 @@ $ git clone ssh://git@github.com/rvaneijk/<new repository>.git
 $ add files to local directory
 $ git add .
 $ git status
-$ git commit -m "Add your description of the commit here"
+$ git commit -S -m "Add your description of the commit here"
 $ git push origin master
 ```
 
@@ -1481,7 +1481,7 @@ $ cd ../paper.workspace
 now add the files
 $ git add .
 $ git status
-$ git commit -m "comments here"
+$ git commit -S -m "comments here"
 Now ../paper.git can be removed, and files in paper.workspace can go up 1 level
 Finally the directory paper.workspace can be removed.
 $ gitk & % for gui administration
@@ -1505,7 +1505,7 @@ $ git fetch upstream
 $ git status
 $ git add (filename)
 $ git status
-$ git commit -m "Add your description of the commit here"
+$ git commit -S -m "Add your description of the commit here"
 $ git push origin master
 ```
 
