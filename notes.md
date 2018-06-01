@@ -247,7 +247,7 @@ Schedules, bands: [IARU Region 1 HF Band Plan 2016 (Europe, Africa, Middle East 
 Blogs: [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PA3HFN](http://www.pa3hfn.com), [PA3HCM](http://www.pa3hcm.nl/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar) <br /> 
 
 ----
-Tinkering: [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/), [LCWO](http://lcwo.net) <br />
+Tinkering: [AFEDRI-SDR-Net](http://www.afedri-sdr.com/), [HDSDR](http://www.hdsdr.de/), [Wellbrook ALA1530LN](https://www.wellbrook.uk.com/loopantennas/ALA1530LN),   [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/), [LCWO](http://lcwo.net) <br />
 
 ----
 OnAir: <br />
