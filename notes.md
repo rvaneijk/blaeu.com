@@ -244,10 +244,10 @@ Conditions: [ARRL noise](http://www.arrl.org/sounds-of-rfi), [WSPR condities ant
 Schedules, bands: [IARU Region 1 HF Band Plan 2016 (Europe, Africa, Middle East and Northern Asia)](http://iaru-r1.org/index.php/downloads/func-download/719/chk,eeb06a4b11eda5f6ca502f3b9dd238f5/no_html,1/), [fmscan.org](http://fmscan.org/index.php), [mwlist](http://www.mwlist.org/now.php?kHz=3855), [Global frequency database](http://qrg.globaltuners.com/?q=3.855), [Shortwave.info](www.short-wave.info/index.php?freq=3855) <br />
 
 ----
-Blogs: [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PA3HFN](http://www.pa3hfn.com), [PA3HCM](http://www.pa3hcm.nl/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar) <br /> 
+Blogs: [Ralf](https://www.youtube.com/channel/UCGeKEcDZwUH8TK4Ul8jtT5g/videos), [PA1EJO](https://ejo60.wordpress.com/), [PA3ANG](http://pa3ang.nl/wp/), [PA3HFN](http://www.pa3hfn.com), [PA3HCM](http://www.pa3hcm.nl/), [PI4RTD](http://www.pi4rtd.nl/), [PI4HAL](http://www.pi4hal.nl/cms/?q=content/agenda), [PI4EMC](http://qrz.com/db/pi4emc), [PI9ESA](https://sites.google.com/site/pi9esa/calendar) <br /> 
 
 ----
-Tinkering: [AFEDRI-SDR-Net](http://www.afedri-sdr.com/), [HDSDR](http://www.hdsdr.de/), [Wellbrook ALA1530LN](https://www.wellbrook.uk.com/loopantennas/ALA1530LN),   [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/), [LCWO](http://lcwo.net) <br />
+Tinkering: [sd-recorder: Sangean DAR-101](http://www.sangean.eu/products/digital-recording-devices/dar-101-1.html), [portable sw receiver: Sangean ATS-909X](http://www.sangean.eu/products/world-band-radios/ats-909x-w.html), [AFEDRI-SDR-Net](http://www.afedri-sdr.com/), [HDSDR](http://www.hdsdr.de/), [Wellbrook ALA1530LN](https://www.wellbrook.uk.com/loopantennas/ALA1530LN),   [RedPita](http://redpitaya.com/), [Direwolf/Xastir (aprs)](https://www.youtube.com/watch?v=9Ya0C308TQA), [CW interfacing](http://www.f8eho.net/content/interfaces), [FunCube](http://www.funcubedongle.com/), [LCWO](http://lcwo.net) <br />
 
 ----
 OnAir: <br />
