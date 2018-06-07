@@ -852,7 +852,7 @@ sudo systemctl enable ssh
 sudo service ssh start
 sudo add-apt-repository ppa:notepadqq-team/notepadqq
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
-sudo apt-get install build-essential checkinstall cpanplus  libssl-dev xfce4 synaptic htop bleachbit poppler-utils notepadqq
+sudo apt-get install build-essential checkinstall cpanplus  libssl-dev xfce4 synaptic htop bleachbit poppler-utils notepadqq letsencrypt aws sakura
 ```
 
 ----
