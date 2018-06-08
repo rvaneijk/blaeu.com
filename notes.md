@@ -21,6 +21,8 @@ Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-
 - BRACKNELL WEFAX576 (-1.9 KHz, usb): [4610 kHz](http://websdr.ewi.utwente.nl:8901/?tune=4608.110usb), [8040 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=8038.1usb), [14436 kHz](http://websdr.ewi.utwente.nl:8901/?tune=144364.1sb) <br />
 - NORTHWOOD WEFAX576 (-1.9 KHz, usb): [2618.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune=2616.6usb), [4610 kHz](http://websdr.ewi.utwente.nl:8901/?tune=4608.1usb), [8040 kHz](http://websdr.ewi.utwente.nl:8901/?tune=8038.1usb), [11086.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune=11084.6usb), [18261 kHz](http://websdr.ewi.utwente.nl:8901/?tune=18259.1usb)  <br />
 - [ESRAC PI5FTS VHF/UHF WebSDR](http://vhf.pi5fts.nl/), [PI5FTS HF WebSDR](http://hf.pi5fts.nl/)
+- [Hobbyscoop 2m WebSDR](http://websdr.pi1nos.ampr.org:8901/), [70 cm](http://websdr.pi1utr.ampr.org:8901/), [23 cm](http://websdr.pi1utr.ampr.org:8901/)
+
 
 Baudot: Q = 1 , W = 2 , E = 3 , R = 4 , T = 5 , Y = 6 , U = 7 , I = 8 , O = 9 , P =  , A = - , D = $ , F = ! , G = & , H = # , J = ' , K = ( , L = ) , Z = " , X = / , C = : , V = ; , B = ? , N = ',' , M = '.'
 
