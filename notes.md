@@ -836,6 +836,18 @@ Ubuntu
 ===================
 
 ----
+Problem: Download all files in a directory with wget
+Solution:  wget
+```wget -r -np -nH –cut-dirs=3 -R index.html https://<ulr>/<dir>/
+```
+
+----
+Problem: Download all files in a directory with wget
+Solution:  wget
+```wget -E -H -k -K -p https://<ulr>
+```
+
+----
 Problem: install linux subsystem on Windows 10 (Store: Ubuntu)
 Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
 ```cmd (as admin)
