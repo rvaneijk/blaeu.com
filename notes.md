@@ -811,24 +811,61 @@ Now we send the data, also sending it through mbuffer:
 Problem: N/A 
 Solution: handy VIM commands 
 ```bash
-ctrl-q -------- visual block, column mode
-s/OLD/NEW/g --- search and replace globally
-ctrl-G -------- print where you are
-<line>G ------- go to line
-G =================== go to end of doc
-gg ------------ go to beginning of doc
-^ =================== first char of line
-$ =================== last char of line
-0 ===================	beginning of line
 q<char>(...)q - record macro <char>
 <n>@<char> ---- play macro <char> <n> times
-u =================== undo
+
 buffers ------- list buffers
 badd ---------- add buffer
 bdelete ------- delete buffer
 (v)split ------ split window horizontally (vertically)
 bnext --------- navigate to buffer +1
 bprevious ----- navigate to buffer -1
+
+To insert or append text type:
+ i   to insert before the cursor
+ a  to insert text AFTER the cursor.
+ A  to insert text after the end of the line.
+ o  to open a line BELOW the cursor and start Insert mode
+ O  to open a line ABOVE the cursor
+
+The y operator yanks (copies) text, p puts (pastes) it. yw copies a whole word.
+The v operator starts visual mode (Select text, e.g., to yank)
+
+To delete from the cursor up to the next word type:    dw
+To delete from the cursor to the end of a line type:    d$
+To delete a whole line type:  dd
+To repeat a motion prepend it with a number: 2dd
+
+To replace the character under the cursor, type   r   and then the
+ character you want to have there.
+
+The change operator allows you to change from the cursor to where the
+ motion takes you.  eg. Type  ce  to change from the cursor to the end of
+ the word,  c$  to change to the end of a line. cw changes a word.
+
+To undo previous actions, type: u  (lowercase u)
+To undo all the changes on a line, type: U (capital U)
+To put back text that has just been deleted, type   p .  This puts the
+ deleted text AFTER the cursor (if a line was deleted it will go on the
+ line below the cursor).
+To undo the undo's, type: CTRL-R
+
+Typing  /	followed by a phrase searches FORWARD for the phrase.
+Typing  ?	followed by a phrase searches BACKWARD for the phrase.
+After a search type  n  to find the next occurrence in the same direction
+ or  N  to search in the opposite direction.
+ CTRL-O takes you back to older positions, CTRL-I to newer positions.
+Typing ":set xxx" sets the option "xxx".  Some options are:
+  'ic' 'ignorecase'	ignore upper/lower case when searching
+  'is' 'incsearch'	show partial matches for a search phrase
+  'hls' 'hlsearch'	highlight all matching phrases
+Prepend "no" to switch an option off:   :set noic
+
+To substitute new for the first old in a line type    :s/old/new
+To substitute new for all 'old's on a line type	   :s/old/new/g
+To substitute phrases between two line #'s type	   :#,#s/old/new/g
+To substitute all occurrences in the file type	   :%s/old/new/g
+To ask for confirmation each time add 'c'		   :%s/old/new/gc
 ```
 
 
