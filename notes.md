@@ -241,7 +241,7 @@ SMVX41: Schiffswettermeldungen aus den Seegebieten Nordatlantik und EG-Meer <br 
 
 Ham spirit
 ===================
-Conditions: PI4CC DX cluster (telnet dxc.pi4cc.nl 8000), [ARRL noise](http://www.arrl.org/sounds-of-rfi), [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [Digisonde sites](http://digisonde.com/digisonde-station-map.html), [Ionogram interpretation (waar zitten de reflectielagen, wat is de MUF, dus welke band gebruiken, welke afstand kun je daarmee overbruggen?)](http://www.g0lfp.com/ionograms/index.php) <br />
+Conditions: FT8 reverse beacon network (telnet.reversebeacon.net port 7001), PI4CC DX cluster (telnet dxc.pi4cc.nl 8000), [ARRL noise](http://www.arrl.org/sounds-of-rfi), [WSPR condities antenne Twente](http://websdr.ewi.utwente.nl:8901/wspr/), [Band conditions](http://www.hamqsl.com/solar101vhfpic.php), [Digisonde sites](http://digisonde.com/digisonde-station-map.html), [Ionogram interpretation (waar zitten de reflectielagen, wat is de MUF, dus welke band gebruiken, welke afstand kun je daarmee overbruggen?)](http://www.g0lfp.com/ionograms/index.php) <br />
 
 ----
 Schedules, bands: [IARU Region 1 HF Band Plan 2016 (Europe, Africa, Middle East and Northern Asia)](http://iaru-r1.org/index.php/downloads/func-download/719/chk,eeb06a4b11eda5f6ca502f3b9dd238f5/no_html,1/), [fmscan.org](http://fmscan.org/index.php), [mwlist](http://www.mwlist.org/now.php?kHz=3855), [Global frequency database](http://qrg.globaltuners.com/?q=3.855), [Shortwave.info](www.short-wave.info/index.php?freq=3855) <br />
