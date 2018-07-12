@@ -492,15 +492,29 @@ $ aws iam upload-server-certificate --server-certificate-name cert_170506_natuur
 FreeBSD
 ===================
 
+
+Problem: keeping up with src tree
+Solution: svnup
+```bash
+# sudo pkg install svnup
+# sudo vi /usr/local/etc/svnup.conf (uncomment a host)
+# freebsd-version
+' [release]
+  branch=base/releng/11.2'
+# sudo svnup release
+```
+
 Problem: rebuilding database and check system
 Solution: ZFS
 ```bash
 # sudo freebsd-update fetch && sudo freebsd-update install
 # sudo portsnap fetch && sudo portsnap update
+# sudo svnup release
 # sudo pkg audit -F
 # sudo pkg updating | more
 # cat /usr/ports/UPDATING | more
 # sudo pkg update -f && sudo pkg upgrade && sudo pkg autoremove && sudo pkg audit -F 
+# sudo pkg clean -a
 # perl -MCPANPLUS -e shell
 # cpanplus> o # to check old PERL modules
 # cpanplus> i 1..x # to update all PERL modules
