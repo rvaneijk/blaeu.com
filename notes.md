@@ -513,6 +513,7 @@ Solution: ZFS
 # sudo pkg audit -F
 # sudo pkg updating | more
 # cat /usr/ports/UPDATING | more
+# cat /usr/src/UPDATING | more
 # sudo pkg update -f && sudo pkg upgrade && sudo pkg autoremove && sudo pkg audit -F 
 # sudo pkg clean -a
 # perl -MCPANPLUS -e shell
