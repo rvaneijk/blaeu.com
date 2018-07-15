@@ -2322,6 +2322,14 @@ def unknown_starttag(self, tag, attrs):
 Docker
 ===================
 
+
+Problem: docker not working
+Solution: workaround
+1. [fallback docker-machine.exe](https://github.com/docker/machine/issues/4441)
+2. [boot2docker.iso downgrade](https://github.com/boot2docker/boot2docker/releases)
+3. [check rechten id_rsa](https://stackoverflow.com/questions/49926386/openssh-windows-bad-owner-or-permissions/50624841#50624841)
+4. [docker-machine regenerate-certs default](https://docs.docker.com/machine/reference/regenerate-certs/)
+
 Problem: rebuilding database and check system
 Solution: ZFS
 ```bash
@@ -2374,4 +2382,10 @@ Solution: ZFS
 #   23667de4c740        ubuntu              "/bin/bash"              25 minutes ago      Exited (0) 24 minutes ago                          laughing_poincare
 #   8357b61eed4a        nginx               "nginx -g 'daemon ..."   About an hour ago   Exited (0) About an hour ago                       trusting_swanson
 #   420a10372aec        busybox             "echo hello world"       About an hour ago   Exited (0) About an hour ago                       serene_mccarthy
+#
+#
+# docker run -it ubuntu-16.04-v2 /bin/bash (make changes)
+# docker ps (to find image id)
+# docker commit <imageid> ubuntu-16.04-v3
+# docker run -it -p 52022:22 ubuntu-16.04-v3 /bin/bash (maps ssh port 22 to external port 52022)
 ```
