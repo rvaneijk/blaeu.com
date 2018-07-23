@@ -1267,6 +1267,41 @@ Solution: See also: pydoc libmproxy.protocol.http.HTTPRequest
 'timestamp_end', 'timestamp_start']
 ```
 
+
+----
+Problem: Netograph
+Solution: 
+```bash
+$ ngc satellitesforroot nrc.nl --json > tt.nrc.nl.json
+$ jq .capsummary.assets tt.nrc.json
+$ ngc -n 0 --cjson satsforroot nrc.nl | jq .capsummary.assets
+$ ngc  -n 0 --json --dset rob1 submit https://www.natuurlijkehaarkleuring.nl/afspraak
+$ ngc --dset rob1 --json satellitesforroot www.natuurlijkehaarkleuring.nl > tt.www.natuurlijkehaarkleuring.nl.json
+$ ngc  -n 0 --json --dset rob1 submit https://www.natuurlijkehaarkleuring.nl/afspraak
+ {
+    "assets": "https://netograph-datasets.storage.googleapis.com/SbLG8FPNCipoDwXCu-4CzA/Qoy2dGNHTQnWa0aIB9VvFA"
+ }
+
+$ ngc --dset rob1 satellitesforroot natuurlijkehaarkleuring.nl --json > tt.natuurlijkehaarkleuring.nl.json
+$ ngc satellitesforroot --dset rob1 --json natuurlijkehaarkleuring.nl | jq .capsummary.id | sort | uniq -c
+$ ngc download --dset rob1 ./tt.download/ Qoy2dGNHTQnWa0aIB9VvFA
+$ ngc captureinfo --dset rob1 Qoy2dGNHTQnWa0aIB9VvFA
+$ ngc capturelog --dset rob1 Qoy2dGNHTQnWa0aIB9VvFA
+$ jq keys ./tt.download/Qoy2dGNHTQnWa0aIB9VvFA/details.json
+ [
+  "browser_version",
+  "capture_version",
+  "certchains",
+  "pages",
+  "plan",
+  "started"
+ ]
+$ cat ./details.json | jq ".pages[].cookies"
+$ cat ./details.json | jq ".pages[].flows[].request.url" | sort | uniq
+$ cat ./details.json | jq ".pages[].flows[].request.headers.referer" | sort | uniq
+```
+
+
 Neo4j in EC2
 ===================
 Problem: add user and ssh keypair 
