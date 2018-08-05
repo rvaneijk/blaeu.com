@@ -1900,6 +1900,13 @@ Swiss knife
   * phpinfo(): site:blaeu.com ext:php intitle:phpinfo "published by the PHP Group"  
 
 ----
+Problem: zmap crawl 
+Solution: 
+```bash
+for TARGET in $(zmap -B 1M ${1} -p 873); do for SHARE in $(RSYNC_PASSWORD= rsync -v --recursive ${TARGET}:: | cut -f1); do mkdir -p /tmp/rsyncscan/${TARGET}/ RSYNC_PASSWORD= rsync -v --recursive ${TARGET}::${SHARE}/ > /tmp/rsyncscan/${TARGET}/${SHARE} done done
+``` 
+
+----
 Problem: changing subreaource integrity 
 Solution: 
 ```bash
