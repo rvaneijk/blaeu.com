@@ -1348,6 +1348,24 @@ Solution: See also: pydoc libmproxy.protocol.http.HTTPRequest
 Problem: Netograph
 Solution: 
 ```bash
+--- SUBMIT -----
+$ while read in; do ngc -n 0 --json --dset rob1 submit "$in"; done < test.txt > tt.out && cat tt.out | grep "id" | sed 's/    \"id\": \"//' | sed 's/\"//' > test_ids.txt
+--- INFO -----
+$ while read in; do ngc captureinfo --dset rob1 --json "$in"; done < test_ids.txt
+--- RETRIEVE ALL -----
+$ while read in; do ngc download --dset rob1 ./tt.test/ "$in"; done < test_ids.txt
+--- RETRIEVE DETAILS>JSON -----
+$ while read in; do OUTPUT="$(ngc captureinfo --dset rob1 --json "$in" | grep assets | sed 's/        \"assets\": \"//' | sed 's/\",/\/details.json/')" && wget -O ./tt.test/details-"$in".json "$OUTPUT"; done < test_ids.txt
+
+
+$ while read in; do ngc download --dset rob1 ./tt.test/ "$in"; done < test_ids.txt
+$ while read in; do ngc captureinfo --dset rob1 --json "$in"; done < test_ids.txt
+$ while read in; do ngc -n 0 --json --dset rob1 submit "$in"; done < urls_AT.txt > tt_AT.out && cat tt_AT.out | grep "id" | sed 's/    \"id\": \"//' | sed 's/\"//' > ids_AT.txt
+$ while read in; do ngc -n 0 --json --dset rob1 submit "$in"; done < test.txt
+$ curl https://netograph-datasets.storage.googleapis.com/SbLG8FPNCipoDwXCu-4CzA/hQuAEb72VDvzkgsNMM5yVg/details.json | jq ".pages[].flows[].request.url"
+$ ngc captureinfo --dset rob1 --json 1aJOYfEmnNmnZgd2CqWqCw | grep assets | sed 's/        \"assets\": \"//' | sed 's/\",//'
+$ OUTPUT="$(ngc captureinfo --dset rob1 --json 1aJOYfEmnNmnZgd2CqWqCw | grep assets | sed 's/        \"assets\": \"//' | sed 's/\",/\/details.json/')" && curl "$OUTPUT"
+
 $ ngc satellitesforroot nrc.nl --json > tt.nrc.nl.json
 $ jq .capsummary.assets tt.nrc.json
 $ ngc -n 0 --cjson satsforroot nrc.nl | jq .capsummary.assets
@@ -1375,6 +1393,7 @@ $ jq keys ./tt.download/Qoy2dGNHTQnWa0aIB9VvFA/details.json
 $ cat ./details.json | jq ".pages[].cookies"
 $ cat ./details.json | jq ".pages[].flows[].request.url" | sort | uniq
 $ cat ./details.json | jq ".pages[].flows[].request.headers.referer" | sort | uniq
+$ curl https://netograph-datasets.storage.googleapis.com/SbLG8FPNCipoDwXCu-4CzA/h2hnjGsQVOV-9TKBLlKCmQ/details.json | jq ".pages[].flows[].request.url" | sort | uniq
 ```
 
 
