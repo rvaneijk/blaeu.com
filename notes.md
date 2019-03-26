@@ -2072,6 +2072,11 @@ $ gpg --import 4089421F.revoked
 $ gpg --keyserver pool.sks-keyservers.net --send-keys 4089421F
 $ gpg --keyserver subkeys.pgp.net --send-keys 4089421F
 $ gpg --keyserver pgp.mit.edu --send-keys 4089421F
+$ publish keys with Kleopatra
+$ export to .asc from Kleopatra
+$ upload to https://pgp.mit.edu/
+$ upload to https://pgp.surfnet.nl/
+$ upload to https://keyserver.pgp.com/
 ```
 
 ----
