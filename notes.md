@@ -968,19 +968,22 @@ Ubuntu
 ----
 Problem: Run Visual Studio Code for Linux from WSL
 Solution:  forked
-```https://gist.github.com/rvaneijk/f24dcd85c653934ac3a9d45cad8e49a2
+```bash
+https://gist.github.com/rvaneijk/f24dcd85c653934ac3a9d45cad8e49a2
 ```
 
 ----
 Problem: Download all files in a directory with wget
 Solution:  wget
-```wget -r -np -nH –cut-dirs=3 -R index.html https://<ulr>/<dir>/
+```bash
+wget -r -np -nH –cut-dirs=3 -R index.html https://<ulr>/<dir>/
 ```
 
 ----
 Problem: Download all files in a directory with wget
 Solution:  wget
-```wget -E -H -k -K -p https://<ulr>
+```bash
+wget -E -H -k -K -p https://<ulr>
 ```
 
 ----
