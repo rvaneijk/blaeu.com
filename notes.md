@@ -571,6 +571,15 @@ $ aws iam upload-server-certificate --server-certificate-name cert_180810a_www.n
 FreeBSD
 ===================
 
+Problem: Upgrade freebsd
+```bash
+# freebsd-update fetch
+# freebsd-update install
+# freebsd-update upgrade -r 12.0-RELEASE
+# freebsd-update install
+# shutdown -r now
+# freebsd-update install
+```
 
 Problem: keeping up with src tree
 Solution: svnup
@@ -579,7 +588,7 @@ Solution: svnup
 # sudo vi /usr/local/etc/svnup.conf (uncomment a host)
 # freebsd-version
 ' [release]
-  branch=base/releng/11.2'
+  branch=base/releng/12.0'
 # sudo svnup release
 ```
 
@@ -628,7 +637,17 @@ check /etc/hosts:
 ```bash
 ::1                     freebsd.blaeu.com
 127.0.0.1               freebsd.blaeu.com
+
+and check NIC
+ip adres: ifconfig hn0
+dns: cat /etc/resolv.conf
+gateway: sudo route add default <ip adres>
+netstat -nr
+sudo ifconfig hn0 down
+sudo ifconfig hn0 up
+ping <gateway ip adres>
 ```
+
 ----
 check netwerk:
 ```bash
@@ -652,7 +671,7 @@ dbus_enable="YES"
 #
 # ntp
 #
-ntpdate_flags="ntp.xs4all.nl"
+ntpdate_flags="pool.ntp.org"
 ntpdate_enable="YES"
 #
 # firewall
@@ -725,33 +744,13 @@ pfctl -vnf /etc/pf.conf 	 Check /etc/pf.conf for errors, but do not load ruleset
 
 ruleset desktop: LET OP flush first: pfctl -F all
 ```bash
-tcp_services = "{ ssh }"
-block all
-pass in proto tcp to any port $tcp_services
-pass from lo0 to lo0 keep state
-pass out all inet keep state
-```
-```bash
 ext_if = "hn0"
-broken="224.0.0.22 127.0.0.0/8, 192.168.0.0/16, 172.16.0.0/12, \
-        10.0.0.0/8, 169.254.0.0/16, 192.0.2.0/24, \
-        192.0.2.0/24, 198.51.100.0/24, 203.0.113.0/24, \
-        169.254.0.0/16, 0.0.0.0/8, 240.0.0.0/4, 255.255.255.255/32"
-tcp_services="{ ssh, 113, 8888 }"
-icmp_types="echoreq"
-set block-policy drop
-set skip on lo0
-match in all scrub (no-df max-mss 1440)
-antispoof quick for ($ext_if)
-# block out quick inet6 all
-# block in quick inet6 all
-block in quick from { $broken urpf-failed no-route } to any
-block in all
-pass out quick on $ext_if inet keep state
-pass in on egress inet proto tcp from any to (egress) \
-    port $tcp_services
-pass in inet proto icmp all icmp-type $icmp_types
+all_ifs = "{" $ext_if lo0 "}"
+tcp_services = "{ ssh, 25 }"
+block all
 pass from lo0 to lo0 keep state
+pass out on $ext_if from any to any keep state
+pass in on $ext_if proto tcp from any to any port $tcp_services keep state
 ```
 
 ----
@@ -967,6 +966,12 @@ Ubuntu
 ===================
 
 ----
+Problem: Run Visual Studio Code for Linux from WSL
+Solution:  forked
+```https://gist.github.com/rvaneijk/f24dcd85c653934ac3a9d45cad8e49a2
+```
+
+----
 Problem: Download all files in a directory with wget
 Solution:  wget
 ```wget -r -np -nH –cut-dirs=3 -R index.html https://<ulr>/<dir>/
@@ -1040,6 +1045,29 @@ Solution:
 $ python --version
 Python 3.5.2 :: Anaconda 4.2.0 (64-bit)
 $ sudo /usr/local/anaconda3/bin/conda create -n ana42py35 anaconda python=3.5
+``` 
+
+Problem: WINDOWS anaconda install/update 
+Solution: 
+```bash
+jupyter notebook --notebook-dir='C:/workspace/'
+Install Gnu On Windows
+
+1. Download and install Gnu On Windows (Gow) from https://github.com/bmatzelle/gow/releases/download/v0.8.0/Gow-0.8.0.exe. Select the default options when prompted during the installation of Gow.
+
+ 
+Install Anaconda and Jupyter Notebook
+
+1. Downloads and install Anaconda from http://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86_64.exe. Select the default options when prompted during the installation of Anaconda.
+
+2. Open “Anaconda Prompt” by finding it in the Windows (Start) Menu.
+
+3. Type the command in red to verified Anaconda was installed.
+> python --version
+Python 3.6.5 :: Anaconda 5.2.0 (64-bit)
+
+4. Type the command in red to update Anaconda.
+> conda update --all --yes
 ``` 
 
 ----
