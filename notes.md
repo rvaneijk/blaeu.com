@@ -966,6 +966,13 @@ Ubuntu
 ===================
 
 ----
+Problem: Sign files with sha256
+Solution:  openssl
+```bash
+find . -type f -exec openssl sha256 {} \; > files.sha256 && openssl sha256 files.sha256
+```
+
+----
 Problem: Run Visual Studio Code for Linux from WSL
 Solution:  forked
 ```bash
