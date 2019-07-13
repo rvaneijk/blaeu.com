@@ -592,6 +592,47 @@ Solution: svnup
 # sudo svnup release
 ```
 
+
+Problem: boot environments
+Solution: beadm
+```bash
+# pkg install
+# pkg install -y beadm
+# beadm list
+# beadm create 12.0-fresh
+# freebsd-update fetch && freebsd-update install (in default dus)
+# reboot
+# uname -a
+# beadm create 12.0-update (invriezen nieuwe boot environment)
+# beadm activate 12.0-update (om te testen)
+# reboot
+# uname -a 
+# beadm activate default (om terug te gaan)
+# reboot 
+```
+
+
+Problem: userland snapshots
+Solution: zfs
+```bash
+# zfs snapshot -r zroot@20190713
+# zfs rollback zroot@20190713
+# zfs destroy -r zroot@20190713
+
+# zfs list -t snapshot
+# sudo zfs rollback zroot/tmp@20190713-fresh
+# sudo zfs rollback zroot/usr@20190713-fresh
+# sudo zfs rollback zroot/usr/home@20190713-fresh
+# sudo zfs rollback zroot/usr/ports@20190713-fresh
+# sudo zfs rollback zroot/usr/src@20190713-fresh
+# sudo zfs rollback zroot/var@20190713-fresh
+# sudo zfs rollback zroot/var/audit@20190713-fresh
+# sudo zfs rollback zroot/var/crash@20190713-fresh
+# sudo zfs rollback zroot/var/log@20190713-fresh
+# sudo zfs rollback zroot/var/mail@20190713-fresh
+# sudo zfs rollback zroot/var/tmp@20190713-fresh
+```
+
 Problem: rebuilding database and check system
 Solution: ZFS
 ```bash
