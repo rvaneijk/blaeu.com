@@ -638,7 +638,9 @@ Solution: ZFS
 ```bash
 # sudo freebsd-update fetch && sudo freebsd-update install
 # sudo portsnap fetch && sudo portsnap update
-# sudo svnup release
+See https://www.freebsd.org/doc/handbook/makeworld.html#updating-src-obtaining-src
+Clean source eenmalig: # svnlite checkout https://svn.freebsd.org/base/releng/12.0 /usr/src 
+# svnlite update /usr/src 
 # sudo pkg audit -F
 # sudo pkg updating | more
 # cat /usr/ports/UPDATING | more
