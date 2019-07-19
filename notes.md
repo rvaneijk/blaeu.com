@@ -581,15 +581,27 @@ Problem: Upgrade freebsd
 # freebsd-update install
 ```
 
-Problem: keeping up with src tree
-Solution: svnup
+Problem: custom kernel
+Solution: follow handbook https://www.freebsd.org/doc/handbook/kernelconfig-building.html
 ```bash
-# sudo pkg install svnup
-# sudo vi /usr/local/etc/svnup.conf (uncomment a host)
-# freebsd-version
-' [release]
-  branch=base/releng/12.0'
-# sudo svnup release
+create /etc/make.conf
+
+  KERNCONF=VIRIYA
+
+  # default build settings for base system
+  .if ${.CURDIR:M*/usr/src/*} || ${.CURDIR:M*/usr/obj/*}
+    CFLAGS+= -O2 -fno-strict-aliasing -pipe
+    CXXFLAGS+= -O2 -fno-strict-aliasing -pipe
+    COPTFLAGS= -O2 -fno-strict-aliasing -pipe
+  .endif
+
+create directories /root/log, /root/kernel, and the script /root/bin/build-my-kernel.sh
+
+  #!/bin/sh
+  cd /usr/src
+  head -40 UPDATING
+  (time make buildkernel KERNCONF=VIRIYA >> ~root/log/buildkernel-`date "+%Y%m%d"`.log) && echo "buildkernel done"
+  tail -50 ~root/log/buildkernel-`date "+%Y%m%d"`.log
 ```
 
 
