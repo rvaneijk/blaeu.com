@@ -1250,12 +1250,20 @@ sudo mkdir /mnt/x
 touch /mnt/p/DRIVE_NOT_MOUNTED.txt
 touch /mnt/x/DRIVE_NOT_MOUNTED.txt
 sudo mount -t drvfs P: /mnt/p
-sudo mount -t drvfs P: /mnt/x 
+sudo mount -t drvfs X: /mnt/x 
 sudo rsync -uavh --log-file='./rsync-<DATUM>-<MYDIR>.log'  /mnt/p/<MYDIR>/ /mnt/x/<MYDIR>/
 sudo umount /mnt/p
-sudo /umount /mnt/x
+sudo umount /mnt/x
  ```
 
+
+----
+Problem: install i3
+Solution: regenerate /etc/mtab file on WSL
+```bash
+sudo apt-get install i3 i3status
+exec i3
+```
 
 ----
 Problem: firewall linux
