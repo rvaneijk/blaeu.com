@@ -1261,7 +1261,7 @@ sudo umount /mnt/x
 Problem: install i3
 Solution: regenerate /etc/mtab file on WSL
 ```bash
-sudo apt-get install i3 i3status
+sudo apt-get install i3 i3status compton
 exec i3
 ```
 
