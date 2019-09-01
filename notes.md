@@ -1251,7 +1251,7 @@ touch /mnt/p/DRIVE_NOT_MOUNTED.txt
 touch /mnt/x/DRIVE_NOT_MOUNTED.txt
 sudo mount -t drvfs P: /mnt/p
 sudo mount -t drvfs X: /mnt/x 
-sudo rsync -uavh --log-file='./rsync-<DATUM>-<MYDIR>.log'  /mnt/p/<MYDIR>/ /mnt/x/<MYDIR>/
+sudo rsync -uavh --progress --stats --log-file='./rsync-<DATUM>-<MYDIR>.log'  /mnt/p/<MYDIR>/ /mnt/x/<MYDIR>/
 sudo umount /mnt/p
 sudo umount /mnt/x
  ```
