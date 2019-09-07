@@ -1261,7 +1261,10 @@ sudo umount /mnt/x
 Problem: install i3, urxvt
 Solution: regenerate /etc/mtab file on WSL
 ```bash
-sudo apt-get install i3 i3status compton rxvt-unicode
+sudo apt-get install i3 i3status xfce4-termminal
+cp /etc/i3/config.keycodes ~/.config/i3/config
+replace i3-sensible-terminal with xfce4-terminal
+set xfce4 preferences, e.g., transparent background
 exec i3
 ```
 
