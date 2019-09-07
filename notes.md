@@ -1264,8 +1264,9 @@ Solution: regenerate /etc/mtab file on WSL
 sudo apt-get install i3 i3status feh xfce4-termminal
 cp /etc/i3/config.keycodes ~/.config/i3/config
 replace i3-sensible-terminal with xfce4-terminal
-feh --bg-scale ~/.background/FDBackground.png 
 set xfce4 preferences, e.g., transparent background
+add the following line to ~/.profile
+  feh --bg-scale ~/.background/FDBackground.png 
 exec i3
 ```
 
