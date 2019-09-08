@@ -1,4 +1,4 @@
-HF  
+HF (todo check for dead links)  
 ===================
 Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [actuele windwaarneming](https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png), [Europa Wetterkarte](http://www.dwd.de/DWD/wetter/wv_allg/europa/bilder/vhs_euro_heute.jpg), [DWD 10d Meteogramm](http://www.wetterzentrale.de/pics/MS_065530_g05.png), [WXSIM forecast](http://www.weerstation-grootegast.nl/sivu5.php), [Teletekst bewolking](http://nos.nl/teletekst#707_2), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [xcweather](http://www.xcweather.co.uk/forecast/rotterdam), [Windy](https://www.windy.com/51.923/4.463), [buienalarm](http://www.buienalarm.be/location/rotterdam), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [9 day forcast Grootegast](http://www.weerstation-grootegast.nl/wxall3/verwachting3.php?lang=nl), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://ww2010.atmos.uiuc.edu/%28Gh%29/home.rxml) <br />
 
