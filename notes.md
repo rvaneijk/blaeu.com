@@ -2191,13 +2191,18 @@ $ gpg --gen-revoke 4089421F
 ... then copy the key to a tekst file e.g. 4089421F.revoked
 $ gpg --import 4089421F.revoked
 $ gpg --keyserver pool.sks-keyservers.net --send-keys 4089421F
+$ gpg --keyserver hkps.pool.sks-keyservers.net --send-keys 4089421F
 $ gpg --keyserver subkeys.pgp.net --send-keys 4089421F
 $ gpg --keyserver pgp.mit.edu --send-keys 4089421F
+$ gpg --keyserver pgp.key-server.io --send-keys 4089421F
 $ publish keys with Kleopatra
 $ export to .asc from Kleopatra
 $ upload to https://pgp.mit.edu/
 $ upload to https://pgp.surfnet.nl/
 $ upload to https://keyserver.pgp.com/
+$ upload to https://pgp.key-server.io
+$ upload to pool.sks-keyservers.net
+$ upload to keyserver2.pgp.com
 ```
 
 ----
