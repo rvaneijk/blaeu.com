@@ -2201,8 +2201,8 @@ $ upload to https://pgp.mit.edu/
 $ upload to https://pgp.surfnet.nl/
 $ upload to https://keyserver.pgp.com/
 $ upload to https://pgp.key-server.io
-$ upload to pool.sks-keyservers.net
-$ upload to keyserver2.pgp.com
+$ upload to https://pool.sks-keyservers.net
+$ upload to https://keyserver2.pgp.com
 ```
 
 ----
