@@ -354,8 +354,8 @@ Solution: add two registry keys
 - export 
 - double the entry in a text editor
 - replace first location to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0
-replace second location to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0\Attributes
-replace third location to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0
+- replace second location to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0\Attributes
+- replace third location to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0
 - replace fourth location to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0\Attributes
 - save as reg file and import in the registry
 
