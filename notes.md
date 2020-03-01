@@ -664,6 +664,7 @@ Clean source eenmalig: # svnlite checkout https://svn.freebsd.org/base/releng/12
 # cpanplus> i 1..x # to update all PERL modules
 # instmodsh # to check all PERL modules
 # sudo pip list
+# (notepad++) sudo -H pip install --upgrade <module>
 # sudo pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs sudo easy_install -U # to update all PYTHON modules
 # sudo /etc/periodic/weekly/310.locate
 # sudo zpool scrub zroot
