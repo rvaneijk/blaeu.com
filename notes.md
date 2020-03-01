@@ -348,6 +348,18 @@ WSPR (WSPR uitzendingen beginnen één seconde over de even minuut):  <br />
 Windows 10
 ===================
 
+Problem: MS Frank TTS not available in applications
+Solution: add two registry keys
+- search from FRANK in regedit... it should be at HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech_OneCore\Voices\Tokens\MSTTS_V110_nlNL_Frank
+- export 
+- double the entry in a text editor
+- replace first location to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0
+replace second location to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0\Attributes
+replace third location to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0
+- replace fourth location to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\TTS_MS_NL-NL_FRANK_11.0\Attributes
+- save as reg file and import in the registry
+
+
 Problem: update not installing, e.g. kb3122947
 Solution: install from commandline
 
