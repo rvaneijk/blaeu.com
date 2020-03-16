@@ -966,6 +966,9 @@ $ conda --version
 $ conda update conda  # update self
 $ conda update --all  # update all packages
 $ jupyter notebook
+
+$ conda info --envs # to list all environments
+$ conda remove --name myenv --all  # to remove an environment
 ``` 
 
 Problem: update anaconda
