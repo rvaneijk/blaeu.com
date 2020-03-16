@@ -1123,6 +1123,36 @@ add the following line to ~/.profile
 
 add the following line to ~/.config/compton.conf:
   opacity-rule = ["85:class_g = 'xfce4-terminal'"];
+  
+edit /etc/i3status.conf
+		general {
+				colors = true
+				interval = 5
+		}
+
+		order += "disk /"
+		order += "load"
+		order += "cpu_usage"
+		order += "tztime local"
+
+		tztime local {
+				format = "%Y-%m-%d %H:%M:%S"
+		}
+
+		load {
+		#	format = " Δ: %1min "
+			# termsyn font
+			format = " Î %1min"
+		}
+
+		cpu_usage {
+			format = "%usage "
+		}
+
+		disk "/" {
+				format = "%avail"
+		}
+
 
 exec i3 & && compton &
 ```
