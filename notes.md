@@ -1745,11 +1745,6 @@ vi ~/.bashrc
 	PATH=/usr/local/texlive/2019/bin/x86_64-linux:$PATH; export PATH
 	MANPATH=/usr/local/texlive/2019/texmf-dist/doc/man:$MANPATH; export MANPATH
 	INFOPATH=/usr/local/texlive/2019/texmf-dist/doc/info:$INFOPATH; export INFOPATH
-of
-	PATH=/usr/local/texlive/2019/bin/x86_64-linux:$PATH; export PATH
-	MANPATH=/usr/local/texlive/2019/texmf-dist/doc/man:$MANPATH; export MANPATH
-	INFOPATH=/usr/local/texlive/2019/texmf-dist/doc/info:$INFOPATH; export INFOPATH
-
 source ~/.bashrc
 
 sudo apt-get install xzdec perl-tk (both packages required for tlmgr -gui)
