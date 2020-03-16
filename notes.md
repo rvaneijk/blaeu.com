@@ -952,14 +952,15 @@ wget -E -H -k -K -p https://<ulr>
 Problem: miniconda 
 Solution:  
 ```bash
-wget https://repo.continuum.io/archive/Anaconda3-2020.02-Linux-x86_64.sh
+https://docs.conda.io/en/latest/miniconda.html
 sudo mkdir /usr/local/miniconda3
 sudo chown 1000:1000 /usr/local/minicaonda3
-See also, https://github.com/mozilla/overscripted/tree/master/analyses
+bash <script>.sh -u
+
+Overscripted: https://github.com/mozilla/overscripted/tree/master/analyses
 -> conda env create -f environment.yaml
 -> conda activate overscripted  
 -> jupyter notebook
-bash https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -u
 $ conda list
 $ conda --version
 $ conda update conda  # update self
