@@ -1738,24 +1738,26 @@ Solution:
 ```bash
 
 cd /usr/local; sudo mkdir texlive; sudo chown 1000:1000 texlive; cd texlive; mkdir 2019
-sudo apt-get install texlive-latex-extra
+2019 netinstall: https://www.tug.org/texlive/acquire-netinstall.html
 
 Post-install: 
-sudo apt-get install xzdec perl-tk (both packages required for tlmgr -gui)
-
 vi ~/.bashrc
 	PATH=/usr/local/texlive/2019/bin/x86_64-linux:$PATH; export PATH
 	MANPATH=/usr/local/texlive/2019/texmf-dist/doc/man:$MANPATH; export MANPATH
 	INFOPATH=/usr/local/texlive/2019/texmf-dist/doc/info:$INFOPATH; export INFOPATH
+of
+	PATH=/usr/local/texlive/2019/bin/x86_64-linux:$PATH; export PATH
+	MANPATH=/usr/local/texlive/2019/texmf-dist/doc/man:$MANPATH; export MANPATH
+	INFOPATH=/usr/local/texlive/2019/texmf-dist/doc/info:$INFOPATH; export INFOPATH
+
 source ~/.bashrc
 
-su - (to elevate account, sudo doesn't work)
-tlmgr paper a4
-exit (to return to user)
+sudo apt-get install xzdec perl-tk (both packages required for tlmgr -gui)
+tlmgr init-usertree
+tlmgr install framed
 
-su - (to elevate account, sudo doesn't work)
 tlmgr update --all (to update all packages)
-exit
+Indien foutmelding (remote repository newer than local) dan sudo tlmgr option repository ftp://tug.org/historic/systems/texlive/2017/tlnet-final
 
 bleachbit (to clean up)
 	
