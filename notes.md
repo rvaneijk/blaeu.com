@@ -675,9 +675,7 @@ Clean source eenmalig: # svnlite checkout https://svn.freebsd.org/base/releng/12
 # cpanplus> o # to check old PERL modules
 # cpanplus> i 1..x # to update all PERL modules
 # instmodsh # to check all PERL modules
-# sudo pip list
-# (notepad++) sudo -H pip install --upgrade <module>
-# sudo pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs sudo easy_install -U # to update all PYTHON modules
+# sudo -H pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs sudo -H pip install --upgrade #
 # sudo /etc/periodic/weekly/310.locate
 # sudo zpool scrub zroot
 ```
@@ -1081,16 +1079,28 @@ sudo systemctl enable ssh
 sudo service ssh start
 sudo add-apt-repository ppa:notepadqq-team/notepadqq
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
-sudo apt-get install build-essential checkinstall cpanplus  libssl-dev xfce4 synaptic htop bleachbit poppler-utils notepadqq letsencrypt sakura axel
+sudo apt-get install build-essential checkinstall cpanplus  libssl-dev xfce4 synaptic htop bleachbit poppler-utils notepadqq letsencrypt sakura axel aria2
+
+Note: aria2c -x 4 -s 4 [url] als alternatief voor axel -n 4 of wget
+```
+
+----
+Problem: install python3.8 on WSL (16.04 LTS)
+Solution:  ppa:deadsnakes
+```sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt-get update
+sudo apt-get install python3.8
+python3.8 -V
+NOTE: sits alongside other python versions, e.g., python2 -V, python3.5 -V
 ```
 
 ----
 Problem: install pycharm (LET OP: kan ook via Docker, https://hub.docker.com/r/continuumio/anaconda3/) 
 Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
 ```bash
-wget https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+wget https://repo.continuum.io/archive/Anaconda3-2020.02-Linux-x86_64.sh
 mkdir /usr/local/anaconda3
-bash https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+bash https://repo.continuum.io/archive/Anaconda3-2020.02-Linux-x86_64.sh
 $ conda list
 $ conda --version
 $ conda update conda  # update self
