@@ -1,5 +1,5 @@
 HF (todo check for dead links)  
-====================
+=====================
 Weer: [KNMI weerkaarten](http://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weerkaarten), [actuele windwaarneming](https://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/windkracht.png), [Europa Wetterkarte](http://www.dwd.de/DWD/wetter/wv_allg/europa/bilder/vhs_euro_heute.jpg), [DWD 10d Meteogramm](http://www.wetterzentrale.de/pics/MS_065530_g05.png), [WXSIM forecast](http://www.weerstation-grootegast.nl/sivu5.php), [Teletekst bewolking](http://nos.nl/teletekst#707_2), [Windguru](http://www.windguru.cz/nl/index.php?sc=3643&sty=m_spot), [xcweather](http://www.xcweather.co.uk/forecast/rotterdam), [Windy](https://www.windy.com/51.923/4.463), [buienalarm](http://www.buienalarm.be/location/rotterdam), [Zilt weekend weerbericht](https://www.youtube.com/user/ziltmeteo/videos), [9 day forcast Grootegast](http://www.weerstation-grootegast.nl/wxall3/verwachting3.php?lang=nl), [Frank's wheather links](http://weather.mailasail.com/Franks-Weather/Franks-General-Weather-And-Sailing-External-Links), [Univ. of Illinois wheather guides](http://ww2010.atmos.uiuc.edu/%28Gh%29/home.rxml) <br />
 
 [Neerslagradar KNMI](http://cdn.knmi.nl/knmi/map/page/weer/actueel-weer/neerslagradar/WWWRADAR_loop.gif), [NL](https://weerslag.nl/Verwacht), [D](http://www.dwd.de/DWD/wetter/radar/radfilm_brd_akt.gif), [EU](http://weerdata.weerslag.nl/image/1.0/?size=ani-8-RadarEU-1000x717&type=Freecontent), [satelliet](http://api.buienradar.nl/image/image.ashx?k=3&amp;l=1&amp;c=eu), [infrarood](http://www.meteociel.fr/accueil/sat24ir.gif), [straalstromen](https://earth.nullschool.net/#current/wind/isobaric/250hPa/orthographic=-329.24,32.47,314), [windplot](https://www.weerplaza.nl/actueel/grafieken-per-meetpunt/rotterdam+airport/16707/afgelopen-12-uur)
@@ -543,43 +543,6 @@ Lambda function:
     }];
 ```
 
-Problem: Install Visual Studion Code
-Solution: 
-```
-$ curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
-sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
-$ sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
-$ sudo apt-get update
-$ sudo apt-get install code
-```
-
-Problem: Deleting folders from S3 recursively
-Solution: 
-```
-$ sudo apt-get install s3cmd
-$ sudo apt-get s3cmd --configure
-$ s3cmd rm s3://foo/bar --recursive
-```
-
-Problem: updating letsencrypt certificate
-Solution: ppa (zie https://certbot.eff.org/#ubuntuxenial-nginx)
-```
-$ aws configure
-zie ~/.aws/credentials
-default region us-east-1
-$ whoami
-root
-$ pwd
-/root
-$ which letsencrypt
-$ echo $PATH
-(...)/home/rvaneijk/.local/share/letsencrypt/local/bin
-eventueel: $ PATH=$PATH:/home/rvaneijk/.local/share/letsencrypt/local/bin
-$ letsencrypt certonly --manual -d natuurlijkehaarkleuring.nl -d www.natuurlijkehaarkleuring.nl
-$ upload the acm-challenge files
-$ aws iam upload-server-certificate --server-certificate-name cert_180810a_www.natuurlijkehaarkleuring.nl --certificate-body file:///etc/letsencrypt/live/www.natuurlijkehaarkleuring.nl/cert.pem --private-key file:///etc/letsencrypt/live/www.natuurlijkehaarkleuring.nl/privkey.pem --certificate-chain file:///etc/letsencrypt/live/www.natuurlijkehaarkleuring.nl/chain.pem --path /cloudfront/certs/
-```
-
 FreeBSD
 ===================
 
@@ -820,18 +783,6 @@ pass in on $ext_if proto tcp from any to any port $tcp_services keep state
 ```
 
 ----
-Problem: install firefox 
-Solution: sudo pkg install xorg xfce firefox 
-
-----
-Problem: install ipython stuff 
-Solution: sudo pkg update -f 
-sudo pkg install math/py-numpy science/py-scipy math/py-matplotlib devel/ipython math/py-pandas math/py-sympy devel/py-nose 
-
-Running iPython Notebook:
-$ ipython notebook -ip='*'
-
-----
 Problem: PERL
 Solution: PERLBREW
 ```bash
@@ -966,83 +917,21 @@ Now we send the data, also sending it through mbuffer:
 [4] [ZFS-Replication](http://www.markround.com/archives/38-ZFS-Replication.html/) 
 
 
-----
-Problem: N/A 
-Solution: handy VIM commands 
-```bash
-q<char>(...)q - record macro <char>
-<n>@<char> ---- play macro <char> <n> times
-
-buffers ------- list buffers
-badd ---------- add buffer
-bdelete ------- delete buffer
-(v)split ------ split window horizontally (vertically)
-bnext --------- navigate to buffer +1
-bprevious ----- navigate to buffer -1
-
-To insert or append text type:
- i   to insert before the cursor
- a  to insert text AFTER the cursor.
- A  to insert text after the end of the line.
- o  to open a line BELOW the cursor and start Insert mode
- O  to open a line ABOVE the cursor
-
-The y operator yanks (copies) text, p puts (pastes) it. yw copies a whole word.
-The v operator starts visual mode (Select text, e.g., to yank)
-
-To delete from the cursor up to the next word type:    dw
-To delete from the cursor to the end of a line type:    d$
-To delete a whole line type:  dd
-To repeat a motion prepend it with a number: 2dd
-
-To replace the character under the cursor, type   r   and then the
- character you want to have there.
-
-The change operator allows you to change from the cursor to where the
- motion takes you.  eg. Type  ce  to change from the cursor to the end of
- the word,  c$  to change to the end of a line. cw changes a word.
-
-To undo previous actions, type: u  (lowercase u)
-To undo all the changes on a line, type: U (capital U)
-To put back text that has just been deleted, type   p .  This puts the
- deleted text AFTER the cursor (if a line was deleted it will go on the
- line below the cursor).
-To undo the undo's, type: CTRL-R
-
-Typing  /	followed by a phrase searches FORWARD for the phrase.
-Typing  ?	followed by a phrase searches BACKWARD for the phrase.
-After a search type  n  to find the next occurrence in the same direction
- or  N  to search in the opposite direction.
- CTRL-O takes you back to older positions, CTRL-I to newer positions.
-Typing ":set xxx" sets the option "xxx".  Some options are:
-  'ic' 'ignorecase'	ignore upper/lower case when searching
-  'is' 'incsearch'	show partial matches for a search phrase
-  'hls' 'hlsearch'	highlight all matching phrases
-Prepend "no" to switch an option off:   :set noic
-
-To substitute new for the first old in a line type    :s/old/new
-To substitute new for all 'old's on a line type	   :s/old/new/g
-To substitute phrases between two line #'s type	   :#,#s/old/new/g
-To substitute all occurrences in the file type	   :%s/old/new/g
-To ask for confirmation each time add 'c'		   :%s/old/new/gc
-```
-
-
-Ubuntu
+UBUNTU
 ===================
+----
+Problem: WSL base
+
+sudo apt-get install build-essential checkinstall libssl-dev xfce4 synaptic htop bleachbit axel aria2
+
+Note: aria2c -x 4 -s 4 [url] als alternatief voor axel -n 4 of wget
+```
 
 ----
 Problem: Sign files with sha256
 Solution:  openssl
 ```bash
 find . -type f -exec openssl sha256 {} \; > files.sha256 && openssl sha256 files.sha256
-```
-
-----
-Problem: Run Visual Studio Code for Linux from WSL
-Solution:  forked
-```bash
-https://gist.github.com/rvaneijk/f24dcd85c653934ac3a9d45cad8e49a2
 ```
 
 ----
@@ -1060,57 +949,22 @@ wget -E -H -k -K -p https://<ulr>
 ```
 
 ----
-Problem: install linux subsystem on Windows 10 (Store: Ubuntu)
-Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
-```cmd (as admin)
-cd ~
-# vi .bashrc
-	export DISPLAY=:0
-sudo vi /etc/ssh/sshd_config
-	Modify PermitRootLogin to no
-	Add AllowUsers yourusername
-	Modify PasswordAuthentication to yes
-	Modify UsePrivilegeSeparation to no
-sudo su -
-passwd
-sudo apt-get install libssl-dev (to correct MCPAN [ERROR] Unable to create a new distribution object for 'Net::SSLeay')
-sudo /usr/bin/ssh-keygen -A (to correct ssh install)
-sudo systemctl enable ssh
-sudo service ssh start
-sudo add-apt-repository ppa:notepadqq-team/notepadqq
-sudo apt-get update && sudo apt-get upgrade && sudo apt-get autoremove
-sudo apt-get install build-essential checkinstall cpanplus  libssl-dev xfce4 synaptic htop bleachbit poppler-utils notepadqq letsencrypt sakura axel aria2
-
-Note: aria2c -x 4 -s 4 [url] als alternatief voor axel -n 4 of wget
-```
-
-----
-Problem: install python3.8 on WSL (16.04 LTS)
-Solution:  ppa:deadsnakes
-```sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt-get update
-sudo apt-get install python3.8
-python3.8 -V
-NOTE: sits alongside other python versions, e.g., python2 -V, python3.5 -V
-```
-
-----
-Problem: install pycharm (LET OP: kan ook via Docker, https://hub.docker.com/r/continuumio/anaconda3/) 
-Solution:  prerequisites: Anaconda, JRE (or OpenJDK) which will install/update as dependency
+Problem: miniconda 
+Solution:  
 ```bash
 wget https://repo.continuum.io/archive/Anaconda3-2020.02-Linux-x86_64.sh
-mkdir /usr/local/anaconda3
-bash https://repo.continuum.io/archive/Anaconda3-2020.02-Linux-x86_64.sh
+sudo mkdir /usr/local/miniconda3
+sudo chown 1000:1000 /usr/local/minicaonda3
+See also, https://github.com/mozilla/overscripted/tree/master/analyses
+-> conda env create -f environment.yaml
+-> conda activate overscripted  
+-> jupyter notebook
+bash https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -u
 $ conda list
 $ conda --version
 $ conda update conda  # update self
 $ conda update --all  # update all packages
 $ jupyter notebook
-sudo apt-get install openjdk-8-jre
-sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make 
-sudo add-apt-repository ppa:mystic-mirage/pycharm
-sudo apt-get update
-sudo apt-get install pycharm-community
 ``` 
 
 Problem: update anaconda
@@ -1125,37 +979,6 @@ $ conda list  # View a list of packages and versions installed in an environment
 $ conda update --all  # update all packages
 $ conda install <package> && conda list  # install with conda (preferred)
 $ pip install see && conda list  # install with pip if not present in anaconda
-``` 
-
-Problem: jupyter couldn't find a kernel matching Python 2. 
-Solution: 
-```bash
-$ python --version
-Python 3.5.2 :: Anaconda 4.2.0 (64-bit)
-$ sudo /usr/local/anaconda3/bin/conda create -n ana42py35 anaconda python=3.5
-``` 
-
-Problem: WINDOWS anaconda install/update 
-Solution: 
-```bash
-jupyter notebook --notebook-dir='C:/workspace/'
-Install Gnu On Windows
-
-1. Download and install Gnu On Windows (Gow) from https://github.com/bmatzelle/gow/releases/download/v0.8.0/Gow-0.8.0.exe. Select the default options when prompted during the installation of Gow.
-
- 
-Install Anaconda and Jupyter Notebook
-
-1. Downloads and install Anaconda from http://repo.continuum.io/archive/Anaconda3-5.2.0-Windows-x86_64.exe. Select the default options when prompted during the installation of Anaconda.
-
-2. Open “Anaconda Prompt” by finding it in the Windows (Start) Menu.
-
-3. Type the command in red to verified Anaconda was installed.
-> python --version
-Python 3.6.5 :: Anaconda 5.2.0 (64-bit)
-
-4. Type the command in red to update Anaconda.
-> conda update --all --yes
 ``` 
 
 ----
@@ -1281,16 +1104,26 @@ sudo umount /mnt/x
 
 
 ----
-Problem: install i3, urxvt
-Solution: regenerate /etc/mtab file on WSL
+Problem: install i3
+Solution: 
 ```bash
-sudo apt-get install i3 i3status feh xfce4-termminal
+sudo apt-get install i3 i3status feh xfce4-terminal compton
 cp /etc/i3/config.keycodes ~/.config/i3/config
+
 replace i3-sensible-terminal with xfce4-terminal
+
+add the following line to ~/.config/i3/config
+  exec --no-startup-id compton
+
 set xfce4 preferences, e.g., transparent background
+
 add the following line to ~/.profile
   feh --bg-scale ~/.background/FDBackground.png 
-exec i3
+
+add the following line to ~/.config/compton.conf:
+  opacity-rule = ["85:class_g = 'xfce4-terminal'"];
+
+exec i3 & && compton &
 ```
 
 ----
@@ -1327,22 +1160,6 @@ sudo reboot
 ```
 
 ----
-Problem: 
-Solution: PERLBREW
-```bash
-$ curl -kL http://install.perlbrew.pl | sudo bash # Installation
-$ perlbrew init # Initialize
-$ echo ”export PATH=$PATH:/home/rvaneijk/perl5/perlbrew/bin" > /home/rvaneijk/.bashrc
-$ perlbrew mirror # Pick a preferred CPAN mirror
-$ perlbrew available # See what is available
-$ perlbrew install perl-5.21.7 # Install some Perls
-$ perlbrew list # See what were installed
-$ perlbrew switch perl-5.18.2 && perl -v# Swith to an installation and set it as default
-$ perlbrew use perl-5.8.1 && perl -v# Temporarily use another version only in current shell.
-$ perlbrew off # Go back to the system Perl.
-```
-
-----
 Problem: getting wlan0 up
 Solution: 
 ```bash
@@ -1363,15 +1180,6 @@ dns-search freebsd.org
 dns-nameservers 192.168.178.1 194.109.6.66 194.109.9.99 194.109.104.104 2001:888:0:6::66 2001:888:0:9::99
 ```
 
-----
-Problem: Chrome
-Solution: 
-```bash
-wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
-sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
-sudo apt-get update 
-sudo apt-get install google-chrome-stable
-```
 
 ----
 Problem: install custom python module
@@ -1928,19 +1736,18 @@ Tex
 Problem: WSL TexLive installation 
 Solution: 
 ```bash
-GOAL: LATEX IN UBUNTU MET LATEXMK, NOTEPAD++ (or VSCODE) en SUMATRAPDF
 
-=============================================
-https://www.tug.org/texlive/acquire-netinstall.html
+cd /usr/local; sudo mkdir texlive; sudo chown 1000:1000 texlive; cd texlive; mkdir 2019
+sudo apt-get install texlive-latex-extra
 
-Post-install: setting PATH
+Post-install: 
+sudo apt-get install xzdec perl-tk (both packages required for tlmgr -gui)
+
 vi ~/.bashrc
 	PATH=/usr/local/texlive/2019/bin/x86_64-linux:$PATH; export PATH
 	MANPATH=/usr/local/texlive/2019/texmf-dist/doc/man:$MANPATH; export MANPATH
 	INFOPATH=/usr/local/texlive/2019/texmf-dist/doc/info:$INFOPATH; export INFOPATH
 source ~/.bashrc
-
-sudo apt-get install xzdec perl-tk (both packages required for tlmgr -gui)
 
 su - (to elevate account, sudo doesn't work)
 tlmgr paper a4
