@@ -959,7 +959,8 @@ bash <script>.sh -u
 conda --version
 ``` 
 
-Jupyterlab: install in a conda env:
+Jupyterlab: install in a conda env
+```bash
 $ conda install -c conda-forge nodejs  (in a conda env)
 $ conda install -c conda-forge jupyterlab (in a conda env)
 $ jupyter notebook
@@ -968,6 +969,7 @@ $ jupyter notebook
 ! dask [dashboards](https://www.youtube.com/watch?v=EX_voquHdk0) w/jupyterlabs
 ! jupyter [lab](http://localhost:8888/lab)
 ! dask cluster [status](http://localhost:8787/status)
+``` 
 
 Update anaconda
 ```bash
