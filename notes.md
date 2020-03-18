@@ -961,14 +961,7 @@ Overscripted: https://github.com/mozilla/overscripted/tree/master/analyses
 -> conda env create -f environment.yaml
 -> conda activate overscripted  
 -> jupyter notebook
-$ conda list
 $ conda --version
-$ conda update conda  # update self
-$ conda update --all  # update all packages
-$ jupyter notebook
-
-$ conda info --envs # to list all environments
-$ conda remove --name myenv --all  # to remove an environment
 ``` 
 
 Problem: update anaconda
@@ -984,6 +977,23 @@ $ conda update --all  # update all packages
 $ conda install <package> && conda list  # install with conda (preferred)
 $ pip install see && conda list  # install with pip if not present in anaconda
 ``` 
+
+Problem: conda envs and extensions
+Solution: 
+```bash
+$ conda info --envs # to list all environments
+$ conda remove --name myenv --all  # to remove an environment
+
+In a conda env:
+$ conda install -c conda-forge nodejs  (in a conda env)
+$ jupyter notebook (enable the extension manager by searching Extension Manager in the command palette)
+
+$ conda install jupyterlab nodejs
+$ pip install dask_labextension (in a conda env)
+$ jupyter labextension install dask-labextension (in a conda env)
+$ jupyter notebook
+``` 
+
 
 ----
 Problem: add ubuntu server to hyperV
