@@ -956,12 +956,7 @@ https://docs.conda.io/en/latest/miniconda.html
 sudo mkdir /usr/local/miniconda3
 sudo chown 1000:1000 /usr/local/minicaonda3
 bash <script>.sh -u
-
-Overscripted: https://github.com/mozilla/overscripted/tree/master/analyses
--> conda env create -f environment.yaml
--> conda activate overscripted  
--> jupyter notebook
-$ conda --version
+conda --version
 ``` 
 
 Problem: update anaconda
@@ -984,16 +979,15 @@ Solution:
 $ conda info --envs # to list all environments
 $ conda remove --name myenv --all  # to remove an environment
 
+Overscripted: https://github.com/mozilla/overscripted/tree/master/analyses
+$ conda env create -f environment.yaml
+$ conda activate overscripted  
+$ jupyter notebook
+
 In a conda env:
 $ conda install -c conda-forge nodejs  (in a conda env)
 $ jupyter notebook (enable the extension manager by searching Extension Manager in the command palette)
-
-$ conda install jupyterlab nodejs
-$ pip install dask_labextension (in a conda env)
-$ jupyter labextension install dask-labextension (in a conda env)
-$ jupyter notebook
 ``` 
-
 
 ----
 Problem: add ubuntu server to hyperV
