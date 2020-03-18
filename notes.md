@@ -959,18 +959,23 @@ bash <script>.sh -u
 conda --version
 ``` 
 
-Problem: update anaconda
-Solution: 
+Jupyterlab: install in a conda env:
+$ conda install -c conda-forge nodejs  (in a conda env)
+$ conda install -c conda-forge jupyterlab (in a conda env)
+$ jupyter notebook
+! the jupyterlab is on: /lab
+! enable the extension manager by searching Extension Manager in the command palette
+! dask [dashboards](https://www.youtube.com/watch?v=EX_voquHdk0) w/jupyterlabs: 
+
+Update anaconda
 ```bash
 $ conda --version  # test conda from commandline
 $ conda update conda  # update self
+$ conda update --all  # update all packages
+$ conda list  # View a list of packages and versions installed in an environment
+$ conda install <package> && conda list  # install with conda (preferred)
 $ conda search --full-name python  # list all installed puhon versions
 $ conda install python=3.6.1  # bring conda environment up to latest version of python
-$ conda search --full-name python  # list all installed puhon versions
-$ conda list  # View a list of packages and versions installed in an environment
-$ conda update --all  # update all packages
-$ conda install <package> && conda list  # install with conda (preferred)
-$ pip install see && conda list  # install with pip if not present in anaconda
 ``` 
 
 Problem: conda envs and extensions
@@ -978,15 +983,6 @@ Solution:
 ```bash
 $ conda info --envs # to list all environments
 $ conda remove --name myenv --all  # to remove an environment
-
-Overscripted: https://github.com/mozilla/overscripted/tree/master/analyses
-$ conda env create -f environment.yaml
-$ conda activate overscripted  
-$ jupyter notebook
-
-In a conda env:
-$ conda install -c conda-forge nodejs  (in a conda env)
-$ jupyter notebook (enable the extension manager by searching Extension Manager in the command palette)
 ``` 
 
 ----
