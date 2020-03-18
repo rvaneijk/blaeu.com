@@ -965,7 +965,9 @@ $ conda install -c conda-forge jupyterlab (in a conda env)
 $ jupyter notebook
 ! the jupyterlab is on: /lab
 ! enable the extension manager by searching Extension Manager in the command palette
-! dask [dashboards](https://www.youtube.com/watch?v=EX_voquHdk0) w/jupyterlabs: 
+! dask [dashboards](https://www.youtube.com/watch?v=EX_voquHdk0) w/jupyterlabs
+! jupyter [lab](http://localhost:8888/lab)
+! dask cluster [status](http://localhost:8787/status)
 
 Update anaconda
 ```bash
