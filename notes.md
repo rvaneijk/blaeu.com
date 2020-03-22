@@ -957,6 +957,29 @@ sudo mkdir /usr/local/miniconda3
 sudo chown 1000:1000 /usr/local/minicaonda3
 bash <script>.sh -u
 conda --version
+conda install anaconda-navigator
+``` 
+
+Update anaconda
+```bash
+$ conda --version  # test conda from commandline
+$ conda update conda  # update self
+$ conda update --all  # update all packages
+$ conda list  # View a list of packages and versions installed in an environment
+$ conda install <package> && conda list  # install with conda (preferred)
+$ conda search --full-name python  # list all installed puhon versions
+$ conda install python=3.6.1  # bring conda environment up to latest version of python
+``` 
+
+Anaconda [install R enviroment](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)
+```bash
+$ create new workspace and cd into it
+$ anaconda-navigator
+- Create new environment.
+- Tick R-box.
+- Give name, e.g., the workspace-dir-name.
+- Open the newly created env in the navitator using the Open with Jupyter Notebook option.
+- To create a new notebook for the R language, in the Jupyter Notebook menu, select New, then select R.
 ``` 
 
 Jupyterlab: install in a conda env
@@ -969,17 +992,6 @@ $ jupyter notebook
 ! dask [dashboards](https://www.youtube.com/watch?v=EX_voquHdk0) w/jupyterlabs
 ! jupyter [lab](http://localhost:8888/lab)
 ! dask cluster [status](http://localhost:8787/status)
-``` 
-
-Update anaconda
-```bash
-$ conda --version  # test conda from commandline
-$ conda update conda  # update self
-$ conda update --all  # update all packages
-$ conda list  # View a list of packages and versions installed in an environment
-$ conda install <package> && conda list  # install with conda (preferred)
-$ conda search --full-name python  # list all installed puhon versions
-$ conda install python=3.6.1  # bring conda environment up to latest version of python
 ``` 
 
 Problem: conda envs and extensions
