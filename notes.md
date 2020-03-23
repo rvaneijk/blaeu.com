@@ -957,29 +957,43 @@ sudo mkdir /usr/local/miniconda3
 sudo chown 1000:1000 /usr/local/minicaonda3
 bash <script>.sh -u
 conda --version
-conda install anaconda-navigator
-``` 
-
-Update anaconda
-```bash
-$ conda --version  # test conda from commandline
+$ conda install notebook anaconda-navigator
 $ conda update conda  # update self
 $ conda update --all  # update all packages
-$ conda list  # View a list of packages and versions installed in an environment
-$ conda install <package> && conda list  # install with conda (preferred)
 $ conda search --full-name python  # list all installed puhon versions
 $ conda install python=3.6.1  # bring conda environment up to latest version of python
 ``` 
 
-Anaconda [install R enviroment](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)
+Jupyter notebooek with R
 ```bash
-$ create new workspace and cd into it
-$ anaconda-navigator
-- Create new environment.
-- Tick R-box.
-- Give name, e.g., the workspace-dir-name.
-- Open the newly created env in the navitator using the Open with Jupyter Notebook option.
-- To create a new notebook for the R language, in the Jupyter Notebook menu, select New, then select R.
+$ sudo apt-get update && sudo apt-get install software-properties-common
+$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+$ sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran35/'
+$ sudo apt update
+$ sudo apt install r-base
+$ sudo apt-get install libcairo2-dev libxt-dev libxml2-dev libxslt-dev libcurl4 libcurl4-openssl-dev # needed as dependency for some packages
+$ Sys.setenv(R_INSTALL_STAGED = FALSE)
+$ sudo -i R
+install.packages('xml')
+exit: CTRL-D
+$ sudo -i R
+install.packages('repr', dependencies = TRUE)
+install.packages('IRdisplay', dependencies = TRUE)
+install.packages('evaluate', dependencies = TRUE)
+install.packages('crayon', dependencies = TRUE)
+install.packages('pbdZMQ', dependencies = TRUE)
+install.packages('uuid', dependencies = TRUE)
+install.packages('digest', dependencies = TRUE)
+install.packages('devtools', dependencies = TRUE)
+devtools::install_github('IRkernel/IRkernel')
+IRkernel::installspec(user = FALSE)
+launch anaconda-navigator and create a [new-r-environment]
+conda env list
+conda activate [new-r-environment]
+make a workspace directory and jupyter notebook and create new python notebook
+install.packages('txtplot') # to test the installation
+library('txtplot') # to test the installation
+txtplot(cars[,1], cars[,2], xlab = 'speed', ylab = 'distance') # to test the installation
 ``` 
 
 Jupyterlab: install in a conda env
