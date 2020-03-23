@@ -964,7 +964,7 @@ $ conda search --full-name python  # list all installed puhon versions
 $ conda install python=3.6.1  # bring conda environment up to latest version of python
 ``` 
 
-Jupyter notebooek with R
+Jupyter notebook with R
 ```bash
 $ sudo apt-get update && sudo apt-get install software-properties-common
 $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
@@ -995,6 +995,17 @@ install.packages('txtplot') # to test the installation
 library('txtplot') # to test the installation
 txtplot(cars[,1], cars[,2], xlab = 'speed', ylab = 'distance') # to test the installation
 ``` 
+
+Install Rstudio server and update all packages
+```bash
+$ sudo apt-get install libapparmor1 gdebi-core
+$ wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-1.2.5033-amd64.deb -O rstudio.deb
+$ sudo gdebi rstudio.deb
+$ sudo adduser rstudio
+$ sudo rstudio-server start
+RStudio can be access through port 8787. Any user account with a password can be used in RStudio.
+``` 
+
 
 Jupyterlab: install in a conda env
 ```bash
