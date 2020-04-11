@@ -1009,7 +1009,10 @@ jupyter notebook --ip 0.0.0.0 --port 8888 # so that you can access from AWS
 install.packages('txtplot') # to test the installation
 library('txtplot') # to test the installation
 txtplot(cars[,1], cars[,2], xlab = 'speed', ylab = 'distance') # to test the installation
+
+LET OP:
 installed.packages() # LET OP, packages in /usr/local/miniconda3/envs/my_R/lib/R/library
+old.packages() # LET OP lists what packages are out of date.
 update.packages(ask = FALSE) # LET OP updates all packages
 ``` 
 
