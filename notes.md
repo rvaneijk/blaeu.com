@@ -1009,12 +1009,18 @@ install.packages('txtplot') # to test the installation
 library('txtplot') # to test the installation
 txtplot(cars[,1], cars[,2], xlab = 'speed', ylab = 'distance') # to test the installation
 ... close jupyter notebook and generate SSL certificates
-... see Neo4j
-... vi /home/ubuntu/.jupyter/jupyter_notebook_config.py
+$ mkdir /var/ssl/jupyter
+$ sudo openssl req -x509 -nodes -days 365 -newkey rsa:1024 -keyout "cert.key" -out "cert.pem" -batch
+$ mv cert* /var/ssl/jupyter/
+$ sudo chown 1000:1000 /var/ssl/jupyter/*
+$ vi /home/ubuntu/.jupyter/jupyter_notebook_config.py
 ... add
-       CERTFILE="/usr/local/chorus/shared/server.crt"
-       KEYFILE="/usr/local/chorus/shared/server.key"
-jupyter notebook --ip 0.0.0.0 --port 8888 & # so that you can access from AWS
+	c.NotebookApp.certfile = '/var/ssl/jupyter/cert.pem' 
+	c.NotebookApp.keyfile = '/var/ssl/jupyter/cert.key' 
+	c.NotebookApp.ip = '*' 
+	c.NotebookApp.open_browser = False
+	c.IPKernelApp.pylab = 'inline'
+jupyter notebook --port 8888 & # so that you can access from AWS
 
 LET OP:
 old.packages() # LET OP lists what packages are out of date.
