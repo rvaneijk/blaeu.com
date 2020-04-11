@@ -638,7 +638,7 @@ Clean source eenmalig: # svnlite checkout https://svn.freebsd.org/base/releng/12
 # cpanplus> o # to check old PERL modules
 # cpanplus> i 1..x # to update all PERL modules
 # instmodsh # to check all PERL modules
-# sudo -H pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs sudo -H pip install --upgrade #
+# sudo -H pip freeze | grep -v '^\-e' | cut -d = -f 1  | xargs sudo -H pip install --upgrade #
 # sudo /etc/periodic/weekly/310.locate
 # sudo zpool scrub zroot
 ```
@@ -919,9 +919,21 @@ Now we send the data, also sending it through mbuffer:
 
 UBUNTU
 ===================
+
+----
+Problem: Basic updates
+```bash
+update WSL: sudo apt-get update && sudo apt-get upgrade && sudo dist-apt-get upgrade && sudo apt-get autoremove & sudo apt-get autoclean
+update python base: sudo -H pip freeze | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
+update perl base: perl -MCPANPLUS -e shell
+update TexLive: tlmgr update --all
+update R packages: sudo rstudio-server start (port 8787)
+update conda: bash .bashrc_miniconda && conda update conda && conda update --all
+```
+
 ----
 Problem: WSL base
-
+```bash
 sudo apt-get install build-essential checkinstall libssl-dev xfce4 synaptic htop bleachbit axel aria2
 
 Note: aria2c -x 4 -s 4 [url] als alternatief voor axel -n 4 of wget
@@ -990,13 +1002,17 @@ IRkernel::installspec(user = FALSE)
 launch anaconda-navigator and create a [new-r-environment]
 conda env list
 conda activate [new-r-environment]
-make a workspace directory and jupyter notebook and create new python notebook
+... make a workspace directory
+... check AWS security groups for inbound ports 
+jupyter notebook --ip 0.0.0.0 --port 8888 # so that you can access from AWS
+... and create new R-notebook
 install.packages('txtplot') # to test the installation
 library('txtplot') # to test the installation
 txtplot(cars[,1], cars[,2], xlab = 'speed', ylab = 'distance') # to test the installation
+installed.packages() # LET OP, packages in /usr/local/miniconda3/envs/my_R/lib/R/library
 ``` 
 
-Install Rstudio server and update all packages
+Install Rstudio server and update all packages (buiten conda en environments updaten!)
 ```bash
 $ sudo apt-get install libapparmor1 gdebi-core
 $ wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-1.2.5033-amd64.deb -O rstudio.deb
@@ -1004,6 +1020,7 @@ $ sudo gdebi rstudio.deb
 $ sudo adduser rstudio
 $ sudo rstudio-server start
 RStudio can be access through port 8787. Any user account with a password can be used in RStudio.
+installed.packages() # LET OP, packages ELDERS, in /home/rstudio/R/x86_64-pc-linux-gnu-library/3.6 en /usr/local/lib/R/site-library
 ``` 
 
 
@@ -1561,7 +1578,7 @@ Running iPython Notebook:
 $ ipython notebook -ip='*'
 
 Update all python packages:
-$ sudo pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
+$ sudo -H pip freeze | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
 ```
 
 ----
