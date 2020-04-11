@@ -1010,6 +1010,7 @@ install.packages('txtplot') # to test the installation
 library('txtplot') # to test the installation
 txtplot(cars[,1], cars[,2], xlab = 'speed', ylab = 'distance') # to test the installation
 installed.packages() # LET OP, packages in /usr/local/miniconda3/envs/my_R/lib/R/library
+update.packages(ask = FALSE) # LET OP updates all packages
 ``` 
 
 Install Rstudio server and update all packages (buiten conda en environments updaten!)
