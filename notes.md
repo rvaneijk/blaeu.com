@@ -986,7 +986,7 @@ $ sudo apt install r-base
 $ sudo apt-get install libcairo2-dev libxt-dev libxml2-dev libxslt-dev libcurl4 libcurl4-openssl-dev # needed as dependency for some packages
 $ Sys.setenv(R_INSTALL_STAGED = FALSE)
 $ sudo -i R
-install.packages('xml')
+install.packages('XML')
 exit: CTRL-D
 $ sudo -i R
 install.packages('repr', dependencies = TRUE)
@@ -1000,20 +1000,26 @@ install.packages('devtools', dependencies = TRUE)
 devtools::install_github('IRkernel/IRkernel')
 IRkernel::installspec(user = FALSE)
 launch anaconda-navigator and create a [new-r-environment]
-conda env list
 conda activate [new-r-environment]
-... make a workspace directory
 ... check AWS security groups for inbound ports 
-jupyter notebook --ip 0.0.0.0 --port 8888 # so that you can access from AWS
-... and create new R-notebook
+jupyter notebook --generate-config
+jupyter notebook --ip 0.0.0.0 --port 8888 & # so that you can access from AWS
+... and create new R-notebook in notebook
 install.packages('txtplot') # to test the installation
 library('txtplot') # to test the installation
 txtplot(cars[,1], cars[,2], xlab = 'speed', ylab = 'distance') # to test the installation
+... close jupyter notebook and generate SSL certificates
+... see Neo4j
+... vi /home/ubuntu/.jupyter/jupyter_notebook_config.py
+... add
+       CERTFILE="/usr/local/chorus/shared/server.crt"
+       KEYFILE="/usr/local/chorus/shared/server.key"
+jupyter notebook --ip 0.0.0.0 --port 8888 & # so that you can access from AWS
 
 LET OP:
-installed.packages() # LET OP, packages in /usr/local/miniconda3/envs/my_R/lib/R/library
 old.packages() # LET OP lists what packages are out of date.
 update.packages(ask = FALSE) # LET OP updates all packages
+installed.packages() # LET OP, packages in /usr/local/miniconda3/envs/my_R/lib/R/library
 ``` 
 
 Install Rstudio server and update all packages (buiten conda en environments updaten!)
