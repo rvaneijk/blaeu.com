@@ -927,8 +927,13 @@ update WSL: sudo apt-get update && sudo apt-get upgrade && sudo dist-apt-get upg
 update python base: sudo -H pip freeze | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
 update perl base: perl -MCPANPLUS -e shell
 update TexLive: tlmgr update --all
-update R packages: sudo rstudio-server start (port 8787)
 update conda: bash .bashrc_miniconda && conda update conda && conda update --all
+update R packages: 
+   conda env list
+   conda activate <myenv>
+   sudo -i R
+   old.packages()
+   update.packages(ask = FALSE)
 ```
 
 ----
