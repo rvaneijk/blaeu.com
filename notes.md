@@ -1,12 +1,6 @@
 WX 
 =====================
-Marifoon: Nederlandse Kustwacht: weerbericht voor de kust- en ruime binnenwateren op marifoonkanalen 23 en 83 om 08.05u, 13.05u, 19.05u en 23.05u (lokale tijd) [KAART MET GEBIEDEN](https://cdn.knmi.nl/system/pages/image1s/000/000/349/large/marifoon.png?1457531765) [Uitleg](https://www.knmi.nl/nederland-nu/maritiem/marifoon_uitleg) <br />
-
-[DWD Seewettrerbericht](http://www.deutschlandradio.de/seewetter.275.de.html), [BBC4 shipping forcast](http://www.bbc.co.uk/programmes/b006qfvv)
-
-[NAVTEX Abbreviations](http://weather.mailasail.com/Franks-Weather/European-And-Mediterranean-Navtex-Schedules#abbreviations), [DWD NAVTEX](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/navtex/518_emd.html?nn=391882), [NAVTEX LIVE](http://www.navtex.lv/index.php?msgarea[15]=on&msggroup[0]=on&msggroup[1]=on&msggroup[2]=on&pp=50&p=1), [FLDGI NAVTEX to Google Maps conversion](http://www.w1hkj.com/FldigiHelp-3.21/html/kml_page.html) <br />
- 
-----
+- Marifoon: Nederlandse Kustwacht: weerbericht voor de kust- en ruime binnenwateren op marifoonkanalen 23 en 83 om 08.05u, 13.05u, 19.05u en 23.05u (lokale tijd) [KAART MET GEBIEDEN](https://cdn.knmi.nl/system/pages/image1s/000/000/349/large/marifoon.png?1457531765) [Uitleg](https://www.knmi.nl/nederland-nu/maritiem/marifoon_uitleg) <br />
 - [Azimuth map](http://ns6t.net/azimuth/azimuth.html), [NOAA operational status](http://www.ospo.noaa.gov/Operations/POES/status.html), [NOAA-15](http://erc-websdr.esa.int/?tune=137620fm), [NOAA-18](http://erc-websdr.esa.int/?tune=137912.5fm), [NOAA-19](http://erc-websdr.esa.int/?tune=137100fm), [METEOR-M 2](http://erc-websdr.esa.int/?tune=137900fm)  <br />
 - [NAVTEX](http://info.yachtcom.co.uk/weather.php): [490 kHz](http://websdr.ewi.utwente.nl:8901/?tune=488.5usb), [518 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=516.5usb), [4209.5  kHz](http://websdr.ewi.utwente.nl:8901/?tune=4208usb) <br />
 - [DWD Seewetter (01h05, 06,40, 18h10 via DAB+, Sat, stream)](http://ondemand-mp3.dradio.de/file/dradio/seewetter/seewetter.mp3) Seewetter 06h00, 12h00, 20h00 (UTC) - [5905 kHz](http://websdr.ewi.utwente.nl:8901/?tune=5905am), [6180 kHz](http://websdr.ewi.utwente.nl:8901/?tune=6180am), [KAART MET GEBIEDEN](https://www.dwd.de/DE/fachnutzer/schifffahrt/bilder/seewetter_gebiete_001_1000.png?__blob=poster&v=3) <br />
