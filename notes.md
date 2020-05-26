@@ -73,7 +73,6 @@ Tinkering: [sd-recorder: Sangean DAR-101](http://www.sangean.eu/products/digital
 
 ----
 OnAir: <br />
-- Daily Minutes (PI2NOS, 10h30 en 19h00) <br />
 - [DMR IJsselmond](http://hose.brandmeister.network/20441/) <br />
 - [DMR Nederland](http://hose.brandmeister.network/204/) <br />
 - [DigiDX (MFSK32, 05h30 en 18h30 UTC)](http://websdr.ewi.utwente.nl:8901/?tune=6070am), [via UK](http://www.160m.net/?tune=6070am), [via AT](www.websdr.at/?tune=6070am) <br />
