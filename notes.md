@@ -1791,50 +1791,6 @@ Solution: sudo apt-get install texlive-full
 Problem: MikTex update Error: Permission denied: path="C:\portable_apps\miktex-portable\texmfs\install\miktex/bin/internal/copystart.exe" \\
 Solution: Antivirus uitzetten ! \\
 
-
-Swiss knife
-===================
-  * DNT HTTP Header: 'application/tracking-status+json; charset=utf-8'
-  * Dig +trace blaeu.com, speedtest (wget https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py)
-  * https://github.com/aws/chalice
-  * [Vulnerability scan URL's](http://retire.insecurity.today/#)
-  * [Dash howto](http://wiki.webmproject.org/adaptive-streaming/instructions-to-do-webm-live-streaming-via-dash), [Dash test player 1](http://dashif.org/reference/players/javascript/v2.0.0/samples/dash-if-reference-player/index.html), [Dash test player 2](http://bitmovin.com/hls-mpeg-dash-test-player/), [Dash test player 3](http://shaka-player-demo.appspot.com/demo/)
-  * [checktls.com](https://www.checktls.com/perl/live/TestReceiver.pl), [DANE SMTP Validator](https://dane.sys4.de/smtp/blaeu.com), [Verisign DNSSEC](https://dnssec-debugger.verisignlabs.com/), [DANE Validator by SIDN Labs](https://check.sidnlabs.nl/dane/), [DANE TLSA Server Checker](https://www.huque.com/bin/danecheck), [MX Toolbox](http://mxtoolbox.com/)
-  * [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-  * [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), [MetaSploit](https://www.metasploit.com/), [Acunetix](http://www.acunetix.com/)
-  * [Firefox privacy settings](https://addons.mozilla.org/firefox/addon/privacy-settings/)
-  * [Zone-h](http://www.zone-h.org/archive/filter=1/fulltext=1/domain=.nl), [Siph0n](http://siph0n.net/leaks.php), [HaveIbeenPwned](http://feeds.feedburner.com/HaveIBeenPwnedLatestPastes), [LeakedSources](https://www.leakedsource.com/main/databaselist), [Vigilante.pw](https://vigilante.pw/), [#datalek](https://twitter.com/hashtag/datalek), [#data breach](https://twitter.com/hashtag/databreach)
-  * Configuratiescherm\Systeem en beveiliging\Beveiliging en onderhoud\Betrouwbaarheidscontrole
-  * Telemetry: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection\AllowTelemetry\DataCollection=0 DWORD (32-bit) Value. Disable Task Scheduler Library -> Microsoft -> Windows -> Customer Experience Improvement Program. Disable Task Scheduler Library -> Microsoft -> Windows -> Application Experience. 
-  * Transscription [Transscribe](https://transcribe.wreally.com/login)
-  * Search: [Shodan](http://www.shodanhq.com/)
- , [WolframAlfa](https://www.wolframalpha.com/)
-, [Save page in the Internet Archive](http://archive.org/web/), [The Web Application Vulnerability Scanners Benchmark, 2012](http://sectooladdict.blogspot.co.il/2012/07/2012-web-application-scanner-benchmark.html)
-  * DNS:  [DNS Dumpster](https://dnsdumpster.com/), [Robtex](https://www.robtex.com/)
- , [SPF wizard](https://www.microsoft.com/mscorp/safety/content/technologies/senderid/wizard/)
-, [DKIM, SPF, SpamAssassin Email Validator](http://dkimvalidator.com/), [|type=domain&&value=blaeu.com](http://www.dnsstuff.com/tools#dnsReport),  [check a DNS zone](http://pingability.com/zoneinfo.jsp), [Qualsys SSL labs](https://www.ssllabs.com/ssldb/index.html), [ISP Tools](http://www.technicalinfo.net/tools/index.html), [l4x](https://dns.l4x.org/), [Norid Toplevel domains](http://www.norid.no/domenenavnbaser/domreg.html)
-  * Disk: [Belarc Advisor](http://www.belarc.com/)
- , [CombiFix](http://www.combofix.com)
-, [DBAN data wiping](http://dban.org/), [CloneZilla](http://www.clonezilla.org), [GParted](http://gparted.sourceforge.net/download.php), [DeepBurner](http://www.deepburner.com/?r=download)
-  * X: [VcXsrv](http://sourceforge.net/projects/vcxsrv/)
- , [Xming](http://sourceforge.net/projects/xming/)
- X Server, [muCommander, Windows NFS client](http://www.mucommander.com/)
-
-  * Traffic: [backtrack](http://www.backtrack-linux.org/)
- , [Mitmproxy](http://http://mitm.it/)
-, [Firebug](https://addons.mozilla.org/en-US/firefox/addon/1843/), [Fiddler](http://www.fiddler2.com/fiddler2/), [WebScarab](https://www.owasp.org/index.php/WebScarab_Getting_Started), [Charles](http://www.charlesproxy.com/documentation/getting-started/), [WebScarab](http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project), [web sniffer](http://web-sniffer.net)
-  * [quick python overview](http://www.stavros.io/tutorials/python/)
-  * [Hitchhikers guide to DataScience](http://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
-  * Directory listing vulnerabilities: site:blaeu.com intitle:index.of
-  * Configuration files exposed: site:blaeu.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
-  * Database files exposed: site:blaeu.com ext:sql | ext:dbf | ext:mdb
-  * Log files exposed: site:blaeu.com ext:log
-  * Backup and old files: site:blaeu.com ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
-  * Login pages: site:blaeu.com inurl:login
-  * SQL errors: site:blaeu.com intext:"sql syntax near" | intext:"syntax error has occurred" | intext:"incorrect syntax near" | intext:"unexpected end of SQL command" | intext:"Warning: mysql_connect()" | intext:"Warning: mysql_query()" | intext:"Warning: pg_connect()"
-  * Publicly exposed documents: site:blaeu.com ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
-  * phpinfo(): site:blaeu.com ext:php intitle:phpinfo "published by the PHP Group"  
-
 ----
 Problem: zmap crawl 
 Solution: 
