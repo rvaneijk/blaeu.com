@@ -10,11 +10,6 @@ WX
 - OFFENBACH DWD WEFAX576 (-1.9 KHz, usb), [Sendeplan FAX](http://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/sendeplan_fax_d_042016.pdf?__blob=publicationFile&v=1): [3855 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=3853.1usb), [7880 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=7878.1usb), [13882.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune=13880.6usb) <br />
 - BRACKNELL WEFAX576 (-1.9 KHz, usb): [4610 kHz](http://websdr.ewi.utwente.nl:8901/?tune=4608.110usb), [8040 kHz*](http://websdr.ewi.utwente.nl:8901/?tune=8038.1usb), [14436 kHz](http://websdr.ewi.utwente.nl:8901/?tune=144364.1sb) <br />
 - NORTHWOOD WEFAX576 (-1.9 KHz, usb): [2618.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune=2616.6usb), [4610 kHz](http://websdr.ewi.utwente.nl:8901/?tune=4608.1usb), [8040 kHz](http://websdr.ewi.utwente.nl:8901/?tune=8038.1usb), [11086.5 kHz](http://websdr.ewi.utwente.nl:8901/?tune=11084.6usb), [18261 kHz](http://websdr.ewi.utwente.nl:8901/?tune=18259.1usb)  <br />
-- [ESRAC PI5FTS VHF/UHF WebSDR](http://vhf.pi5fts.nl/), [PI5FTS HF WebSDR](http://hf.pi5fts.nl/)
-- [Hobbyscoop 2m WebSDR](http://websdr.pi1nos.ampr.org:8901/), [70 cm](http://websdr.pi1utr.ampr.org:8901/), [23 cm](http://websdr.pi1utr.ampr.org:8901/)
-
-
-Baudot: Q = 1 , W = 2 , E = 3 , R = 4 , T = 5 , Y = 6 , U = 7 , I = 8 , O = 9 , P =  , A = - , D = $ , F = ! , G = & , H = # , J = ' , K = ( , L = ) , Z = " , X = / , C = : , V = ; , B = ? , N = ',' , M = '.'
 
 ----
 Vertrekkers: [Admiralty list of radio signals volume three](https://www.admiralty.co.uk/publications/publications-and-reference-guides/admiralty-list-of-radio-signals), [Visionary 7x50 with Compass](https://www.amazon.de/Visionary-Binoculars-Individual-Waterproof-Compass/dp/B00C68368C/ref=sr_1_2?s=photo&ie=UTF8&qid=1470482777&sr=1-2), [Visionary Stormforce 7x50 Marine Binoculars](
