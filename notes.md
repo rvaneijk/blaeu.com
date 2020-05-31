@@ -734,7 +734,7 @@ update WSL: sudo apt-get update && sudo apt-get upgrade && sudo dist-apt-get upg
 update python base: sudo -H pip freeze | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
 update perl base: perl -MCPANPLUS -e shell
 update TexLive: tlmgr update --all
-update conda: bash .bashrc_miniconda && conda update conda && conda update --all
+update conda: source .bashrc_miniconda && conda update conda && conda update --all
 update R packages: 
    conda env list
    conda activate <myenv>
@@ -1657,14 +1657,14 @@ Problem: WSL TexLive installation
 Solution: 
 ```bash
 
-cd /usr/local; sudo mkdir texlive; sudo chown 1000:1000 texlive; cd texlive; mkdir 2019
-2019 netinstall: https://www.tug.org/texlive/acquire-netinstall.html
+cd /usr/local; sudo mkdir texlive; sudo chown 1000:1000 texlive; cd texlive; mkdir 2020
+2020 netinstall: https://www.tug.org/texlive/acquire-netinstall.html
 
 Post-install: 
 vi ~/.bashrc
-	PATH=/usr/local/texlive/2019/bin/x86_64-linux:$PATH; export PATH
-	MANPATH=/usr/local/texlive/2019/texmf-dist/doc/man:$MANPATH; export MANPATH
-	INFOPATH=/usr/local/texlive/2019/texmf-dist/doc/info:$INFOPATH; export INFOPATH
+	PATH=/usr/local/texlive/2020/bin/x86_64-linux:$PATH; export PATH
+	MANPATH=/usr/local/texlive/2020/texmf-dist/doc/man:$MANPATH; export MANPATH
+	INFOPATH=/usr/local/texlive/2020/texmf-dist/doc/info:$INFOPATH; export INFOPATH
 source ~/.bashrc
 
 sudo apt-get install xzdec perl-tk (both packages required for tlmgr -gui)
