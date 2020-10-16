@@ -741,6 +741,9 @@ update R packages:
    sudo -i R
    old.packages()
    update.packages(ask = FALSE)
+exec i3 &
+exec compton &
+sudo -H bleachbit
 ```
 
 ----
