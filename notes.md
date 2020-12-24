@@ -1955,6 +1955,13 @@ $ upload to https://keyserver.pgp.com/
 $ upload to https://pgp.key-server.io
 $ upload to https://pool.sks-keyservers.net
 $ upload to https://keyserver2.pgp.com
+
+Also update PKA record (rob._pka.blaeu.com):
+1. generate the pka asc file: $ gpg --export -a 0x9812113B7919E543 > public-0x9812113B7919E543.asc
+w
+2. update DNS value: "v=pka1;fpr=45597596AB30A1F458E474C59812113B7919E543;uri=https://www.natuurlijkehaarkleuring.nl/pka/public-0x9812113B7919E543.asc"
+3. test:  $ echo "Test message" | gpg --auto-key-locate pka -ear mail@albertdelafuente.com
+
 ```
 
 ----
