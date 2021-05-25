@@ -44,7 +44,8 @@ Regelgeving:  <br />
 [https://www.vaarbewijzen.nl/wp-includes/pdf/snelvaargebieden.pdf](snelheid op het water) <br />
 [http://wetten.overheid.nl/BWBR0007331](Regeling snelle motorboten Rijkswateren 1995) <br />
 
-In en nabij havens mag nooit harder dan twintig kilometer gevaren worden.
+Let op: Boerenhaven en Leuvenhaven max 6 km/u. 
+Algemeen: In en nabij havens mag nooit harder dan 20 km/u gevaren worden.
 Boten die binnen een afstand van twintig meter tot de oever varen, moeten verplicht vaart minderen.
 Dat geldt tevens als uw boot binnen een afstand van vijftig meter van een zwem- of aanlegplaats vaart. In de buurt van veren, wedstrijden, waterfeesten en demonstraties moet ook altijd vaart geminderd worden.
 Datzelfde geldt voor het varen bij slecht zicht en in de nacht.
