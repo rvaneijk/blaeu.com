@@ -35,7 +35,7 @@
 					<a rel="me" href="https://mastodon.nl/@rvaneijk" target="_blank" title="Mastodon"><i class="fa-brands fa-mastodon text-2xl text-black"></i></a>					
 					<a href="https://www.linkedin.com/in/rvaneijk88" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin text-2xl text-black"></i></a>
 					<a href="https://fpf.org/person/rob-van-eijk/" target="_blank" title="Blog Posts"><i class="fa-solid fa-blog text-2xl text-black"></i></a>
-					<a href="https://github.com/rvaneijk" target="_blank" title="Github"><i class="fa-brands fa-github text-2xl text-black"></i></a>
+					<a href="https://github.com/rvaneijk/blaeu.com" target="_blank" title="Github"><i class="fa-brands fa-github text-2xl text-black"></i></a>
 					<a href="https://scholar.google.com/citations?user=p4VBH-4AAAAJ" target="_blank" title="Google Scholar"><i class="fa-solid fa-graduation-cap text-2xl text-black"></i></a>
 					<a href="https://orcid.org/0000-0002-2203-6819" target="_blank" title="ORCID profile"><i class="fa-solid fa-user text-2xl text-black"></i></a>
 					<a href="mailto:rob@blaeu.com" target="_blank" title="Email address"><i class="fa-solid fa-envelope text-2xl text-black"></i></a>

@@ -5,7 +5,6 @@
     <br /><br />
     <twProfilepicture />
     <twIntroduction />
-    <!-- Using the tw-Blogposts component with the blogs data -->
     <twBlogposts :blogs="blogs" />
     <div class="p-6 pl-0">
       <twTabs />
@@ -16,10 +15,10 @@
 </template>
 
 <script setup>
-  import twNavbar from '~/components/tw-Navbar-v240103.vue';
+  import twNavbar from '~/components/tw-Navbar.vue';
   import twProfilepicture from '~/components/tw-Profilepicture.vue';
   import twIntroduction from '~/components/tw-Introduction.vue';
-  import twTabs from '~/components/tw-Tabs-v240103.vue';
+  import twTabs from '~/components/tw-Tabs.vue';
   import twFooter from '~/components/tw-Footer.vue';
   import twBlogposts from '~/components/tw-Blogposts.vue'; // Updated component name
 
