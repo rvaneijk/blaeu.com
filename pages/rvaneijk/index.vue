@@ -25,7 +25,7 @@
   const description = 'Contact me: rob@blaeu.com, @rvaneijk@mastodon.nl, or rvaneijk88 (LinkedIn)';
   const ogTitle = 'Rob helps others with legal aspects of data architectures and complex data flows';
   const twitterCard = 'https://blaeu.com/assets/img/tiny_twitter-card.png';
-  const mySite = 'https://blaeu.com/portfolio/rvaneijk';
+  const mySite = 'https://blaeu.com/rvaneijk';
 
   useHead({
     htmlAttrs: { lang: 'en' },
