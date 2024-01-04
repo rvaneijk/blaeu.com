@@ -1,0 +1,15 @@
+How to recognize the Font Awesome Free "Icons provided by Font Awesome Free, licensed under CC BY 4.0, SIL OFL 1.1, and MIT License." license in a copyright statement at the bottom of my webpage?
+How to recognize the font BigJohn font license in a copyright statement at the bottom of my webpage?
+How to recognize the font Amble font free license "Amble font used under Apache License version 2" in a copyright statement at the bottom of my webpage?
+How to recognize the tw-elements "Copyright © 2023 MDBootstrap.com. Licensed under the GNU AGPL v3" license in a copyright statement at the bottom of my webpage?
+How to recognize the @nuxt/devtools MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the @types/node "Copyright Node.js contributors. All rights reserved." license in a copyright statement at the bottom of my webpage?
+How to recognize the autoprefixer MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the nuxt MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the postcss MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the tailwindcss MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the vue MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the vue-loader MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the vue-router MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the vue-tsc MIT license in a copyright statement at the bottom of my webpage?
+How to recognize the fact that I license my own writing and webpage design under CC BY-SA 4.0
