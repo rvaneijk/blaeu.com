@@ -19,6 +19,7 @@
     "vue-tsc": "^1.8.27"
   },
   "dependencies": {
+    "depcheck": "^1.4.7",
     "tw-elements": "^1.1.0"
   }
 }
