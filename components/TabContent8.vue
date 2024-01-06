@@ -1,5 +1,5 @@
 <template>
-  <div class="content-container">
+  <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
                       <p>I enjoy teaching and interacting with a group. Below you find five categories of teaching activities, i.e., (A) students I co-supervised, (B) contributions as guest professor to academic teaching programs, (C) contributions to summer schools, (D) academic guest lectures, (E) and contributions to professional learning programs.</p><br /><br />
@@ -638,10 +638,3 @@ export default {
   // Any script logic for Content8
 }
 </script>
-
-<style>
-  .content-container {
-    margin-left: 30px; /* Adjust this value as needed */
-    margin-top: 14px; /* Adjust this value as needed */
-  }
-</style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="content-container">
+  <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
                       <span class="text-red-600 font-semibold">2023 (15)</span>
@@ -635,10 +635,3 @@ export default {
   // Any script logic for Content5
 }
 </script>
-
-<style>
-  .content-container {
-    margin-left: 30px; /* Adjust this value as needed */
-    margin-top: 14px; /* Adjust this value as needed */
-  }
-</style>
