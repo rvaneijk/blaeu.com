@@ -574,7 +574,7 @@ href="https://web.archive.org/web/20041230095925fw_/http://www.xs4all.nl/~cai/cu
                     <li class="mb-2">
                       <span class="text-red-600 font-semibold">1994 (1)</span>
                     </li>
-					<li class="mb-2">Eijk R. van (1994). <i>EMV Prüfsysteme: Surge Tester. Eine Forschung nach verschienene Schalter für den 0,5μs/100KHz Ringwave. (Batchelor's thesis).</i>Eindhoven: Electrical & Electronic Engineering, Fontys University of Applied Sciences. RACHELSMOLEN: 661.52 EIJK <br /><span class="text-red-600 font-semibold">thesis</span></li>
+					<li class="mb-2">Eijk R. van (1994). <i>EMV Prüfsysteme: Surge Tester. Eine Forschung nach verschienene Schalter für den 0,5μs/100KHz Ringwave. (Batchelor's thesis).</i> Eindhoven: Electrical & Electronic Engineering, Fontys University of Applied Sciences. RACHELSMOLEN: 661.52 EIJK <br /><span class="text-red-600 font-semibold">thesis</span></li>
                     <br />
                     <li class="mb-2">
                       <span class="text-red-600 font-semibold">1991 (1)</span>
