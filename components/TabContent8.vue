@@ -246,9 +246,12 @@ href="https://fpf.org/training/"
                       <span class="text-red-600 font-semibold">professional learning</span>
                     </li>
                     <li class="mb-2">
+                      <a
+href="https://www.linkedin.com/pulse/navigating-future-digital-marketing-importance-adding-rob-van-eijk-3goje"
+                        target="_blank" title="Click to visit external webpage">
                         Eijk R. van (2023). <i>Navigating the Future of Digital Marketing: On the importance of adding noise to the data flows.</i> Toronto: The Office of the Information and 
 Privacy Commissioner of Ontario.
-                        <br />
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240115125420/https://www.linkedin.com/pulse/navigating-future-digital-marketing-importance-adding-rob-van-eijk-3goje/" target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">professional learning</span>
                     </li>
                     <li class="mb-2">

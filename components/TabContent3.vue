@@ -2,7 +2,7 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
-                      <span class="text-red-600 font-semibold">2023 (4)</span>
+                      <span class="text-red-600 font-semibold">2023 (5)</span>
                     </li>
                     <li class="mb-2">
                       <a href="https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc" target="_blank" title="Click to play the recording">
@@ -16,6 +16,15 @@
                         Eijk R. van (2023). <i>Microtargeting: On the critical connection between ethics and ad-technology.</i> Brussels. [Blog Post]
                         <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20231125130712/https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye"
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                      <span class="text-red-600 font-semibold">other</span>
+                    </li>
+                    <li class="mb-2">
+                      <a
+href="https://www.linkedin.com/pulse/navigating-future-digital-marketing-importance-adding-rob-van-eijk-3goje"
+                        target="_blank" title="Click to visit external webpage">
+                        Eijk R. van (2023). <i>Recap of the presentation - Navigating the Future of Digital Marketing: On the importance of adding noise to the data flows.</i> Toronto: The Office of the Information and 
+Privacy Commissioner of Ontario. [Blog Post]
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240115125420/https://www.linkedin.com/pulse/navigating-future-digital-marketing-importance-adding-rob-van-eijk-3goje/" target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">other</span>
                     </li>
                     <li class="mb-2">
