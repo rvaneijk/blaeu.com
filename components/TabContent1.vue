@@ -7,7 +7,7 @@
 					<li class="mb-2"><a href="https://www.alpineprivacydays.net/2023/" target="_blank" title="Click to visit external webpage">3rd Alpine Privacy Days (2024). Zuoz: Bull, Signatu AS, and MLL. <i class="fa-solid fa-external-link fa-sm"></i></a><br /><span class="text-red-600 font-semibold">program committee</span></li>
                     <br />
                     <li class="mb-2">
-                      <span class="text-red-600 font-semibold">2023 (465)</span>
+                      <span class="text-red-600 font-semibold">2023 (46)</span>
                     </li>
 					<li class="mb-2"><a href="https://www.alpineprivacydays.net/2023/" target="_blank" title="Click to visit external webpage">2nd Alpine Privacy Days (2023). Zuoz: Bull, Signatu AS, and MLL. <i class="fa-solid fa-external-link fa-sm"></i></a><br /><span class="text-red-600 font-semibold">program committee</span></li>
 					<li class="mb-2"><a href="https://fpf.org/fpf-event/brussels-privacy-symposium-2023/" target="_blank" title="Click to visit external webpage">7th Annual Brussels Privacy Symposium (2023). <i>Understanding the EU Data Strategy Architecture: Common Threads - Points of Junction - Incongruities.</i>Brussels: Future of Privacy Forum & Brussels Privacy Hub, Vrije Universiteit Brussels. <i class="fa-solid fa-external-link fa-sm"></i></a><br /><span class="text-red-600 font-semibold">program committee</span></li>
