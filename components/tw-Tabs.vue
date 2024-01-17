@@ -75,8 +75,8 @@ watch(() => globalState.currentTab, (newVal) => {
 <style>
   /* Styles for the active tab */
   .active {
-    color: #DC2626;
-    border-color: currentColor;
+    @apply text-white bg-red-700; 
+ border-color: currentColor;
   }
 
   /* Responsive styles for smaller screens */
@@ -91,6 +91,9 @@ watch(() => globalState.currentTab, (newVal) => {
 <style scoped>
   /* Hover effect for tab links */
   a:hover {
-    @apply text-red-600;
+    @apply text-red-700;
+  }
+  .active:hover {
+    @apply text-white;
   }
 </style>

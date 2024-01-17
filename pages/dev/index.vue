@@ -20,7 +20,7 @@
   import twIntroduction from '~/components/tw-Introduction.vue';
   import twTabs from '~/components/tw-Tabs.vue';
   import twFooter from '~/components/tw-Footer.vue';
-  import twBlogposts from '~/components/tw-Blogposts-v240115.vue'; // Updated component name
+  import twBlogposts from '~/components/tw-Blogposts.vue'; // Updated component name
 
   const description = 'Contact me: rob@blaeu.com, @rvaneijk@mastodon.nl, or rvaneijk88 (LinkedIn)';
   const ogTitle = 'Rob helps others with legal aspects of data architectures and complex data flows';
