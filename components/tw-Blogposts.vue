@@ -1,4 +1,4 @@
-// tw-Blogposts.vue: This Vue component renders a collection of blog posts. It uses a grid layout, with the number of columns adjusting based on screen size. The template uses a v-for directive to loop through an array of blog posts.
+// tw-Blogposts.vue
 <template>
     <section id="aggregator">
         <div class="container mx-auto">
@@ -18,14 +18,14 @@
 		  lg:mx-12: Further increases horizontal margin to 3rem (12 units) on large screens and above.
 		  This ensures the content does not touch the sides of the screen, especially on smaller devices.
 		-->
-		<ul class="list-none p-0 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-6 gap-4"> <!-- Setting up the grid layout for blog posts -->
+		<ul class="list-none p-0 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4"> <!-- Setting up the grid layout for blog posts -->
 			<!--
 			  list-none: Removes default list styling (bullets, etc.).
 			  p-0: Removes default padding from the list.
 			  grid: Enables grid layout for the child elements (blog posts).
 			  grid-cols-1: Sets up a single column grid layout for small screens.
 			  md:grid-cols-3: Changes the layout to 3 columns on medium-sized screens and above.
-			  lg:grid-cols-6: Changes the layout to 6 columns on large screens and above.
+			  lg:grid-cols-4: Changes the layout to 4 columns on large screens and above.
 			  gap-4: Adds a gap of 1rem (4 units) between grid items.
 			-->
 			<li v-for="blog in blogs" :key="blog.id" class="border border-gray-200 p-5"> <!-- Each blog post styling -->
@@ -42,19 +42,13 @@
 </template>
 
 <script>
-// Script section of the Vue component
-
-// Importing the BlogItem component
-// This is necessary to use the BlogItem component within this Vue component.
 import BlogItem from "/components/BlogItem.vue";
 
 export default {
   // Component registration
-  // Here we declare which components are being used within this Vue component.
   components: {
     BlogItem // Registering BlogItem so it can be used in the template
   },
-
   // Declaring props passed to this component
   // Props are custom attributes you can register on a component.
   props: {

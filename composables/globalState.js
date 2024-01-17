@@ -1,6 +1,5 @@
 // globalState.js
 import { reactive } from 'vue';
 export const globalState = reactive({
-  currentTab: 3,
-  totalBlogposts: 4
+  currentTab: 3
 });
