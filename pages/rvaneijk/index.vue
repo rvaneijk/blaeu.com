@@ -39,12 +39,6 @@
       { property: 'og:title', content: ogTitle },
       { property: 'og:description', content: description },
       { property: 'og:image', content: twitterCard },
-      { name: 'twitter:site', content: '@rvaneijk' },
-      { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:url', content: mySite },
-      { name: 'twitter:title', content: ogTitle },
-      { name: 'twitter:description', content: description },
-      { name: 'twitter:image', content: twitterCard },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
