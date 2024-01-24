@@ -1,60 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en">
+
   <channel>
     <language>en</language>
     <title>Rob van Eijk - Portfolio</title>
-    <description>New work published at blaeu.com/rvaneijk</description>
     <link>https://blaeu.com/rvaneijk</link>
-	<copyright>Copyright © 2024 Rob van Eijk CC BY 4.0.</copyright>
+    <description>This page is updated regularly and contains an overview of my work.</description>
+    <language>en</language>
+	<copyright>Copyright © 2024 Rob van Eijk(CC BY 4.0)</copyright>
+    <lastBuildDate>Tue, 2 Jan 2024 17:42:00 +01</lastBuildDate>
+    <generator>v1.0</generator>
+
     <image>
       <url>https://blaeu.com/assets/img/camera.png</url>
       <title>Rob van Eijk - Portfolio</title>
       <link>https://blaeu.com/rvaneijk</link>
     </image>
-    <lastBuildDate>Tue, 2 Jan 2024 17:42:00 +01</lastBuildDate>
+
     <webfeeds:icon>https://blaeu.com/assets/img/camera.png</webfeeds:icon>
-    <generator>Portfolio v0.2.1</generator>
+
     <item>
       <title>Privacy and Generative AI Symposium Recap</title>
-      <guid isPermaLink="true">https://www.linkedin.com/pulse/privacy-generative-ai-symposium-recap-rob-van-eijk-54ore</guid>
       <link>https://www.linkedin.com/pulse/privacy-generative-ai-symposium-recap-rob-van-eijk-54ore</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/privacy-generative-ai-symposium-recap-rob-van-eijk-54ore</guid>
       <pubDate>Thu, 7 Dec 2023 12:42:00 +010</pubDate>
       <description>&lt;p&gt;The Privacy and Generative AI Symposium in Ottawa, organized by the Office of the Privacy Commissioner of Canada/Commissariat à la protection de la vie privée du Canada, addressed the challenges and opportunities at the intersection of AI and privacy. Keynote speaker Gary Marcus emphasized AI's limitations, potential risks, and the need for responsible development and governance. Three panels discussed AI's impact across various sectors, ethical considerations, and the balance between innovation and human rights, highlighting the importance of privacy, data governance, and responsible usage. Concerns were raised about AI's role in creating disinformation and biases, with discussions on the necessity of transparent AI policies and robust regulatory frameworks. The symposium concluded with a consensus on the need for balanced AI development, considering safety, ethics, and the potential transformative impact on society.&lt;/p&gt;</description>
     </item>
+
     <item>
       <title>Microtargeting: On the critical connection between ethics and ad-technology</title>
-      <guid isPermaLink="true">https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye</guid>
       <link>https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye</guid>
       <pubDate>Fri, 24 Nov 2023 16:34:00 +010</pubDate>
       <description>&lt;p&gt;The keynote speech focuses on critical issues in digital advertising and data protection, addressing concerns like microtargeting in political campaigns, unlawful data collection, and cookie compliance, particularly in the context of the 2023 Dutch elections. It also delves into broader topics such as the roles of various stakeholders, regulatory responses, privacy concerns with tools like Google Analytics, ethical considerations in personalized advertising, and the role of social media in ensuring fair and unbiased ad distribution.&lt;/p&gt;</description>
     </item>
+
     <item>
       <title>Cookies: Dutch Political parties violate cookie law</title>
-      <guid isPermaLink="true">https://nos.nl/collectie/13960/artikel/2497054-partijen-overtreden-cookiewet-met-plaatsen-volgcookies</guid>
       <link>https://nos.nl/collectie/13960/artikel/2497054-partijen-overtreden-cookiewet-met-plaatsen-volgcookies</link>
+      <guid isPermaLink="true">https://nos.nl/collectie/13960/artikel/2497054-partijen-overtreden-cookiewet-met-plaatsen-volgcookies</guid>
       <pubDate>Sat, 11 Nov 2023 11:01:00 +010</pubDate>
       <description>&lt;p&gt;Several Dutch political parties, including BoerBurgerBeweging (BBB), Forum for Democracy (FvD), SGP, and Volt, have been found to violate privacy laws by improperly placing tracking cookies on their websites without user consent. This finding, according to NOS research and confirmed by cookie expert Rob van Eijk, reveals that these cookies, intended for personalized advertising, are placed before users give permission, which breaches laws established in 2012. BBB, FvD, and Volt acknowledged the errors and are working on rectifications, while the SGP has not yet responded. The Dutch Data Protection Authority, alarmed by these violations, is seeking explanations from the involved parties. Additionally, parties like D66 and CDA also encountered issues for using external cookies and have promised to resolve them. This situation underscores the broader challenge of ensuring digital privacy in political campaigning.&lt;/p&gt;</description>
     </item>
+
     <item>
       <title>Norway Data Protection Authority on the EDPB adoption of their Order</title>
-      <guid isPermaLink="true">https://www.linkedin.com/events/norwaydataprotectionauthorityon7125859394046566402</guid>
       <link>https://www.linkedin.com/events/norwaydataprotectionauthorityon7125859394046566402</link>
+      <guid isPermaLink="true">https://www.linkedin.com/events/norwaydataprotectionauthorityon7125859394046566402</guid>
       <pubDate>Fri, 03 Nov 2023 15:39:00 +0200</pubDate>
       <description>&lt;p&gt;The privacy world was buzzing about the EDPB’s October 27, 2023's adoption of a decision that supported the Norwegian DPA's earlier order against Meta, which had relied on legitimate interests or the contract legal ground for behavioral advertising. Head of International at the Norwegian Data Protection Authority, Tobias Judin, engaged in a conversation with FPF's CEO Jules Polonetsky and FPF's Managing Director for Europe Dr. Rob van Eijk. They discussed what the EDPB’s adoption of the Norway DPA order meant, including the implications related to the lawful grounds for processing personal data for other first-party advertising, as well as the implications for the broader world of news media, other publishers, and e-commerce platforms.&lt;/p&gt;</description>
     </item>
+
     <item>
       <title>Hyper-Nudging: Fantasy or Realistic Fiction? - Plutopia News Network Podcast</title>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=otnaSlX_78w</guid>
       <link>https://www.youtube.com/watch?v=otnaSlX_78w</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=otnaSlX_78w</guid>
       <pubDate>Sun, 03 Sep 2023 07:56:15 +0200</pubDate>
       <description>&lt;p&gt;Hyper-Nudging: fantasy or realistic fiction? I took part in the Plutopia News Network Podcast alongside Contributing Editor Wendy M Grossman, Jon Lebkowsky, and Scoop Sweeney. Our conversation delved into the intricacies of advertising technology. We touched upon digital advertising, cookies, ad blockers, the legalities surrounding privacy, AI's role in ads, and the intriguing concept of &amp;#39;hyper-nudging&amp;#39; when A/B testing meets state of the art machine learning. In essence, &amp;#39;hyper-nudging&amp;#39; is about using real-time data analysis, e.g., A/B-testing, and fine-tuned foundation models to &amp;#39;nudge&amp;#39; users towards certain actions or decisions in the digital world. This nudge is based on a deep understanding of the user&amp;#39;s behavior and preferences, making it hyper-personalized. The concept is particularly significant in the realm of digital marketing and advertising, where brands are constantly trying to capture the attention of users and influence their buying behaviors.&lt;/p&gt;</description>
     </item>
+
     <item>
       <title>Addressing Bias in AI Systems: A Holistic Approach to Detection, Reporting, and Mitigation - Blogpost</title>
-      <guid isPermaLink="true">https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc</guid>
       <link>https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc</link>
+      <guid isPermaLink="true">https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc</guid>
       <pubDate>Sun, 01 Sep 2023 07:56:15 +0200</pubDate>
       <description>&lt;p&gt;On 25 May 2023, the Future of Privacy Forum organized a workshop on the state-of-play of Privacy Preserving Machine Learning (PPML). Lindsay Carignan, Head of Customer Success at Holistic AI, and Nigel Kingsman, AI Audit and Assurance Office at Holistic AI, took the floor with a presentation on the question: how to perform a bias assessment? To better understand potential bias, five key questions were proposed: What is the data's provenance? How representative is the data? Is the data balanced? Has intersectionality been considered? Are sensitive attributes present in the data? The presenters were tasked to explain a complex technical topic to a non-technical audience. This blog post summarizes what I learned and elaborates on some of the key concepts presented.&lt;/p&gt;</description>
     </item>
+
  </channel>
 </rss>
