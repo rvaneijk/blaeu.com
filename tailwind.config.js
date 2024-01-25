@@ -13,7 +13,6 @@ module.exports = {
     extend: {
       fontFamily: {
         'big-john': ['big_johnregular', 'Raleway', 'Helvetica', 'sans-serif'],
-        'SlimJoe': ['slim_joeregular', 'Raleway', 'Helvetica', 'Arial', 'sans-serif'],
         'ambleregular': ['ambleregular', 'Raleway', 'Helvetica', 'Arial', 'sans-serif'],
         'amblebold': ['amblebold', 'Raleway', 'Helvetica', 'Arial', 'sans-serif'],
         'amblelight': ['amblelight', 'Raleway', 'Helvetica', 'Arial', 'sans-serif'] 
