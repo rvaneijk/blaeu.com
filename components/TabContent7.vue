@@ -2,6 +2,17 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
+                      <span class="text-red-600 font-semibold">2024 (1)</span>
+                    </li>
+                    <li class="mb-2">
+                      <a href="https://fpf.org/issue/open-banking/" target="_blank" title="Click to play the recording">
+                         Strickland Z. & Eijk R. van (Moderator) (2024). <i>Workshop on EU Financial Data Access (FIDA).</i> Brussels: Future of Privacy Forum. 
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240201105000/https://fpf.org/issue/open-banking/"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                      <span class="text-red-600 font-semibold">panel</span>
+                    </li>
+                    <li class="mb-2">
+					<br />
                       <span class="text-red-600 font-semibold">2023 (6)</span>
                     </li>
                     <li class="mb-2">
@@ -12,7 +23,7 @@
                     </li>
                     <li class="mb-2">
                       <a href="https://www.youtube.com/watch?v=ODYNFuSpULg" target="_blank" title="Click to play the recording">
-                         Chavez A., Benassi M.-P., Hanloser S., Reimsbach-Kounatze C. & Eijk R. van (2023). Privacy Through Innovation - Privacy Enhancing Technologies, Consumer Protection And The Online Ads Ecosystem. In: Jansen M. (Moderator) <i>Computers, Privacy & Data Protection Conference (CPDP2023).</i> Brussels: Brussels Privacy Hub, Vrije Universiteit Brussels 
+                         Chavez A., Benassi M.-P., Hanloser S., Reimsbach-Kounatze C. & Eijk R. van (2023). Privacy Through Innovation - Privacy Enhancing Technologies, Consumer Protection And The Online Ads Ecosystem. In: Jansen M. (Moderator) <i>Computers, Privacy & Data Protection Conference (CPDP2023).</i> Brussels: Brussels Privacy Hub, Vrije Universiteit Brussels. 
                         <i class="fa-solid fa-external-link fa-sm"></i></a><br />
                       <span class="text-red-600 font-semibold">panel</span>
                     </li>

@@ -2,9 +2,11 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
-                      <span class="text-red-600 font-semibold">2024 (1)</span>
+                      <span class="text-red-600 font-semibold">2024 (2)</span>
                     </li>
 					<li class="mb-2"><a href="https://www.alpineprivacydays.net/2023/" target="_blank" title="Click to visit external webpage">3rd Alpine Privacy Days (2024). Zuoz: Bull, Signatu AS, and MLL. <i class="fa-solid fa-external-link fa-sm"></i></a><br /><span class="text-red-600 font-semibold">program committee</span></li>
+					<li class="mb-2"><a href="https://fpf.org/issue/open-banking/" target="_blank" title="Click to play the recording">Strickland Z. & Eijk R. van (Moderator) (2024). <i>Workshop on EU Financial Data Access (FIDA).</i> Brussels: Future of Privacy Forum. <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240201105000/https://fpf.org/issue/open-banking/"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br /><span class="text-red-600 font-semibold">panel</span></li>
                     <br />
                     <li class="mb-2">
                       <span class="text-red-600 font-semibold">2023 (46)</span>
