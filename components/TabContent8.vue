@@ -228,6 +228,11 @@ href="https://www.dcu.ie/courses/postgraduate/school-law-and-government/ma-data-
                     <span class="text-red-600 font-semibold">E: CONTRIBUTIONS TO PROFESSIONAL LEARNING PROGRAMS</span>
                     </li>
                     <li class="mb-2">
+                      <span class="text-red-600 font-semibold">2024 (1)</span>
+                    </li>
+                    <li class="mb-2">Eijk R. van (2024). <i>Connecting Privacy-Enhancing Technologies (PETs) with Digital Advertising: Highlighting the Significance of Introducing Noise into Data Flows.</i> Singapore: Personal Data Protection Commission Singapore, Infocomm Media Development Authority.<br /> <span class="text-red-600 font-semibold">professional learning</span></li>
+                    <li class="mb-2">
+					<br />
                       <span class="text-red-600 font-semibold">2023 (6)</span>
                     </li>
                     <li class="mb-2">
