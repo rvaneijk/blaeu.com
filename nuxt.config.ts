@@ -9,10 +9,10 @@ export default defineNuxtConfig({
 
   css: [
     '~/assets/css/main.css',
- 	'~/assets/css/fontawesome-v6.5.1.css',
+ 	'~/assets/css/fontawesome-v6.5.2.css',
  	'~/assets/css/fontawesome-additions.css',
     '@/assets/css/fonts.css',
-	'tw-elements/dist/css/tw-elements.min.css'
+	'tw-elements/css/tw-elements.min.css'
   ],
 
   postcss: {
