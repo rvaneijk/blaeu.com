@@ -8,7 +8,7 @@
     <description>This page is updated regularly and contains an overview of my work.</description>
     <language>en</language>
 	<copyright>Copyright © 2024 Rob van Eijk(CC BY 4.0)</copyright>
-    <lastBuildDate>Tue, 2 Jan 2024 17:42:00 +01</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 10:53:00 +01</lastBuildDate>
     <generator>v1.0</generator>
 
     <image>
@@ -20,6 +20,14 @@
     <webfeeds:icon>https://blaeu.com/assets/img/camera.png</webfeeds:icon>
 
     <item>
+      <title>On a Legitimate Interest (Art. 6(1)(f) GDPR) and based on case C-621/22</title>
+      <link>/assets/pdf/AlpinePrivacyDays2024.pdf</link>
+      <guid isPermaLink="true">/assets/pdf/AlpinePrivacyDays2024.pdf</guid>
+      <pubDate>Fri, 10 May 2024 10:53:00 +010</pubDate>
+      <description>&lt;p&gt;At Alpine Privacy Days 2024, Lee A Bygrave and I explored the interpretation of legitimate interest under the GDPR Art. 6(1)(f). The workshop delved into various cases and guidelines, examining the term's interpretation across different languages and legal systems. Notably, the VoetbalTV case showcased a dispute between Dutch courts and the DPA over commercial interests as legitimate grounds for data processing, which ended with the court challenging the DPA's stance, although VoetbalTV went bankrupt during the ordeal. Additional examples included the Dutch DPA’s guidelines and the KNLTB case, where the necessity of a legal basis for legitimate interests was emphasized, contrasting with broader EU perspectives. Discussions also referenced CJEU case C-621/22, highlighting the ongoing debate over commercial interests versus privacy rights under GDPR.&lt;/p&gt;</description>
+    </item>
+
+    <item>
       <title>Privacy and Generative AI Symposium Recap</title>
       <link>https://www.linkedin.com/pulse/privacy-generative-ai-symposium-recap-rob-van-eijk-54ore</link>
       <guid isPermaLink="true">https://www.linkedin.com/pulse/privacy-generative-ai-symposium-recap-rob-van-eijk-54ore</guid>
@@ -29,8 +37,8 @@
 
     <item>
       <title>Microtargeting: On the critical connection between ethics and ad-technology</title>
-      <link>https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye</link>
-      <guid isPermaLink="true">https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye</guid>
+      <link>https://web.archive.org/web/20240510101630/https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye</link>
+      <guid isPermaLink="true">https://web.archive.org/web/20240510101630/https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye</guid>
       <pubDate>Fri, 24 Nov 2023 16:34:00 +010</pubDate>
       <description>&lt;p&gt;The keynote speech focuses on critical issues in digital advertising and data protection, addressing concerns like microtargeting in political campaigns, unlawful data collection, and cookie compliance, particularly in the context of the 2023 Dutch elections. It also delves into broader topics such as the roles of various stakeholders, regulatory responses, privacy concerns with tools like Google Analytics, ethical considerations in personalized advertising, and the role of social media in ensuring fair and unbiased ad distribution.&lt;/p&gt;</description>
     </item>
@@ -61,8 +69,8 @@
 
     <item>
       <title>Addressing Bias in AI Systems: A Holistic Approach to Detection, Reporting, and Mitigation - Blogpost</title>
-      <link>https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc</link>
-      <guid isPermaLink="true">https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc</guid>
+      <link>https://web.archive.org/web/20240510101908/https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc</link>
+      <guid isPermaLink="true">https://web.archive.org/web/20240510101908/https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc</guid>
       <pubDate>Sun, 01 Sep 2023 07:56:15 +0200</pubDate>
       <description>&lt;p&gt;On 25 May 2023, the Future of Privacy Forum organized a workshop on the state-of-play of Privacy Preserving Machine Learning (PPML). Lindsay Carignan, Head of Customer Success at Holistic AI, and Nigel Kingsman, AI Audit and Assurance Office at Holistic AI, took the floor with a presentation on the question: how to perform a bias assessment? To better understand potential bias, five key questions were proposed: What is the data's provenance? How representative is the data? Is the data balanced? Has intersectionality been considered? Are sensitive attributes present in the data? The presenters were tasked to explain a complex technical topic to a non-technical audience. This blog post summarizes what I learned and elaborates on some of the key concepts presented.&lt;/p&gt;</description>
     </item>

@@ -1,10 +1,20 @@
 [ 
-    {
+   {
+        "title": "On a Legitimate Interest (Art. 6(1)(f) GDPR) and based on case C-621/22",
+        "intro": "At Alpine Privacy Days 2024, Lee A Bygrave and I explored the interpretation of legitimate interest under the GDPR Art. 6(1)(f). The workshop delved into various cases and guidelines, examining the term's interpretation across different languages and legal systems. Notably, the Dutch DPA’s guidelines and the Royal Dutch Lawn Tennis Association (KNLTB) case. The guidelines stipulate that interests must be legally recognized to be considered legitimate, as in having a legal basis in law. This interpretation was based on a concept in the Dutch Handbook for General Administrative Law by Van Wijk/Konijnenbelt & Van Male (2014, ISBN 9789013119404). The handbook does not specifically address the privacy context. The Dutch DPA did not refer to the many authoritative sources on legitimate interest in EU data protection law, which tends to suggest a different direction. In contrast, the KNLTB was fined for sharing personal data with sponsors without a lawful basis, illustrating the legal risks of misinterpreting what constitutes a legitimate interest.. Discussions also referenced CJEU case C-621/22, highlighting the ongoing debate over commercial interests versus privacy rights under GDPR. (image created by DALL-E, OpenAI's image generation model)",
+        "author": "Eijk R. van & Bygrave L.",
+        "date": "2024",
+        "link": "/assets/pdf/AlpinePrivacyDays2024.pdf",
+        "image": "/assets/img/DALL-E_ 2024-05-10_12.28.23.webp",
+        "alttext": "Screenshot cover the publication",
+        "pubcategory": "other",
+        "publication": "slides"
+     },{
         "title": "Microtargeting: On the critical connection between ethics and ad-technology",
         "intro": "The keynote speech focuses on critical issues in digital advertising and data protection, addressing concerns like microtargeting in political campaigns, unlawful data collection, and cookie compliance, particularly in the context of the 2023 Dutch elections. It also delves into broader topics such as the roles of various stakeholders, regulatory responses, privacy concerns with tools like Google Analytics, ethical considerations in personalized advertising, and the role of social media in ensuring fair and unbiased ad distribution. (image created by DALL-E, OpenAI's image generation model)",
         "author": "Eijk R. van",
         "date": "2023",
-        "link": "https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye",
+        "link": "https://web.archive.org/web/20240510101630/https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye",
         "image": "/assets/img/microtargeting.webp",
         "alttext": "Screenshot cover the publication",
         "pubcategory": "other",
@@ -34,7 +44,7 @@
         "intro": "On 25 May 2023, the Future of Privacy Forum organized a workshop on the state-of-play of Privacy Preserving Machine Learning (PPML). Lindsay Carignan, Head of Customer Success at Holistic AI, and Nigel Kingsman, AI Audit and Assurance Office at Holistic AI, took the floor with a presentation on the question: how to perform a bias assessment? To better understand potential bias, five key questions were proposed: What is the data's provenance? How representative is the data? Is the data balanced? Has intersectionality been considered? Are sensitive attributes present in the data? The presenters were tasked to explain a complex technical topic to a non-technical audience. This blog post summarizes what I learned and elaborates on some of the key concepts presented. (image license: Andrey Popov/Shutterstock.com)",
         "author": "Eijk, R.van",
         "date": "2023",
-        "link": "https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc",
+        "link": "https://web.archive.org/web/20240510101908/https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc",
         "image": "/assets/img/tiny_Andrey_Popov_Shutterstock_com.webp",
         "alttext": "Screenshot cover the publication",
         "pubcategory": "other",
