@@ -2,8 +2,10 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
-                      <span class="text-red-600 font-semibold">2024 (2)</span>
+                      <span class="text-red-600 font-semibold">2024 (3)</span>
                     </li>
+					<li class="mb-2"><a href="https://www.cpdpconferences.org/cpdp-panels/where-are-we-heading-looking-into-the-eu-strategy-for-data-through-the-lens-of-ai-and-data-protection" target="_blank" title="Click to visit external webpage">Bolognini L., Craddock P., Eijk R. van & Vidal P. (2024). Where are we heading? Looking into the EU Strategy for Data through the Lens of AI and Data Protection. In: Alvarez C. (Moderator) <i>Computers, Privacy & Data Protection Conference (CPDP2024).</i> Brussels: Brussels Privacy Hub, Vrije Universiteit Brussels. <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240527102247/https://www.cpdpconferences.org/cpdp-panels/where-are-we-heading-looking-into-the-eu-strategy-for-data-through-the-lens-of-ai-and-data-protection"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br /><span class="text-red-600 font-semibold">panel</span></li>
 					<li class="mb-2"><a href="https://www.alpineprivacydays.net/program-2024/" target="_blank" title="Click to visit external webpage">Bygrave L. & Eijk R. van (2024). What is a legitimate interest under GDPR Article 6(1)(f)? and How can a purely commercial interest be legitimate based on case C-621/22? In: <i>3rd Alpine Privacy Days</i> Zuoz: Bull, Signatu AS, and MLL. <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240224152006/https://www.alpineprivacydays.net/program-2024/"
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br /><span class="text-red-600 font-semibold">panel</span></li>
                     <li class="mb-2">

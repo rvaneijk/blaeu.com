@@ -2,13 +2,22 @@
   <div class="ml-7 mt-4">
     <ul>
 		<li class="mb-2">
-		  <span class="text-red-600 font-semibold">2024 (1)</span>
+		  <span class="text-red-600 font-semibold">2024 (2)</span>
 		</li>
 		<li class="mb-2">
 		  <a
 href="https://www.alpineprivacydays.net/2023/"
 			target="_blank" title="Click to visit external webpage">
 			3rd Alpine Privacy Days (2024). Zuoz: Bull, Signatu AS, and MLL.
+			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
+		  <span class="text-red-600 font-semibold">program committee</span>
+		</li>
+		<li class="mb-2">
+		  <a
+href="https://fpf.org/fpf-event/brussels-privacy-symposium-2024/"
+			target="_blank" title="Click to visit external webpage">
+			8th Annual Brussels Privacy Symposium (2024). <i>Integrating the AI Act in the EU Data Governance Ecosystem: Bridging Regulatory Regimes.</i> Brussels: Future of Privacy Forum & Brussels Privacy Hub, Vrije
+			Universiteit Brussels.
 			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
 		  <span class="text-red-600 font-semibold">program committee</span>
 		</li>
