@@ -49,8 +49,10 @@ import Content8 from './TabContent8.vue';
 import Content9 from './TabContent9.vue';
 
 // Definition of tab labels and corresponding components
-const tabs = ['All', 'Scholarly', 'Professional', 'Popular', 'Media', 'Keynotes', 'Panels', 'Teaching', 'Committees'];
-const tabComponents = [Content1, Content2, Content3, Content4, Content5, Content6, Content7, Content8, Content9];
+// const tabs = ['All', 'Scholarly', 'Professional', 'Popular', 'Media', 'Keynotes', 'Panels', 'Teaching', 'Committees'];
+// const tabComponents = [Content1, Content2, Content3, Content4, Content5, Content6, Content7, Content8, Content9];
+const tabs = ['Scholarly', 'Professional', 'Popular', 'Media', 'Keynotes', 'Panels', 'Teaching', 'Committees'];
+const tabComponents = [Content2, Content3, Content4, Content5, Content6, Content7, Content8, Content9];
 
 // Function to change the current active tab
 function changeTab(index) {

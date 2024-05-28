@@ -111,7 +111,7 @@ href="https://autoriteitpersoonsgegevens.nl/nl/nieuws/ap-organiseert-dag-van-de-
                       <a href="https://dx.doi.org/10.2139/ssrn.3003152" target="_blank" title="Click to download the file">
                         Eijk R. van (2017). <i>On browser settings, cookies, and (not) being tracked by digital
                           advertisements.</i> Brussels: Working Party on Telecommuncations and Information Society (WP TELE),
-                        Council of the European Union. doi: https://dx.doi.org/10.2139/ssrn.3003152.
+                        Council of the European Union. doi: 10.2139/ssrn.3003152.
                         <i class="fa-solid fa-download"></i></a><br />
                       <span class="text-red-600 font-semibold">keynote</span>
                     </li>
@@ -128,7 +128,7 @@ href="https://autoriteitpersoonsgegevens.nl/nl/nieuws/ap-organiseert-dag-van-de-
                     <li class="mb-2">
                       <a href="https://dx.doi.org/10.2139/ssrn.2856941" target="_blank" title="Click to download the file">
                         Eijk R. (2016). <i>A Brief Introduction to Real Time Bidding (RTB).</i> Brussels: Article 29
-                        Working Party (WP29). doi: https://dx.doi.org/10.2139/ssrn.2856941.
+                        Working Party (WP29). doi: 10.2139/ssrn.2856941.
                         <i class="fa-solid fa-download"></i></a><br />
                       <span class="text-red-600 font-semibold">keynote</span>
                     </li>

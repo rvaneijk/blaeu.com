@@ -112,14 +112,14 @@ href="https://fpf.org/blog/takeaways-from-the-understanding-machine-learning-mas
                     <li class="mb-2">
                       <a href="https://doi.org/10.17026/dans-z92-sztg" target="_blank" title="Click to download the file">
                         Eijk R. van (2018). <i>Stateless deep crawl EU Feeds (27 December 2018).</i> DANS. doi:
-                        https://doi.org/10.17026/dans-z92-sztg. [Data Set]
+                        10.17026/dans-z92-sztg. [Data Set]
                         <i class="fa-solid fa-download"></i></a><br />
                       <span class="text-red-600 font-semibold">other</span>
                     </li>
                     <li class="mb-2">
                       <a href="https://doi.org/10.17026/dans-zyd-4468" target="_blank" title="Click to download the file">
                         Eijk R. van (2018). <i>Stateless deep crawl EU Feeds (3 August 2018).</i> DANS. doi:
-                        https://doi.org/10.17026/dans-zyd-4468. [Data Set]
+                        10.17026/dans-zyd-4468. [Data Set]
                         <i class="fa-solid fa-download"></i></a><br />
                       <span class="text-red-600 font-semibold">other</span>
                     </li>
@@ -132,7 +132,7 @@ href="https://fpf.org/blog/takeaways-from-the-understanding-machine-learning-mas
                         Eijk R. van (2017). Tracking classification: a cluster analysis approach to identify missing
                         values. In: Bielova N., Laoutaris N., Narayanan A. & Nikiforakis N. (Eds.) <i>Online Privacy and
                           Web Transparency (Dagstuhl Seminar 17162). Dagstuhl Reports,</i> 7(4):103. Dagstuhl: Schloss
-                        Dagstuhl-Leibniz-Zentrum fuer Informatik. doi: https://doi.org/10.4230/DagRep.7.4.83.
+                        Dagstuhl-Leibniz-Zentrum fuer Informatik. doi: 10.4230/DagRep.7.4.83.
                         <i class="fa-solid fa-download"></i></a><br />
                       <span class="text-red-600 font-semibold">report: peer reviewed</span>
                     </li>
@@ -151,7 +151,7 @@ href="https://fpf.org/blog/takeaways-from-the-understanding-machine-learning-mas
                     <li class="mb-2">
                       <a href="https://doi.org/10.17026/dans-xrn-ajnb" target="_blank" title="Click to download the file">
                         Eijk R. van (2016). <i>Stateless deep crawl EU Feeds (29 august 2016).</i> DANS. doi:
-                        https://doi.org/10.17026/dans-xrn-ajnb. [Data Set]
+                        10.17026/dans-xrn-ajnb. [Data Set]
                         <i class="fa-solid fa-download"></i></a><br />
                       <span class="text-red-600 font-semibold">other</span>
                     </li>
@@ -172,8 +172,7 @@ href="https://fpf.org/blog/takeaways-from-the-understanding-machine-learning-mas
                       <a href="https://doi.org/10.1007/978-3-642-40972-1_13" target="_blank" title="Click to visit external webpage">
                         Wissen A. van, Kamphorst B. & Eijk, R. van (2013). A constraint-based approach to context. In:
                         Brézillon P., Blackburn P., Dapoigny R. (Eds.) <i>Modeling and Using Context. CONTEXT 2013.
-                          Lecture Notes in Computer Science, Vol. 8175:171-184.</i> Berlin, Heidelberg: Springer. doi:
-                        https://doi.org/10.1007/978-3-642-40972-1_13.
+                          Lecture Notes in Computer Science, Vol. 8175:171-184.</i> Berlin, Heidelberg: Springer. doi: 10.1007/978-3-642-40972 1_13.
                         <i class="fa-solid fa-external-link fa-sm"></i></a><br />
                       <span class="text-red-600 font-semibold">conference paper: refereed</span>
                     </li>

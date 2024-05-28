@@ -394,8 +394,7 @@ href="https://fpf.org/blog/privacy-pandemics-virtual-workshop-the-role-of-mobile
                     <li class="mb-2">
                       <a href="https://dx.doi.org/10.2139/ssrn.2697041" target="_blank" title="Click to download the file">
                         Wefers Bettink W., Eijk R. van & Wagner F. (2012). Strictly Speaking: Cookies, Consent and
-                        Compliance. In: <i>IAPP Europe Data Protection congress.</i> Brussels: International Association of Privacy Professionals (IAPP). doi:
-                        https://dx.doi.org/10.2139/ssrn.2697041.
+                        Compliance. In: <i>IAPP Europe Data Protection congress.</i> Brussels: International Association of Privacy Professionals (IAPP). doi: 10.2139/ssrn.2697041.
                         <i class="fa-solid fa-download"></i></a><br />
                       <span class="text-red-600 font-semibold">panel</span>
                     </li>
