@@ -69,12 +69,12 @@ href="https://brusselsprivacyhub.eu/events/brussels%2520privacy%2520symposium.ht
 		</li>
 		<li class="mb-2">
 		  <a
-href="https://brusselsprivacyhub.eu/events/brussels%2520privacy%2520symposium.html"
+href="https://fpf.org/fpf-event/brussels-privacy-symposium-2021-the-age-of-ai-regulation-global-strategic-directions/"
 			target="_blank" title="Click to visit external webpage">
-			5th Annual Brussels Privacy Symposium (2021). <i>Research and the Protection of Personal Data
-			under the GDPR.</i> Brussels: Future of Privacy Forum & Brussels Privacy Hub, Vrije
+			5th Annual Brussels Privacy Symposium (2021). <i>The Age of AI Regulation: Global Strategic Directions.</i> Brussels: Future of Privacy Forum & Brussels Privacy Hub, Vrije
 			Universiteit Brussels.
-			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
+			<i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20240609190846/https://fpf.org/fpf-event/brussels-privacy-symposium-2021-the-age-of-ai-regulation-global-strategic-directions/"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
 		  <span class="text-red-600 font-semibold">program committee</span>
 		</li>
 		<li class="mb-2">
