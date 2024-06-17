@@ -97,6 +97,18 @@ href="https://www.rsm.nl/executive-education/open-programmes/programmes/leadersh
                       <span class="text-red-600 font-semibold">C: CONTRIBUTIONS TO SUMMER SCHOOLS</span>
                     </li>
                     <li class="mb-2">
+                      <span class="text-red-600 font-semibold">2024 (1)</span>
+                    </li>
+                    <li class="mb-2">
+                      <a href="https://www.leidenlawconference.nl/legal-courses/2024/elaw-summer-school-2024-regulating-ai-and-data-in-the-age-of-eu-digital-reforms/" target="_blank" title="Click to download the file">
+                        Eijk R. van (2024). The GDPR and the “by design” challenge after 6 years. In: <i>eLaw Summer School 2024: Regulating AI and Data in the Age of EU Digital Reforms.</i>
+                        Leiden: Leiden Law School, Leiden University.
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20240617084111/https://www.leidenlawconference.nl/legal-courses/2024/elaw-summer-school-2024-regulating-ai-and-data-in-the-age-of-eu-digital-reforms/"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                      <span class="text-red-600 font-semibold">lecture</span>
+                    </li>
+                    <li class="mb-2">
+					<br />
                       <span class="text-red-600 font-semibold">2021 (1)</span>
                     </li>
                     <li class="mb-2">
@@ -265,7 +277,7 @@ href="https://www.linkedin.com/pulse/navigating-future-digital-marketing-importa
                         target="_blank" title="Click to visit external webpage">
                         Eijk R. van (2023). <i>Navigating the Future of Digital Marketing: On the importance of adding noise to the data flows.</i> Toronto: The Office of the Information and 
 Privacy Commissioner of Ontario.
-                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240115125420/https://www.linkedin.com/pulse/navigating-future-digital-marketing-importance-adding-rob-van-eijk-3goje/" target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20240115125420/https://www.linkedin.com/pulse/navigating-future-digital-marketing-importance-adding-rob-van-eijk-3goje/" target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">professional learning</span>
                     </li>
                     <li class="mb-2">

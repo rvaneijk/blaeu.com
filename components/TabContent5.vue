@@ -8,7 +8,7 @@
                       <a href="https://actuma.nl/politieke-partijen-onder-vuur-wegens-privacywet-overtredingen/"
                         target="_blank" title="Click to visit external webpage">
                         Bosboom A. (2023). Politieke partijen onder vuur wegens privacywet overtredingen. In: <i>Actuma.</i> Eexterveen: Foresttree Marketing Solutions.
-                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20231111112552/https://actuma.nl/politieke-partijen-onder-vuur-wegens-privacywet-overtredingen/"
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20231111112552/https://actuma.nl/politieke-partijen-onder-vuur-wegens-privacywet-overtredingen/"
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">quote in magazine/newspaper</span>
                     </li>
