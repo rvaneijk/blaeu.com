@@ -9,17 +9,17 @@
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br /><span class="text-red-600 font-semibold">panel</span></li>
                     <li class="mb-2">
                          Eijk R. van (2024). Transatlantic Privacy Wire: Overheard in the EU. In: <i>The 2024 Publisher Privacy Symposium.</i> New York: Google. 
-                        <i class="fa-solid fa-external-link fa-sm"></i><br />
+                        <br />
                       <span class="text-red-600 font-semibold">panel</span>
                     </li>
                     <li class="mb-2">
                          Mithal M. & Eijk R. van (2024). Ask the Authorities: Two Former Regulators Tell All. In: <i>The 2024 Publisher Privacy Symposium.</i> New York: Google. 
-                        <i class="fa-solid fa-external-link fa-sm"></i><br />
+                        <br />
                       <span class="text-red-600 font-semibold">panel</span>
                     </li>
                     <li class="mb-2">
                          Mithal M., Tiffith L. & Eijk R. van (2024). Privacy Prophecies & Fresh Takes Panel. In: <i>The 2024 Publisher Privacy Symposium.</i> New York: Google. 
-                        <i class="fa-solid fa-external-link fa-sm"></i><br />
+                        <br />
                       <span class="text-red-600 font-semibold">panel</span>
                     </li>
                     <li class="mb-2">
