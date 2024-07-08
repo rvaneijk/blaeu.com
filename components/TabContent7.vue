@@ -18,7 +18,7 @@
                       <span class="text-red-600 font-semibold">panel</span>
                     </li>
                     <li class="mb-2">
-                         Mithal M., Tiffith L. & Eijk R. van (2024). Privacy Prophecies & Fresh Takes Panel. In: <i>The 2024 Publisher Privacy Symposium.</i> New York: Google. 
+                         Mithal M., Tiffith L., Halama M., Rohol S. & Eijk R. van (2024). Privacy Prophecies & Fresh Takes Panel. In: <i>The 2024 Publisher Privacy Symposium.</i> New York: Google. 
                         <br />
                       <span class="text-red-600 font-semibold">panel</span>
                     </li>
