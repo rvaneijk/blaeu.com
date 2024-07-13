@@ -2,6 +2,18 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
+                      <span class="text-red-600 font-semibold">2024 (1)</span>
+                    </li>
+                    <li class="mb-2">
+                      <a href="https://www.thedrum.com/news/2024/07/12/x-s-ad-policies-pay-play-blue-checks-face-probe-experts-see-more-eu-crackdown-ahead"
+                        target="_blank" title="Click to visit external webpage">
+                        Barnett K. (2024). X’s ad policies & pay-to-play blue checks face probe; experts see more EU crackdown ahead. In: <i>The Drum.</i> London: Carnyx Group Limited.
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240713123902/https://www.thedrum.com/news/2024/07/12/x-s-ad-policies-pay-play-blue-checks-face-probe-experts-see-more-eu-crackdown-ahead"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                      <span class="text-red-600 font-semibold">quote in magazine/newspaper</span>
+                    </li>
+                      <br />
+                    <li class="mb-2">
                       <span class="text-red-600 font-semibold">2023 (15)</span>
                     </li>
                     <li class="mb-2">
