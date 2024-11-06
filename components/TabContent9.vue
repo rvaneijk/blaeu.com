@@ -2,13 +2,25 @@
   <div class="ml-7 mt-4">
     <ul>
 		<li class="mb-2">
+		  <span class="text-red-600 font-semibold">2025 (1)</span>
+		</li>
+		<li class="mb-2">
+		  <a
+href="https://www.alpineprivacydays.net"
+			target="_blank" title="Click to visit external webpage">
+			4th Alpine Privacy Days (2025). Zuoz: Bull & Co Advokatfirma AS and MLL Legal Ltd.
+			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
+		  <span class="text-red-600 font-semibold">program committee</span>
+		</li>
+		<li class="mb-2">
+				<br />
 		  <span class="text-red-600 font-semibold">2024 (2)</span>
 		</li>
 		<li class="mb-2">
 		  <a
-href="https://www.alpineprivacydays.net/2023/"
+href="https://www.alpineprivacydays.net"
 			target="_blank" title="Click to visit external webpage">
-			3rd Alpine Privacy Days (2024). Zuoz: Bull, Signatu AS, and MLL.
+			3rd Alpine Privacy Days (2024). Zuoz: Bull & Co Advokatfirma AS and MLL Legal Ltd.
 			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
 		  <span class="text-red-600 font-semibold">program committee</span>
 		</li>
@@ -27,9 +39,9 @@ href="https://fpf.org/fpf-event/brussels-privacy-symposium-2024/"
 		</li>
 		<li class="mb-2">
 		  <a
-href="https://www.alpineprivacydays.net/2023/"
+href="https://www.alpineprivacydays.net"
 			target="_blank" title="Click to visit external webpage">
-			2nd Alpine Privacy Days (2023). Zuoz: Bull, Signatu AS, and MLL.
+			2nd Alpine Privacy Days (2023). Zuoz: Bull & Co Advokatfirma AS, Signatu AS, and MLL Legal Ltd.
 			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
 		  <span class="text-red-600 font-semibold">program committee</span>
 		</li>
@@ -48,9 +60,9 @@ href="https://fpf.org/fpf-event/brussels-privacy-symposium-2023/"
 		</li>
 		<li class="mb-2">
 		  <a
-href="https://www.alpineprivacydays.net/2023/"
+href="https://www.alpineprivacydays.net"
 			target="_blank" title="Click to visit external webpage">
-			1st Alpine Privacy Days (2022). Zuoz: Bull, Signatu AS, and MLL.
+			1st Alpine Privacy Days (2022). Zuoz: Bull & Co Advokatfirma AS, Signatu AS, and MLL Legal Ltd.
 			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
 		  <span class="text-red-600 font-semibold">program committee</span>
 		</li>
