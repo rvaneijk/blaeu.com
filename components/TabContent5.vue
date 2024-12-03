@@ -2,13 +2,14 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
-                      <span class="text-red-600 font-semibold">2024 (2)</span>
+                      <span class="text-red-600 font-semibold">2024 (3)</span>
                     </li>
                     <li class="mb-2">
                       <a href="https://www.thedrum.com/news/2024/10/25/adland-alert-linkedin-pinterest-come-under-legal-fire-ad-tracking-practices"
                         target="_blank" title="Click to visit external webpage">
                         Barnett K. (2024). Adland on alert as LinkedIn & Pinterest come under legal fire for ad tracking practices. In: <i>The Drum.</i> London: Carnyx Group Limited.
-                        <i class="fa-solid fa-external-link fa-sm"></i></a><br />
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20241203114429/https://www.thedrum.com/news/2024/10/25/adland-alert-linkedin-pinterest-come-under-legal-fire-ad-tracking-practices"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">quote in magazine/newspaper</span>
                     </li>
                     <li class="mb-2">
@@ -16,6 +17,14 @@
                         target="_blank" title="Click to visit external webpage">
                         Barnett K. (2024). X’s ad policies & pay-to-play blue checks face probe; experts see more EU crackdown ahead. In: <i>The Drum.</i> London: Carnyx Group Limited.
                         <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20240713123902/https://www.thedrum.com/news/2024/07/12/x-s-ad-policies-pay-play-blue-checks-face-probe-experts-see-more-eu-crackdown-ahead"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                      <span class="text-red-600 font-semibold">quote in magazine/newspaper</span>
+                    </li>
+                    <li class="mb-2">
+                      <a href="https://svjmedia.nl/internationaljournalism/14192/a-more-digital-europe-introducing-digital-passports/"
+                        target="_blank" title="Click to visit external webpage">
+                        Timmerman S. (2024). A more digital Europe introducing Digital Passports. In: <i>SVJ Media - International Journalism.</i> Utrecht: School voor Journalistiek (SvJ).
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20241203114306/https://svjmedia.nl/internationaljournalism/14192/a-more-digital-europe-introducing-digital-passports/"
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">quote in magazine/newspaper</span>
                     </li>
