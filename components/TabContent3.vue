@@ -2,12 +2,19 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
-                      <span class="text-red-600 font-semibold">2024 (1)</span>
+                      <span class="text-red-600 font-semibold">2024 (2)</span>
                     </li>
                     <li class="mb-2">
                       <a href="https://fpf.org/wp-content/uploads/2024/07/FPF-Confidential-Computing-Digital.pdf" target="_blank" title="Click to play the recording">
                         Adams S., Gray S., Massey A. & Eijk R. van (2024). <i>Confidential Computing and Privacy. Policy Implications of Trusted Execution Environments.</i> Washington, DC: Future of Privacy Forum.
                         <i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20240715230345/https://fpf.org/wp-content/uploads/2024/07/FPF-Confidential-Computing-Digital.pdf"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                      <span class="text-red-600 font-semibold">other</span>
+                    </li>
+                    <li class="mb-2">
+                      <a href="https://fpf.org/wp-content/uploads/2024/12/Post-Event-Summary-and-Takeaways-_-FPF-Roundtable-on-AI-and-Privacy-1-2.pdf" target="_blank" title="Click to play the recording">
+                        Eijk R. van, Gray S. & Smith M. (2024). <i>Technologist Roundtable: Key Issues in AI and Data Protection Post-Event Summary and Takeaways .</i> Brussels. [Issue Brief]
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20241211194136/https://fpf.org/wp-content/uploads/2024/12/Post-Event-Summary-and-Takeaways-_-FPF-Roundtable-on-AI-and-Privacy-1-2.pdf"
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">other</span>
                     </li>
