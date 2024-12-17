@@ -1,5 +1,25 @@
 [ 
-   {
+   { 
+        "title": "Technologist Roundtable: Key Issues in AI and Data Protection",
+        "intro": "On 27 November 2024, the Future of Privacy Forum (FPF) hosted a Technologist Roundtable with the goal of convening an open dialogue on complex technical questions that impact law and policy, and assisting global data protection and privacy policymakers in understanding the relevant technical basics of large language models (LLMs). We invited a wide range of academic technical experts to convene with each other and data protection regulators and policymakers from around the world. As a result of the emergence of LLMs, data protection authorities and lawmakers are exploring a range of novel data protection issues, including how to ensure lawful processing of personal data in LLMs, and obligations to comply with obligations such as data deletion and correction requests. While LLMs can process personal data at different stages, including in training and in the input and output of models, there is an emerging question of the extent to which personal data exists 'within' a model itself. Navigating these complex emerging issues increasingly requires understanding the technical building blocks of LLMs.",
+        "author": "Eijk R. van, Gray S. & Smith M.",
+        "date": "2024",
+        "link": "/assets/pdf/FPFTechnolgistRountable2024.pdf",
+        "image": "/assets/img/tiny_issue_brief_2024.webp",
+        "alttext": "Screenshot cover the publication",
+        "pubcategory": "other",
+        "publication": "report"
+     },{
+        "title": "Confidential Computing and Privacy. Policy Implications of Trusted Execution Environments",
+        "intro": "On 15 Juli 2024, the Future of Privacy Forum (FPF) published a report on confidential computing, a privacy-enhancing technology (PET) that marks a significant shift in the trustworthiness of data processing. Confidential computing leverages two key technologies: Trusted Execution Environments (TTE) and Attestation Services, allowing organizations to restrict access to sensitive data through secure hardware-based enclaves. Economic sectors that have led the way in adopting confidential computing include financial services, healthcare, and advertising. The report expands upon the following categories: 1) What is Confidential Computing?, 2) Emerging Sector Applications, and 3) Policy Considerations, including implications for transparency, data de-identification, cross-border transfers, and data localization. Ultimately, the usefulness, scale of impact, and regulatory compliance benefits of confidential computing depend on the specific configuration and management of the TEE and attestation service.",
+        "author": "Adams S., Gray S., Massey A. & Eijk R. van",
+        "date": "2024",
+        "link": "/assets/pdf/ConfidentialComputing.pdf",
+        "image": "/assets/img/tiny_confidential_computing_2024.webp",
+        "alttext": "Screenshot cover the publication",
+        "pubcategory": "other",
+        "publication": "report"
+     },{
         "title": "On a Legitimate Interest (Art. 6(1)(f) GDPR) and based on case C-621/22",
         "intro": "At Alpine Privacy Days 2024, Lee A Bygrave and I explored the interpretation of legitimate interest under the GDPR Art. 6(1)(f). The workshop delved into various cases and guidelines, examining the term's interpretation across different languages and legal systems. Notably, the Dutch DPA’s guidelines and the Royal Dutch Lawn Tennis Association (KNLTB) case. The guidelines stipulate that interests must be legally recognized to be considered legitimate, as in having a legal basis in law. This interpretation was based on a concept in the Dutch Handbook for General Administrative Law by Van Wijk/Konijnenbelt & Van Male (2014, ISBN 9789013119404). The handbook does not specifically address the privacy context. The Dutch DPA did not refer to the many authoritative sources on legitimate interest in EU data protection law, which tends to suggest a different direction. In contrast, the KNLTB was fined for sharing personal data with sponsors without a lawful basis, illustrating the legal risks of misinterpreting what constitutes a legitimate interest. Discussions also referenced CJEU case C-621/22, highlighting the ongoing debate over commercial interests versus privacy rights under GDPR. (image created by DALL-E, OpenAI's image generation model)",
         "author": "Eijk R. van & Bygrave L.",

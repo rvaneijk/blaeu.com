@@ -13,7 +13,7 @@
                     </li>
                     <li class="mb-2">
                       <a href="https://fpf.org/wp-content/uploads/2024/12/Post-Event-Summary-and-Takeaways-_-FPF-Roundtable-on-AI-and-Privacy-1-2.pdf" target="_blank" title="Click to play the recording">
-                        Eijk R. van, Gray S. & Smith M. (2024). <i>Technologist Roundtable: Key Issues in AI and Data Protection Post-Event Summary and Takeaways .</i> Brussels. [Issue Brief]
+                        Eijk R. van, Gray S. & Smith M. (2024). <i>Technologist Roundtable: Key Issues in AI and Data Protection Post-Event Summary and Takeaways.</i> Brussels: Future of Privacy Forum. [Issue Brief]
                         <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20241211194136/https://fpf.org/wp-content/uploads/2024/12/Post-Event-Summary-and-Takeaways-_-FPF-Roundtable-on-AI-and-Privacy-1-2.pdf"
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">other</span>
