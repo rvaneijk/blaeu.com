@@ -8,7 +8,7 @@
     <description>This page is updated regularly and contains an overview of my work.</description>
     <language>en</language>
 	<copyright>Copyright © 2024 Rob van Eijk(CC BY 4.0)</copyright>
-    <lastBuildDate>Fri, 10 May 2024 10:53:00 +01</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 10:53:00 +01</lastBuildDate>
     <generator>v1.0</generator>
 
     <image>
@@ -19,6 +19,22 @@
 
     <webfeeds:icon>https://blaeu.com/assets/img/camera.png</webfeeds:icon>
 
+    <item>
+      <title>Technologist Roundtable: Key Issues in AI and Data Protection</title>
+      <link>/assets/pdf/FPFTechnolgistRountable2024.pdf</link>
+      <guid isPermaLink="true">/assets/pdf/FPFTechnolgistRountable2024.pdf</guid>
+      <pubDate>Tue, 17 Dec 2024 10:53:00 +010</pubDate>
+      <description>&lt;p&gt;On 27 November 2024, the Future of Privacy Forum (FPF) hosted a Technologist Roundtable with the goal of convening an open dialogue on complex technical questions that impact law and policy, and assisting global data protection and privacy policymakers in understanding the relevant technical basics of large language models (LLMs). We invited a wide range of academic technical experts to convene with each other and data protection regulators and policymakers from around the world. As a result of the emergence of LLMs, data protection authorities and lawmakers are exploring a range of novel data protection issues, including how to ensure lawful processing of personal data in LLMs, and obligations to comply with obligations such as data deletion and correction requests. While LLMs can process personal data at different stages, including in training and in the input and output of models, there is an emerging question of the extent to which personal data exists 'within' a model itself. Navigating these complex emerging issues increasingly requires understanding the technical building blocks of LLMs.&lt;/p&gt;</description>
+    </item>
+
+    <item>
+      <title>Confidential Computing and Privacy. Policy Implications of Trusted Execution Environments</title>
+      <link>/assets/pdf/ConfidentialComputing.pdf</link>
+      <guid isPermaLink="true">/assets/pdf/ConfidentialComputing.pdf</guid>
+      <pubDate>Tue, 17 Dec 2024 10:53:00 +010</pubDate>
+      <description>&lt;p&gt;On 15 Juli 2024, the Future of Privacy Forum (FPF) published a report on confidential computing, a privacy-enhancing technology (PET) that marks a significant shift in the trustworthiness of data processing. Confidential computing leverages two key technologies: Trusted Execution Environments (TTE) and Attestation Services, allowing organizations to restrict access to sensitive data through secure hardware-based enclaves. Economic sectors that have led the way in adopting confidential computing include financial services, healthcare, and advertising. The report expands upon the following categories: 1) What is Confidential Computing?, 2) Emerging Sector Applications, and 3) Policy Considerations, including implications for transparency, data de-identification, cross-border transfers, and data localization. Ultimately, the usefulness, scale of impact, and regulatory compliance benefits of confidential computing depend on the specific configuration and management of the TEE and attestation service.&lt;/p&gt;</description>
+    </item>
+	
     <item>
       <title>On a Legitimate Interest (Art. 6(1)(f) GDPR) and based on case C-621/22</title>
       <link>/assets/pdf/AlpinePrivacyDays2024.pdf</link>

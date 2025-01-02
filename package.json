@@ -7,20 +7,21 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^1.1.5",
-    "@types/node": "^20.12.7",
-    "autoprefixer": "^10.4.19",
-    "nuxt": "^3.11.2",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.3",
-    "vue": "^3.4.23",
+    "@nuxt/devtools": "^1.6.4",
+    "@types/node": "^22.10.2",
+    "autoprefixer": "^10.4.20",
+    "nuxt": "^3.15.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.17",
+    "vue": "^3.5.12",
     "vue-loader": "^17.4.2",
-    "vue-router": "^4.3.2",
-    "vue-tsc": "^2.0.13"
+    "vue-router": "^4.5.0",
+    "vue-tsc": "file:.0.21"
   },
   "dependencies": {
     "depcheck": "^1.4.7",
-    "npm": "^10.5.2",
+    "npm": "^10.9.2",
+    "serve": "^14.2.4",
     "tw-elements": "^2.0.0"
   }
 }

@@ -1533,6 +1533,10 @@
 
 .fa-steam-symbol:before {
   content: "\f3f6"; }
+
+.fa-google-scholar {
+  --fa: "\e63b"; }
+  
 :root, :host {
   --fa-style-family-classic: 'Font Awesome 6 Free';
   --fa-font-regular: normal 400 1em/1 'Font Awesome 6 Free'; }
