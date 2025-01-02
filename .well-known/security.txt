@@ -2,23 +2,23 @@
 Hash: SHA256
 
 Contact: mailto:rob@blaeu.com
-Expires: 2026-01-27T11:00:00.000Z
-Encryption: 	
-Preferred-Languages: EN, NL
+Expires: 2025-12-29T22:00:00.000Z
+Encryption: https://pgp.surfnet.nl/pks/lookup?search=6e9c7952da113db11f1a94119b9171334b4f58de&fingerprint=on&op=index
+Preferred-Languages: en, nl
 Canonical: https://blaeu.com/.well-known/security.txt
 Policy: https://blaeu.com/.well-known/responsible_disclosure_policy.txt
 
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEbpx5UtoRPbEfGpQRm5FxM0tPWN4FAmduy4IACgkQm5FxM0tP
-WN5YBgv/Y1W5FOZiwwLl0zHaJaag7A9rrLP2UVAk1Qv/13SOxQrJC+mfNkPtdKSP
-JXbOF0t7uZxEtHp+/qYJFRQUekBa5q2+hsMY1wed7TSPwW3DeDuZJ3NiwHn1lpFO
-zSS9M715yPZ2+TKrwA87t3y1tIYSE2K6D24v92TexWdOj+0ckDZvDzMoLfszCH/S
-Q4w7pCTjeErWJRPE0/oGSyjEYum5TDEDUJHQG/zaezT3IdxjN1d/fJjSUqkDXhpZ
-bjRxKtA9Ma/8hu52o/Txoi4UrmPZlvMn+DDCGbwgsfZowN5dr3PJCYSkdvocI6pS
-9wUkI+v0E6+3xY6iRb9QUmS2VUe9EzElHRymn/ZDhTvge47q0PD4w+EUR+uLrv2j
-Wv/Kn7iD+PIL4wDg8U2xB7BFveOeCg8qt5K5cej2/K6GVDp2af/hJGaqBxOjbur0
-dJ2PkXCH5p+ITap6bS6bkVjTpnCnjRvpeaLlWjyhpUti85b3AKu0V2q4l++HvH0g
-CuxVHj7C
-=aIxd
+iQGzBAEBCAAdFiEEbpx5UtoRPbEfGpQRm5FxM0tPWN4FAmdylmkACgkQm5FxM0tP
+WN548AwAzd2C/83M4lV6iOXb+4zlj4Zxe5Lc7sMP3Kj7otD2wfs7TlEvOTVyKatQ
+fxRulEsY2JZNSyfN/ACZgQ2HVfSCJvM08xtByAzekvv1g0J+3tLJAi7kj3fHlrxE
+ATVCsFzVSsRZdynfwnrSU784lEPq11T6w3GNCEfc0OFxYGVN+Waeb4KMkq31aifd
+CNzbVB83V1JEU9XBkKgnGvQHEr42q4+kECPz6LbJhmqFt8RTDCaPNReMf9lZxwHX
+Lv0itm51CjegIIU4ffdGsRLMSlqPb2szWetZWn8M8SFbLp6MvQcJYSH3X06Urv5g
+RFuS4B6dh+h1QUEqaQobT9P2eCe6in8VmYoGl7MAgeLlZ6vSEd4s9d4Z9SMtVNLa
+T/1e9qgZlh35n+J2ua/772NPLDLkClAk41dr0FdCc2fR6VvtWq5QwBFpjJ+Wt9Ek
+8A6ZzjCXxpEbSWQqEt7YOW7vp6y3iJm/ZDrQtmw6hBy3TFNVN03k4WAFRdbPJ6fJ
+xEtvlg/h
+=g5+B
 -----END PGP SIGNATURE-----
