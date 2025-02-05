@@ -2,6 +2,11 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
+                      <span class="text-red-600 font-semibold">2025 (1)</span>
+                    </li>
+					<li class="mb-2"><a href="https://brusselsprivacyhub.com/2025/02/04/5-february-celebrating-10-years-of-the-bph-2025/" target="_blank" title="Click to visit external webpage">Bruggeman E., Eijk R. van & Kolanowski S. (2025). Partners of the Hub Panel. In: Stalla-Bourdillon S. (Moderator) <i>Navigating Tomorrow: A Data Protection Decade and Future Challenges in the Algorithmic Era.</i> Brussels: Brussels Privacy Hub, Vrije Universiteit Brussels.</a><br /><span class="text-red-600 font-semibold">panel</span></li>
+                    <li class="mb-2">
+					<br />
                       <span class="text-red-600 font-semibold">2024 (8)</span>
                     </li>
 					<li class="mb-2"><a href="https://www.youtube.com/watch?v=BYAcDaUifLI" target="_blank" title="Click to visit external webpage">Bolognini L., Craddock P., Eijk R. van & Vidal P. (2024). Where are we heading? Looking into the EU Strategy for Data through the Lens of AI and Data Protection. In: Alvarez C. (Moderator) <i>Computers, Privacy & Data Protection Conference (CPDP2024).</i> Brussels: Brussels Privacy Hub, Vrije Universiteit Brussels. <i class="fa-solid fa-play-circle"></i></a><br /><span class="text-red-600 font-semibold">panel</span></li>

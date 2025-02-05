@@ -2,13 +2,22 @@
   <div class="ml-7 mt-4">
     <ul>
 		<li class="mb-2">
-		  <span class="text-red-600 font-semibold">2025 (1)</span>
+		  <span class="text-red-600 font-semibold">2025 (2)</span>
 		</li>
 		<li class="mb-2">
 		  <a
 href="https://www.alpineprivacydays.net"
 			target="_blank" title="Click to visit external webpage">
 			4th Alpine Privacy Days (2025). Zuoz: Bull & Co Advokatfirma AS and MLL Legal Ltd.
+			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
+		  <span class="text-red-600 font-semibold">program committee</span>
+		</li>
+		<li class="mb-2">
+		  <a
+href="https://fpf.org/fpf-event/brussels-privacy-symposium-2025/"
+			target="_blank" title="Click to visit external webpage">
+			9th Annual Brussels Privacy Symposium (2025). <i>(tbd).</i> Brussels: Future of Privacy Forum & Brussels Privacy Hub, Vrije
+			Universiteit Brussels.
 			<i class="fa-solid fa-external-link fa-sm"></i></a><br />
 		  <span class="text-red-600 font-semibold">program committee</span>
 		</li>
