@@ -2,6 +2,14 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
+                      <span class="text-red-600 font-semibold">2025 (1)</span>
+                    </li>
+                    <li class="mb-2">
+                        Moreau C. (2024). Anonymised data comes into focus. In: <i>Tech Pro Brief.</i> Brussels: Euractiv Media.<br />
+                      <span class="text-red-600 font-semibold">quote in magazine/newspaper</span>
+                    </li>
+                    <li class="mb-2">
+                      <br />
                       <span class="text-red-600 font-semibold">2024 (3)</span>
                     </li>
                     <li class="mb-2">
