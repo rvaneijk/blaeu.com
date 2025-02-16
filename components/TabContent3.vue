@@ -2,16 +2,23 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
-                      <span class="text-red-600 font-semibold">2025 (1)</span>
+                      <span class="text-red-600 font-semibold">2025 (2)</span>
                     </li>
                     <li class="mb-2">
                       <a href="https://fpf.org/blog/minding-mindful-machines-ai-agents-and-data-protection-considerations/" target="_blank" title="Click to play the recording">
                         Berrick D., Eijk R. van, Smith M. & Wills K. (2025). <i>Minding Mindful Machines: AI Agents and Data Protection Considerations.</i> Washington, DC: Future of Privacy Forum.
-                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="http://web.archive.org/web/20250205173740/https://fpf.org/blog/minding-mindful-machines-ai-agents-and-data-protection-considerations/"
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20250205173740/https://fpf.org/blog/minding-mindful-machines-ai-agents-and-data-protection-considerations/"
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">other</span>
                     </li>
                     <li class="mb-2">
+                      <a href="https://github.com/rvaneijk/url-checker-sanitized/blob/main/doc/blog.md" target="_blank" title="Click to play the recording">
+                        Eijk R. van (2025). <i>AI-Learning by Building: Creating an Enterprise-Grade Email Security System for Personal Use.</i> Brussels. [Blog Post]
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20250216104144/https://github.com/rvaneijk/url-checker-sanitized/blob/main/doc/blog.md"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                      <span class="text-red-600 font-semibold">other</span>
+                    </li>
+                   <li class="mb-2">
 					<br />
                       <span class="text-red-600 font-semibold">2024 (2)</span>
                     </li>
