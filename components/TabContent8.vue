@@ -242,7 +242,7 @@ href="https://www.dcu.ie/courses/postgraduate/school-law-and-government/ma-data-
                     <li class="mb-2">
                       <span class="text-red-600 font-semibold">2025 (2)</span>
                     </li>
-                    <li class="mb-2">Miller D. & Eijk R. van (2024). <i>Data Clean Rooms: Configuring Compliance.</i> San Francisco: California Privacy Protection Agency’.<br /> <span class="text-red-600 font-semibold">professional learning</span></li>
+                    <li class="mb-2">Miller D. & Eijk R. van (2024). <i>Data Clean Rooms: Configuring Compliance.</i> San Francisco: California Privacy Protection Agency.<br /> <span class="text-red-600 font-semibold">professional learning</span></li>
 					 <li class="mb-2">
                       <a
 href="https://fpf.org/training/"
