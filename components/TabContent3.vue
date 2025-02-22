@@ -2,7 +2,7 @@
   <div class="ml-7 mt-4">
                   <ul>
                     <li class="mb-2">
-                      <span class="text-red-600 font-semibold">2025 (2)</span>
+                      <span class="text-red-600 font-semibold">2025 (3)</span>
                     </li>
                     <li class="mb-2">
                       <a href="https://fpf.org/blog/minding-mindful-machines-ai-agents-and-data-protection-considerations/" target="_blank" title="Click to play the recording">
@@ -15,6 +15,13 @@
                       <a href="https://github.com/rvaneijk/url-checker-sanitized/blob/main/doc/blog.md" target="_blank" title="Click to play the recording">
                         Eijk R. van (2025). <i>AI-Learning by Building: Creating an Enterprise-Grade Email Security System for Personal Use.</i> Brussels. [Blog Post]
                         <i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20250216104144/https://github.com/rvaneijk/url-checker-sanitized/blob/main/doc/blog.md"
+                        target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
+                      <span class="text-red-600 font-semibold">other</span>
+                    </li>
+                    <li class="mb-2">
+                      <a href="https://www.linkedin.com/pulse/ai-learning-building-parametric-eq-fine-tuning-music-rob-van-eijk-nn2te" target="_blank" title="Click to play the recording">
+                        Eijk R. van (2025). <i>AI-Learning by Building: Parametric EQ Fine-tuning for Listening to Classical Music.</i> Brussels. [Blog Post]
+                        <i class="fa-solid fa-external-link fa-sm"></i></a><a href="https://web.archive.org/web/20250222183108/https://www.linkedin.com/pulse/ai-learning-building-parametric-eq-fine-tuning-music-rob-van-eijk-nn2te"
                         target="_blank" title="Click to visit external webpage">, Archived version <i class="fa-solid fa-copy"></i></a><br />
                       <span class="text-red-600 font-semibold">other</span>
                     </li>
