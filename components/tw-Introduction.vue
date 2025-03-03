@@ -10,7 +10,7 @@
 			<div class="flex justify-center mt-8 w-full">
 				<picture>
 					<source srcset="/assets/img/tiny_me.webp" type="image/webp">
-					<img alt="Hand written signature." class="image-shift w-1/2 h-auto rounded" src="/assets/img/tiny_me.png"> <!-- Removed the 'border' class -->
+					<img alt="Hand written signature." class="image-shift w-1/2 h-auto rounded-sm" src="/assets/img/tiny_me.png"> <!-- Removed the 'border' class -->
 				</picture>
 			</div>
 			<!-- Horizontal Line -->

@@ -11,22 +11,22 @@
         </div>
 
         <!-- Profile Picture content -->
-        <div class="container mx-auto">
+        <div class="container mx-auto"><br ><br >
             <div class="flex flex-wrap">
-                <div class="w-full sm:w-1/3 flex-none p-4">
+                <div class="w-full sm:w-1/3 flex-none padding: 1rem">
                     <!-- Placeholder for any content you want on the left side -->
                 </div>
-                <div class="w-full sm:w-1/3 flex-none p-4">
+                <div class="w-full sm:w-1/3 flex-none padding: 1rem">
                     <picture>
                         <source srcset="/assets/img/tiny_welcome.webp" type="image/webp">
-                        <img alt="Profile picture Rob van Eijk" class="w-4/6 object-cover rounded mx-auto md:w-2/6 lg:w-1/6" src="/assets/img/tiny_welcome.png">
+                        <img alt="Profile picture Rob van Eijk" class="w-4/6 object-cover rounded-md mx-auto md:w-2/6 lg:w-1/6" src="/assets/img/tiny_welcome.png">
                     </picture>
                 </div>
-                <div class="w-full sm:w-1/3 flex-none p-4">
+                <div class="w-full sm:w-1/3 flex-none padding: 1rem">
                     <!-- Placeholder for any content you want on the right side -->
                 </div>
             </div>
-        </div>
+        </div><br ><br >
 
         <!-- Socials content -->
 		<div class="container mx-auto">

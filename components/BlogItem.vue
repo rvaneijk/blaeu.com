@@ -14,7 +14,7 @@
             <a :href="post.link" target="_blank">{{ post.title }}</a>
         </h3>
         <div class="img-holder my-5">
-           <a :href="post.link" target="_blank"><img :src="post.image" :alt="post.alttext" class="rounded" /></a>
+           <a :href="post.link" target="_blank"><img :src="post.image" :alt="post.alttext" class="rounded-md" /></a>
         </div>
         <p class="my-5"><strong><a :href="post.link" target="_blank">{{ post.author }} ({{post.date}})</a></strong></p>
         <a :href="post.link" target="_blank"><p class="my-5">{{ post.intro }} </p></a>
@@ -46,15 +46,15 @@ export default {
 
 <style scoped>
 a:hover {
-    @apply text-red-600;
+    color: var(--color-red-600);
 }
 h3 {
-    font-family: 'big_johnregular, Raleway, Helvetica, sans-serif';
+    font-family: big_johnregular, Raleway, Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 768px) {
     h3 {
-        font-family: 'big_johnregular, Raleway, Helvetica, sans-serif';
+        font-family: big_johnregular, Raleway, Helvetica, sans-serif;
     }
 }
 </style>

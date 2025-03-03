@@ -12,10 +12,10 @@
     </div>
     <br />
     <br />
-    <section class="w-full bg-white">
+    <section class="w-full bg-grey">
       <div class="container mx-auto px-4 flex">
         <!-- Vertical Tabs -->
-        <ul class="flex flex-col text-sm font-medium text-center text-gray-500 border-r border-gray-200">
+        <ul class="flex flex-col text-sm font-medium text-center text-gray-500 tab-separator pr-4">
           <!-- Loop through each tab and display -->
           <li v-for="(tab, index) in tabs" :key="index" class="mr-2">
             <!-- Tab item; clicking changes the active tab -->
@@ -26,7 +26,7 @@
         </ul>
 
         <!-- Dynamic component rendering based on the current tab -->
-        <div class="flex-grow">
+        <div class="flex-grow pl-4">
           <component :is="tabComponents[globalState.currentTab]"></component>
         </div>
       </div>
@@ -75,10 +75,15 @@ watch(() => globalState.currentTab, (newVal) => {
 </script>
 
 <style>
+  .tab-separator {
+    border-right: 1px solid #D1D5DB; /* Tailwind's gray-300 */
+  }
+
   /* Styles for the active tab */
   .active {
-    @apply text-white bg-red-700; 
- border-color: currentColor;
+    color: white;
+    background-color: var(--color-red-700);
+    border-color: currentColor;
   }
 
   /* Responsive styles for smaller screens */
@@ -93,9 +98,9 @@ watch(() => globalState.currentTab, (newVal) => {
 <style scoped>
   /* Hover effect for tab links */
   a:hover {
-    @apply text-red-700;
+    color: var(--color-red-700);
   }
   .active:hover {
-    @apply text-white;
+    color: white;
   }
 </style>

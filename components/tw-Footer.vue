@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-[#4B5563] py-8 font-amble-light text-base tracking-extra-tight text-white font-normal leading-6">
+    <section class="bg-[#4B5563] py-8 font-amblelight text-base tracking-extra-tight text-white font-normal leading-6">
         <div class="container mx-auto">
             <div class="flex flex-col justify-center items-center">
                 <div class="w-full text-left">
