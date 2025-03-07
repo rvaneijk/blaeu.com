@@ -1,72 +1,211 @@
-// tw-Navbar
+// Update tw-Navbar.vue to connect to footer and align with landing page
+
 <template>
-  <!-- Navigation bar with fixed positioning at the top of the page -->
-  <nav class="bg-[#4B5563] p-2 fixed w-full top-0 z-50 font-amblelight">
-    <!-- Horizontal list of navigation links -->
-    <ul class="flex justify-around">
-      <!-- Navigation items with scrollTo method to smoothly navigate to the respective sections -->
-      <li><a class="text-white px-4 py-1 block text-sm" href="#" @click.prevent="scrollTo('#top')">Portfolio</a></li>
-      <li><a class="text-white px-4 py-1 block text-sm" href="#aggregator" @click.prevent="scrollTo('#aggregator')">Highlights</a></li>
-      <li><a class="text-white px-4 py-1 block text-sm" href="#tabular" @click.prevent="scrollTo('#tabular')">Overview</a></li>
-    </ul>
-    <!-- Progress bar indicating the scroll position on the page -->
-    <div class="absolute bottom-0 left-0 h-1 bg-red-600" :style="{ width: scrollPercentage + '%' }"></div>
-  </nav>
-  <!-- Button for scrolling back to the top of the page, becomes visible on scroll -->
-  <div ref="scrollTopButton" class="invisible flex fixed bottom-0 w-full justify-end pb-3 pr-5 lg:pr-16">
-    <div>
-      <button 
-        @click="scrollTo('#top')" 
-        class="rounded-full bg-red-700 p-3 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out hover:bg-red-700 hover:shadow-lg focus:bg-red-700 focus:shadow-lg focus:outline-hidden focus:ring-0 active:bg-red-800 active:shadow-lg">
-        <svg aria-hidden="true" focusable="false" data-prefix="fas" class="h-4 w-4" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-          <path fill="currentColor" d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"></path>
-        </svg>
-      </button>
+  <nav 
+    class="fixed top-0 left-0 w-full z-50 transition-all duration-300"
+    :class="{'bg-white shadow-md opacity-100': scrolled, 'bg-transparent opacity-0 pointer-events-none': !scrolled}"
+  >
+    <div class="container mx-auto px-4">
+      <div class="flex items-center justify-between h-16">
+        <!-- Logo/Brand - Same as main navbar -->
+        <div class="flex items-center ml-2">
+          <img src="/assets/png/logo.png" alt="Blaeu Logo" class="h-8">
+        </div>
+        
+        <!-- Mobile menu button - Hidden on desktop -->
+        <button 
+          @click="mobileMenuOpen = !mobileMenuOpen" 
+          type="button" 
+          class="inline-flex items-center justify-center p-2 rounded-md md:!hidden" 
+          :class="{'text-gray-600 hover:text-gray-900': scrolled, 'text-white hover:text-gray-200': !scrolled}"
+          aria-controls="mobile-menu" 
+          aria-expanded="false"
+        >
+          <span class="sr-only">Open main menu</span>
+          <svg 
+            class="h-6 w-6" 
+            :class="{'hidden': mobileMenuOpen, 'block': !mobileMenuOpen}" 
+            xmlns="http://www.w3.org/2000/svg" 
+            fill="none" 
+            viewBox="0 0 24 24" 
+            stroke="currentColor" 
+            aria-hidden="true"
+          >
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg 
+            class="h-6 w-6" 
+            :class="{'block': mobileMenuOpen, 'hidden': !mobileMenuOpen}" 
+            xmlns="http://www.w3.org/2000/svg" 
+            fill="none" 
+            viewBox="0 0 24 24" 
+            stroke="currentColor" 
+            aria-hidden="true"
+          >
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+        
+        <!-- Desktop menu - Aligned with landing page structure -->
+        <div class="hidden md:flex md:items-center md:space-x-8 font-amblelight">
+          <a 
+            href="#top" 
+            class="font-medium text-sm transition-all duration-200"
+            :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
+          >
+            Home
+          </a>
+          <a 
+            href="#book" 
+            class="font-medium text-sm transition-all duration-200"
+            :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
+          >
+            My Book
+          </a>
+          <a 
+            href="#research" 
+            class="font-medium text-sm transition-all duration-200"
+            :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
+          >
+            Publications
+          </a>
+          <a 
+            href="#media" 
+            class="font-medium text-sm transition-all duration-200"
+            :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
+          >
+            Thought Leadership
+          </a>
+          <a 
+            href="#" 
+            @click.prevent="scrollTo('footer')" 
+            class="font-medium text-sm transition-all duration-200"
+            :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
+          >
+            Contact
+          </a>
+        </div>
+      </div>
     </div>
+
+    <!-- Mobile menu - Aligned with landing page structure -->
+    <div 
+      class="md:hidden transition-all duration-300 ease-in-out overflow-hidden" 
+      :class="{'max-h-60': mobileMenuOpen, 'max-h-0': !mobileMenuOpen}"
+      id="mobile-menu"
+    >
+      <div class="px-2 pt-2 pb-3 space-y-1 bg-white shadow-lg">
+        <a 
+          href="#top" 
+          class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
+        >
+          Home
+        </a>
+        <a 
+          href="#book" 
+          class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
+        >
+          My Book
+        </a>
+        <a 
+          href="#research" 
+          class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
+        >
+          Research
+        </a>
+        <a 
+          href="#media" 
+          class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
+        >
+          Thought Leadership
+        </a>
+        <a 
+          href="#" 
+          @click.prevent="scrollTo('footer'); mobileMenuOpen = false" 
+          class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
+        >
+          Contact
+        </a>
+      </div>
+    </div>
+    
+    <!-- Progress bar -->
+    <div class="absolute bottom-0 left-0 h-1 bg-[#ffcc00]" :style="{ width: scrollPercentage + '%' }"></div>
+  </nav>
+  
+  <!-- Back to top button -->
+  <div 
+    class="fixed bottom-6 right-6 z-50 transition-opacity duration-300"
+    :class="{'opacity-100': showScrollButton, 'opacity-0 pointer-events-none': !showScrollButton}"
+  >
+    <button 
+      @click="scrollTo('#top')" 
+      class="rounded-full p-3 shadow-lg transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2"
+      style="background-color: #ffcc00; color: #333;" 
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
+      </svg>
+    </button>
   </div>
 </template>
 
 <script setup>
-// Importing Vue functionalities and the global state
-import { ref, watch, onMounted, onBeforeUnmount } from 'vue';
+import { ref, onMounted, onUnmounted, computed, watch, nextTick } from 'vue';
 import { globalState } from '~/composables/globalState.js';
 
-// References for DOM elements and reactive properties
-const scrollTopButton = ref(null); // Reference to the scroll-to-top button
-const scrollPercentage = ref(0); // Reactive property to track scroll progress
+// Reactive state
+const scrolled = ref(false);
+const mobileMenuOpen = ref(false);
+const scrollPercentage = ref(0);
+const showScrollButton = ref(false);
 
-// Function to update the scroll progress percentage
-const updateScrollPercentage = () => {
-  const totalHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+// Update scroll state
+const handleScroll = () => {
   const scrollPosition = window.scrollY;
+  scrolled.value = scrollPosition > 50;
+  showScrollButton.value = scrollPosition > 300;
+  
+  // Calculate scroll percentage
+  const totalHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
   scrollPercentage.value = (scrollPosition / totalHeight) * 100;
 };
 
-// Handle the scroll event, update the scroll progress, and toggle the visibility of the scroll-to-top button
-const handleScroll = () => {
-  updateScrollPercentage();
-  if (window.scrollY > 88) {
-    scrollTopButton.value.classList.remove("invisible");
+// Smooth scroll function
+const scrollTo = (selector) => {
+  if (selector === 'footer') {
+    // Scroll to the footer element
+    const footer = document.querySelector('footer');
+    if (footer) {
+      window.scrollTo({ top: footer.offsetTop, behavior: 'smooth' });
+    }
   } else {
-    scrollTopButton.value.classList.add("invisible");
+    const topPosition = selector === '#top' ? 0 : document.querySelector(selector)?.offsetTop || 0;
+    window.scrollTo({ top: topPosition, behavior: 'smooth' });
   }
 };
 
-// Function to smoothly scroll to a specific section of the page
-const scrollTo = (selector) => {
-  const topPosition = selector === '#top' ? 0 : document.querySelector(selector)?.offsetTop || 0;
-  window.scrollTo({ top: topPosition, behavior: 'smooth' });
-};
-
-// Lifecycle hooks to manage event listeners and react to changes in global state
+// Lifecycle hooks
 onMounted(() => {
-  window.addEventListener("scroll", handleScroll);
+  window.addEventListener('scroll', handleScroll);
+  handleScroll(); // Initialize values
+  
+  // Add watch for global state changes (if needed)
   watch(() => globalState.currentTab, () => {
-    nextTick(updateScrollPercentage);
+    nextTick(handleScroll);
   });
 });
 
-onBeforeUnmount(() => {
-  window.removeEventListener("scroll", handleScroll);
+onUnmounted(() => {
+  window.removeEventListener('scroll', handleScroll);
 });
 </script>
+
+<style scoped>
+/* Force-hide the hamburger on desktop */
+@media (min-width: 768px) {
+  button[aria-controls="mobile-menu"] {
+    display: none !important;
+  }
+}
+</style>
