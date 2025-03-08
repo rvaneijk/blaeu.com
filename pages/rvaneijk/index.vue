@@ -95,7 +95,7 @@ useHead({
 
 <script>
   import { ref } from 'vue';
-  import blogPosts from "/assets/content-main.json";
+  import blogPosts from "/assets/content.json";
 
   // Using a ref to make the blogs reactive
   const blogs = ref(blogPosts);

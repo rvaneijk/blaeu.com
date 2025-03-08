@@ -130,7 +130,7 @@
                         <li class="flex items-center">
                             <i class="fa-brands fa-github mr-3 text-[#ffcc00]"></i>
                             <a href="https://github.com/rvaneijk/blaeu.com" target="_blank" class="hover:text-[#ffcc00] transition-colors">
-                                Source Code <i class="fa-solid fa-external-link fa-xs"></i>
+                                Website Repository&nbsp;<i class="fa-solid fa-external-link fa-xs"></i>
                             </a>
                         </li>
                     </ul>

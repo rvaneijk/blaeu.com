@@ -46,7 +46,8 @@ export default {
       player: null,
       videoLoaded: false,
       observer: null,
-      dashLoaded: false
+      dashLoaded: false,
+      currentQuality: 0
     }
   },
   mounted() {
@@ -105,45 +106,40 @@ export default {
       
       // Configure settings for video with improved caching
       this.player.updateSettings({
-        'streaming': {
-          'abr': {
-            'autoSwitchBitrate': {
-              'video': true
-            },
-            // Start with lower bitrate for faster initial loading
-            'initialBitrate': {
-              'video': 800
-            },
-            'bandwidthSafetyFactor': 0.9,
-            'useDefaultABRRules': true
+        streaming: {
+          // Buffer settings
+          buffer: {
+            // Faster startup
+            initialBufferLevel: 2,
+            // Maintain this setting
+            fastSwitchEnabled: true
           },
-          'fastSwitchEnabled': true,
-          // Improve buffer settings for static SPA
-          'stableBufferTime': 20,
-          'bufferTimeAtTopQualityLongForm': 30,
-          'bufferToKeep': 20,
-          // Enable caching for better performance
-          'lastBitrateCachingInfo': {
+          // ABR settings
+          abr: {
+            // Set initial quality to high since it's a landing page
+            initialBitrate: {
+              video: 800
+            }
+          },
+          // Retry settings
+          retryAttempts: {
+            MPD: 2,
+            MediaSegment: 2
+          },
+          retryIntervals: {
+            MPD: 500,
+            MediaSegment: 500
+          },
+          // Add gap handling settings
+          gaps: {
+            jumpGaps: true,
+            jumpLargeGaps: true,
+            smallGapLimit: 1.5
+          },
+          // Add preload strategy for landing page
+          preload: {
             enabled: true,
-            ttl: 360000
-          },
-          'lastMediaSettingsCachingInfo': {
-            enabled: true,
-            ttl: 360000
-          },
-          // Reduce server requests
-          'fragmentRequestTimeout': 20000,
-          // Use browser cache more effectively
-          'retryAttempts': {
-            'MPD': 3,
-            'XLinkExpansion': 1,
-            'MediaSegment': 3,
-            'InitializationSegment': 3,
-            'BitstreamSwitchingSegment': 3
-          },
-          'cacheLoadThresholds': {
-            'video': 50,
-            'audio': 5
+            prefetchAttempts: 1 // Try to prefetch segments ahead
           }
         }
       });
@@ -161,6 +157,18 @@ export default {
         if (this.$refs.videoPlayer) {
           this.$refs.videoPlayer.src = this.fallbackSource;
         }
+      });
+      
+      // Add quality switch monitoring
+      this.player.on(dashjs.MediaPlayer.events.QUALITY_CHANGE_RENDERED, (e) => {
+        this.currentQuality = e.newQuality;
+        console.log('Quality changed to:', e.newQuality);
+        
+        // Emit event for parent components that might want to know about quality changes
+        this.$emit('quality-change', {
+          quality: e.newQuality,
+          bitrate: this.player.getBitrateInfoListFor('video')[e.newQuality]?.bitrate / 1000 + ' kbps'
+        });
       });
       
       // Emit event when player is ready
