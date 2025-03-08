@@ -12,12 +12,12 @@
                 rob@blaeu.com
               </a>
             </li>
-            <li class="flex items-center">
-              <i class="fa-brands fa-mastodon mr-3 text-[#ffcc00]"></i>
-              <a href="https://mastodon.nl/@rvaneijk" rel="me" target="_blank" class="hover:text-[#ffcc00] transition-colors">
-                @rvaneijk@mastodon.nl&nbsp;<i class="fa-solid fa-external-link fa-xs"></i>
-              </a>
-            </li>
+			<li class="flex items-center">
+				<i class="fa-solid fa-key mr-3 text-[#ffcc00]"></i>
+				<a href="https://pgp.surfnet.nl/pks/lookup?search=9b9171334b4f58de&fingerprint=on&op=index" target="_blank" class="hover:text-[#ffcc00] transition-colors">
+					PGP Key <i class="fa-solid fa-external-link fa-xs"></i>
+				</a>
+			</li>
             <li class="flex items-center">
               <i class="fa-brands fa-linkedin mr-3 text-[#ffcc00]"></i>
               <a href="https://www.linkedin.com/in/rvaneijk88" target="_blank" class="hover:text-[#ffcc00] transition-colors">
@@ -25,9 +25,15 @@
               </a>
             </li>
             <li class="flex items-center">
-              <i class="fa-solid fa-building mr-3 text-[#ffcc00]"></i>
-              <a href="/" class="hover:text-[#ffcc00] transition-colors">
-                Blaeu Privacy Response Team&nbsp;<i class="fa-solid fa-external-link fa-xs"></i>
+              <i class="fa-solid fa-at mr-3 text-[#ffcc00]"></i>
+              <a href="https://bsky.app/profile/rvaneijk.bsky.social" target="_blank" class="hover:text-[#ffcc00] transition-colors">
+                rvaneijk.bsky.social&nbsp;<i class="fa-solid fa-external-link fa-xs"></i>
+              </a>
+            </li>
+            <li class="flex items-center">
+              <i class="fa-brands fa-mastodon mr-3 text-[#ffcc00]"></i>
+              <a href="https://mastodon.nl/@rvaneijk" rel="me" target="_blank" class="hover:text-[#ffcc00] transition-colors">
+                @rvaneijk@mastodon.nl&nbsp;<i class="fa-solid fa-external-link fa-xs"></i>
               </a>
             </li>
           </ul>
