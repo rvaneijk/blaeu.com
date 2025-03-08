@@ -1,9 +1,10 @@
+<!-- tw-FooterMain.vue -->
 <template>
-  <footer class="bg-slate-900 text-slate-200 pt-12 pb-8 font-amblelight">
+    <section id="about" class="bg-[#4B5563] py-12 font-amblelight text-sm tracking-extra-tight text-white font-normal leading-6">
     <div class="container mx-auto px-4">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
         <!-- Contact Information -->
-        <div>
+        <div class="pt-4">	
           <h3 class="text-xl font-semibold mb-4 text-[#ffcc00]">Contact</h3>
           <ul class="space-y-3">
             <li class="flex items-center">
@@ -40,7 +41,7 @@
         </div>
         
         <!-- Resources -->
-        <div>
+        <div class="pt-4">
           <h3 class="text-xl font-semibold mb-4 text-[#ffcc00]">Resources</h3>
           <ul class="space-y-3">
             <li>
@@ -71,7 +72,7 @@
         </div>
         
         <!-- About -->
-        <div>
+        <div class="pt-4">
           <h3 class="text-xl font-semibold mb-4 text-[#ffcc00]">Professional Roles</h3>
           <p class="mb-4 leading-relaxed">
             I currently serve in dual professional capacities: as Managing Director Europe at the Future of Privacy Forum (FPF) and as Founder of Blaeu Privacy Response Team.
@@ -103,10 +104,5 @@
         </div>
       </div>
     </div>
-  </footer>
+s    </section>
 </template>
-
-<script setup>
-// The dynamic year is handled through the template expression {{ new Date().getFullYear() }}
-// No additional script needed for basic functionality
-</script>

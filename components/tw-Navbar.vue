@@ -1,5 +1,3 @@
-// Update tw-Navbar.vue to connect to footer and align with landing page
-
 <template>
   <nav 
     class="fixed top-0 left-0 w-full z-50 transition-all duration-300"
@@ -7,7 +5,7 @@
   >
     <div class="container mx-auto px-4">
       <div class="flex items-center justify-between h-16">
-        <!-- Logo/Brand - Same as main navbar -->
+        <!-- Logo/Brand -->
         <div class="flex items-center ml-2">
           <img src="/assets/png/logo.png" alt="Blaeu Logo" class="h-8">
         </div>
@@ -46,31 +44,35 @@
           </svg>
         </button>
         
-        <!-- Desktop menu - Aligned with landing page structure -->
+        <!-- Desktop menu -->
         <div class="hidden md:flex md:items-center md:space-x-8 font-amblelight">
           <a 
-            href="#top" 
+            href="#" 
+            @click.prevent="scrollTo('#top')" 
             class="font-medium text-sm transition-all duration-200"
             :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
           >
             Home
           </a>
           <a 
-            href="#book" 
+            href="#" 
+            @click.prevent="scrollTo('#book')" 
             class="font-medium text-sm transition-all duration-200"
             :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
           >
             My Book
           </a>
           <a 
-            href="#research" 
+            href="#" 
+            @click.prevent="scrollTo('#research')" 
             class="font-medium text-sm transition-all duration-200"
             :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
           >
             Publications
           </a>
           <a 
-            href="#media" 
+            href="#" 
+            @click.prevent="scrollTo('#media')" 
             class="font-medium text-sm transition-all duration-200"
             :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
           >
@@ -78,7 +80,7 @@
           </a>
           <a 
             href="#" 
-            @click.prevent="scrollTo('footer')" 
+            @click.prevent="scrollTo('#about')" 
             class="font-medium text-sm transition-all duration-200"
             :class="{'text-gray-700 hover:text-blue-600': scrolled, 'text-white hover:text-gray-200': !scrolled}"
           >
@@ -88,7 +90,7 @@
       </div>
     </div>
 
-    <!-- Mobile menu - Aligned with landing page structure -->
+    <!-- Mobile menu -->
     <div 
       class="md:hidden transition-all duration-300 ease-in-out overflow-hidden" 
       :class="{'max-h-60': mobileMenuOpen, 'max-h-0': !mobileMenuOpen}"
@@ -96,32 +98,36 @@
     >
       <div class="px-2 pt-2 pb-3 space-y-1 bg-white shadow-lg">
         <a 
-          href="#top" 
+          href="#" 
+          @click.prevent="scrollTo('#top'); mobileMenuOpen = false" 
           class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
         >
           Home
         </a>
         <a 
-          href="#book" 
+          href="#" 
+          @click.prevent="scrollTo('#book'); mobileMenuOpen = false" 
           class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
         >
           My Book
         </a>
         <a 
-          href="#research" 
+          href="#" 
+          @click.prevent="scrollTo('#research'); mobileMenuOpen = false" 
           class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
         >
           Research
         </a>
         <a 
-          href="#media" 
+          href="#" 
+          @click.prevent="scrollTo('#media'); mobileMenuOpen = false" 
           class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
         >
           Thought Leadership
         </a>
         <a 
           href="#" 
-          @click.prevent="scrollTo('footer'); mobileMenuOpen = false" 
+          @click.prevent="scrollTo('#about'); mobileMenuOpen = false" 
           class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-gray-50"
         >
           Contact
@@ -173,16 +179,8 @@ const handleScroll = () => {
 
 // Smooth scroll function
 const scrollTo = (selector) => {
-  if (selector === 'footer') {
-    // Scroll to the footer element
-    const footer = document.querySelector('footer');
-    if (footer) {
-      window.scrollTo({ top: footer.offsetTop, behavior: 'smooth' });
-    }
-  } else {
-    const topPosition = selector === '#top' ? 0 : document.querySelector(selector)?.offsetTop || 0;
-    window.scrollTo({ top: topPosition, behavior: 'smooth' });
-  }
+  const topPosition = selector === '#top' ? 0 : document.querySelector(selector)?.offsetTop || 0;
+  window.scrollTo({ top: topPosition, behavior: 'smooth' });
 };
 
 // Lifecycle hooks
