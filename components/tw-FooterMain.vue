@@ -104,12 +104,6 @@
                     <h3 class="text-lg font-semibold mb-3">Security & Privacy</h3>
                     <ul class="space-y-1">
                         <li class="flex items-center">
-                            <i class="fa-solid fa-key mr-3 text-[#ffcc00]"></i>
-                            <a href="https://pgp.surfnet.nl/pks/lookup?search=9b9171334b4f58de&fingerprint=on&op=index" target="_blank" class="hover:text-[#ffcc00] transition-colors">
-                                PGP Key <i class="fa-solid fa-external-link fa-xs"></i>
-                            </a>
-                        </li>
-                        <li class="flex items-center">
                             <i class="fa-solid fa-shield-halved mr-3 text-[#ffcc00]"></i>
                             <div>
                                 <span>Responsible Disclosure </span>
