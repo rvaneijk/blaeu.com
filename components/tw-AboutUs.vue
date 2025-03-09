@@ -8,7 +8,7 @@
         <div class="flex flex-col md:flex-row items-center gap-8 mb-12">
           <!-- Profile image on the left for medium screens and above -->
           <div class="md:w-1/3">
-            <img src="/assets/img/tiny_welcome.png" alt="Rob van Eijk - Founder of Blaeu Privacy Response Team" class="rounded-lg shadow-lg w-full max-w-xs mx-auto">
+            <img src="/assets/img/tiny_graph.png" alt="Rob van Eijk - Founder of Blaeu Privacy Response Team" class="rounded-lg shadow-lg w-full max-w-xs mx-auto">
           </div>
           
           <!-- About text with dual role emphasis -->

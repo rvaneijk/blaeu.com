@@ -6,10 +6,12 @@
     <div class="container mx-auto px-4">
       <div class="flex items-center justify-between h-16">
         <!-- Logo/Brand -->
-        <div class="flex items-center ml-2">
-          <img src="/assets/png/logo.png" alt="Blaeu Logo" class="h-8">
-        </div>
-        
+       <div class="flex items-center ml-2">
+         <NuxtLink to="/" class="flex items-center">
+           <img src="/assets/png/logo.png" alt="Blaeu Logo" class="h-8">
+         </NuxtLink>
+       </div>  
+	   
         <!-- Mobile menu button - Hidden on desktop -->
         <button 
           @click="mobileMenuOpen = !mobileMenuOpen" 

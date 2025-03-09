@@ -24,7 +24,7 @@
             </svg>
           </div>
           <h3 class="text-xl font-semibold mb-2">Privacy Compliance Assessments</h3>
-          <p>Comprehensive evaluation of your data operations against GDPR, ePrivacy, and emerging regulations. We identify compliance gaps and provide practical, prioritized recommendations tailored to your risk profile.</p>
+          <p>Comprehensive evaluation of your data operations against GDPR, ePrivacy, Data Act, AI Act, and (other) emerging regulations. We identify compliance gaps and provide practical, prioritized recommendations tailored to your risk profile.</p>
         </div>
         
         <!-- Service 2 -->
@@ -35,7 +35,7 @@
             </svg>
           </div>
           <h3 class="text-xl font-semibold mb-2">Privacy by Design Implementation</h3>
-          <p>Expert guidance on designing privacy-compliant data architectures that satisfy both legal requirements and business objectives. We help implement privacy-enhancing technologies to create sustainable competitive advantages.</p>
+          <p>Expert guidance on designing privacy-compliant data architectures that satisfy both legal requirements and business objectives. We help implement Privacy-Enhancing Technologies (PETs) to create robust competitive advantages.</p>
         </div>
         
         <!-- Service 3 -->
@@ -45,8 +45,8 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
             </svg>
           </div>
-          <h3 class="text-xl font-semibold mb-2">Regulatory Response Support</h3>
-          <p>Strategic assistance with regulatory inquiries and data protection authority investigations. Drawing on our regulatory experience, we help translate complex technical implementations into clear, persuasive legal explanations.</p>
+          <h3 class="text-xl font-semibold mb-2">Technical Expert in legal proceedings.</h3>
+          <p>Drawing on our regulatory experience, we help translate complex technical implementations into clear legal explanations. We act as a technical expert in court to substantiate technical assertions.</p>
         </div>
         
         <!-- Service 4 -->

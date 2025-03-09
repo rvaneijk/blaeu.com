@@ -142,7 +142,7 @@
                     </p>
 
                     <p>
-                        <span class="font-semibold">All Rights Reserved.</span> <span class="font-semibold">Video</span> provided by JuSun/Creatas Video via Getty Images. Licensed for commercial use. Fonts and other third-party components may be subject to their respective licenses. <span class="font-semibold">Fonts:</span> Amble Family (Apache License 2.0), Big John (SIL OFL 1.1), Dash.js (BSD License), Font Awesome (CC BY 4.0). <span class="font-semibold">Frameworks & Libraries:</span> Node.js components (Node.js contributors' terms), Nuxt.js components (MIT), Tailwind CSS (MIT),  TW Elements (GNU AGPL v3), and Vue.js (MIT).
+                        <span class="font-semibold">All Rights Reserved.</span> <span class="font-semibold">Video</span> provided by JuSun/Creatas Video via Getty Images. Licensed for commercial use. Fonts and other third-party components may be subject to their respective licenses. <span class="font-semibold">Fonts:</span> Amble Family (Apache License 2.0), Big John (SIL OFL 1.1), Font Awesome (CC BY 4.0). <span class="font-semibold">Frameworks & Libraries:</span> Dash.js (BSD License), Node.js components (Node.js contributors' terms), Nuxt.js components (MIT), Tailwind CSS (MIT),  TW Elements (GNU AGPL v3), and Vue.js (MIT).
                     </p>
                 </div>
             </div>
