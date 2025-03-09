@@ -2,20 +2,20 @@
 <template>
   <section id="about-us" class="py-16 bg-white font-amblelight">
     <div class="container mx-auto px-4">
-      <h2 class="text-3xl font-bold mb-8 text-center">About Blaeu Privacy Response Team</h2>
+      <h2 class="text-3xl font-bold mb-8 text-center">About Team Blaeu</h2>
       
       <div class="max-w-4xl mx-auto">
         <div class="flex flex-col md:flex-row items-center gap-8 mb-12">
           <!-- Profile image on the left for medium screens and above -->
           <div class="md:w-1/3">
-            <img src="/assets/img/tiny_graph.png" alt="Rob van Eijk - Founder of Blaeu Privacy Response Team" class="rounded-lg shadow-lg w-full max-w-xs mx-auto">
+            <img src="/assets/img/tiny_graph.png" alt="Rob van Eijk - Founder of Blaeu Privacy Response Team (Team Blaeu)" class="rounded-lg shadow-lg w-full max-w-xs mx-auto">
           </div>
           
           <!-- About text with dual role emphasis -->
           <div class="md:w-2/3">
             <h3 class="text-2xl font-semibold mb-4 text-gray-800">Leadership & Expertise</h3>
             <p class="text-lg mb-4">
-              Blaeu Privacy Response Team was founded by <a href="/rvaneijk" class="text-blue-600 hover:text-[#ffcc00] transition-colors">Dr. Rob van Eijk <i class="fa-solid fa-external-link fa-sm"></i></a>, who also serves as Managing Director Europe at the Future of Privacy Forum. This dual role creates a unique synergy between high-level policy development and practical implementation.
+              Blaeu Privacy Response Team (Team Blaeu) was founded by <a href="/rvaneijk" class="text-blue-600 hover:text-[#ffcc00] transition-colors">Dr. Rob van Eijk <i class="fa-solid fa-external-link fa-sm"></i></a>, who also serves as Managing Director Europe at the Future of Privacy Forum. This dual role creates a unique synergy between high-level policy development and practical implementation.
             </p>
             <p class="mb-4">
               Our consultancy leverages Dr. van Eijk's extensive experience in regulatory environments, including his tenure at the Dutch Data Protection Authority and work with the European Data Protection Board, to provide clients with strategic insights grounded in real-world regulatory perspectives.

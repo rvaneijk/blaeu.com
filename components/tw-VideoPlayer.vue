@@ -219,19 +219,70 @@ export default {
         // Add quality switch monitoring
         this.player.on(dashjs.MediaPlayer.events.QUALITY_CHANGE_RENDERED, (e) => {
           this.currentQuality = e.newQuality;
-          console.log('Quality changed to:', e.newQuality);
           
+          // Initialize with default values
+          let qualityLabel = 'Unknown';
+          let bitrateKbps = 0;
+          
+          // Debug information
+          // console.log('Quality change event data:', e);
+          
+          // Try different methods to get bitrate info
+          let bitrateInfo = null;
+          
+          // First method - getBitrateInfoListFor
+          if (this.player.getBitrateInfoListFor) {
+            bitrateInfo = this.player.getBitrateInfoListFor('video');
+            // console.log('Bitrate info from getBitrateInfoListFor:', bitrateInfo);
+          }
+          
+          // Alternative method - getQualityFor
+          const qualityFor = this.player.getQualityFor ? this.player.getQualityFor('video') : null;
+          // console.log('Quality from getQualityFor:', qualityFor);
+          
+          // Another alternative - getAverageThroughput
+          const throughput = this.player.getAverageThroughput ? this.player.getAverageThroughput('video') : null;
+          // console.log('Throughput from getAverageThroughput:', throughput);
+          
+          // Create quality info object
           const qualityInfo = {
-            quality: e.newQuality
+            quality: e.newQuality || 0,  // voor DEBUG in console: haal ' || 0' weg
+            qualityLabel: qualityLabel,
+            bitrate: bitrateKbps
           };
           
-          // Only add bitrate if we can safely get it
-          const bitrateInfo = this.player.getBitrateInfoListFor ? 
-            this.player.getBitrateInfoListFor('video') : 
-            null;
-            
+          // Try to extract bitrate info
           if (bitrateInfo && bitrateInfo[e.newQuality]) {
-            qualityInfo.bitrate = bitrateInfo[e.newQuality].bitrate / 1000 + ' kbps';
+            bitrateKbps = Math.round(bitrateInfo[e.newQuality].bitrate / 1000);
+            qualityInfo.bitrate = bitrateKbps;
+            
+            // Set quality label based on bitrate ranges
+            if (bitrateKbps > 3000) qualityLabel = 'HD';
+            else if (bitrateKbps > 1500) qualityLabel = 'Medium';
+            else if (bitrateKbps > 800) qualityLabel = 'Low';
+            else qualityLabel = 'Mobile';
+            
+            qualityInfo.qualityLabel = qualityLabel;
+            // console.log(`Quality changed to: ${qualityLabel} (${bitrateKbps} kbps)`);
+          } else if (throughput) {
+            // Fallback to throughput if available
+            bitrateKbps = Math.round(throughput / 1000);
+            qualityInfo.bitrate = bitrateKbps;
+            
+            // Estimate quality label based on throughput
+            if (bitrateKbps > 3000) qualityLabel = 'Estimated HD';
+            else if (bitrateKbps > 1500) qualityLabel = 'Estimated Medium';
+            else if (bitrateKbps > 800) qualityLabel = 'Estimated Low';
+            else qualityLabel = 'Estimated Mobile';
+            
+            qualityInfo.qualityLabel = qualityLabel;
+            // console.log(`Quality estimated from throughput: ${qualityLabel} (${bitrateKbps} kbps)`);
+          } else {
+            // Last resort - use quality index with predefined labels
+            const qualityLabels = ['Auto', 'Low', 'Medium', 'High', 'HD'];
+            qualityLabel = qualityLabels[e.newQuality] || `Quality ${e.newQuality}`;
+            qualityInfo.qualityLabel = qualityLabel;
+            // console.log(`Quality index ${e.newQuality}: Using preset label "${qualityLabel}"`);
           }
           
           // Emit event for parent components

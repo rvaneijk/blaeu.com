@@ -52,25 +52,25 @@ export default {
     },
     
     handleDashError(error) {
-      console.warn('Hero video DASH error:', error);
+      console.warn('Top video DASH error:', error);
       this.videoStatus = 'fallback';
     },
     
     handleDashFailed(error) {
-      console.error('Hero video DASH failed:', error);
+      console.error('Top video DASH failed:', error);
       this.videoStatus = 'fallback';
     },
     
     handleQualityChange(qualityInfo) {
       this.currentQuality = qualityInfo;
-      console.log('Hero video quality changed:', qualityInfo);
+      console.log('Top video quality changed:', qualityInfo);
     },
     
     handlePlayerReady(player) {
-      console.log('Hero video player ready');
+      console.log('Top video player ready');
       this.videoStatus = 'ready';
       
-      // Store a flag to indicate hero video was loaded
+      // Store a flag to indicate Top video was loaded
       if (window) {
         window.heroVideoLoaded = true;
         

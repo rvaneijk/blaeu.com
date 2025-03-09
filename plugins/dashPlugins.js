@@ -4,6 +4,21 @@
 export default ({ app }, inject) => {
   // Initialize DASH video cache container on client-side only
   if (process.client) {
+    // Initialize TrustedTypes policy for video player
+    if (window.trustedTypes && window.trustedTypes.createPolicy) {
+      // Only create the policy if it doesn't exist yet
+      if (!window.trustedTypes.getPolicy('videoPlayerPolicy')) {
+        try {
+          window.trustedTypes.createPolicy('videoPlayerPolicy', {
+            createHTML: (string) => string
+          });
+          console.log('TrustedTypes policy created for video player');
+        } catch (e) {
+          console.warn('Failed to create TrustedTypes policy:', e);
+        }
+      }
+    }
+    
     // Create a global cache for DASH resources
     window.dashCache = {
       // Track if DASH.js is loaded

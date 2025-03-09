@@ -9,21 +9,21 @@
       <div class="bg-white rounded-lg shadow-xl max-w-3xl w-full max-h-90vh overflow-y-auto" @click.stop>
         <div class="relative p-6">
           <!-- Close button -->
-          <button @click="closeModal" class="absolute top-4 right-4 text-gray-500 hover:text-gray-700">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          <button @click="closeModal" class="absolute top-4 right-4 z-10 text-black hover:text-b bg-black-600 hover:bg-blue-700 rounded-full p-2 flex items-center justify-center transition duration-300">
+            <svg class="w-5 h-5 text-black" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="black" stroke-width="2.5">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
-          
-          <!-- Language selector -->
-          <div class="flex justify-end mb-4">
+
+          <!-- Language selector with proper spacing and visibility -->
+          <div class="flex justify-end mb-4 mr-12">
             <div class="inline-flex rounded-md shadow-sm" role="group">
               <button 
                 @click="currentLanguage = 'nl'" 
                 :class="['px-3 py-2 text-sm font-medium flex items-center rounded-l-lg', 
                         currentLanguage === 'nl' 
-                          ? 'bg-blue-600 text-white' 
-                          : 'bg-white text-gray-700 hover:bg-gray-100']"
+                          ? 'bg-black text-white' 
+                          : 'bg-white text-black hover:bg-gray-300']"
                 title="Nederlands">
                 <span>Nederlands</span>
               </button>
@@ -31,14 +31,14 @@
                 @click="currentLanguage = 'en'" 
                 :class="['px-3 py-2 text-sm font-medium flex items-center rounded-r-lg', 
                         currentLanguage === 'en' 
-                          ? 'bg-blue-600 text-white' 
-                          : 'bg-white text-gray-700 hover:bg-gray-100']"
+                          ? 'bg-black text-white' 
+                          : 'bg-white text-black hover:bg-gray-300']"
                 title="English">
                 <span>English</span>
               </button>
             </div>
           </div>
-          
+           
           <!-- Header -->
           <div class="mb-6">
             <h2 class="text-2xl font-bold text-gray-900">

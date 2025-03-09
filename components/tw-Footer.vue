@@ -75,7 +75,7 @@
         <div class="pt-4">
           <h3 class="text-xl font-semibold mb-4 text-[#ffcc00]">Professional Roles</h3>
           <p class="mb-4 leading-relaxed">
-            I currently serve in dual professional capacities: as Managing Director Europe at the Future of Privacy Forum (FPF) and as Founder of Blaeu Privacy Response Team.
+            I currently serve in dual professional capacities: as Managing Director Europe at Future of Privacy Forum (FPF) and as Founder of Blaeu Privacy Response Team (Team Blaeu).
           </p>
           <p class="mb-4 leading-relaxed">
             My work bridges privacy policy development with practical implementation, providing strategic guidance on data protection, privacy engineering, and ethical technology deployment.
@@ -99,7 +99,7 @@
           </p>
 
           <p>
-            Opinions expressed are my own and do not necessarily reflect the views of the Future of Privacy Forum or other affiliated organizations. For Blaeu Privacy Response Team's company information, please visit <a href="/" class="text-[#ffcc00] hover:underline">blaeu.com <i class="fa-solid fa-external-link fa-xs"></i></a>.
+            Opinions expressed are my own and do not necessarily reflect the views of Future of Privacy Forum or other affiliated organizations. For Team Blaeu's company information, please visit <a href="/" class="text-[#ffcc00] hover:underline">blaeu.com <i class="fa-solid fa-external-link fa-xs"></i></a>.
           </p>
         </div>
       </div>

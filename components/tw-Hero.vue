@@ -25,7 +25,7 @@
           <div class="w-16 h-1 bg-blue-600 mb-8 opacity-80"></div>
           
           <h2 class="text-xl md:text-2xl text-gray-700 mb-5 font-amblelight leading-relaxed">
-            <span class="font-medium">Managing Director Europe at Future of Privacy Forum</span> | Founder of Blaeu Privacy Response Team
+            <span class="font-medium">Managing Director Europe at Future of Privacy Forum</span> | Founder of Team Blaeu
           </h2>
           
           <div class="mb-4 inline-block px-4 py-1.5 bg-blue-100 text-blue-800 rounded-full text-sm font-medium shadow-sm border border-blue-200">

@@ -7,7 +7,7 @@
       <!-- Brief introduction to services -->
       <div class="max-w-3xl mx-auto mb-12 text-center">
         <p class="text-lg mb-4">
-          Blaeu Privacy Response Team provides specialized consulting on the legal aspects of data architectures, complex data flows, and privacy-enhancing technologies.
+          Team Blaeu provides specialized consulting on the legal aspects of data architectures, complex data flows, and privacy-enhancing technologies.
         </p>
         <p class="text-md text-gray-600">
           Our approach combines regulatory experience, technical precision, and business pragmatism to deliver solutions that work in real-world environments.
@@ -45,7 +45,7 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z" />
             </svg>
           </div>
-          <h3 class="text-xl font-semibold mb-2">Technical Expert in legal proceedings.</h3>
+          <h3 class="text-xl font-semibold mb-2">Technical Expert in legal proceedings</h3>
           <p>Drawing on our regulatory experience, we help translate complex technical implementations into clear legal explanations. We act as a technical expert in court to substantiate technical assertions.</p>
         </div>
         
