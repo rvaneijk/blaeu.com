@@ -18,7 +18,7 @@
               Blaeu Privacy Response Team (Team Blaeu) was founded by <a href="/rvaneijk" class="text-blue-600 hover:text-[#ffcc00] transition-colors">Dr. Rob van Eijk <i class="fa-solid fa-external-link fa-sm"></i></a>, who also serves as Managing Director Europe at the Future of Privacy Forum. This dual role creates a unique synergy between high-level policy development and practical implementation.
             </p>
             <p class="mb-4">
-              Our consultancy leverages Dr. van Eijk's extensive experience in regulatory environments, including his tenure at the Dutch Data Protection Authority and work with the European Data Protection Board, to provide clients with strategic insights grounded in real-world regulatory perspectives.
+              Our consultancy leverages van Eijk's extensive experience in regulatory environments, including his tenure at the Dutch Data Protection Authority and work with the European Data Protection Board, to provide clients with strategic insights grounded in real-world regulatory perspectives.
             </p>
             <p>
               We specialize in translating complex privacy and data protection requirements into practical, technically sound solutions that align with both business objectives and regulatory compliance needs.

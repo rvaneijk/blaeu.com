@@ -74,6 +74,14 @@ export default {
       if (window) {
         window.heroVideoLoaded = true;
         
+        // Dispatch an event that the fixed background video can listen for
+        try {
+          const heroLoadedEvent = new Event('heroVideoLoaded');
+          window.dispatchEvent(heroLoadedEvent);
+        } catch (err) {
+          console.warn('Error dispatching heroVideoLoaded event:', err);
+        }
+        
         // Preload background video dash manifest
         this.preloadBackgroundVideo();
         
@@ -96,13 +104,8 @@ export default {
       preloadLink.crossOrigin = 'anonymous';
       document.head.appendChild(preloadLink);
       
-      // Optionally preload some initial segments if we know their URL pattern
-      // This is advanced and requires knowledge of your DASH segment naming
-      if (window.dashCache && window.dashCache.addSegment) {
-        // We could potentially fetch and cache initial segments here
-        // But this requires detailed knowledge of your DASH setup
-        console.log('Background video manifest preloaded');
-      }
+      // Log preload for debugging
+      console.log('Preloaded background video manifest');
     }
   }
 }

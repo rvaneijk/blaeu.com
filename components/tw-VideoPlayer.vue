@@ -52,7 +52,8 @@ export default {
       observer: null,
       dashLoaded: false,
       dashFailed: false,
-      currentQuality: 0
+      currentQuality: 0,
+      cacheAttempted: false
     }
   },
   mounted() {
@@ -69,6 +70,7 @@ export default {
       this.observer = new IntersectionObserver((entries) => {
         const [entry] = entries;
         if (entry.isIntersecting && !this.videoLoaded) {
+          // console.log('Video player visible, initializing:', this.dashSource);
           this.initializePlayer();
           this.observer.disconnect();
         }
@@ -83,12 +85,25 @@ export default {
       if (this.videoLoaded) return;
       this.videoLoaded = true;
       
+      // console.log(`Initializing player for ${this.dashSource}, cached player? ${this.useCachedPlayer}`);
+      
+      // Debug info about current cached players
+      if (window.dashCache && window.dashCache.players) {
+        // console.log('Current cached players:', Object.keys(window.dashCache.players).length);
+      }
+      
+      // Check global window flag for simpler debugging
+      if (window.cachedDashSource) {
+        // console.log(`Simple cached source available: ${window.cachedDashSource}`);
+      }
+      
       // Try advanced cache from dashPlugins first
       if (this.useCachedPlayer && window.dashCache && typeof window.dashCache.getPlayerBySource === 'function') {
         const cachedPlayer = window.dashCache.getPlayerBySource(this.dashSource);
         if (cachedPlayer) {
-          console.log('Using dashCache player for source:', this.dashSource);
+          console.log('CACHE HIT: Using dashCache player for source:', this.dashSource);
           this.player = cachedPlayer;
+          this.cacheAttempted = true;
           try {
             // Reattach to the new video element
             this.player.attachView(this.$refs.videoPlayer);
@@ -99,13 +114,16 @@ export default {
             console.warn('Failed to reuse dashCache player:', err);
             // Continue with fallback caching strategy
           }
+        } else {
+          console.log('CACHE MISS: No cached player found for source:', this.dashSource);
         }
       }
       
       // Fallback to simple window cache if advanced cache failed
       if (this.useCachedPlayer && window.cachedDashPlayer && window.cachedDashSource === this.dashSource) {
-        console.log('Using simple cached DASH player instance');
+        console.log('CACHE HIT: Using simple cached DASH player instance');
         this.player = window.cachedDashPlayer;
+        this.cacheAttempted = true;
         // Reattach to the new video element
         try {
           this.player.attachSource(this.dashSource);
@@ -118,6 +136,16 @@ export default {
           console.warn('Failed to reuse cached player:', err);
           // Continue with normal initialization if reattachment fails
         }
+      } else if (window.cachedDashPlayer) {
+        console.log('CACHE MISS: Cached source available but not matching:', 
+          window.cachedDashSource, 'vs requested:', this.dashSource);
+      }
+      
+      // Log when we fall through to creating a new instance
+      if (this.cacheAttempted) {
+        // console.log('Creating new player after cache attempts failed');
+      } else {
+        // console.log('Creating new player instance (no cache hits)');
       }
       
       // Check if dash.js is already loaded globally
@@ -224,29 +252,23 @@ export default {
           let qualityLabel = 'Unknown';
           let bitrateKbps = 0;
           
-          // Debug information
-          // console.log('Quality change event data:', e);
-          
           // Try different methods to get bitrate info
           let bitrateInfo = null;
           
           // First method - getBitrateInfoListFor
           if (this.player.getBitrateInfoListFor) {
             bitrateInfo = this.player.getBitrateInfoListFor('video');
-            // console.log('Bitrate info from getBitrateInfoListFor:', bitrateInfo);
           }
           
           // Alternative method - getQualityFor
           const qualityFor = this.player.getQualityFor ? this.player.getQualityFor('video') : null;
-          // console.log('Quality from getQualityFor:', qualityFor);
           
           // Another alternative - getAverageThroughput
           const throughput = this.player.getAverageThroughput ? this.player.getAverageThroughput('video') : null;
-          // console.log('Throughput from getAverageThroughput:', throughput);
           
           // Create quality info object
           const qualityInfo = {
-            quality: e.newQuality || 0,  // voor DEBUG in console: haal ' || 0' weg
+            quality: e.newQuality || 0,
             qualityLabel: qualityLabel,
             bitrate: bitrateKbps
           };
@@ -263,7 +285,6 @@ export default {
             else qualityLabel = 'Mobile';
             
             qualityInfo.qualityLabel = qualityLabel;
-            // console.log(`Quality changed to: ${qualityLabel} (${bitrateKbps} kbps)`);
           } else if (throughput) {
             // Fallback to throughput if available
             bitrateKbps = Math.round(throughput / 1000);
@@ -276,13 +297,11 @@ export default {
             else qualityLabel = 'Estimated Mobile';
             
             qualityInfo.qualityLabel = qualityLabel;
-            // console.log(`Quality estimated from throughput: ${qualityLabel} (${bitrateKbps} kbps)`);
           } else {
             // Last resort - use quality index with predefined labels
             const qualityLabels = ['Auto', 'Low', 'Medium', 'High', 'HD'];
             qualityLabel = qualityLabels[e.newQuality] || `Quality ${e.newQuality}`;
             qualityInfo.qualityLabel = qualityLabel;
-            // console.log(`Quality index ${e.newQuality}: Using preset label "${qualityLabel}"`);
           }
           
           // Emit event for parent components
@@ -300,6 +319,7 @@ export default {
         if (this.useCachedPlayer) {
           window.cachedDashPlayer = this.player;
           window.cachedDashSource = this.dashSource;
+          console.log(`Player cached with source: ${this.dashSource}`);
           
           // Also store in advanced cache if available
           if (window.dashCache && typeof window.dashCache.registerPlayer === 'function') {
@@ -307,6 +327,7 @@ export default {
               // Generate a unique ID for this player
               const playerId = 'dash-player-' + Date.now();
               window.dashCache.registerPlayer(playerId, this.player, this.dashSource);
+              console.log(`Player registered in advanced cache as: ${playerId}`);
             } catch (err) {
               console.warn('Failed to register player with dashCache:', err);
             }
@@ -359,8 +380,11 @@ export default {
         (window.cachedDashPlayer !== this.player && 
          (!window.dashCache || !window.dashCache.getPlayerBySource || 
           window.dashCache.getPlayerBySource(this.dashSource) !== this.player)))) {
+      // console.log('Cleaning up player on unmount');
       this.player.reset();
       this.player = null;
+    } else if (this.player) {
+      // console.log('Not destroying player as it is cached for reuse');
     }
   }
 }
