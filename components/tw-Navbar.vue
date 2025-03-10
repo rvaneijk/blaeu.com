@@ -5,11 +5,11 @@
   >
     <div class="container mx-auto px-4">
       <div class="flex items-center justify-between h-16">
-        <!-- Logo/Brand -->
+        <!-- Logo/Brand - Changed from NuxtLink to standard anchor tag to force full page reload -->
         <div class="flex items-center ml-2">
-          <NuxtLink to="/" class="flex items-center">
+          <a href="/" class="flex items-center">
             <img src="/assets/png/logo.png" alt="Blaeu Logo" class="h-8">
-          </NuxtLink>
+          </a>
         </div>        
        
         <!-- Mobile menu button - Hidden on desktop -->
