@@ -14,8 +14,8 @@
     <twServices />
       
     <!-- Testimonials section -->
-    <!-- <tw-SectionConnectorSolid /> -->
-    <!-- <twTestimonials class="mt-0" /> -->
+    <tw-SectionConnectorSolid />
+    <twTestimonials class="mt-0" />
     
     <!-- Transparent section with background video -->
     <tw-FixedBackgroundVideo />
