@@ -95,7 +95,7 @@
       <div>
         <div class="text-xs text-gray-300">
           <p class="mb-2">
-            <span class="font-semibold">© 2025 Rob van Eijk</span> • Personal content is licensed under CC BY 4.0 unless otherwise noted.
+            <span class="font-semibold">Copyright © 2025 Rob van Eijk</span> • Personal content is licensed under CC BY 4.0 unless otherwise noted.
           </p>
 
           <p>

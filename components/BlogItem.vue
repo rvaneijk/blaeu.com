@@ -1,16 +1,10 @@
 <template>
   <!-- 
-
-	This template is wrapped inside a <div> with a class name hello.
-    The blog post title is displayed within an <h3> tag. Clicking on the title will lead to the post's link, which will open in a new tab (target="_blank").
-    There's a section dedicated to displaying the blog post's image. This is wrapped in a <div> with a class name img-holder.
-    The post's author and date are displayed in a paragraph tag. Clicking on this information also leads to the blog post's link.
-    Following this, the post's introduction or excerpt (post.intro) is displayed.
-    Lastly, the source or the publication name from which the blog post originates is displayed in a <strong> tag.
-
+    All HTML structure remains the same, only removed the inline style attribute
+    and rely on the CSS class that already exists in the <style> section
   -->	
     <div class="hello">
-        <h3 :style="{ 'font-family': 'big_johnregular, Raleway, Helvetica, sans-serif' }">
+        <h3 class="blog-title">
             <a :href="post.link" target="_blank">{{ post.title }}</a>
         </h3>
         <div class="img-holder my-5">
@@ -48,12 +42,14 @@ export default {
 a:hover {
     color: var(--color-red-600);
 }
-h3 {
+
+/* Use the existing h3 selector for blog-title to maintain styling */
+h3, .blog-title {
     font-family: big_johnregular, Raleway, Helvetica, sans-serif;
 }
 
 @media only screen and (max-width: 768px) {
-    h3 {
+    h3, .blog-title {
         font-family: big_johnregular, Raleway, Helvetica, sans-serif;
     }
 }

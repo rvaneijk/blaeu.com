@@ -1,3 +1,4 @@
+<!-- tw-Navbar.vue -->
 <template>
   <nav 
     class="fixed top-0 left-0 w-full z-50 transition-all duration-300"
@@ -137,19 +138,18 @@
       </div>
     </div>
     
-    <!-- Progress bar -->
-    <div class="absolute bottom-0 left-0 h-1 bg-[#ffcc00]" :style="{ width: scrollPercentage + '%' }"></div>
+    <!-- Progress bar - CSS variable-based approach instead of inline styles -->
+    <div class="progress-bar absolute bottom-0 left-0 h-1 bg-[#ffcc00]"></div>
   </nav>
   
-  <!-- Back to top button -->
+  <!-- Back to top button - Removed inline styles -->
   <div 
     class="fixed bottom-6 right-6 z-50 transition-opacity duration-300"
     :class="{'opacity-100': showScrollButton, 'opacity-0 pointer-events-none': !showScrollButton}"
   >
     <button 
       @click="scrollTo('#top')" 
-      class="rounded-full p-3 shadow-lg transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2"
-      style="background-color: #ffcc00; color: #333;" 
+      class="back-to-top-btn rounded-full p-3 shadow-lg transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2"
     >
       <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 15l7-7 7 7" />
@@ -168,7 +168,7 @@ const mobileMenuOpen = ref(false);
 const scrollPercentage = ref(0);
 const showScrollButton = ref(false);
 
-// Update scroll state
+// Update scroll state and progress bar width using CSS custom property
 const handleScroll = () => {
   const scrollPosition = window.scrollY;
   scrolled.value = scrollPosition > 50;
@@ -177,6 +177,9 @@ const handleScroll = () => {
   // Calculate scroll percentage
   const totalHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
   scrollPercentage.value = (scrollPosition / totalHeight) * 100;
+  
+  // Update progress bar width using CSS custom property
+  document.documentElement.style.setProperty('--scroll-percentage', scrollPercentage.value + '%');
 };
 
 // Smooth scroll function
@@ -207,5 +210,17 @@ onUnmounted(() => {
   button[aria-controls="mobile-menu"] {
     display: none !important;
   }
+}
+
+/* Progress bar styling using CSS custom property */
+.progress-bar {
+  width: var(--scroll-percentage, 0%);
+  transition: width 0.1s ease-out;
+}
+
+/* Back to top button styling */
+.back-to-top-btn {
+  background-color: #ffcc00;
+  color: #333;
 }
 </style>
