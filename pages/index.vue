@@ -39,7 +39,7 @@
   // Improved SEO description
   const description = 'Team Blaeu provides expert consulting on legal aspects of data architectures and complex data flows, specializing in privacy, data protection, and compliance solutions.';
   const ogTitle = 'Team Blaeu | Data Privacy and Compliance Experts';
-  const twitterCard = 'https://blaeu.com/assets/img/tiny_twitter-card.png';
+  const twitterCard = 'https://blaeu.com/assets/img/camera.png';
   const mySite = 'https://blaeu.com';
   
   // JSON-LD structured data for SEO
@@ -58,6 +58,7 @@
     ],
     'knowsAbout': [
       'GDPR',
+      'AI Governance',
       'Privacy by Design',
       'Data Protection'
     ]

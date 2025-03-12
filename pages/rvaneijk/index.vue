@@ -27,9 +27,9 @@ import twCareerTimeline from '~/components/tw-CareerTimeline.vue';
 import twFooter from '~/components/tw-Footer.vue';
 
 // Enhanced description with executive focus
-const description = 'Rob van Eijk - Managing Director Europe at FPF, privacy executive and strategic technology leader with expertise in data protection, regulatory affairs, and technology governance. Qualified for C-suite and board positions.';
+const description = 'Rob van Eijk - privacy executive and strategic technology leader with expertise in data protection, regulatory affairs, and technology governance. Qualified for C-suite and board positions.';
 const ogTitle = 'Rob van Eijk | Privacy Executive & Strategic Technology Leader';
-const twitterCard = 'https://blaeu.com/assets/img/tiny_twitter-card.png';
+const twitterCard = 'https://blaeu.com/assets/img/camera.png';
 const mySite = 'https://blaeu.com/rvaneijk';
 
 // JSON-LD structured data for personal brand with executive emphasis
@@ -39,17 +39,18 @@ const jsonLd = {
   'name': 'Rob van Eijk',
   'url': mySite,
   'image': 'https://blaeu.com/assets/img/rob-van-eijk.jpg',
-  'jobTitle': 'Managing Director Europe',
+  'jobTitle': 'Founder',
   'worksFor': {
     '@type': 'Organization',
-    'name': 'Future of Privacy Forum'
+    'name': 'Team Blaeu'
   },
   'description': description,
   'knowsAbout': [
     'Privacy Leadership',
     'Regulatory Strategy',
     'Data Protection',
-    'Technology Governance',
+    'Privacy by Design',
+	'AI Governance',
     'Executive Management'
   ],
   'alumniOf': {
