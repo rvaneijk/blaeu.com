@@ -1,0 +1,13 @@
+[ 
+   { 
+        "title": "Web Privacy Measurement in Real-Time Bidding Systems",
+        "intro": "In the doctoral thesis, I investigate the advertisements online that seem to follow you. The thesis shows that the data cause the interconnection between partners in an RTB network flows of the ad tech companies due to their specializations in ad technology. By applying network science algorithms, I arrive at measuring the privacy component of RTB. Furthermore, I show that a Graph-Based Methodological Approach (GBMA) controls the situation of differences in consent implementations in European countries.",
+        "author": "Leiden University, Leiden Law School",
+        "date": "2019",
+        "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3319284",
+        "image": "/assets/img/tiny_meijers.webp",
+        "alttext": "Screenshot cover the publication",
+        "pubcategory": "scholarly",
+        "publication": "book"
+    }
+] 
