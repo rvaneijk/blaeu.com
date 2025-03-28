@@ -1,0 +1,31 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "generate": "nuxt generate && node scripts/add-sri.js",
+	  "add-sri": "node scripts/add-sri.js",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^2.2.1",
+    "@tailwindcss/cli": "^4.0.12",
+    "@tailwindcss/postcss": "^4.0.12",
+    "@tailwindcss/vite": "^4.0.12",
+    "@types/node": "^22.13.9",
+    "nuxt": "^3.16.0",
+    "vue": "^3.5.12",
+    "vue-loader": "^17.4.2",
+    "vue-router": "^4.5.0",
+    "vue-tsc": "^2.2.8",
+    "webpack-subresource-integrity": "^5.2.0-rc.1"
+  },
+  "dependencies": {
+    "dashjs": "^5.0.0",
+    "depcheck": "^1.4.7",
+    "npm": "^11.2.0",
+    "serve": "^14.2.4",
+    "tinyexec": "^0.3.2",
+    "tw-elements": "^2.0.0"
+  }
+}
