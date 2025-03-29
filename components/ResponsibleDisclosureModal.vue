@@ -61,6 +61,8 @@
           
           <!-- English Content -->
           <div v-if="currentLanguage === 'en'" class="prose max-w-none text-gray-800">
+            <p class="text-gray-500 my-4">Last Updated: September 23, 2023</p>
+
             <p>At Blaeu Privacy Response Team B.V., we consider the security of our systems a top priority. But no matter how much effort we put into system security, there can still be vulnerabilities present.</p>
             
             <p>If you discover a vulnerability, we would like to know about it to take steps to address it as quickly as possible. We want to ask you to help us better protect our clients and our systems.</p>
@@ -85,14 +87,15 @@
             </ul>
             
             <p class="mt-4">We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication of the issue after fixing it.</p>
-            
-            <p class="text-gray-500 mt-6">Last Updated: September 23, 2023</p>
           </div>
 
           <!-- Dutch content -->
           <div v-else class="prose max-w-none text-gray-800">
+
+            <p class="text-gray-500 my-4">Laatst bijgewerkt: 23 september 2023</p>
+
             <p>Bij Blaeu Privacy Response Team B.V. staat de beveiliging van onze systemen hoog in het vaandel. Maar hoe goed wij ons best ook doen, er kunnen toch kwetsbaarheden voorkomen.</p>
-            
+  
             <p>Als u een kwetsbaarheid ontdekt, horen wij dit graag zodat we snel maatregelen kunnen treffen. Wij willen graag met u samenwerken om onze klanten en onze systemen beter te beschermen.</p>
             
             <h3 class="text-xl font-semibold mt-6 mb-3">WIJ VRAGEN U:</h3>
@@ -115,8 +118,6 @@
             </ul>
             
             <p class="mt-4">Wij streven ernaar alle problemen zo snel mogelijk op te lossen en wij willen graag betrokken worden bij een eventuele publicatie over het probleem nadat het is opgelost.</p>
-            
-            <p class="text-gray-500 mt-6">Laatst bijgewerkt: 23 september 2023</p>
           </div>
         </div>
       </div>
