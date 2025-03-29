@@ -101,6 +101,8 @@
             <p>
               Under the General Data Protection Regulation (GDPR), you have rights regarding your personal data. For more information about how we handle personal data, please refer to our <a href="#" @click.prevent="showPrivacyPolicy" class="text-blue-600 hover:underline">Privacy Statement</a>.
             </p>
+
+           <p class="mt-4">If there is an inconsistency between the Dutch and English-language version of these regulations, the Dutch version takes precedence.</p>
             
           </div>
           
@@ -241,7 +243,9 @@ PRIVACY BY DESIGN: VIDEO COMPONENT
 We use the Dash.js component for displaying videos on our website. We have configured this component in such a way that we do not use cookies. We store the used video codec in the local storage of the browser (e.g., dashjs_video_settings - codec: "video/mp4;codecs=\"avc1.42c01e\""). A video codec is a piece of software or hardware that compresses and decompresses video information. If the video appears multiple times on a page, such as on the homepage, we don't load it twice. This saves network traffic and makes the page load faster.
 
 YOUR RIGHTS
-Under the General Data Protection Regulation (GDPR), you have rights regarding your personal data. For more information about how we handle personal data, please refer to our Privacy Statement.`;
+Under the General Data Protection Regulation (GDPR), you have rights regarding your personal data. For more information about how we handle personal data, please refer to our Privacy Statement.
+
+If there is an inconsistency between the Dutch and English-language version of these regulations, the Dutch version takes precedence.`;
       }
 
       // Create a blob with the text content

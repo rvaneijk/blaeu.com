@@ -42,7 +42,10 @@
   // Improved SEO description
   const description = 'Team Blaeu provides expert consulting on data architecture legal aspects, specializing in privacy, data protection, and compliance solutions.';
   const ogTitle = 'Team Blaeu | Data Privacy and Compliance Experts';
-  const twitterCard = 'https://blaeu.com/assets/img/tiny_graph.png';
+  const ogImage = 'https://blaeu.com/assets/img/og-image.webp';
+  const ogImageJpg = 'https://blaeu.com/assets/img/og-image.jpg'; // Fallback
+  const twitterCardWebp = 'https://blaeu.com/assets/img/twitter-card.webp';
+  const twitterCardJpg = 'https://blaeu.com/assets/img/twitter-card.jpg'; // Fallback
   const mySite = 'https://blaeu.com';
   
   // JSON-LD structured data for SEO
@@ -74,7 +77,34 @@
       'postalCode': '3072 DE',
       'addressCountry': 'Netherlands'
     },
-    'email': 'info@blaeu.com'
+    'email': 'info@blaeu.com',
+    'serviceType': [
+      'Privacy Compliance Assessments',
+      'Privacy by Design Implementation',
+      'Technical Expert in Legal Proceedings',
+      'Executive & Board Training',
+      'Advanced Impact Assessments',
+      'Privacy Program Development'
+    ],
+    // Add testimonials section
+    'review': [
+      {
+        '@type': 'Review',
+        'reviewBody': 'As head of Private Sector Oversight at the Dutch Data Protection Authority (Autoriteit Persoonsgegevens), I enjoyed working with Rob for many years. He is analytically strong, thoughtful and very diplomatic. He has great knowledge at the intersection of privacy and technology and knows how to connect and relate these worlds like no other. His dissertation on Real Time Bidding is the exemplary example of this. Finally, but also very important, Rob is just an incredibly nice and pleasant colleague that I wish everyone on his team.',
+        'author': {
+          '@type': 'Person',
+          'name': 'Udo Oelen'
+        }
+      },
+      {
+        '@type': 'Review',
+        'reviewBody': 'I had the chance to work with Rob while I was at CNIL and we collaborated on several projects related to online tracking. Rob has a comprehensive view of the complex ecosystem that is the online advertising industry and also manages to know all the technical and legal details. Rob identifies the key challenges and successfully explains this highly complex topic to non-experts by providing useful examples. He is also able to design tools and write concise code to implement them.',
+        'author': {
+          '@type': 'Person',
+          'name': 'Vincent Toubiana'
+        }
+      }
+    ],
   };
 
   useHead({
@@ -88,8 +118,14 @@
       { property: 'og:url', content: mySite },
       { property: 'og:title', content: ogTitle },
       { property: 'og:description', content: description },
-      { property: 'og:image', content: twitterCard },
-      // LinkedIn-specific image dimensions
+      { property: 'og:image:alt', content: 'Team Blaeu provides expert consulting on data architecture legal aspects, specializing in privacy, data protection, and compliance solutions.' },
+      { property: 'og:image', content: ogImage },
+      { property: 'og:image:type', content: 'image/webp' },
+      { property: 'og:image:width', content: '1200' },
+      { property: 'og:image:height', content: '630' },
+      // Add fallback JPG
+      { property: 'og:image', content: ogImageJpg },
+      { property: 'og:image:type', content: 'image/jpeg' },
       { property: 'og:image:width', content: '1200' },
       { property: 'og:image:height', content: '630' },
       { property: 'og:locale', content: 'en_US' },
@@ -97,7 +133,13 @@
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:title', content: ogTitle },
       { name: 'twitter:description', content: description },
-      { name: 'twitter:image', content: twitterCard },
+      { name: 'twitter:image', content: twitterCardWebp },
+      { name: 'twitter:image:alt', content: 'Team Blaeu logo and branding' },
+      // Add fallback JPG for Twitter
+      { name: 'twitter:image', content: 'https://blaeu.com/assets/img/twitter-card.jpg' },
+      { name: 'twitter:image:width', content: '1200' },
+      { name: 'twitter:image:height', content: '630' },
+
       // Add viewport tag
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       // Enhanced keywords with trending terms

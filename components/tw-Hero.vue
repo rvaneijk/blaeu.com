@@ -19,9 +19,9 @@
         
         <!-- Profile Info - Enhanced for executive positioning -->
         <div class="md:w-3/4 md:pl-12">
-          <h1 class="font-big-john text-4xl md:text-5xl font-bold text-gray-800 mb-5">
+          <h2 class="font-big-john text-4xl md:text-5xl font-bold text-gray-800 mb-5">
             ROB VAN EIJK
-          </h1>
+          </h2>
           <div class="w-16 h-1 bg-blue-600 mb-8 opacity-80"></div>
           
           <h2 class="text-xl md:text-2xl text-gray-700 mb-5 font-amblelight leading-relaxed">

@@ -36,10 +36,6 @@
                                 info@blaeu.com
                             </a>
                         </li>
-                        <li class="flex items-center">
-                            <i class="fa-solid fa-phone mr-3 text-[#ffcc00]"></i>
-                            <span>+31 651 411 914</span>
-                        </li>
                     </ul>
           <div class="mt-6">
             <a href="mailto:info@blaeu.com" class="bg-[#ffcc00] hover:bg-blue-600 text-black hover:text-white font-medium px-4 py-2 rounded-md transition-colors inline-flex items-center">
