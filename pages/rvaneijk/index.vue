@@ -460,11 +460,7 @@ useHead({
     { rel: 'publication', href: 'https://ssrn.com/abstract=3361360', title: 'The impact of user location on cookie notices (inside and outside of the European Union)' },
     { rel: 'publication', href: 'https://doi.org/10.1007/978-3-642-40972-1_13', title: 'A constraint-based approach to context' },
     // Scholar profile
-    { rel: 'me', href: 'https://scholar.google.nl/citations?user=p4VBH-4AAAAJ', title: 'Google Scholar Profile' },
-    // Links to research categories
-    { rel: 'related', href: 'https://blaeu.com/rvaneijk/research/ai-data-protection', title: 'AI and Data Protection Research' },
-    { rel: 'related', href: 'https://blaeu.com/rvaneijk/research/adtech', title: 'AdTech Research' },
-    { rel: 'related', href: 'https://blaeu.com/rvaneijk/research/privacy-engineering', title: 'Privacy Engineering Research' }
+    { rel: 'me', href: 'https://scholar.google.nl/citations?user=p4VBH-4AAAAJ', title: 'Google Scholar Profile' }
   ],
   script: [
     {
