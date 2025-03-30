@@ -77,7 +77,7 @@
       'postalCode': '3072 DE',
       'addressCountry': 'Netherlands'
     },
-    'email': 'info@blaeu.com',
+    'email': 'team@blaeu.com',
     'serviceType': [
       'Privacy Compliance Assessments',
       'Privacy by Design Implementation',

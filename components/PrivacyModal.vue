@@ -56,20 +56,20 @@
             <h2 class="text-2xl font-bold text-gray-900">
               {{ currentLanguage === 'nl' ? 'Privacyverklaring' : 'Privacy Statement' }}
             </h2>
-            <p class="text-gray-600">Blaeu Privacy Response Team B.V.</p>
+            <p class="text-gray-600">Team Blaeu (Blaeu Privacy Response Team B.V.)</p>
           </div>
           
           <!-- English Content -->
           <div v-if="currentLanguage === 'en'" class="prose max-w-none text-gray-800">
-            <p>This is the privacy statement of Blaeu Privacy Response Team B.V. (Hereinafter: Team Blaeu). You can contact us at:</p>
+            <p>This is the privacy statement of Team Blaeu. You can contact us at:</p>
             
             <p class="ml-4">
-              <br />Blaeu Privacy Response Team B.V.<br>
+              <br />Team Blaeu<br>
               Halfrond 73, 3071 PP, Rotterdam, The Netherlands<br>
-              info@blaeu.com
+              team@blaeu.com
             </p>
             
-            <p class="text-gray-500"><br />Last Updated: March 1, 2025</p>
+            <p class="text-gray-500"><br />Last Updated: March 31, 2025</p>
             
             <h3 class="text-xl font-semibold mt-6 mb-3">We process the following personal data:</h3>
             
@@ -115,15 +115,15 @@
           
           <!-- Dutch Content -->
           <div v-else class="prose max-w-none text-gray-800">
-            <p>Dit is de privacyverklaring van Blaeu Privacy Response Team B.V. (hierna: Team Blaeu). U kunt contact met ons opnemen via:</p>
+            <p>Dit is de privacyverklaring van Team Blaeu. U kunt contact met ons opnemen via:</p>
             
             <p class="ml-4">
-              <br />Blaeu Privacy Response Team B.V.<br>
+              <br />Team Blaeu<br>
               Halfrond 73, 3071 PP, Rotterdam, Nederland<br>
-              info@blaeu.com
+              team@blaeu.com
             </p>
             
-            <p class="text-gray-500"><br />Laatst bijgewerkt: 1 maart 2025</p>
+            <p class="text-gray-500"><br />Laatst bijgewerkt: 31 maart 2025</p>
             
             <h3 class="text-xl font-semibold mt-6 mb-3">Wij verwerken de volgende persoonsgegevens:</h3>
             
@@ -200,14 +200,14 @@ export default {
       let content = '';
       
       if (isNL) {
-        content = `PRIVACYVERKLARING - BLAEU PRIVACY RESPONSE TEAM B.V.
-Laatst bijgewerkt: 1 maart 2025
+        content = `PRIVACYVERKLARING - TEAM BLAEU (BLAEU PRIVACY RESPONSE TEAM B.V.)
+Laatst bijgewerkt: 31 maart 2025
 
-Dit is de privacyverklaring van Blaeu Privacy Response Team B.V. (hierna: Team Blaeu). U kunt contact met ons opnemen via:
+Dit is de privacyverklaring van Team Blaeu (Blaeu Privacy Response Team B.V.). U kunt contact met ons opnemen via:
 
-Blaeu Privacy Response Team B.V.
+Team Blaeu
 Halfrond 73, 3071 PP, Rotterdam, Nederland
-info@blaeu.com
+team@blaeu.com
 
 WIJ VERWERKEN DE VOLGENDE PERSOONSGEGEVENS:
 
@@ -233,14 +233,14 @@ Wij verzamelen gegevens voornamelijk rechtstreeks bij u.
 UW RECHTEN:
 Op grond van de AVG heeft u het recht op inzage, rectificatie, wissing (in bepaalde omstandigheden), beperking van de verwerking en overdraagbaarheid van uw gegevens, evenals het recht bezwaar te maken tegen verwerking op basis van gerechtvaardigde belangen en toestemming in te trekken (indien van toepassing). Team Blaeu doet niet aan volledig geautomatiseerde besluitvorming of profilering. Om deze rechten uit te oefenen, kunt u contact met ons opnemen via de bovenstaande gegevens. U kunt ook een klacht indienen bij de Autoriteit Persoonsgegevens.`;
       } else {
-        content = `PRIVACY STATEMENT - BLAEU PRIVACY RESPONSE TEAM B.V.
-Last Updated: March 1, 2025
+        content = `PRIVACY STATEMENT - TEAM BLAEU (BLAEU PRIVACY RESPONSE TEAM B.V.)
+Last Updated: March 31, 2025
 
-This is the privacy statement of Blaeu Privacy Response Team B.V. (Hereinafter: Team Blaeu). You can contact us at:
+This is the privacy statement of Team Blaeu (Blaeu Privacy Response Team B.V.). You can contact us at:
 
-Blaeu Privacy Response Team B.V.
+Team Blaeu
 Halfrond 73, 3071 PP, Rotterdam, The Netherlands
-info@blaeu.com
+team@blaeu.com
 
 WE PROCESS THE FOLLOWING PERSONAL DATA:
 

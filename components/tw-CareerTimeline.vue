@@ -52,7 +52,7 @@
                       <div class="w-4 h-4 rounded-full bg-blue-600"></div>
                     </div>
                     <div>
-                      <h3 class="text-xl font-semibold mb-2">Blaeu Privacy Response Team B.V.</h3>
+                      <h3 class="text-xl font-semibold mb-2">Team Blaeu (Blaeu Privacy Response Team B.V.)</h3>
                       <p class="text-blue-600 mb-3 text-sm">2019 - Present</p>
                       <p class="text-gray-700">Founder and Principal. Strategic privacy consultancy focused on complex data architectures, regulatory compliance, and privacy-by-design implementation. Advise organizations on risk management strategies, data protection impact assessments, and emerging privacy challenges with a human-centric approach to data governance.</p>
                     </div>

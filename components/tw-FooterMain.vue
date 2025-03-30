@@ -32,13 +32,13 @@
                     <ul class="space-y-1">
                         <li class="flex items-center">
                             <i class="fa-solid fa-envelope mr-3 text-[#ffcc00]"></i>
-                            <a href="mailto:info@blaeu.com" class="hover:text-[#ffcc00] transition-colors">
-                                info@blaeu.com
+                            <a href="mailto:team@blaeu.com" class="hover:text-[#ffcc00] transition-colors">
+                                team@blaeu.com
                             </a>
                         </li>
                     </ul>
           <div class="mt-6">
-            <a href="mailto:info@blaeu.com" class="bg-[#ffcc00] hover:bg-blue-600 text-black hover:text-white font-medium px-4 py-2 rounded-md transition-colors inline-flex items-center">
+            <a href="mailto:team@blaeu.com" class="bg-[#ffcc00] hover:bg-blue-600 text-black hover:text-white font-medium px-4 py-2 rounded-md transition-colors inline-flex items-center">
               <i class="fa-solid fa-envelope mr-2"></i> Get in touch
             </a>
           </div>

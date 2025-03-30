@@ -56,20 +56,20 @@
             <h2 class="text-2xl font-bold text-gray-900">
               {{ currentLanguage === 'nl' ? 'Responsible Disclosure Beleid' : 'Responsible Disclosure Policy' }}
             </h2>
-            <p class="text-gray-600">Blaeu Privacy Response Team B.V.</p>
+            <p class="text-gray-600">Team Blaeu (Blaeu Privacy Response Team B.V.)</p>
           </div>
           
           <!-- English Content -->
           <div v-if="currentLanguage === 'en'" class="prose max-w-none text-gray-800">
-            <p class="text-gray-500 my-4">Last Updated: September 23, 2023</p>
+            <p class="text-gray-500 my-4">Last Updated: March 31, 2025</p>
 
-            <p>At Blaeu Privacy Response Team B.V., we consider the security of our systems a top priority. But no matter how much effort we put into system security, there can still be vulnerabilities present.</p>
+            <p>At Team Blaeu, we consider the security of our systems a top priority. But no matter how much effort we put into system security, there can still be vulnerabilities present.</p>
             
             <p>If you discover a vulnerability, we would like to know about it to take steps to address it as quickly as possible. We want to ask you to help us better protect our clients and our systems.</p>
             
             <h3 class="text-xl font-semibold mt-6 mb-3">PLEASE DO THE FOLLOWING:</h3>
             <ul class="list-disc pl-6">
-              <li>E-mail your findings to rob@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,</li>
+              <li>E-mail your findings to team@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,</li>
               <li>Do not take advantage of the vulnerability or problem you have discovered, for example, by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people's data,</li>
               <li>Do not reveal the problem to others until we have resolved it,</li>
               <li>Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties, and</li>
@@ -92,15 +92,15 @@
           <!-- Dutch content -->
           <div v-else class="prose max-w-none text-gray-800">
 
-            <p class="text-gray-500 my-4">Laatst bijgewerkt: 23 september 2023</p>
+            <p class="text-gray-500 my-4">Laatst bijgewerkt: 31 maart 2025</p>
 
-            <p>Bij Blaeu Privacy Response Team B.V. staat de beveiliging van onze systemen hoog in het vaandel. Maar hoe goed wij ons best ook doen, er kunnen toch kwetsbaarheden voorkomen.</p>
+            <p>Bij Team Blaeu staat de beveiliging van onze systemen hoog in het vaandel. Maar hoe goed wij ons best ook doen, er kunnen toch kwetsbaarheden voorkomen.</p>
   
             <p>Als u een kwetsbaarheid ontdekt, horen wij dit graag zodat we snel maatregelen kunnen treffen. Wij willen graag met u samenwerken om onze klanten en onze systemen beter te beschermen.</p>
             
             <h3 class="text-xl font-semibold mt-6 mb-3">WIJ VRAGEN U:</h3>
             <ul class="list-disc pl-6">
-              <li>Uw bevindingen te mailen naar rob@blaeu.com. Versleutel uw bevindingen met onze PGP-sleutel om te voorkomen dat deze gevoelige informatie in verkeerde handen valt,</li>
+              <li>Uw bevindingen te mailen naar team@blaeu.com. Versleutel uw bevindingen met onze PGP-sleutel om te voorkomen dat deze gevoelige informatie in verkeerde handen valt,</li>
               <li>De kwetsbaarheid niet te misbruiken door bijvoorbeeld meer data te downloaden dan nodig is om het lek aan te tonen of gegevens van derden te bekijken, verwijderen of aanpassen,</li>
               <li>De kwetsbaarheid niet met anderen te delen totdat deze is verholpen,</li>
               <li>Geen gebruik te maken van aanvallen op fysieke beveiliging, social engineering, distributed denial of service, spam of applicaties van derden, en</li>
@@ -156,15 +156,15 @@ export default {
       let content = '';
       
       if (isNL) {
-        content = `RESPONSIBLE DISCLOSURE BELEID - BLAEU PRIVACY RESPONSE TEAM B.V.
-Laatst bijgewerkt: 23 september 2023
+        content = `RESPONSIBLE DISCLOSURE BELEID - TEAM BLAEU (BLAEU PRIVACY RESPONSE TEAM B.V.)
+Laatst bijgewerkt: 31 maart 2025
 
-Bij Blaeu Privacy Response Team B.V. staat de beveiliging van onze systemen hoog in het vaandel. Maar hoe goed wij ons best ook doen, er kunnen toch kwetsbaarheden voorkomen.
+Bij Team Blaeu staat de beveiliging van onze systemen hoog in het vaandel. Maar hoe goed wij ons best ook doen, er kunnen toch kwetsbaarheden voorkomen.
 
 Als u een kwetsbaarheid ontdekt, horen wij dit graag zodat we snel maatregelen kunnen treffen. Wij willen graag met u samenwerken om onze klanten en onze systemen beter te beschermen.
 
 WIJ VRAGEN U:
-- Uw bevindingen te mailen naar rob@blaeu.com. Versleutel uw bevindingen met onze PGP-sleutel om te voorkomen dat deze gevoelige informatie in verkeerde handen valt,
+- Uw bevindingen te mailen naar team@blaeu.com. Versleutel uw bevindingen met onze PGP-sleutel om te voorkomen dat deze gevoelige informatie in verkeerde handen valt,
 - De kwetsbaarheid niet te misbruiken door bijvoorbeeld meer data te downloaden dan nodig is om het lek aan te tonen of gegevens van derden te bekijken, verwijderen of aanpassen,
 - De kwetsbaarheid niet met anderen te delen totdat deze is verholpen,
 - Geen gebruik te maken van aanvallen op fysieke beveiliging, social engineering, distributed denial of service, spam of applicaties van derden, en
@@ -180,15 +180,15 @@ WAT WIJ BELOVEN:
 
 Wij streven ernaar alle problemen zo snel mogelijk op te lossen en wij willen graag betrokken worden bij een eventuele publicatie over het probleem nadat het is opgelost.`;
       } else {
-        content = `RESPONSIBLE DISCLOSURE POLICY - BLAEU PRIVACY RESPONSE TEAM B.V.
-Last Updated: September 23, 2023
+        content = `RESPONSIBLE DISCLOSURE POLICY - TEAM BLAEU (BLAEU PRIVACY RESPONSE TEAM B.V.
+Last Updated: March 31, 2025
 
-At Blaeu Privacy Response Team B.V., we consider the security of our systems a top priority. But no matter how much effort we put into system security, there can still be vulnerabilities present.
+At Team Blaeu, we consider the security of our systems a top priority. But no matter how much effort we put into system security, there can still be vulnerabilities present.
 
 If you discover a vulnerability, we would like to know about it to take steps to address it as quickly as possible. We want to ask you to help us better protect our clients and our systems.
 
 PLEASE DO THE FOLLOWING:
-- E-mail your findings to rob@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,
+- E-mail your findings to team@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,
 - Do not take advantage of the vulnerability or problem you have discovered, for example, by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people's data,
 - Do not reveal the problem to others until we have resolved it,
 - Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties, and

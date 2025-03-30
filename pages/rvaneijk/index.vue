@@ -99,7 +99,7 @@ const jsonLd = {
     'https://github.com/rvaneijk',
     'https://fpf.org/person/rob-van-eijk/'
   ],
-  'email': 'rob@blaeu.com',
+  'email': 'team@blaeu.com',
   'hasOccupation': {
     '@type': 'Occupation',
     'name': 'Privacy Executive',

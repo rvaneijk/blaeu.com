@@ -56,7 +56,7 @@
             <h2 class="text-2xl font-bold text-gray-900">
               {{ currentLanguage === 'nl' ? 'Cookiebeleid' : 'Cookie Policy' }}
             </h2>
-            <p class="text-gray-600">Blaeu Privacy Response Team B.V. (Team Blaeu)</p>
+            <p class="text-gray-600">Team Blaeu (Blaeu Privacy Response Team B.V.)</p>
           </div>
           
           <!-- English Content -->
@@ -65,11 +65,11 @@
               This page is free from (tracking) cookies or similar technologies. We delete access logs after 3 months.
             </p>
 
-            <p class="text-gray-500 mt-6">Last Updated: March 28, 2025</p>
+            <p class="text-gray-500 mt-6">Last Updated: March 31, 2025</p>
             
             <h3 class="text-xl font-semibold mt-6 mb-3">Why We Don't Use Cookies</h3>
             <p>
-              At Blaeu Privacy Response Team B.V., we prioritize your privacy and data protection rights. We have designed our website to function without the need for cookies or similar tracking technologies. This means:
+              At Team Blaeu, we prioritize your privacy and data protection rights. We have designed our website to function without the need for cookies or similar tracking technologies. This means:
             </p>
             <ul class="list-disc pl-6">
               <li>No tracking of your browsing behavior on our site</li>
@@ -112,11 +112,11 @@
               Deze pagina is vrij van (tracking) cookies of vergelijkbare technologieën. We verwijderen toegangslogboeken na 3 maanden.
             </p>
 
-            <p class="text-gray-500 mt-6">Laatst bijgewerkt: 28 maart 2025</p>
+            <p class="text-gray-500 mt-6">Laatst bijgewerkt: 31 maart 2025</p>
             
             <h3 class="text-xl font-semibold mt-6 mb-3">Waarom wij geen cookies gebruiken</h3>
             <p>
-              Bij Blaeu Privacy Response Team B.V. geven wij prioriteit aan uw privacy en gegevensbeschermingsrechten. We hebben onze website ontworpen om te functioneren zonder cookies of vergelijkbare tracking-technologieën. Dit betekent:
+              Bij Team Blaeu geven wij prioriteit aan uw privacy en gegevensbeschermingsrechten. We hebben onze website ontworpen om te functioneren zonder cookies of vergelijkbare tracking-technologieën. Dit betekent:
             </p>
             <ul class="list-disc pl-6">
               <li>Geen tracking van uw surfgedrag op onze site</li>
@@ -191,13 +191,13 @@ export default {
       let content = '';
       
       if (isNL) {
-        content = `COOKIEBELEID - BLAEU PRIVACY RESPONSE TEAM B.V.
-Laatst bijgewerkt: 28 maart 2025
+        content = `COOKIEBELEID - TEAM BLAEU (BLAEU PRIVACY RESPONSE TEAM B.V.)
+Laatst bijgewerkt: 31 maart 2025
 
 Deze pagina is vrij van (tracking) cookies of vergelijkbare technologieën. We verwijderen toegangslogboeken na 3 maanden.
 
 WAAROM WIJ GEEN COOKIES GEBRUIKEN
-Bij Blaeu Privacy Response Team B.V. geven wij prioriteit aan uw privacy en gegevensbeschermingsrechten. We hebben onze website ontworpen om te functioneren zonder cookies of vergelijkbare tracking-technologieën. Dit betekent:
+Bij Team Blaeu geven wij prioriteit aan uw privacy en gegevensbeschermingsrechten. We hebben onze website ontworpen om te functioneren zonder cookies of vergelijkbare tracking-technologieën. Dit betekent:
 - Geen tracking van uw surfgedrag op onze site
 - Geen verzameling van persoonlijke gegevens via cookies
 - Geen cookies van derden voor advertenties
@@ -218,13 +218,13 @@ We gebruiken de Dash.js component voor het tonen van video's op onze website. De
 UW RECHTEN
 Onder de Algemene Verordening Gegevensbescherming (AVG) heeft u rechten met betrekking tot uw persoonsgegevens. Voor meer informatie over hoe wij met persoonsgegevens omgaan, verwijzen wij u naar onze Privacyverklaring.`;
       } else {
-        content = `COOKIE POLICY - BLAEU PRIVACY RESPONSE TEAM B.V.
-Last Updated: March 28, 2025
+        content = `COOKIE POLICY - TEAM BLAEU (BLAEU PRIVACY RESPONSE TEAM B.V.)
+Last Updated: March 31, 2025
 
 This page is free from (tracking) cookies or similar technologies. We delete access logs after 3 months.
 
 WHY WE DON'T USE COOKIES
-At Blaeu Privacy Response Team B.V., we prioritize your privacy and data protection rights. We have designed our website to function without the need for cookies or similar tracking technologies. This means:
+At Team Blaeu, we prioritize your privacy and data protection rights. We have designed our website to function without the need for cookies or similar tracking technologies. This means:
 - No tracking of your browsing behavior on our site
 - No collection of personal data through cookies
 - No third-party advertising cookies

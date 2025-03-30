@@ -54,16 +54,16 @@
           <!-- Header -->
           <div class="mb-6">
             <h2 class="text-2xl font-bold text-gray-900">Security.txt</h2>
-            <p class="text-gray-600">Blaeu Privacy Response Team B.V.</p>
+            <p class="text-gray-600">Team Blaeu (Blaeu Privacy Response Team B.V.)</p>
           </div>
           
           <!-- English Content -->
           <div v-if="currentLanguage === 'en'" class="prose max-w-none text-gray-800">
             <p class="text-gray-500 my-4">Last Updated: December 28, 2024</p>
 
-            <p>This is the security.txt information for Blaeu Privacy Response Team B.V.</p>
+            <p>This is the security.txt information for Team Blaeu</p>
 
-            <p>Security.txt is a standard that allows websites to define security policies and contact information for security researchers. Below is the security.txt file for Blaeu Privacy Response Team B.V.</p>
+            <p>Security.txt is a standard that allows websites to define security policies and contact information for security researchers. Below is the security.txt file for Team Blaeu</p>
             
             <div class="bg-gray-50 p-4 my-6">
               <p>Contact: mailto:rob@blaeu.com</p>
@@ -91,9 +91,9 @@
           <div v-else class="prose max-w-none text-gray-800">
             <p class="text-gray-500 my-4">Laatst bijgewerkt: 28 december 2024</p>
 
-            <p>Dit is de security.txt informatie voor Blaeu Privacy Response Team B.V.</p>
+            <p>Dit is de security.txt informatie voor Team Blaeu.</p>
  
-            <p>Security.txt is een standaard die websites in staat stelt om beveiligingsbeleid en contactinformatie voor beveiligingsonderzoekers te definiëren. Hieronder staat het security.txt bestand voor Blaeu Privacy Response Team B.V.</p>
+            <p>Security.txt is een standaard die websites in staat stelt om beveiligingsbeleid en contactinformatie voor beveiligingsonderzoekers te definiëren. Hieronder staat het security.txt bestand voor Team Blaeu</p>
             
             <div class="bg-gray-50 p-4 my-6">
               <p>Contact: mailto:rob@blaeu.com</p>

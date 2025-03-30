@@ -85,7 +85,7 @@
       
       <!-- Call to action -->
       <div class="text-center mt-12">
-        <a href="mailto:info@blaeu.com" class="inline-flex items-center bg-blue-600 text-white py-3 px-8 rounded-lg font-medium hover:bg-blue-700 transition duration-300">
+        <a href="mailto:teamo@blaeu.com" class="inline-flex items-center bg-blue-600 text-white py-3 px-8 rounded-lg font-medium hover:bg-blue-700 transition duration-300">
           <i class="fa-solid fa-envelope mr-2"></i> Request a Consultation
         </a>
       </div>

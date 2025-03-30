@@ -9,8 +9,8 @@
           <ul class="space-y-3">
             <li class="flex items-center">
               <i class="fa-solid fa-envelope mr-3 text-[#ffcc00]"></i>
-              <a href="mailto:rob@blaeu.com" class="hover:text-[#ffcc00] transition-colors">
-                rob@blaeu.com
+              <a href="mailto:teamb@blaeu.com" class="hover:text-[#ffcc00] transition-colors">
+                team@blaeu.com
               </a>
             </li>
 			<li class="flex items-center">
@@ -75,13 +75,13 @@
         <div class="pt-4">
           <h3 class="text-xl font-semibold mb-4 text-[#ffcc00]">Professional Roles</h3>
           <p class="mb-4 leading-relaxed">
-            I currently serve in dual professional capacities: as Managing Director Europe at Future of Privacy Forum (FPF) and as Founder of Blaeu Privacy Response Team (Team Blaeu).
+            I currently serve in dual professional capacities: as Managing Director Europe at Future of Privacy Forum (FPF) and as Founder of Team Blaeu (Blaeu Privacy Response Team B.V.).
           </p>
           <p class="mb-4 leading-relaxed">
             My work bridges privacy policy development with practical implementation, providing strategic guidance on data protection, privacy engineering, and ethical technology deployment.
           </p>
           <div class="mt-6">
-            <a href="mailto:rob@blaeu.com" class="bg-[#ffcc00] hover:bg-blue-600 text-black hover:text-white font-medium px-4 py-2 rounded-md transition-colors inline-flex items-center">
+            <a href="mailto:team@blaeu.com" class="bg-[#ffcc00] hover:bg-blue-600 text-black hover:text-white font-medium px-4 py-2 rounded-md transition-colors inline-flex items-center">
               <i class="fa-solid fa-envelope mr-2"></i> Get in touch
             </a>
           </div>

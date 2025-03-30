@@ -56,13 +56,13 @@
             <h2 class="text-2xl font-bold text-gray-900">
               {{ currentLanguage === 'nl' ? 'Algemene voorwaarden' : 'General Terms and Conditions' }}
             </h2>
-            <p class="text-gray-600">Blaeu Privacy Response Team B.V.</p>
+            <p class="text-gray-600">Team Blaeu (Blaeu Privacy Response Team B.V.)</p>
           </div>
           
           <!-- Dutch Content -->
           <div v-if="currentLanguage === 'nl'" class="prose max-w-none text-gray-800">
             <div class="mb-6">
-              <p>Deze zijn bijgewerkt op 1 maart 2025. In het kort:</p>
+              <p>Deze zijn bijgewerkt op 31 maart 2025. In het kort:</p>
               <ul class="list-disc pl-5 mt-2 space-y-1">
                 <li>Blaeu Privacy Response Team B.V. (hierna: Team Blaeu) is een besloten vennootschap ingeschreven bij de Kamer van Koophandel onder nr. 75599740.</li>
                 <li>Team Blaeu brengt geen kantoorkosten in rekening.</li>
@@ -75,7 +75,7 @@
             </div>
             
             <ol class="list-decimal pl-5 space-y-2">
-              <li>Blaeu Privacy Response Team B.V. (hierna: Team Blaeu) is een besloten vennootschap naar Nederlands recht. Blaeu Privacy Response Team B.V. is gevestigd in Rotterdam en is ingeschreven bij de Kamer van Koophandel onder nummer 75599740.</li>
+              <li>Blaeu Privacy Response Team B.V. (hierna: Team Blaeu) is een besloten vennootschap naar Nederlands recht. Team Blaeu is gevestigd in Rotterdam en is ingeschreven bij de Kamer van Koophandel onder nummer 75599740.</li>
               
               <li>Deze Algemene Voorwaarden zijn van toepassing op alle rechtsverhoudingen tussen Team Blaeu en de opdrachtgever, tenzij partijen voorafgaand aan de totstandkoming van een overeenkomst schriftelijk anders zijn overeengekomen. Team Blaeu sluit de toepasselijkheid van eventuele door de opdrachtgever gehanteerde algemene voorwaarden uit.</li>
               
@@ -102,7 +102,7 @@
           <!-- English Content -->
           <div v-else class="prose max-w-none text-gray-800">
             <div class="mb-6">
-              <p>These were updated on March 1, 2025. In short:</p>
+              <p>These were updated on March 31, 2025. In short:</p>
               <ul class="list-disc pl-5 mt-2 space-y-1">
                 <li>Blaeu Privacy Response Team B.V. (herinafter: Team Blaeu) is a private limited company registered at the Dutch Chamber of Commerce under no. 75599740.</li>
                 <li>Team Blaeu does not charge office costs.</li>
@@ -115,7 +115,7 @@
             </div>
             
             <ol class="list-decimal pl-5 space-y-2">
-              <li>Blaeu Privacy Response Team B.V. (Team Blaeu) is a private limited company under Dutch law. Blaeu Privacy Response Team B.V. is located in Rotterdam and is registered at the Dutch Chamber of Commerce under no. 75599740.</li>
+              <li>Blaeu Privacy Response Team B.V. (Team Blaeu) is a private limited company under Dutch law. Team Blaeu is located in Rotterdam and is registered at the Dutch Chamber of Commerce under no. 75599740.</li>
               
               <li>These General Terms and Conditions apply to all legal relationships between Team Blaeu and the client, unless the parties have agreed otherwise in writing prior to the conclusion of an agreement. Team Blaeu excludes the applicability of any general terms and conditions used by the client.</li>
               
@@ -178,7 +178,7 @@ export default {
       let content = '';
       
       if (isNL) {
-        content = `ALGEMENE VOORWAARDEN - BLAEU PRIVACY RESPONSE TEAM B.V.
+        content = `ALGEMENE VOORWAARDEN - TEAM BLAEU (BLAEU PRIVACY RESPONSE TEAM B.V.)
 Bijgewerkt op 1 maart 2025
 
 IN HET KORT:
@@ -215,7 +215,7 @@ VOLLEDIGE ALGEMENE VOORWAARDEN:
 
 11. Team Blaeu behoudt de eigendom van alle door haar geleverde zaken, totdat de koper volledig aan al zijn betalingsverplichtingen heeft voldaan.`;
       } else {
-        content = `GENERAL TERMS AND CONDITIONS - BLAEU PRIVACY RESPONSE TEAM B.V.
+        content = `GENERAL TERMS AND CONDITIONS - TEAM BLAEU (BLAEU PRIVACY RESPONSE TEAM B.V.)
 Updated on March 1, 2025
 
 IN SHORT:
