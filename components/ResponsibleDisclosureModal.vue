@@ -69,7 +69,7 @@
             
             <h3 class="text-xl font-semibold mt-6 mb-3">PLEASE DO THE FOLLOWING:</h3>
             <ul class="list-disc pl-6">
-              <li>E-mail your findings to team@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,</li>
+              <li>E-mail your findings to rob@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,</li>
               <li>Do not take advantage of the vulnerability or problem you have discovered, for example, by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people's data,</li>
               <li>Do not reveal the problem to others until we have resolved it,</li>
               <li>Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties, and</li>
@@ -100,7 +100,7 @@
             
             <h3 class="text-xl font-semibold mt-6 mb-3">WIJ VRAGEN U:</h3>
             <ul class="list-disc pl-6">
-              <li>Uw bevindingen te mailen naar team@blaeu.com. Versleutel uw bevindingen met onze PGP-sleutel om te voorkomen dat deze gevoelige informatie in verkeerde handen valt,</li>
+              <li>Uw bevindingen te mailen naar rob@blaeu.com. Versleutel uw bevindingen met onze PGP-sleutel om te voorkomen dat deze gevoelige informatie in verkeerde handen valt,</li>
               <li>De kwetsbaarheid niet te misbruiken door bijvoorbeeld meer data te downloaden dan nodig is om het lek aan te tonen of gegevens van derden te bekijken, verwijderen of aanpassen,</li>
               <li>De kwetsbaarheid niet met anderen te delen totdat deze is verholpen,</li>
               <li>Geen gebruik te maken van aanvallen op fysieke beveiliging, social engineering, distributed denial of service, spam of applicaties van derden, en</li>
@@ -164,7 +164,7 @@ Bij Team Blaeu staat de beveiliging van onze systemen hoog in het vaandel. Maar 
 Als u een kwetsbaarheid ontdekt, horen wij dit graag zodat we snel maatregelen kunnen treffen. Wij willen graag met u samenwerken om onze klanten en onze systemen beter te beschermen.
 
 WIJ VRAGEN U:
-- Uw bevindingen te mailen naar team@blaeu.com. Versleutel uw bevindingen met onze PGP-sleutel om te voorkomen dat deze gevoelige informatie in verkeerde handen valt,
+- Uw bevindingen te mailen naar rob@blaeu.com. Versleutel uw bevindingen met onze PGP-sleutel om te voorkomen dat deze gevoelige informatie in verkeerde handen valt,
 - De kwetsbaarheid niet te misbruiken door bijvoorbeeld meer data te downloaden dan nodig is om het lek aan te tonen of gegevens van derden te bekijken, verwijderen of aanpassen,
 - De kwetsbaarheid niet met anderen te delen totdat deze is verholpen,
 - Geen gebruik te maken van aanvallen op fysieke beveiliging, social engineering, distributed denial of service, spam of applicaties van derden, en
@@ -188,7 +188,7 @@ At Team Blaeu, we consider the security of our systems a top priority. But no ma
 If you discover a vulnerability, we would like to know about it to take steps to address it as quickly as possible. We want to ask you to help us better protect our clients and our systems.
 
 PLEASE DO THE FOLLOWING:
-- E-mail your findings to team@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,
+- E-mail your findings to rob@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,
 - Do not take advantage of the vulnerability or problem you have discovered, for example, by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people's data,
 - Do not reveal the problem to others until we have resolved it,
 - Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties, and

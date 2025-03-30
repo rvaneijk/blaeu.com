@@ -66,6 +66,15 @@
                     <h3 class="text-lg font-semibold mb-3">Legal</h3>
                     <ul class="space-y-1">
                         <li class="flex items-center">
+                            <i class="fa-solid fa-scale-balanced mr-3 text-[#ffcc00]"></i>
+                            <div>
+                                <span>General Terms and Conditions </span>
+                                <a href="#" @click.prevent="showTerms('en')" class="hover:text-[#ffcc00] transition-colors" title="English">EN</a>
+                                <span class="mx-1">|</span>
+                                <a href="#" @click.prevent="showTerms('nl')" class="hover:text-[#ffcc00] transition-colors" title="Nederlands">NL</a>
+                            </div>
+                        </li>
+                        <li class="flex items-center">
                             <i class="fa-solid fa-file-shield mr-3 text-[#ffcc00]"></i>
                             <div>
                                 <span>Privacy Statement </span>
@@ -81,15 +90,6 @@
                                 <a href="#" @click.prevent="showCookiePolicy('en')" class="hover:text-[#ffcc00] transition-colors" title="English">EN</a>
                                 <span class="mx-1">|</span>
                                 <a href="#" @click.prevent="showCookiePolicy('nl')" class="hover:text-[#ffcc00] transition-colors" title="Nederlands">NL</a>
-                            </div>
-                        </li>
-                        <li class="flex items-center">
-                            <i class="fa-solid fa-scale-balanced mr-3 text-[#ffcc00]"></i>
-                            <div>
-                                <span>General Terms and Conditions </span>
-                                <a href="#" @click.prevent="showTerms('en')" class="hover:text-[#ffcc00] transition-colors" title="English">EN</a>
-                                <span class="mx-1">|</span>
-                                <a href="#" @click.prevent="showTerms('nl')" class="hover:text-[#ffcc00] transition-colors" title="Nederlands">NL</a>
                             </div>
                         </li>
                     </ul>
@@ -108,19 +108,16 @@
                                 <a href="#" @click.prevent="showResponsibleDisclosure('nl')" class="hover:text-[#ffcc00] transition-colors" title="Nederlands">NL</a>
                             </div>
                         </li>
-                        <li class="flex items-center">
-                            <i class="fa-solid fa-file-shield mr-3 text-[#ffcc00]"></i>
-                            <div>
-                                <span>Security.txt </span>
-                                <a href="#" @click.prevent="showSecurityTxt('en')" class="hover:text-[#ffcc00] transition-colors" title="English">EN</a>
-                                <span class="mx-1">|</span>
-                                <a href="#" @click.prevent="showSecurityTxt('nl')" class="hover:text-[#ffcc00] transition-colors" title="Nederlands">NL</a>
-                            </div>
-                        </li>
+						<li class="flex items-center">
+							<i class="fa-solid fa-key mr-3 text-[#ffcc00]"></i>
+							<a href="https://pgp.surfnet.nl/pks/lookup?search=9b9171334b4f58de&fingerprint=on&op=index" target="_blank" class="hover:text-[#ffcc00] transition-colors">
+								PGP Key @SURFnet<i class="fa-solid fa-external-link fa-xs"></i>
+							</a>
+						</li>
                         <li class="flex items-center">
                             <i class="fa-brands fa-github mr-3 text-[#ffcc00]"></i>
                             <a href="https://github.com/rvaneijk/blaeu.com" target="_blank" class="hover:text-[#ffcc00] transition-colors">
-                                Website Repository&nbsp;<i class="fa-solid fa-external-link fa-xs"></i>
+                                Website Source Code&nbsp;<i class="fa-solid fa-external-link fa-xs"></i>
                             </a>
                         </li>
                     </ul>
@@ -172,13 +169,6 @@
             :initial-language="responsibleDisclosureLanguage"
             @close="showResponsibleDisclosureModal = false"
         />
-        
-        <!-- Security.txt Modal -->
-        <SecurityTxtModal
-            :show="showSecurityTxtModal"
-            :initial-language="securityTxtLanguage"
-            @close="showSecurityTxtModal = false"
-        />
     </section>
 </template>
 
@@ -187,15 +177,13 @@ import TermsModal from '~/components/TermsModal.vue'
 import PrivacyModal from '~/components/PrivacyModal.vue'
 import CookiePolicyModal from '~/components/CookiePolicyModal.vue'
 import ResponsibleDisclosureModal from '~/components/ResponsibleDisclosureModal.vue'
-import SecurityTxtModal from '~/components/SecurityTxtModal.vue'
 
 export default {
     components: {
         TermsModal,
         PrivacyModal,
         CookiePolicyModal,
-        ResponsibleDisclosureModal,
-        SecurityTxtModal
+        ResponsibleDisclosureModal
     },
     data() {
         return {
@@ -203,12 +191,10 @@ export default {
             showPrivacyModal: false,
             showCookiePolicyModal: false,
             showResponsibleDisclosureModal: false,
-            showSecurityTxtModal: false,
             termsLanguage: 'nl',
             privacyLanguage: 'nl',
             cookiePolicyLanguage: 'nl',
-            responsibleDisclosureLanguage: 'nl',
-            securityTxtLanguage: 'nl'
+            responsibleDisclosureLanguage: 'nl'
         }
     },
     computed: {
@@ -228,7 +214,6 @@ export default {
         this.privacyLanguage = this.browserLanguage;
         this.cookiePolicyLanguage = this.browserLanguage;
         this.responsibleDisclosureLanguage = this.browserLanguage;
-        this.securityTxtLanguage = this.browserLanguage;
     },
     methods: {
         // Show terms in specific language
@@ -253,12 +238,6 @@ export default {
         showResponsibleDisclosure(language) {
             this.responsibleDisclosureLanguage = language;
             this.showResponsibleDisclosureModal = true;
-        },
-        
-        // Show security.txt modal
-        showSecurityTxt(language) {
-            this.securityTxtLanguage = language;
-            this.showSecurityTxtModal = true;
         }
     }
 }
