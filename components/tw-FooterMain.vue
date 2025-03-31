@@ -131,7 +131,7 @@
             <div>
                 <div class="text-xs text-gray-300">
                     <p class="mb-2">
-                        <span class="font-semibold">Copyright © 2025 Blaeu Privacy Response Team B.V.</span> • Content is licensed under CC BY 4.0 unless otherwise noted.
+                        <span class="font-semibold">Copyright © 2019 - 2025 Blaeu Privacy Response Team B.V.</span> • Content is licensed under CC BY 4.0 unless otherwise noted.
                     </p>
 
                     <p>

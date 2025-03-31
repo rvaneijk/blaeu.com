@@ -9,8 +9,8 @@
           <ul class="space-y-3">
             <li class="flex items-center">
               <i class="fa-solid fa-envelope mr-3 text-[#ffcc00]"></i>
-              <a href="mailto:teamb@blaeu.com" class="hover:text-[#ffcc00] transition-colors">
-                team@blaeu.com
+              <a href="mailto:rob@blaeu.com" class="hover:text-[#ffcc00] transition-colors">
+                rob@blaeu.com
               </a>
             </li>
 			<li class="flex items-center">
