@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:rob@blaeu.com
+Expires: 2025-12-29T22:00:00.000Z
+Encryption: https://pgp.surfnet.nl/pks/lookup?search=6e9c7952da113db11f1a94119b9171334b4f58de&fingerprint=on&op=index
+Preferred-Languages: en, nl
+Canonical: https://blaeu.com/.well-known/security.txt
+Policy: https://blaeu.com/.well-known/responsible_disclosure_policy.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEbpx5UtoRPbEfGpQRm5FxM0tPWN4FAmdylmkACgkQm5FxM0tP
+WN548AwAzd2C/83M4lV6iOXb+4zlj4Zxe5Lc7sMP3Kj7otD2wfs7TlEvOTVyKatQ
+fxRulEsY2JZNSyfN/ACZgQ2HVfSCJvM08xtByAzekvv1g0J+3tLJAi7kj3fHlrxE
+ATVCsFzVSsRZdynfwnrSU784lEPq11T6w3GNCEfc0OFxYGVN+Waeb4KMkq31aifd
+CNzbVB83V1JEU9XBkKgnGvQHEr42q4+kECPz6LbJhmqFt8RTDCaPNReMf9lZxwHX
+Lv0itm51CjegIIU4ffdGsRLMSlqPb2szWetZWn8M8SFbLp6MvQcJYSH3X06Urv5g
+RFuS4B6dh+h1QUEqaQobT9P2eCe6in8VmYoGl7MAgeLlZ6vSEd4s9d4Z9SMtVNLa
+T/1e9qgZlh35n+J2ua/772NPLDLkClAk41dr0FdCc2fR6VvtWq5QwBFpjJ+Wt9Ek
+8A6ZzjCXxpEbSWQqEt7YOW7vp6y3iJm/ZDrQtmw6hBy3TFNVN03k4WAFRdbPJ6fJ
+xEtvlg/h
+=g5+B
+-----END PGP SIGNATURE-----
