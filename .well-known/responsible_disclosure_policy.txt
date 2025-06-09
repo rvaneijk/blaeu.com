@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+RESPONSIBLE DISCLOSURE
+
+At Blaeu Privacy Response Team B.V., we consider the security of our systems a top priority. But no matter how much effort we put into system security, there can still be vulnerabilities present.
+
+If you discover a vulnerability, we would like to know about it to take steps to address it as quickly as possible. We want to ask you to help us better protect our clients and our systems.
+
+PLEASE DO THE FOLLOWING:
+  - E-mail your findings to rob@blaeu.com. Encrypt your results using our PGP key to prevent this critical information from falling into the wrong hands,
+  - Do not take advantage of the vulnerability or problem you have discovered, for example, by downloading more data than necessary to demonstrate the vulnerability or deleting or modifying other people's data,
+  - Do not reveal the problem to others until we have resolved it,
+  - Do not use attacks on physical security, social engineering, distributed denial of service, spam or applications of third parties, and
+  - Do provide sufficient information to reproduce the problem to resolve it as quickly as possible. Usually, the I.P. address or the URL of the affected system and a description of the vulnerability will be sufficient, but complex vulnerabilities may require further explanation.
+
+WHAT WE PROMISE:
+  - We will respond to your report within three business days with our evaluation of the information and an expected resolution date,
+  - If you have followed the instructions above, we will not take any legal action against you regarding the information,
+  - We will handle your report with strict confidentiality and not pass on your details to third parties without your permission,
+  - We will keep you informed of the progress towards resolving the problem,
+  - In the public information concerning the problem reported, we will give your name as the discoverer of the problem (unless you desire otherwise), and
+  - We offer a reward for every report of a security problem that we did not know about yet. As a token of our gratitude for your assistance, the reward amount will be determined based on the leak's severity and the report's quality. The minimum reward will be a Fifty Euro gift certificate.
+
+We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication of the issue after fixing it.
+
+Version: 1.0.1 - 23 September 2023
+Policy: https://blaeu.com/assets/txt/responsible_disclosure_policy.txt
+Contact: rob@blaeu.com
+PGP Key (ID: 9b9171334b4f58de): https://pgp.surfnet.nl/pks/lookup?op=get&search=0x6e9c7952da113db11f1a94119b9171334b4f58de
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEbpx5UtoRPbEfGpQRm5FxM0tPWN4FAmUO6agACgkQm5FxM0tP
+WN6zXgwAyR55yxMCkv7DHelxhNzFzXxqe4o/6PfLm6JGUYHLNj0Mlbi4ySTykjO4
+6PNQr2+cNkX98xdcmTc/uORBhqarrvz6IsMR3V1iGDlFg1ZSXrWGYKunwu+s14Mq
+ac6VHlR4rdkmuugOHje6/+J1GNzevURM5K7MR4Zl+GaoOivDof9F/nqF/Finf2To
+cl4/Tdn2bt0mw8qIOep+fBTvA9+F9aLHQPCwgCkOswTYzF4UJ90H3CTc8cqf0Ntl
+B6ccLf8PLQlgg1KIPj5rxQ3qI+Peu8SYbfLvJ95eXFBN9UHQCg2YlO/4I7WTf1OP
+/Nr1AJif/xgS1RdObl5I5klcf4eKKzs8pnZpjkpE4O/VMilPq4/XGNe5cLGXB03H
+IsAAqs5SFDtJDjBFScGeBSLBxH3aYoUHtzeaEtl9M8u21t/dtMHNkXhPkIUluRwJ
+OcYehReI2J0ABJBHQ9oumRp90b9RJbxTRH2+GvWQ8D38rR0eSjWASEpHxDFWi3tr
+ErJGtq5d
+=p8+N
+-----END PGP SIGNATURE-----
