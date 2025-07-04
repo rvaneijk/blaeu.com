@@ -1,0 +1,62 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "generate": "nuxt generate && node scripts/add-sri.js",
+    "add-sri": "node scripts/add-sri.js",
+    "preview": "nuxt preview",
+    "prepare": "husky",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "type-check": "vue-tsc --noEmit"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^2.6.2",
+    "@nuxt/eslint-config": "^1.5.2",
+    "@tailwindcss/cli": "^4.1.11",
+    "@tailwindcss/postcss": "^4.1.11",
+    "@tailwindcss/vite": "^4.1.11",
+    "@types/node": "^22.16.0",
+    "@typescript-eslint/eslint-plugin": "^8.35.1",
+    "@typescript-eslint/parser": "^8.35.1",
+    "eslint": "^9.30.1",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.5.1",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.2",
+    "nuxt": "^3.17.6",
+    "prettier": "^3.6.2",
+    "vue": "^3.5.17",
+    "vue-loader": "^17.4.2",
+    "vue-router": "^4.5.0",
+    "vue-tsc": "^2.2.12",
+    "webpack-subresource-integrity": "^5.2.0-rc.1"
+  },
+  "dependencies": {
+    "@nuxt/image": "^1.10.0",
+    "@vue-a11y/announcer": "^2.1.0",
+    "@vue-a11y/focus-loop": "^0.2.0",
+    "@vue-a11y/skip-to": "^2.1.2",
+    "dashjs": "^5.0.2",
+    "depcheck": "^1.4.7",
+    "express": "^5.1.0",
+    "js-yaml": "^4.1.0",
+    "micromatch": "^4.0.8",
+    "npm": "^11.4.2",
+    "serve": "^14.2.4",
+    "tinyexec": "^0.3.2",
+    "tw-elements": "^2.0.0"
+  },
+  "lint-staged": {
+    "*.{js,ts,vue}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "*.{json,md,css,scss}": [
+      "prettier --write"
+    ]
+  }
+}

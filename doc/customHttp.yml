@@ -1,0 +1,171 @@
+customHeaders:
+  - pattern: /*.html
+    headers:
+      - key: Content-Type
+        value: text/html; charset=UTF-8
+      - key: Cache-Control
+        value: no-cache, no-store, no-transform, must-revalidate
+      - key: Content-Language
+        value: EN
+  - pattern: /*.xml
+    headers:
+      - key: Content-Type
+        value: application/xml
+      - key: Cache-Control
+        value: no-cache, no-store, no-transform, must-revalidate
+  - pattern: /.well-known/*.txt
+    headers:
+      - key: Content-Type
+        value: text/plain
+      - key: Cache-Control
+        value: no-cache, no-store, no-transform, must-revalidate
+      - key: X-Content-Type-Options
+        value: nosniff
+  - pattern: /.well-known/*.json
+    headers:
+      - key: Content-Type
+        value: application/json
+  - pattern: /assets/css/*.css
+    headers:
+      - key: Content-Type
+        value: text/css
+      - key: Cache-Control
+        value: max-age=604800, stale-while-revalidate=86400
+  - pattern: /assets/css/*.woff2
+    headers:
+      - key: Content-Type
+        value: font/woff2
+      - key: Cache-Control
+        value: max-age=604800, stale-while-revalidate=86400
+  - pattern: /assets/png/*.png
+    headers:
+      - key: Content-Type
+        value: image/png
+      - key: Cache-Control
+        value: max-age=604800, stale-while-revalidate=86400
+      - key: Access-Control-Allow-Origin
+        value: "*"
+      - key: Cross-Origin-Resource-Policy
+        value: cross-origin
+  - pattern: /assets/dash/video/*
+    headers:
+      - key: Cache-Control
+        value: public, max-age=31536000, immutable
+      - key: Content-Type
+        value: application/dash+xml
+        
+  - pattern: /assets/img/*
+    headers:
+      - key: Access-Control-Allow-Origin
+        value: "*"
+      - key: Cross-Origin-Resource-Policy
+        value: cross-origin
+  - pattern: /assets/mp4/*.mp4
+    headers:
+      - key: Cache-Control
+        value: public, max-age=31536000, immutable
+      - key: Content-Type
+        value: video/mp4
+  - pattern: /assets/dash/*.mpd
+    headers:
+      - key: Cache-Control
+        value: public, max-age=86400
+      - key: Content-Type
+        value: application/dash+xml
+  - pattern: "**/*"
+    headers:
+      - key: Access-Control-Allow-Origin
+        value: https://blaeu.com
+      - key: Strict-Transport-Security
+        value: max-age=31622400; includeSubDomains; preload
+      - key: X-Content-Type-Options
+        value: nosniff
+      - key: X-Frame-Options
+        value: DENY
+      - key: Referrer-Policy
+        value: no-referrer
+      - key: Permissions-Policy
+        value: sync-xhr=(), autoplay=(), accelerometer=(), camera=(), geolocation=(),
+          gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(),
+          interest-cohort=()
+      - key: Cross-Origin-Embedder-Policy
+        value: require-corp
+      - key: Cross-Origin-Opener-Policy
+        value: same-origin
+      - key: Cross-Origin-Resource-Policy
+        value: same-origin
+      - key: X-Xss-Protection
+        value: "0"
+      - key: Content-Security-Policy
+        value: default-src 'none'; script-src 'self' 'sha256-bwK6T5wZVTANitXbrTsel7kl/PyCjCd/Dq5Qoz3imjM='; script-src-elem 'self'
+          'sha256-gVXz1EFiX167vo55fxYb72glSbp8ve1EmtnRDQ/B8Co='; style-src
+          'self'; style-src-elem 'self' 'unsafe-hashes'
+          'sha256-dEuEUyuTevx1jlQksclGPshT1N4TDSmnl46DDLGThbQ=' 
+          'sha256-wycLKZuExjCGoE4Q1xGMnRMOSlwQCwzrciSyDpT99Ec=' 
+          'sha256-8Enja9ST2rWz2LUSlccZbMrhnNX9rHrL59tA1fvC4vY=' 
+          'sha256-TydAomU3vcHn44V9NEwh/YIYOlWBfFaqsHJZ6K1dEcw=' 
+          'sha256-rneoTp1NOoFRbU7Tturu1qBx7Y6msZIY5mNDfHc9YU8=' 
+          'sha256-+KoI6QH5yCdHWq7WqaPObiHJPkKp6VMfCXjAGxYx6jA=' 
+          'sha256-tDWFgznjfyrhvffRSbbSYdxKieRL795ihul0r/SV4c8=' 
+          'sha256-COgr+gFkVw4bkXSOeCGv1s+HC25qe6gn6FDSAG5H7zI=' 
+          'sha256-xFxvl2A9WDprIketTHNDNQ13POy8OEjtbW7XWhF6QzA=' 
+          'sha256-GiaL4musukK6tGcQWnw9PwtH+ttnrlTcWRGaHfxfEsA=' 
+          'sha256-FR5bE/CXoqOEOYK6kQYfjH+ac9hDdlse0Cg2ucJgg4Q=' 
+          'sha256-xbA3FK224BllsqUfQIlkWxuQWQhBjRglAdHAa92Z+hM=' 
+          'sha256-tQxxgxkOplYte0sHKt766jsVlAGIKPyZjeSWGNMh2qU=' 
+          'sha256-/Awfdu6vGaYPXtt19iLY1yedT71ljCvJbbIUAw2egac=' 
+          'sha256-+Rl/xGUKOl4iNmrGgFiH4MZMzi5xH/OhJZsbttTkcTo=' 
+          'sha256-fGx+tCPbRmw/VKyzjcZ0f2EMwfoGSGFK5peW+kXPwZY=' 
+          'sha256-5D6tL9qa3knDYDa1jJcxUh2fDcXNaAy1bshahnuptoI=' 
+          'sha256-ZjPbpbqTBJ5CABLg/PqsC1cP2qUBltiZYHc2vr1F87Y=' 
+          'sha256-kyyAuhQAQp47jtt9P3NRxdnONilRQg8v0liGvXxZLcM=' 
+          'sha256-6hXjf9d+RzRgeZzoGdRtLpb8QuFhNpV3VIM0srJb17k=' 
+          'sha256-e6pBDa2CtrFwFqwUPAf9S6F+VVq9JYbkAuXc++o1p+Y=' 
+          'sha256-2q1Jw2AlttTTgv0EPiSrupeHatOWd5oZXVsmyLNtUC4=' 
+          'sha256-J79XcuUS/zwM1v6ocQn8Xu6Hnf3OJLkkF0Nhc2Bwm1k=' 
+          'sha256-UTuSaKDyzaBGeETNpSAkXuvAXSzXjifFRZiCgt/7cec=' 
+          'sha256-btrOSgPPYjVFt5LBYr2t6v81Jnmoikd2yRABG/oBCJM=' 
+          'sha256-gFCeRx3aLvhANobAxJ9GQjgRT9pnBy8JOffSsBbWlxc=' 
+          'sha256-hxe6uGojSMNr39L/Bu/JDZSnXGQOUo/fWvrZ0jHxq1w=' 
+          'sha256-TGOwJaKCKBzz47DLJqA2UvM2Y4vMDQrRJU/UguzVPMo=' 
+          'sha256-YUDpkMSO7rAheIyYe7H5ufyxDP41OVkW0cHRBLllngE=' 
+          'sha256-1gIuYztRCE+nO5bDJu9/O7Ic9mV51Uhrd3aG6R0gJkk=' 
+          'sha256-8du/V0FNzGBb2JA8qX/IuKFHFAsG7trwMQSLaKdPLNI=' 
+          'sha256-w9Wx4PYiZ4bQPnWCberCHfNOrNscRtLl/YlISHVVs88=' 
+          'sha256-1UxGvTVWswVCJnwIpEtWHuM9QpPLHMAml9bi4lGOVsE=' 
+          'sha256-XBmtuXxvMU2BQEnRixo8YWZJzPaqK5SREJudTNVx9f0=' 
+          'sha256-4NuPy8XBNlnjQn/+LYzEbU04dKURUa7VcismXYfgzgY=' 
+          'sha256-66/25YyJ8hSHj17urWZRe7Vr3FnCqYKm5/mlj/BWnGs=' 
+          'sha256-Oa5+fk16MXqANfCoZwJFOjWlOsa8ppRVfdjFaC2ORCI=' 
+          'sha256-/OSRj3iIjm8My+MSceiZTVzsYIC+kzRmHyCgSZvRnwE=' 
+          'sha256-Isoq9VakDa8vFnq/9JDUmlYpXHCxeuJ+j4OJ5me4XXI=' 
+          'sha256-C60EKYy2czD66gJCEDoQBONkcy+obUV9tAdKmmFUXkY=' 
+          'sha256-+U95273AXx0prXFM2moXT70DVpkj+2sizgx9cqOIH/c=' 
+          'sha256-qH/Pa43zqjxLpU4v3CAwiH/DAQgvfy9+9PRLE/JfTEs=' 
+          'sha256-jh+nfCZXkCHPwMZFM90ueBuOl64TDEae8+3S7Bjt1kg=' 
+          'sha256-5fkfu4kEJLRrBNG0rVMTP6aoIsv996aycb/p3ap2Sdo=' 
+          'sha256-AHpASmb4UvTBeWSl/p5ihmVZjX/DZDvokzaDWk0mllA=' 
+          'sha256-Gxq+4KkkkH1S/ZWTtTvi0x27jlFGqjjDRxwygcKt6dU=' 
+          'sha256-aMNWqKH+FfAvOPqzQR9RtuSyiykU9jWVdpgVuo09kGE=' 
+          'sha256-Mz3jhkep4eGYGGImdpktgCROgOadLfhoKnRtdB4qjJ0=' 
+          'sha256-onxVQ/ZTVUMkX5gGCcvbaRPmx8PTZt0BvmE+6tXNLek=' 
+          'sha256-qZs1rQPpieyJS6OI4P684DWOPulOLA9XHaD998UxBdA=' 
+          'sha256-1LMg222rGOH4Gj0U/5OhAkyGBhS8uZ2pyWMm/GeP4iM=' 
+          'sha256-YQ8RI/Jlu/afblQoeKvDOKrEsZM9e3v6sFwlu81MoFY=' 
+          'sha256-gBrrspQIpnIsgFvh273FKOQt+nidCLVjJl+tEnVd1Xo=' 
+          'sha256-YMnbqV2K6LCXwQV/p91ZObY4yJjcuCw54vFSI+ygYMQ=' 
+          'sha256-Drae3JHwo16kWmNfnIvzMAjmGPcYcdiOhwts77jUxCo=' 
+          'sha256-sh9q6qg2PCJrbn8N7WTzvL/XAQ2TgHR5XTerE0wWCOM=' 
+          'sha256-gMwdoHZVDEBArDdaK7Gv15/Tj/ww8+ZcoP5bz16U2Hs='; style-src-attr
+          'self' 'unsafe-hashes'
+          'sha256-06tGnE2dNuB1LI+rqeSaAmVAteCHJMd2ZBreQaNQ1HM=' 
+          'sha256-VndRLWPKoA7SLlticdRU45EitV/sY7Mu/CeiO/30avY=' 
+          'sha256-94V2QEmlUtU+UOOyb5Xbt4js+gEkWTPlE8lFGq0mSmk=' 
+          'sha256-YwG4sV0rNXWRy2Pj6FBqw5LwDC2kbK8pIFtb+BPfbk8=' 
+          'sha256-jOlFWKIOnhitVTSG2mhW/AHUCPytCK4qDLWAAq0y09M=' 
+          'sha256-7Vlq7U7+AGVLj4kHNJNpt0FAQEbWHNPYeeAVn+KMi5U='; img-src 'self' https://blaeu.com
+          data:; font-src 'self' data:; connect-src 'self'; media-src 'self'
+          blob:; object-src 'none'; child-src 'none'; frame-src 'none';
+          worker-src 'none'; frame-ancestors 'none'; form-action 'none';
+          base-uri 'none'; manifest-src 'none'; upgrade-insecure-requests;
+          block-all-mixed-content;
