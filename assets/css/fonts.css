@@ -1,0 +1,104 @@
+/* BigJohn */
+@font-face {
+    font-family: 'big_johnregular';
+    src: url('/assets/fonts/BigJohn/big_john-webfont.eot');
+    src: url('/assets/fonts/BigJohn/big_john-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/BigJohn/big_john-webfont.woff2') format('woff2'),
+         url('/assets/fonts/BigJohn/big_john-webfont.woff') format('woff'),
+         url('/assets/fonts/BigJohn/big_john-webfont.ttf') format('truetype'),
+         url('/assets/fonts/BigJohn/big_john-webfont.svg#big_johnregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+/* Amble Regular */
+@font-face {
+    font-family: 'ambleregular';
+    src: url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.eot');
+    src: url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.woff') format('woff'),
+         url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.ttf') format('truetype'),
+         url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.svg#ambleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+/* Amble Bold */
+@font-face {
+    font-family: 'amblebold';
+    src: url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.eot');
+    src: url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.woff') format('woff'),
+         url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.ttf') format('truetype'),
+         url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.svg#amblebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+/* Amble Light */
+@font-face {
+    font-family: 'amblelight';
+    src: url('/assets/fonts/Amble/Light/Amble-Light-webfont.eot');
+    src: url('/assets/fonts/Amble/Light/Amble-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/Amble/Light/Amble-Light-webfont.woff') format('woff'),
+         url('/assets/fonts/Amble/Light/Amble-Light-webfont.ttf') format('truetype'),
+         url('/assets/fonts/Amble/Light/Amble-Light-webfont.svg#amblelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+/* OpenDyslexic Regular */
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.eot');
+    src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.woff2') format('woff2'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.woff') format('woff'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* OpenDyslexic Bold */
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.eot');
+    src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.woff2') format('woff2'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.woff') format('woff'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* OpenDyslexic Italic */
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.eot');
+    src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.woff2') format('woff2'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.woff') format('woff'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* OpenDyslexic Bold Italic */
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.eot');
+    src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.woff2') format('woff2'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.woff') format('woff'),
+         url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
