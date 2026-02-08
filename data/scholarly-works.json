@@ -1,0 +1,746 @@
+{
+  "title": "Scholarly Works",
+  "contentType": "publication",
+  "totalItems": 21,
+  "lastUpdated": "2025-07-19",
+  "sections": [
+    {
+      "year": 2021,
+      "count": 1,
+      "items": [
+        {
+          "id": "2021-brussels-privacy-symposium",
+          "year": 2021,
+          "title": "Brussels Privacy Symposium 2020: Research and the Protection of Personal Data Under the GDPR",
+          "authors": [
+            "Hopland C.",
+            "Dorwart H.",
+            "Malgieri G.",
+            "Zanfir-Fortuna G.",
+            "Eijk R. van"
+          ],
+          "venue": "4th Annual Brussels Privacy Virtual Symposium - Research and the Protection of Personal Data under the GDPR",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "symposium report",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://fpf.org/wp-content/uploads/2021/03/FPF_Brussels_Privacy_Symposium.pdf",
+              "title": "Download Report",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:20+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082131/https://fpf.org/wp-content/uploads/2021/03/FPF_Brussels_Privacy_Symposium.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:23+01:00",
+                  "submittedAt": "2025-07-24T10:21:31+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 5,
+      "items": [
+        {
+          "id": "2020-understanding-blockchain",
+          "year": 2020,
+          "title": "Understanding Blockchain",
+          "authors": ["Dorwart H.", "Eijk R. van"],
+          "venue": "Digital Data Flows Masterclass",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/understanding-blockchain-a-review-of-fpfs-oct-29th-digital-data-flows-masterclass/",
+              "title": "View Abstract",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:23+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082143/https://fpf.org/blog/understanding-blockchain-a-review-of-fpfs-oct-29th-digital-data-flows-masterclass/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:27+01:00",
+                  "submittedAt": "2025-07-24T10:21:43+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-annual-privacy-forum-tracking",
+          "year": 2020,
+          "title": "To track and to get tracked: new innovative methods and advancements",
+          "authors": ["Dorwart H.", "Eijk R. van"],
+          "venue": "the Annual Privacy Forum 2020",
+          "location": "Attiki",
+          "publisher": "European Union Agency for Cybersecurity (ENISA), Directorate-General for Communications Networks, Content and Technology (DG CONNECT) & Católica University of Portugal, Lisbon School of Law",
+          "category": "abstract",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/event-recap-panel-at-the-annual-privacy-forum-2020/",
+              "title": "View Abstract",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:27+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082154/https://fpf.org/blog/event-recap-panel-at-the-annual-privacy-forum-2020/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:29+01:00",
+                  "submittedAt": "2025-07-24T10:21:54+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-machine-learning-speech",
+          "year": 2020,
+          "title": "Machine Learning and Speech",
+          "authors": ["Dorwart H.", "Hopland C.", "Eijk R. van"],
+          "venue": "Digital Data Flows Masterclass",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/machine-learning-and-speech-a-review-of-fpfs-digital-data-flows-masterclass/",
+              "title": "View Abstract",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:29+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082206/https://fpf.org/blog/machine-learning-and-speech-a-review-of-fpfs-digital-data-flows-masterclass/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:31+01:00",
+                  "submittedAt": "2025-07-24T10:22:06+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-understanding-machine-learning",
+          "year": 2020,
+          "title": "Understanding Machine Learning",
+          "authors": ["Eijk R. van"],
+          "venue": "Digital Data Flows Masterclass",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/takeaways-from-the-understanding-machine-learning-masterclass/",
+              "title": "View Abstract",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:31+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082217/https://fpf.org/blog/takeaways-from-the-understanding-machine-learning-masterclass/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:33+01:00",
+                  "submittedAt": "2025-07-24T10:22:17+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-open-banking-roundtable",
+          "year": 2020,
+          "title": "Event recap: FPF & VUB Open Banking Roundtable - Banking on Personal Data",
+          "authors": ["Hopland C.", "Zeeland I. van", "Eijk R. van"],
+          "venue": "VUB Chair Data Protection On The Ground",
+          "location": "Brussels",
+          "publisher": "Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/fpf-vub-roundtable-banking-on-personal-data/",
+              "title": "View Abstract",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:33+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082228/https://fpf.org/blog/fpf-vub-roundtable-banking-on-personal-data/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:36+01:00",
+                  "submittedAt": "2025-07-24T10:22:28+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 4,
+      "items": [
+        {
+          "id": "2019-web-privacy-measurement-dissertation",
+          "year": 2019,
+          "title": "Web Privacy Measurement in Real-Time Bidding Systems. A Graph-Based Approach to RTB System Classification. (diss. Leiden)",
+          "authors": ["Eijk R. van"],
+          "venue": "Leiden University",
+          "location": "Amsterdam",
+          "publisher": "Ipskamp Printing",
+          "category": "book",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "isbn": "978 94 028 1323 4"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://ssrn.com/abstract=3319284",
+              "title": "Download Book",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:38+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082243/https://ssrn.com/abstract=3319284",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:43+01:00",
+                  "submittedAt": "2025-07-24T10:22:43+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-cookie-notices-location",
+          "year": 2019,
+          "title": "The Impact of User Location on Cookie Notices (Inside and Outside of the European Union)",
+          "authors": ["Eijk R. van", "Asghari H.", "Winter P.", "Narayanan A."],
+          "venue": "Workshop on Technology and Consumer Protection (ConPro '19)",
+          "location": "Princeton, NJ",
+          "publisher": "Princeton University",
+          "category": "conference paper: refereed",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://ssrn.com/abstract=3361360",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:46+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082256/https://ssrn.com/abstract=3361360",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:51+01:00",
+                  "submittedAt": "2025-07-24T10:22:56+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-privacy-rtb-ars-aequi",
+          "year": 2019,
+          "title": "Privacy and Real-Time Bidding. To what extent can we measure the privacy component?",
+          "authors": ["Eijk R. van", "Herik H.J. van den"],
+          "venue": "Ars Aequi",
+          "location": "Nijmegen",
+          "publisher": "Juridische uitgeverij Ars Aequi",
+          "category": "article in journal: refereed",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "citation": "Privacy Bijzonder Nummer 2019:592-602"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://arsaequi.nl/product/web-privacy-measurement/",
+              "title": "View Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:51+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082308/https://arsaequi.nl/product/web-privacy-measurement/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:54+01:00",
+                  "submittedAt": "2025-07-24T10:23:08+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-wpm-book-chapter",
+          "year": 2019,
+          "title": "Web Privacy Measurement. Can WPM withstand the power of online tracking technologies?",
+          "authors": ["Eijk R. van", "Herik H.J. van den"],
+          "venue": "Recht en technologie. Vraagstukken van de digitale revolutie",
+          "location": "Den Haag",
+          "publisher": "Boom juridisch",
+          "category": "book chapter",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "editors": [
+              "Berg L. van den",
+              "Geldermans S.",
+              "Heeres A.",
+              "Noort N.",
+              "Riet J. van de",
+              "Vonk S.",
+              "Weijers H."
+            ],
+            "pages": "91-102",
+            "isbn": "987 94 6290 670 9"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.worldcat.org/oclc/8132716366",
+              "title": "View Publication",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:55+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082320/https://www.worldcat.org/oclc/8132716366",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:01:10+01:00",
+                  "submittedAt": "2025-07-24T10:23:20+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "count": 2,
+      "items": [
+        {
+          "id": "2018-eu-feeds-december",
+          "year": 2018,
+          "title": "Stateless deep crawl EU Feeds (27 December 2018)",
+          "authors": ["Eijk R. van"],
+          "venue": "DANS",
+          "location": "DANS",
+          "publisher": "DANS",
+          "category": "other",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "10.17026/dans-z92-sztg",
+            "type": "Data Set"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://doi.org/10.17026/dans-z92-sztg",
+              "title": "Download Dataset",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:01:11+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082332/https://doi.org/10.17026/dans-z92-sztg",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:01:17+01:00",
+                  "submittedAt": "2025-07-24T10:23:32+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2018-eu-feeds-august",
+          "year": 2018,
+          "title": "Stateless deep crawl EU Feeds (3 August 2018)",
+          "authors": ["Eijk R. van"],
+          "venue": "DANS",
+          "location": "DANS",
+          "publisher": "DANS",
+          "category": "other",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "10.17026/dans-zyd-4468",
+            "type": "Data Set"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://doi.org/10.17026/dans-zyd-4468",
+              "title": "Download Dataset",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:01:19+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082347/https://doi.org/10.17026/dans-zyd-4468",
+                  "source": "archive.org",
+                  "status": "broken",
+                  "lastChecked": "2025-07-24T11:01:35+01:00",
+                  "submittedAt": "2025-07-24T10:23:47+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "count": 1,
+      "items": [
+        {
+          "id": "2017-tracking-classification",
+          "year": 2017,
+          "title": "Tracking classification: a cluster analysis approach to identify missing values",
+          "authors": ["Eijk R. van"],
+          "venue": "Online Privacy and Web Transparency (Dagstuhl Seminar 17162). Dagstuhl Reports",
+          "location": "Dagstuhl",
+          "publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik",
+          "category": "report: peer reviewed",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "editors": ["Bielova N.", "Laoutaris N.", "Narayanan A.", "Nikiforakis N."],
+            "citation": "7(4):103",
+            "doi": "10.4230/DagRep.7.4.83"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://doi.org/10.4230/DagRep.7.4.83",
+              "title": "Download Report",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:01:36+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082359/https://doi.org/10.4230/DagRep.7.4.83",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:01:40+01:00",
+                  "submittedAt": "2025-07-24T10:23:59+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "count": 2,
+      "items": [
+        {
+          "id": "2016-informatie-allegorieenlexicon",
+          "year": 2016,
+          "title": "Informatie: Leidt meer informatie tot minder vrijheid?",
+          "authors": ["Eijk R. van"],
+          "venue": "Leids-Haags Allegorieënlexicon",
+          "location": "Delft",
+          "publisher": "Eburon",
+          "category": "book chapter",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "editors": ["Groen A.", "De Roon C.", "Slaman P."],
+            "pages": "151-160",
+            "isbn": "978 94 630 1064 1"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://ssrn.com/abstract=2700360",
+              "title": "Download Chapter",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:01:42+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082417/https://ssrn.com/abstract=2700360",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:01:47+01:00",
+                  "submittedAt": "2025-07-24T10:24:17+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2016-eu-feeds-august",
+          "year": 2016,
+          "title": "Stateless deep crawl EU Feeds (29 august 2016)",
+          "authors": ["Eijk R. van"],
+          "venue": "DANS",
+          "location": "DANS",
+          "publisher": "DANS",
+          "category": "other",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "10.17026/dans-xrn-ajnb",
+            "type": "Data Set"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://doi.org/10.17026/dans-xrn-ajnb",
+              "title": "Download Dataset",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:01:50+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082431/https://doi.org/10.17026/dans-xrn-ajnb",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:01:58+01:00",
+                  "submittedAt": "2025-07-24T10:24:31+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "count": 1,
+      "items": [
+        {
+          "id": "2014-privacy-leeft",
+          "year": 2014,
+          "title": "Privacy Leeft! De effecten van de herziening van de Europese Privacyrichtlijn op identiteit in de informatiemaatschappij",
+          "authors": ["Eijk R. van"],
+          "venue": "Selectie: 50 duale promovendi & 26 promotores",
+          "location": "The Hague",
+          "publisher": "Leiden University Interfacultary Dual Ph.D. Centre The Hague",
+          "category": "book chapter",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "editor": "Groen A.",
+            "pages": "78-80"
+          },
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "count": 1,
+      "items": [
+        {
+          "id": "2013-constraint-based-context",
+          "year": 2013,
+          "title": "A constraint-based approach to context",
+          "authors": ["Wissen A. van", "Kamphorst B.", "Eijk R. van"],
+          "venue": "Modeling and Using Context. CONTEXT 2013. Lecture Notes in Computer Science, Vol. 8175:171-184",
+          "location": "Berlin, Heidelberg",
+          "publisher": "Springer",
+          "category": "conference paper: refereed",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "editors": ["Brézillon P.", "Blackburn P.", "Dapoigny R."],
+            "doi": "10.1007/978-3-642-40972-1_13"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://doi.org/10.1007/978-3-642-40972-1_13",
+              "title": "View Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:02:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082443/https://doi.org/10.1007/978-3-642-40972-1_13",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:02:10+01:00",
+                  "submittedAt": "2025-07-24T10:24:43+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "count": 3,
+      "items": [
+        {
+          "id": "2011-web-tracking-detection-thesis",
+          "year": 2011,
+          "title": "Web Tracking Detection System: An Effective Strategy to Reduce Systematic Monitoring and Profiling of User Habits Across Websites. (Master's thesis)",
+          "authors": ["Eijk R. van"],
+          "venue": "Leiden Institute of Advanced Computer Science, Leiden University",
+          "location": "Leiden",
+          "publisher": "Leiden Institute of Advanced Computer Science, Leiden University",
+          "category": "thesis",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "https://dx.doi.org/10.2139/ssrn.2696690"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://dx.doi.org/10.2139/ssrn.2696690",
+              "title": "Download Thesis",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:02:12+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082456/https://dx.doi.org/10.2139/ssrn.2696690",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:02:23+01:00",
+                  "submittedAt": "2025-07-24T10:24:56+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2011-do-not-track-w3c",
+          "year": 2011,
+          "title": "Do Not Track, An Attempt to Frame the Debate",
+          "authors": ["Tschofenig H.", "Eijk R. van"],
+          "venue": "W3C workshop Web Tracking and User Privacy",
+          "location": "World Wide Web Consortium",
+          "publisher": "World Wide Web Consortium",
+          "category": "conference paper: non-refereed",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://www.w3.org/2011/track-privacy/papers/Tschofenig.pdf",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:02:23+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082508/https://www.w3.org/2011/track-privacy/papers/Tschofenig.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:02:25+01:00",
+                  "submittedAt": "2025-07-24T10:25:08+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2011-oauth-browser-support",
+          "year": 2011,
+          "title": "Browser support for the Open Authorization (OAuth) Protocol",
+          "authors": ["Tschofenig H.", "Leiba B.", "Cook B.", "Eijk R. van"],
+          "venue": "W3C workshop Identity in the Browser",
+          "location": "World Wide Web Consortium",
+          "publisher": "World Wide Web Consortium",
+          "category": "conference paper: non-refereed",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://www.w3.org/2011/identity-ws/papers/idbrowser2011_submission_32.pdf",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:02:26+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082519/https://www.w3.org/2011/identity-ws/papers/idbrowser2011_submission_32.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:02:26+01:00",
+                  "submittedAt": "2025-07-24T10:25:19+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1994,
+      "count": 1,
+      "items": [
+        {
+          "id": "1994-emv-prufsysteme-thesis",
+          "year": 1994,
+          "title": "EMV Prüfsysteme: Surge Tester. Eine Forschung nach verschienene Schalter für den 0,5μs/100KHz Ringwave. (Batchelor's thesis)",
+          "authors": ["Eijk R. van"],
+          "venue": "Electrical & Electronic Engineering, Fontys University of Applied Sciences",
+          "location": "Eindhoven",
+          "publisher": "Electrical & Electronic Engineering, Fontys University of Applied Sciences",
+          "category": "thesis",
+          "mediaType": "academic",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "call_number": "RACHELSMOLEN: 661.52 EIJK"
+          },
+          "links": []
+        }
+      ]
+    }
+  ]
+}

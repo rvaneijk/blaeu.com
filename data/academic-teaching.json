@@ -1,0 +1,638 @@
+{
+  "title": "Academic Teaching",
+  "contentType": "teaching",
+  "totalItems": 26,
+  "lastUpdated": "2025-07-19",
+  "sections": [
+    {
+      "year": 2025,
+      "count": 1,
+      "items": [
+        {
+          "id": "2025-vub-programmatic-advertising",
+          "year": 2025,
+          "title": "Privacy & Regulation in Programmatic Advertising",
+          "authors": ["Eijk R. van"],
+          "venue": "VUB Digital Business Models",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 1,
+      "items": [
+        {
+          "id": "2024-elaw-summer-school",
+          "year": 2024,
+          "title": "The GDPR and the \"by design\" challenge after 6 years",
+          "authors": ["Eijk R. van"],
+          "venue": "eLaw Summer School 2024: Regulating AI and Data in the Age of EU Digital Reforms",
+          "location": "Leiden",
+          "publisher": "Leiden Law School, Leiden University",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.leidenlawconference.nl/legal-courses/2024/elaw-summer-school-2024-regulating-ai-and-data-in-the-age-of-eu-digital-reforms/",
+              "title": "View Course",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:43:37+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20240617084111/https://www.leidenlawconference.nl/legal-courses/2024/elaw-summer-school-2024-regulating-ai-and-data-in-the-age-of-eu-digital-reforms/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:43:39+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 3,
+      "items": [
+        {
+          "id": "2023-vub-pets-gdpr",
+          "year": 2023,
+          "title": "PETs, personalized advertisements, and the application of the GDPR: a case-based analysis",
+          "authors": ["Stalla-Bourdillon S.", "Eijk R. van"],
+          "venue": "Brussels Privacy Hub",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": []
+        },
+        {
+          "id": "2023-berkeley-adtech",
+          "year": 2023,
+          "title": "Developments in Ad Tech",
+          "authors": ["Eijk R. van"],
+          "venue": "UC Berkeley School of Law",
+          "location": "Berkeley",
+          "publisher": "UC Berkeley School of Law",
+          "category": "keynote",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.law.berkeley.edu/event/developments-in-ad-tech/",
+              "title": "View Event",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:40+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231002235445/https://www.law.berkeley.edu/event/developments-in-ad-tech",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:43:44+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-leiden-valorisation",
+          "year": 2023,
+          "title": "Valorisation of PhD Research Results",
+          "authors": ["Eijk R. van"],
+          "venue": "Promovendilunch",
+          "location": "The Hague",
+          "publisher": "Dual PhD Centre, Leiden University",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": "2021-2023",
+      "count": 10,
+      "items": [
+        {
+          "id": "leiden-legal-tech-program",
+          "year": "2021-2023",
+          "title": "Guest Professor - Leiden Legal Technologies Program",
+          "authors": ["Eijk R. van"],
+          "venue": "Leiden Legal Technologies Program",
+          "location": "The Hague",
+          "publisher": "Centre for Professional Learning (CPL), Faculty of Governance and Global Affairs, Leiden University",
+          "category": "guest professor",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "metadata": {
+            "supervisors": ["Prof. dr. Herik H.J. van den", "Prof. dr. ir. Scholtes J."],
+            "courses": [
+              "Legal Processes and Machine Learning (Rule-Based Systems)",
+              "Transparency of Legal Knowledge Systems and Machine Learning (Expert Systems)",
+              "Case-based reasoning with Big Data",
+              "Digital identification and authorization",
+              "The process of case law research and legal fact finding",
+              "Legal and policy applications of non-linear Data Science models",
+              "Proportionality, Subsidiarity, and Privacy Aspects of Data Subject Access Requests (DSARs)",
+              "Quality control and reporting",
+              "Blockchain: How do you ensure that Smart Contracts meet the requirements of the GDPR?"
+            ]
+          },
+          "links": [
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_210319_1.pdf",
+              "title": "Legal Processes and Machine Learning",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:44+01:00"
+            },
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_210319_2.pdf",
+              "title": "Transparency of Legal Knowledge Systems",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:44+01:00"
+            },
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_210408.pdf",
+              "title": "Case-based reasoning with Big Data",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:44+01:00"
+            },
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_210416.pdf",
+              "title": "Digital identification and authorization",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:44+01:00"
+            },
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_210528.pdf",
+              "title": "Legal fact finding",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:44+01:00"
+            },
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_210611.pdf",
+              "title": "Non-linear Data Science models",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:44+01:00"
+            },
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_210903.pdf",
+              "title": "Privacy Aspects of DSARs",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:45+01:00"
+            },
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_211024.pdf",
+              "title": "Quality control and reporting",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:45+01:00"
+            },
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_211112.pdf",
+              "title": "Blockchain and GDPR",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:45+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2020-2023",
+      "count": 1,
+      "items": [
+        {
+          "id": "leiden-data-science-track",
+          "year": "2020-2023",
+          "title": "Guest Professor - Privacy & Explainable AI/ML",
+          "authors": ["Eijk R. van"],
+          "venue": "Data Science Technical Track",
+          "location": "Leiden",
+          "publisher": "Leiden Centre of Data Science (LCDS), Faculty of Science, Leiden University",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "metadata": {
+            "supervisor": "Prof. dr. Herik H.J. van den"
+          },
+          "links": [
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/LegalTech_220622.pdf",
+              "title": "Download Materials",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:45+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 2,
+      "items": [
+        {
+          "id": "2021-cairela-summer-school",
+          "year": 2021,
+          "title": "Privacy and the Medical Device Regulation (EU) 2017/745",
+          "authors": ["Eijk R. van"],
+          "venue": "CAIRELab Summerschool",
+          "location": "Leiden",
+          "publisher": "Leiden University Medical Centre (LUMC), Leiden University",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/CAIRELab_210825.pdf",
+              "title": "Download Materials",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:45+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2021-grotius-conference",
+          "year": 2021,
+          "title": "Digital platforms and the role of algorithms",
+          "authors": ["Eijk R. van"],
+          "venue": "Annual Grotius Conference 2021",
+          "location": "Leiden",
+          "publisher": "Leiden Law School, Leiden University",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.jfvgrotiuscongres.nl/programma/",
+              "title": "View Conference",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:43:46+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 2,
+      "items": [
+        {
+          "id": "2020-brussels-summer-academy",
+          "year": 2020,
+          "title": "Latest developments on e-Privacy",
+          "authors": ["Hoboken J.", "Eijk R. van"],
+          "venue": "Summer Academy for Global Privacy Law 2020: Confronting the new Challenges",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://brusselsprivacyhub.eu/education-training/summer-academy-for.global-privacy-law2020.html",
+              "title": "View Academy",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:43:47+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724062829/https://brusselsprivacyhub.eu/education-training/summer-academy-for.global-privacy-law2020.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:43:50+01:00",
+                  "submittedAt": "2025-07-24T08:28:29+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-dcu-adtech-lecture",
+          "year": 2020,
+          "title": "Adtech against the background of legal developments in the US (CCPA/CPRA) and the EU (ePrivacy Regulation)",
+          "authors": ["Eijk R. van"],
+          "venue": "Online DCU MA in Data Protection and Privacy Class",
+          "location": "Dublin",
+          "publisher": "School of Computing, Dublin City University",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.dcu.ie/courses/postgraduate/school-law-and-government/ma-data-protection-and-privacy-law",
+              "title": "View Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:43:50+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723231533/https://www.dcu.ie/courses/postgraduate/school-law-and-government/ma-data-protection-and-privacy-law",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:43:58+01:00",
+                  "submittedAt": "2025-07-23T23:15:33.351Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 2,
+      "items": [
+        {
+          "id": "2019-delft-privacy-lecture",
+          "year": 2019,
+          "title": "Privacy for Computer Scientists",
+          "authors": ["Eijk R. van"],
+          "venue": "AiTech",
+          "location": "Delft",
+          "publisher": "Technical University Delft",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": []
+        },
+        {
+          "id": "2019-4tu-cybsec",
+          "year": 2019,
+          "title": "Privacy & Data Breach Notification Obligation",
+          "authors": ["Eijk R. van", "Bon B."],
+          "venue": "4TU.CybSec Capstone Business Week",
+          "location": "Amsterdam",
+          "publisher": "Technical University Delft, University of Twente, Eindhoven University of Technology, and Wageningen University & Research",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.4tu.nl/cybsec/en/events/integration-week-4/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:43:58+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724001047/https://www.4tu.nl/cybsec/en/events/integration-week-4/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:00+01:00",
+                  "submittedAt": "2025-07-24T02:10:47+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "count": 2,
+      "items": [
+        {
+          "id": "2018-scheepers-thesis",
+          "year": 2018,
+          "title": "Co-supervised: Respect voor de meldplicht: de motieven achter het overtreden van de meldplicht datalekken bij de Autoriteit Persoonsgegevens",
+          "authors": ["Scheepers, K."],
+          "venue": "Institute of Criminal Law and Criminology, Leiden University",
+          "location": "Leiden",
+          "publisher": "Institute of Criminal Law and Criminology, Leiden University",
+          "category": "thesis",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Master's thesis",
+            "role": "Co-supervisor"
+          },
+          "links": []
+        },
+        {
+          "id": "2018-turcios-thesis",
+          "year": 2018,
+          "title": "Co-supervised: Tracking cookies in the European Union, an empirical analysis of the current situation",
+          "authors": ["Turcios Rodríguez, E."],
+          "venue": "Faculty of Technology, Policy and Management, Multi-Actor Systems Department, Delft University of Technology",
+          "location": "Delft",
+          "publisher": "Faculty of Technology, Policy and Management, Multi-Actor Systems Department, Delft University of Technology",
+          "category": "thesis",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Master's thesis",
+            "role": "Co-supervisor"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://repository.tudelft.nl/islandora/object/uuid%3A50d04f83-222d-479e-8ddd-661d2243857a",
+              "title": "View Thesis",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:03+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723231549/https://repository.tudelft.nl/islandora/object/uuid%3A50d04f83-222d-479e-8ddd-661d2243857a",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:09+01:00",
+                  "submittedAt": "2025-07-23T23:15:49.743Z"
+                }
+              ]
+            },
+            {
+              "type": "download",
+              "url": "https://repository.tudelft.nl/islandora/object/uuid%3A50d04f83-222d-479e-8ddd-661d2243857a",
+              "title": "Download Thesis",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:09+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723224910/https://repository.tudelft.nl/islandora/object/uuid%3A50d04f83-222d-479e-8ddd-661d2243857a",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:13+01:00",
+                  "submittedAt": "2025-07-23T22:49:10.394Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "count": 1,
+      "items": [
+        {
+          "id": "2016-leru-summer-school",
+          "year": 2016,
+          "title": "Big Data and Judicial Decisions; Practicing Law and Artificial Intelligence",
+          "authors": ["Herik H.J. van den", "Eijk R. van"],
+          "venue": "LERU Summer School 2016: Data Stewardship for Scientific Discovery and Innovation",
+          "location": "Leiden",
+          "publisher": "League of European Research Universities",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "https://dx.doi.org/10.2139/ssrn.2809612"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://dx.doi.org/10.2139/ssrn.2809612",
+              "title": "Download Materials",
+              "status": "active",
+              "lastChecked": "2025-12-19T20:30:00+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2015-2019",
+      "count": 1,
+      "items": [
+        {
+          "id": "rsm-leadership-challenges",
+          "year": "2015-2019",
+          "title": "Expert Lecture on Privacy Legislation",
+          "authors": ["Eijk R. van"],
+          "venue": "Leadership Challenges with Data Analytics",
+          "location": "Rotterdam",
+          "publisher": "Rotterdam School of Managment (RSM), Erasmus University",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "metadata": {
+            "supervisors": ["Dr. Oosterhout M. van", "Prof. dr. Herik H.J. van den"],
+            "years": "2019, 2018, 2016, 2015"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.rsm.nl/executive-education/open-programmes/programmes/leadership-challenges-with-data-analytics/overview/",
+              "title": "View Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:14+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723224918/https://www.rsm.nl/executive-education/open-programmes/programmes/leadership-challenges-with-data-analytics/overview/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:17+01:00",
+                  "submittedAt": "2025-07-23T22:49:18.294Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "count": 1,
+      "items": [
+        {
+          "id": "2013-wpi-forensics",
+          "year": 2013,
+          "title": "Forensic Aspects in Digital Investigations",
+          "authors": ["Eijk R. van"],
+          "venue": "WPI Computer Science Colloquium",
+          "location": "Worcester, MA",
+          "publisher": "Worcester Institute of Technology",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://web.cs.wpi.edu/Planning/colloquium-faq.html",
+              "title": "View Colloquium",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:44:23+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "count": 1,
+      "items": [
+        {
+          "id": "2010-xiamen-project-management",
+          "year": 2010,
+          "title": "Project Management",
+          "authors": ["Eijk R. van"],
+          "venue": "China-Holland Educational Competence and Knowledge Center on IT (CHECK-IT)",
+          "location": "Xiamen, Fujian",
+          "publisher": "Software School of Xiamen University, Xiamen University",
+          "category": "lecture",
+          "mediaType": "academic",
+          "contentType": "teaching",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.checkitcenter.com/",
+              "title": "View Center",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:23+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724001113/https://www.checkitcenter.com/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:27+01:00",
+                  "submittedAt": "2025-07-24T02:11:13+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

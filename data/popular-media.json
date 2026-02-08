@@ -1,0 +1,890 @@
+{
+  "title": "Popular Media Appearances",
+  "contentType": "media",
+  "totalItems": 29,
+  "lastUpdated": "2025-07-19",
+  "sections": [
+    {
+      "year": 2025,
+      "count": 1,
+      "items": [
+        {
+          "id": "2025-bph-panel",
+          "year": 2025,
+          "title": "Brussels Privacy Hub Panel Discussion",
+          "description": "Perspective on Agentic AI and Neuro-symbolic AI, and their impact on privacy over the next decade",
+          "authors": ["Eijk R. van"],
+          "venue": "10 Years of Brussels Privacy Hub – What's Next",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussel",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.linkedin.com/posts/brussels-privacy-hub_10-years-of-brussels-privacy-hub-whats-activity-7304863715483369474-Iat2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAMyOkBfn8ZbAgCiXa5hj-SD1wbMEkazQc",
+              "title": "View Recording",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:56:35+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250326160957/https://www.linkedin.com/posts/brussels-privacy-hub_10-years-of-brussels-privacy-hub-whats-activity-7304863715483369474-Iat2?rcm=ACoAAAAMyOkBfn8ZbAgCiXa5hj-SD1wbMEkazQc",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:56:37+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 5,
+      "items": [
+        {
+          "id": "2023-edaa-interview",
+          "year": 2023,
+          "title": "EDAA Summit 2023 - Interview with Eijk R. van",
+          "authors": ["EDAA"],
+          "venue": "Web EDAA",
+          "location": "Brussels",
+          "publisher": "European Digital Advertisers Association",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cPhl2P-It4E",
+              "title": "Watch Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:56:38+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-edaa-aftermovie",
+          "year": 2023,
+          "title": "EDAA Summit 2023: The new era of advertising transparency - The Aftermovie",
+          "authors": ["EDAA"],
+          "venue": "Web EDAA",
+          "location": "Brussels",
+          "publisher": "European Digital Advertisers Association",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "timestamp": "1m51s - 2m09s"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zBJ3MYSQpH8",
+              "title": "Watch Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:56:39+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-norway-dpa",
+          "year": 2023,
+          "title": "Norway Data Protection Authority on the EDPB adoption of their Order",
+          "authors": ["Judin T.", "Eijk R. van"],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=IxFsoaH_chY",
+              "title": "Watch Discussion",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:56:40+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-plutopia-podcast",
+          "year": 2023,
+          "title": "Eijk R. van: Hyper-nudging",
+          "authors": ["Lebowsky J.", "Sweeney S.", "Grossman W.M."],
+          "venue": "Plutopia News Network Podcast",
+          "location": "Austin, TX",
+          "publisher": "Plutopia News Network",
+          "category": "podcast",
+          "mediaType": "podcast",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "podcast",
+              "url": "https://plutopia.io/rob-van-eijk-hyper-nudging/",
+              "title": "Listen to Podcast",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:56:41+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080209/https://plutopia.io/rob-van-eijk-hyper-nudging/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:56:44+01:00",
+                  "submittedAt": "2025-07-24T10:02:09+01:00"
+                }
+              ]
+            },
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=otnaSlX_78w",
+              "title": "Watch on YouTube",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:56:45+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-privacy-by-design",
+          "year": 2023,
+          "title": "5 Years in, Enforcement of Privacy by Design and the GDPR's Article 25",
+          "authors": ["Michelakaki C.", "Eijk R. van"],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LVi1_ZpCe5U",
+              "title": "Watch Discussion",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:56:46+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 4,
+      "items": [
+        {
+          "id": "2022-dejurist-interview",
+          "year": 2022,
+          "title": "Q&A expert online advertenties Eijk R. van: 'We komen nooit van online advertentiefraude af'",
+          "authors": ["Akkermans I."],
+          "venue": "De Jurist",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://dejurist.com/nieuws/50019818/q-a-expert-online-advertenties-rob-van-eijk-we-komen-nooit-van-online-advertentiefraude-af",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:56:46+01:00",
+              "archiveUrls": [
+                {
+                  "url": "http://web.archive.org/web/20220202203051/https://dejurist.com/nieuws/50019818/q-a-expert-online-advertenties-rob-van-eijk-we-komen-nooit-van-online-advertentiefraude-af",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:20:48+00:00",
+                  "archivedAt": "2022-02-02T20:30:51+00:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-nieuwsuur-adfraud",
+          "year": 2022,
+          "title": "Ad fraud is billion dollar industry",
+          "description": "Ad fraud is billion dollar industry (in Dutch)",
+          "authors": ["Bouwma R."],
+          "venue": "Nieuwsuur",
+          "location": "Hilversum",
+          "publisher": "NOS-NTR Dutch Public Broadcast Services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "metadata": {
+            "timestamp": "23m37s - 30m42s"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.npostart.nl/nieuwsuur/30-01-2022/VPWON_1334426",
+              "title": "Watch Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:03+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080332/https://www.npostart.nl/nieuwsuur/30-01-2022/VPWON_1334426",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:06+01:00",
+                  "submittedAt": "2025-07-24T10:03:32+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-cpdp-press",
+          "year": 2022,
+          "title": "CPDP 2022 Press Conference",
+          "authors": [
+            "Hert P. de",
+            "González Fuster G.",
+            "Cervera-Navas L.",
+            "Eijk R. van",
+            "Vandenbussche T.",
+            "Hoedemaekers J."
+          ],
+          "venue": "CPDP 2022 Press Conference",
+          "location": "Brussels",
+          "publisher": "Privacy Salon",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Marco B."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=EL66ujQNk88",
+              "title": "Watch Press Conference",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:06+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2022-data-walks",
+          "year": 2022,
+          "title": "Lessons Learned: Data Walks Project for Privacy Friendly Smart Cities",
+          "authors": ["Zeeland I. van", "Breuer J.", "Eijk R. van"],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fKCtR34kgVk",
+              "title": "Watch Discussion",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:07+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 6,
+      "items": [
+        {
+          "id": "2021-health-apps",
+          "year": 2021,
+          "title": "Personal Health Apps",
+          "description": "Personal Health Apps (in Dutch)",
+          "authors": ["Bruin E. de"],
+          "venue": "Max Meldpunt",
+          "location": "Hilversum",
+          "publisher": "Omroep Max Dutch Public Broadcast Services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "metadata": {
+            "timestamp": "11m28s - 25m06s"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.npostart.nl/meldpunt/07-05-2021/POW_04876458",
+              "title": "Watch Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:08+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080442/https://www.npostart.nl/meldpunt/07-05-2021/POW_04876458",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:11+01:00",
+                  "submittedAt": "2025-07-24T10:04:42+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-retail-data-infographic",
+          "year": 2021,
+          "title": "Understanding the Retail Data Ecosystem and EdTech Data Flows",
+          "authors": ["Eijk R. van", "Polonetsky J.", "Tene O.", "Zanfir-Fortuna G."],
+          "venue": "Future of Privacy Forum",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "infographic",
+          "mediaType": "infographic",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://fpf.org/wp-content/uploads/2021/02/infographic_2.22.21v3.pdf",
+              "title": "Download Infographic",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:11+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080454/https://fpf.org/wp-content/uploads/2021/02/infographic_2.22.21v3.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:14+01:00",
+                  "submittedAt": "2025-07-24T10:04:54+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-green-certificate",
+          "year": 2021,
+          "title": "EU Digital Green Certificate",
+          "description": "EU Digital Green Certificate (in Dutch)",
+          "authors": ["Galan M. de", "Lemoine N."],
+          "venue": "Nieuwsuur",
+          "location": "Hilversum",
+          "publisher": "NOS-NTR Dutch Public Broadcast Services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "metadata": {
+            "timestamp": "00m00s - 13m35s"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.npostart.nl/nieuwsuur/28-04-2021/VPWON_1324199",
+              "title": "Watch Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:14+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080505/https://www.npostart.nl/nieuwsuur/28-04-2021/VPWON_1324199",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:17+01:00",
+                  "submittedAt": "2025-07-24T10:05:05+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-privacy-hard-myths",
+          "year": 2021,
+          "title": "Privacy is Hard and Seven Other Myths. Achieving Privacy Through Careful Design by Jaap-Henk Hoepman",
+          "authors": [
+            "Hoepman J.-H.",
+            "González Fuster G.",
+            "Koerner K.",
+            "Lefkovitz N.",
+            "Legrand G.",
+            "Eijk R. van"
+          ],
+          "venue": "FPF Book Club",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SEIWCJCLwZk",
+              "title": "Watch Discussion",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:18+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2021-data-flows-complexity",
+          "year": 2021,
+          "title": "The complexity of data flows for two common situations, retail and online learning",
+          "authors": ["Polonetsky J.", "Eijk R. van"],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=6H_Dwcy8F-8",
+              "title": "Watch Discussion",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:19+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2021-serious-privacy-podcast",
+          "year": 2021,
+          "title": "Predictions, Worries, and Wisdom from IAPP Brussels",
+          "authors": ["Royal K.", "Breitbarth P."],
+          "venue": "Serious Privacy",
+          "location": "Brussels",
+          "publisher": "TrustArc",
+          "category": "podcast",
+          "mediaType": "podcast",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "podcast",
+              "url": "https://seriousprivacy.buzzsprout.com/840448/9647366-predictions-worries-and-wisdom-from-iapp-brussels",
+              "title": "Listen to Podcast",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:20+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080613/https://seriousprivacy.buzzsprout.com/840448/9647366-predictions-worries-and-wisdom-from-iapp-brussels",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:25+01:00",
+                  "submittedAt": "2025-07-24T10:06:13+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 4,
+      "items": [
+        {
+          "id": "2020-us-legislation",
+          "year": 2020,
+          "title": "FPF LinkedIn Live on 2020 US legislation",
+          "authors": ["Barron J.", "Eijk R. van", "Zanfir-Fortuna G."],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.linkedin.com/video/live/urn:li:ugcPost:6737002245038198784/",
+              "title": "Watch Discussion",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:26+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080625/https://www.linkedin.com/video/live/urn:li:ugcPost:6737002245038198784/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:28+01:00",
+                  "submittedAt": "2025-07-24T10:06:25+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-schrems-ii-guidance",
+          "year": 2020,
+          "title": "EU Data Protection Chiefs: Schrems II Guidance Update",
+          "authors": ["Breitbarth P.", "Eijk R. van", "Fenessy K.", "Zanfir-Fortuna G."],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.linkedin.com/posts/julespolonetsky_eu-data-protection-chiefs-schrems-ii-guidance-activity-6692489755311140864-kQPh",
+              "title": "Watch Discussion",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:32+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080637/https://www.linkedin.com/posts/julespolonetsky_eu-data-protection-chiefs-schrems-ii-guidance-activity-6692489755311140864-kQPh",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:36+01:00",
+                  "submittedAt": "2025-07-24T10:06:37+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-ethical-algorithm",
+          "year": 2020,
+          "title": "The Ethical Algorithm: The Science of Socially Aware Algorithm Design by Michael Kearns and Aaron Roth",
+          "authors": ["Kearns M."],
+          "venue": "FPF Book Club",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=CnQSv5SVZ3Q",
+              "title": "Watch Book Club",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:37+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-online-privacy",
+          "year": 2020,
+          "title": "Online privacy?",
+          "description": "Online privacy? (in Dutch)",
+          "authors": ["Yadine H.", "Groen R."],
+          "venue": "Fons Vitae Lyceum",
+          "location": "Amsterdam",
+          "publisher": "Fons Vitae Lyceum",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lBJSiMFooC4",
+              "title": "Watch Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:38+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 7,
+      "items": [
+        {
+          "id": "2019-privacy-advisor-podcast",
+          "year": 2019,
+          "title": "The inside scoop on the future of online advertising",
+          "authors": ["Carson A."],
+          "venue": "The Privacy Advisor Podcast",
+          "location": "Washington, DC",
+          "publisher": "International Association of Privacy Professionals (IAPP)",
+          "category": "podcast",
+          "mediaType": "podcast",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "podcast",
+              "url": "https://iapp.org/news/a/the-privacy-advisor-podcast-the-inside-scoop-on-the-future-of-online-advertising/",
+              "title": "Listen to Podcast",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:39+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080746/https://iapp.org/news/a/the-privacy-advisor-podcast-the-inside-scoop-on-the-future-of-online-advertising/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:41+01:00",
+                  "submittedAt": "2025-07-24T10:07:46+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-dual-phd-experience",
+          "year": 2019,
+          "title": "Experiences of dual Ph.D. students: Eijk R. van and the Dutch Data Protection Authority about the Dual Ph.D. Centre",
+          "authors": ["Doorn, J."],
+          "venue": "Dual Ph.D. Centre",
+          "location": "The Hague",
+          "publisher": "Dual Ph.D. Centre, Faculty of Governance and Global Affairs, Leiden University",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7Qj0eMYZBkE",
+              "title": "Watch Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:42+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2019-network-watching",
+          "year": 2019,
+          "title": "The network is watching you",
+          "authors": ["Engel E."],
+          "venue": "Het Financieele Dagblad",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "infographic",
+          "mediaType": "infographic",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fd.nl/futures/1291047/the-network-is-watching-you-wle1cayaCFLV",
+              "title": "View Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:42+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080827/https://fd.nl/futures/1291047/the-network-is-watching-you-wle1cayaCFLV",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:43+01:00",
+                  "submittedAt": "2025-07-24T10:08:27+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-privacy-power-book",
+          "year": 2019,
+          "title": "Of Privacy and Power: The Transatlantic Struggle over Freedom and Security by Henry Farrell and Abraham Newma",
+          "authors": ["Farrell H."],
+          "venue": "FPF Book Club, Future of Privacy Forum",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://youtu.be/vre3q8D-J68",
+              "title": "Watch Book Club",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:44+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2019-radio-tracking",
+          "year": 2019,
+          "title": "Meer en meer bedrijven kijken mee terwijl jij surft",
+          "authors": ["Schellevis J.", "Trehy J."],
+          "venue": "NOS Radio 1 Journaal",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "radio interview",
+          "mediaType": "radio interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "audio",
+              "url": "https://www.nporadio1.nl/wetenschap-techniek/14365-meer-en-meer-bedrijven-kijken-mee-terwijl-jij-surft",
+              "title": "Listen to Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:45+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080913/https://www.nporadio1.nl/wetenschap-techniek/14365-meer-en-meer-bedrijven-kijken-mee-terwijl-jij-surft",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:48+01:00",
+                  "submittedAt": "2025-07-24T10:09:13+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-monstercookies",
+          "year": 2019,
+          "title": "Monstercookies. What happens if you accept advertising cookies",
+          "description": "Monstercookies. What happens if you accept advertising cookies. (in Dutch). Detailed background information by Eijk R. van.",
+          "authors": ["Vegelien S."],
+          "venue": "NOS OP 3 Tech",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "mobile/web application",
+          "mediaType": "mobile/web application",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://app.nos.nl/op3/cookies/",
+              "title": "View App",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:49+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080924/https://app.nos.nl/op3/cookies/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:52+01:00",
+                  "submittedAt": "2025-07-24T10:09:24+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-bnr-ochtendspits",
+          "year": 2019,
+          "title": "De ochtendspits",
+          "authors": ["Werven B. van"],
+          "venue": "BNR Nieuwsradio",
+          "location": "Amsterdam",
+          "publisher": "FD Media Group",
+          "category": "radio interview",
+          "mediaType": "radio interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "audio",
+              "url": "https://www.bnr.nl/player/archief/20190129094615300",
+              "title": "Listen to Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:53+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080936/https://www.bnr.nl/player/archief/20190129094615300",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:57:58+01:00",
+                  "submittedAt": "2025-07-24T10:09:36+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "count": 2,
+      "items": [
+        {
+          "id": "2013-fractie-seconde",
+          "year": 2013,
+          "title": "Handel in een fractie van een seconde",
+          "authors": ["Kamphuis B."],
+          "venue": "NOS Zomercolumn",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://nos.nl/video/527311-handel-in-een-fractie-van-een-seconde.html",
+              "title": "Watch Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:57:59+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080948/https://nos.nl/video/527311-handel-in-een-fractie-van-een-seconde.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:00+01:00",
+                  "submittedAt": "2025-07-24T10:09:48+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2013-rtb-growth",
+          "year": 2013,
+          "title": "Hoe is real time bidding gegroeid?",
+          "authors": ["Kamphuis B."],
+          "venue": "NOS Zomercolumn",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://nos.nl/video/527121-hoe-is-real-time-bidding-gegroeid",
+              "title": "Watch Interview",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080959/https://nos.nl/video/527121-hoe-is-real-time-bidding-gegroeid",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:02+01:00",
+                  "submittedAt": "2025-07-24T10:09:59+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

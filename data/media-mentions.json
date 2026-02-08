@@ -1,0 +1,2211 @@
+{
+  "title": "Media Mentions",
+  "contentType": "media",
+  "totalItems": 78,
+  "lastUpdated": "2025-07-19",
+  "sections": [
+    {
+      "year": 2025,
+      "count": 5,
+      "items": [
+        {
+          "id": "2025-droidapp-facebook-instagram",
+          "year": 2025,
+          "title": "Onderzoekers: Facebook en Instagram gebruikten spionagetrucje op Android-smartphones",
+          "authors": ["Hage S."],
+          "venue": "DroidApp.nl",
+          "publisher": "DroidApp.nl",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.droidapp.nl/nieuws/onderzoek-facebook-instagram-android-nauwlettend-gaten/",
+              "title": "Read Article",
+              "lastChecked": "2025-07-24T10:48:22+01:00",
+              "status": "active",
+              "archiveUrls": [
+                {
+                  "source": "UK Web Archive",
+                  "url": "https://www.webarchive.org.uk/wayback/archive/20250604/https://www.droidapp.nl/nieuws/onderzoek-facebook-instagram-android-nauwlettend-gaten/",
+                  "date": "2025-06-04",
+                  "status": "broken",
+                  "lastChecked": "2025-07-24T10:48:52+01:00"
+                },
+                {
+                  "source": "BnF Web Archive",
+                  "url": "https://archivesweb.bnf.fr/web/20250604090000/https://www.droidapp.nl/nieuws/onderzoek-facebook-instagram-android-nauwlettend-gaten/",
+                  "date": "2025-06-04",
+                  "status": "broken",
+                  "lastChecked": "2025-07-24T10:48:57+01:00"
+                },
+                {
+                  "url": "https://web.archive.org/web/20250724073317/https://www.droidapp.nl/nieuws/onderzoek-facebook-instagram-android-nauwlettend-gaten/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:00+01:00",
+                  "submittedAt": "2025-07-24T09:33:17+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-suriname-times-facebook",
+          "year": 2025,
+          "title": "Facebook en Instagram gebruikten spionagetrucje op Android-smartphones",
+          "authors": ["n.d."],
+          "venue": "Times of Suriname",
+          "location": "Paramaribo",
+          "publisher": "Times of Suriname",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.surinametimes.com/artikel/facebook-en-instagram-gebruikten-spionagetrucje-op-android-smartphones",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:03+01:00",
+              "archiveUrls": [
+                {
+                  "url": "http://web.archive.org/web/20250604101145/https://www.surinametimes.com/artikel/facebook-en-instagram-gebruikten-spionagetrucje-op-android-smartphones",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:04+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-startenzo-facebook-android",
+          "year": 2025,
+          "title": "Facebook en Instagram volgden Android-gebruikers heimelijk via app-server",
+          "authors": ["n.d."],
+          "venue": "Startenzo.nl",
+          "publisher": "Startenzo.nl",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.startenzo.nl/blog/tech/facebook-en-instagram-volgden-android-gebruikers-heimelijk",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:04+01:00",
+              "archiveUrls": [
+                {
+                  "url": "http://web.archive.org/web/20250605213448/https://www.startenzo.nl/blog/tech/facebook-en-instagram-volgden-android-gebruikers-heimelijk",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:06+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-nos-facebook-instagram-spionage",
+          "year": 2025,
+          "title": "Onderzoekers: Facebook en Instagram gebruikten spionagetrucje op Android-smartphones",
+          "authors": ["Schellevis J."],
+          "venue": "NOS",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/artikel/2569805-onderzoekers-facebook-en-instagram-gebruikten-spionagetrucje-op-android-smartphones",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:06+01:00",
+              "archiveUrls": [
+                {
+                  "url": "http://web.archive.org/web/20250603141744/https://nos.nl/artikel/2569805-onderzoekers-facebook-en-instagram-gebruikten-spionagetrucje-op-android-smartphones",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:07+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 3,
+      "items": [
+        {
+          "id": "2024-drum-linkedin-pinterest",
+          "year": 2024,
+          "title": "Adland on alert as LinkedIn & Pinterest come under legal fire for ad tracking practices",
+          "authors": ["Barnett K."],
+          "venue": "The Drum",
+          "location": "London",
+          "publisher": "Carnyx Group Limited",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.thedrum.com/news/2024/10/25/adland-alert-linkedin-pinterest-come-under-legal-fire-ad-tracking-practices",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:07+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20241203114429/https://www.thedrum.com/news/2024/10/25/adland-alert-linkedin-pinterest-come-under-legal-fire-ad-tracking-practices",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:09+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2024-drum-x-ad-policies",
+          "year": 2024,
+          "title": "X's ad policies & pay-to-play blue checks face probe; experts see more EU crackdown ahead",
+          "authors": ["Barnett K."],
+          "venue": "The Drum",
+          "location": "London",
+          "publisher": "Carnyx Group Limited",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.thedrum.com/news/2024/07/12/x-s-ad-policies-pay-play-blue-checks-face-probe-experts-see-more-eu-crackdown-ahead",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:09+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20240713123902/https://www.thedrum.com/news/2024/07/12/x-s-ad-policies-pay-play-blue-checks-face-probe-experts-see-more-eu-crackdown-ahead",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:11+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2024-svj-digital-passports",
+          "year": 2024,
+          "title": "A more digital Europe introducing Digital Passports",
+          "authors": ["Timmerman S."],
+          "venue": "SVJ Media - International Journalism",
+          "location": "Utrecht",
+          "publisher": "School voor Journalistiek (SvJ)",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://svjmedia.nl/internationaljournalism/14192/a-more-digital-europe-introducing-digital-passports/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:12+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20241203114306/https://svjmedia.nl/internationaljournalism/14192/a-more-digital-europe-introducing-digital-passports/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:13+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 15,
+      "items": [
+        {
+          "id": "2023-actuma-politieke-partijen",
+          "year": 2023,
+          "title": "Politieke partijen onder vuur wegens privacywet overtredingen",
+          "authors": ["Bosboom A."],
+          "venue": "Actuma",
+          "location": "Eexterveen",
+          "publisher": "Foresttree Marketing Solutions",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://actuma.nl/politieke-partijen-onder-vuur-wegens-privacywet-overtredingen/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:14+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111112552/https://actuma.nl/politieke-partijen-onder-vuur-wegens-privacywet-overtredingen/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:14+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-ftm-geopolitieke-advertenties",
+          "year": 2023,
+          "title": "Je meest intieme data gaan naar de hoogste bieder, en dat kan een spion zijn",
+          "authors": ["Brommersma S.", "Janssen G."],
+          "venue": "Follow the Money",
+          "location": "Amsterdam",
+          "publisher": "Follow the Money",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.ftm.nl/artikelen/geopolitieke-consequenties-van-online-advertenties",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:14+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073414/https://www.ftm.nl/artikelen/geopolitieke-consequenties-van-online-advertenties",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:18+01:00",
+                  "submittedAt": "2025-07-24T09:34:14+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-nation-view-cookie-law",
+          "year": 2023,
+          "title": "Parties are breaching the Cookie Law by placing tracking cookies",
+          "authors": ["Jack J."],
+          "venue": "The Nation View",
+          "publisher": "The Nation View",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://thenationview.com/tech/220666.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-12-19T20:30:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111120436/https://thenationview.com/tech/220666.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:21+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-netherlands-posts-cookies",
+          "year": 2023,
+          "title": "Parties violate cookie law by placing tracking cookies",
+          "authors": ["Marilyn"],
+          "venue": "The Netherlands Posts English",
+          "publisher": "The Netherlands Posts English",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://netherlands.postsen.com/business/220879/Parties-violate-cookie-law-by-placing-tracking-cookies.html",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:49:21+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111121609/https://netherlands.postsen.com/business/220879/Parties-violate-cookie-law-by-placing-tracking-cookies.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:24+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-vpngids-tracking-cookies",
+          "year": 2023,
+          "title": "Politieke partijen overtreden privacywet met tracking cookies",
+          "authors": ["Mous A."],
+          "venue": "VPNGids",
+          "location": "Nijmegen",
+          "publisher": "VPNGids.nl",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.vpngids.nl/nieuws/politieke-partijen-overtreden-privacywet-met-tracking-cookies/",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:49:24+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111114647/https://www.vpngids.nl/nieuws/politieke-partijen-overtreden-privacywet-met-tracking-cookies/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:26+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-gogodutch-privacy-laws",
+          "year": 2023,
+          "title": "荷兰多个政党利用跟踪cookie，违反隐私法 (Multiple political parties in the Netherlands use tracking cookies to violate privacy laws)",
+          "authors": ["n.d."],
+          "venue": "GoGoDutch",
+          "location": "Rotterdam",
+          "publisher": "GoGoDutch BV",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://bbs.gogodutch.com/thread-1203280-1-1.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:27+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111120028/https://bbs.gogodutch.com/thread-1203280-1-1.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:33+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-aboutict-cookiewet",
+          "year": 2023,
+          "title": "Partijen overtreden cookiewet met plaatsen volgcookies",
+          "authors": ["n.d."],
+          "venue": "aboutict",
+          "location": "Amsterdam",
+          "publisher": "AboutPublishers",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://aboutict.nl/news/2023-11-08/partijen-overtreden-cookiewet-met-plaatsen-volgcookies-emerce",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:49:34+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111110752/https://aboutict.nl/news/2023-11-08/partijen-overtreden-cookiewet-met-plaatsen-volgcookies-emerce",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:34+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-dagblad010-volgcookies",
+          "year": 2023,
+          "title": "Partijen overtreden cookiewet met plaatsen volgcookies",
+          "authors": ["n.d."],
+          "venue": "Dagblad010",
+          "location": "Barendrecht",
+          "publisher": "Digitaal Dagblad B.V. / René Dons",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://dagblad010.nl/Landelijk/partijen-overtreden-cookiewet-met-plaatsen-volgcookies",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:36+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111110533/https://dagblad010.nl/Landelijk/partijen-overtreden-cookiewet-met-plaatsen-volgcookies",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:37+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-emerce-cookiewet-volgcookies",
+          "year": 2023,
+          "title": "Partijen overtreden cookiewet met plaatsen volgcookies",
+          "authors": ["n.d."],
+          "venue": "Emerce",
+          "location": "Haarlem",
+          "publisher": "Emerce",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.emerce.nl/nieuws/partijen-overtreden-cookiewet-plaatsen-volgcookies",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:38+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111105926/https://www.emerce.nl/nieuws/partijen-overtreden-cookiewet-plaatsen-volgcookies",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:38+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-nltimes-tracking-cookies",
+          "year": 2023,
+          "title": "Political parties violating privacy law with tracking cookies",
+          "authors": ["n.d."],
+          "venue": "NL Times",
+          "location": "Amsterdam",
+          "publisher": "3120 Media",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nltimes.nl/2023/11/08/political-parties-violating-privacy-law-tracking-cookies",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:39+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20251220120653/https://nltimes.nl/2023/11/08/political-parties-violating-privacy-law-tracking-cookies",
+                  "source": "archive.org",
+                  "status": "active",
+                  "submittedAt": "2025-12-20T12:06:53+00:00",
+                  "lastChecked": "2025-12-20T12:09:41+00:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-privacy-web-tracking",
+          "year": 2023,
+          "title": "Politieke partijen overtreden privacywet met tracking cookies",
+          "authors": ["n.d."],
+          "venue": "PONT | Data & Privacy",
+          "location": "Amsterdam",
+          "publisher": "Berghauser Pont Mediagroep",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://privacy-web.nl/nieuws/politieke-partijen-overtreden-privacywet-met-tracking-cookies/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:40+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111114855/https://privacy-web.nl/nieuws/politieke-partijen-overtreden-privacywet-met-tracking-cookies/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:40+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-telecompaper-volgcookies",
+          "year": 2023,
+          "title": "Politieke partijen overtreden privacywet met plaatsen volgcookies",
+          "authors": ["n.d."],
+          "venue": "Telecompaper",
+          "location": "Houten",
+          "publisher": "Telecom.paper BV",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.telecompaper.com/nieuws/politieke-partijen-overtreden-privacywet-met-plaatsen-volgcookies-nos--1481829",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:41+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073509/https://www.telecompaper.com/nieuws/politieke-partijen-overtreden-privacywet-met-plaatsen-volgcookies-nos--1481829",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:43+01:00",
+                  "submittedAt": "2025-07-24T09:35:09+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-bnnvara-volgcookies",
+          "year": 2023,
+          "title": "Websites van politieke partijen gebruiken illegale volgcookies",
+          "authors": ["n.d."],
+          "venue": "BNNVARA",
+          "location": "Hilversum",
+          "publisher": "Omroepvereniging BNNVARA",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.bnnvara.nl/kassa/artikelen/websites-van-politieke-partijen-gebruiken-illegale-volgcookies",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:44+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111115732/https://www.bnnvara.nl/kassa/artikelen/websites-van-politieke-partijen-gebruiken-illegale-volgcookies",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:46+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-nos-cookiewet-partijen",
+          "year": 2023,
+          "title": "Partijen overtreden cookiewet met plaatsen volgcookies",
+          "authors": ["Schellevis J."],
+          "venue": "NOS",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/collectie/13960/artikel/2497054-partijen-overtreden-cookiewet-met-plaatsen-volgcookies",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:46+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231111102010/https://nos.nl/collectie/13960/artikel/2497054-partijen-overtreden-cookiewet-met-plaatsen-volgcookies",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:47+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 5,
+      "items": [
+        {
+          "id": "2022-nos-advertentiefraude",
+          "year": 2022,
+          "title": "'Tientallen miljarden gaan in rook op door online advertentiefraude.'",
+          "authors": ["Bouwma R."],
+          "venue": "NOS",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/nieuwsuur/artikel/2415110-tientallen-miljarden-gaan-in-rook-op-door-online-advertentiefraude",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:47+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073531/https://nos.nl/nieuwsuur/artikel/2415110-tientallen-miljarden-gaan-in-rook-op-door-online-advertentiefraude",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:49:56+01:00",
+                  "submittedAt": "2025-07-24T09:35:31+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-nrc-ap-privacy",
+          "year": 2022,
+          "title": "Beschermt de Autoriteit Persoonsgegevens privacy, of verstoort het de vrije markt?",
+          "authors": ["Heck W.", "Olsthoorn P."],
+          "venue": "NRC Handelsblad",
+          "location": "Amsterdam",
+          "publisher": "NRC Handelsblad",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.nrc.nl/nieuws/2022/07/03/beschermt-de-ap-privacy-of-verstoort-het-de-vrije-markt-a4135384",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:49:56+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073543/https://www.nrc.nl/nieuws/2022/07/03/beschermt-de-ap-privacy-of-verstoort-het-de-vrije-markt-a4135384",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:00+01:00",
+                  "submittedAt": "2025-07-24T09:35:43+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-politico-us-eu-data",
+          "year": 2022,
+          "title": "US-EU data transfers on life support after French Google decision",
+          "authors": ["Manacourt V.", "Kayali L."],
+          "venue": "POLITICO Pro",
+          "location": "Brussels",
+          "publisher": "Politico",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://pro.politico.eu/news/146050",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:00+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2022-netkwesties-voetbaltv",
+          "year": 2022,
+          "title": "Operatie geslaagd, patiënt overleden: Hoe VoetbalTV botste met de AP",
+          "authors": ["Olsthoorn P."],
+          "venue": "Netkwesties Magazine over maatschappij en internet",
+          "publisher": "Netkwesties.nl",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.netkwesties.nl/1575/hoe-voetbaltv-botste-met-de-ap.htm",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:04+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073607/https://www.netkwesties.nl/1575/hoe-voetbaltv-botste-met-de-ap.htm",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:07+01:00",
+                  "submittedAt": "2025-07-24T09:36:07+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-mlex-ai-algorithms",
+          "year": 2022,
+          "title": "Companies deploying AI must consider accountability, transparency in deploying algorithms, experts say",
+          "authors": ["Swift M."],
+          "venue": "MLex",
+          "location": "Washington, DC",
+          "publisher": "MLex",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://content.mlex.com/#/content/1371714/companies-deploying-ai-must-consider-accountability-transparency-in-deploying-algorithms-experts-say",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:50:07+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 8,
+      "items": [
+        {
+          "id": "2021-nos-google-cookies",
+          "year": 2021,
+          "title": "Met Googles afscheid van tracking cookies verandert voor consument weinig",
+          "authors": ["Bogosavac N."],
+          "venue": "NOS",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/artikel/2371220-met-googles-afscheid-van-tracking-cookies-verandert-voor-consument-weinig.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:08+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073619/https://nos.nl/artikel/2371220-met-googles-afscheid-van-tracking-cookies-verandert-voor-consument-weinig.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:11+01:00",
+                  "submittedAt": "2025-07-24T09:36:19+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-vers-beton-esports",
+          "year": 2021,
+          "title": "Rotterdam stimuleert esports maar kan privacy van kinderen niet genoeg beschermen",
+          "authors": ["Broeders R."],
+          "venue": "Vers Beton",
+          "location": "Rotterdam",
+          "publisher": "Stichting Vers Beton",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://versbeton.nl/2021/03/het-virtuele-mijnenveld-van-esports-gemeente-rotterdam-faalt-in-waarborgen-privacy-kwetsbare-groepen/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:12+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073631/https://versbeton.nl/2021/03/het-virtuele-mijnenveld-van-esports-gemeente-rotterdam-faalt-in-waarborgen-privacy-kwetsbare-groepen/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:16+01:00",
+                  "submittedAt": "2025-07-24T09:36:31+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-medical-facts-pgo",
+          "year": 2021,
+          "title": "Vrijdag in Meldpunt: Is de nieuwe gezondheidsapp PGO wel veilig?",
+          "authors": ["Budding A."],
+          "venue": "MedicalFacts.nl",
+          "location": "Oss",
+          "publisher": "Stichting MedicalFacts",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.medicalfacts.nl/2021/05/06/vrijdag-in-meldpunt-is-de-nieuwe-gezondheidsapp-pgo-wel-veilig/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:16+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073643/https://www.medicalfacts.nl/2021/05/06/vrijdag-in-meldpunt-is-de-nieuwe-gezondheidsapp-pgo-wel-veilig/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:20+01:00",
+                  "submittedAt": "2025-07-24T09:36:43+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-nieuwsuur-coronareispas",
+          "year": 2021,
+          "title": "Brussel wil coronareispas, maar wat je er straks echt mee kunt is nog de vraag (Brussels wants corona travel pass, but what you can really do with it remains to be seen)",
+          "authors": ["Galan M. de", "Lemoine N."],
+          "venue": "Nieuwsuur",
+          "location": "Hilversum",
+          "publisher": "NOS-NTR Dutch public broadcast services",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/nieuwsuur/artikel/2378639-brussel-wil-coronareispas-maar-wat-je-er-straks-echt-mee-kunt-is-nog-de-vraag",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:20+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073658/https://nos.nl/nieuwsuur/artikel/2378639-brussel-wil-coronareispas-maar-wat-je-er-straks-echt-mee-kunt-is-nog-de-vraag",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:24+01:00",
+                  "submittedAt": "2025-07-24T09:36:58+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-politico-dutch-dpa",
+          "year": 2021,
+          "title": "Dutch DPA gets boost",
+          "authors": ["Manacourt V."],
+          "venue": "POLITICO Pro Cyber Insights",
+          "location": "Brussels",
+          "publisher": "Politico",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://pro.politico.eu/news/politico-pro-cyber-insights-habemus-e-privacy-lessons-from-us-on-privacy-dutch-dpa-gets-boost",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:24+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2021-targeted-news-fpf",
+          "year": 2021,
+          "title": "Future of Privacy Forum Launches Asia-Pacific Region Office, Global Data Protection Expert Clarisse Girot Leads Team",
+          "authors": ["n.d."],
+          "venue": "Targeted News Service",
+          "location": "Washington",
+          "publisher": "Targeted News Service LLC",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://advance.lexis.com/api/permalink/f295c185-a560-44fd-8806-c8c057ebc58d/?context=1519360",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:28+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073722/https://advance.lexis.com/api/permalink/f295c185-a560-44fd-8806-c8c057ebc58d/?context=1519360",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:37+01:00",
+                  "submittedAt": "2025-07-24T09:37:22+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-max-meldpunt-pgo",
+          "year": 2021,
+          "title": "Zijn de nieuwe medische PGO-apps veilig?",
+          "authors": ["n.d."],
+          "venue": "Max Meldpunt",
+          "location": "Hilversum",
+          "publisher": "Max Meldpunt, Omroep Max",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.maxmeldpunt.nl/digitalisering/zijn-de-nieuwe-medische-pgo-apps-veilig/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:38+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073734/https://www.maxmeldpunt.nl/digitalisering/zijn-de-nieuwe-medische-pgo-apps-veilig/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:42+01:00",
+                  "submittedAt": "2025-07-24T09:37:34+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 17,
+      "items": [
+        {
+          "id": "2020-el-confidencial-covid-privacy",
+          "year": 2020,
+          "title": "En la guerra contra el coronavirus, Europa está perdiendo la batalla de la privacidad",
+          "authors": ["Alarcon N."],
+          "venue": "El Confidencial",
+          "location": "Madrid",
+          "publisher": "Titania Compañía Editorial, S.L.",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.elconfidencial.com/mundo/europa/2020-04-17/en-la-guerra-al-covid-europa-esta-perdiendo-la-batalla-de-la-privacidad_2552463/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:42+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073750/https://www.elconfidencial.com/mundo/europa/2020-04-17/en-la-guerra-al-covid-europa-esta-perdiendo-la-batalla-de-la-privacidad_2552463/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:45+01:00",
+                  "submittedAt": "2025-07-24T09:37:50+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-euronews-microchip-implants",
+          "year": 2020,
+          "title": "Will microchip implants be the next big thing in Europe?",
+          "authors": ["Chadwick L."],
+          "venue": "Euronews",
+          "location": "Lyon",
+          "publisher": "Euronews",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.euronews.com/2020/05/12/will-microchip-implants-be-the-next-big-thing-in-europe",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:46+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073801/https://www.euronews.com/2020/05/12/will-microchip-implants-be-the-next-big-thing-in-europe",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:51+01:00",
+                  "submittedAt": "2025-07-24T09:38:01+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-bloomberg-creepy-tech",
+          "year": 2020,
+          "title": "Creepy Technologies Invade European Post-Pandemic Workplaces",
+          "authors": ["Drozdiak N."],
+          "venue": "Bloomberg",
+          "location": "London",
+          "publisher": "Bloomberg",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.bloomberg.com/news/articles/2020-05-20/creepy-technologies-invade-european-post-pandemic-workplaces?sref=x6fmkuFC",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-12-19T20:30:00+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-fortune-pandemic-workplace",
+          "year": 2020,
+          "title": "What will the post-pandemic workplace look like? Europe offers a creepy glimpse",
+          "authors": ["Fouquet H.", "Drozdiak N."],
+          "venue": "Fortune",
+          "location": "New York, NY",
+          "publisher": "Fortune",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fortune.com/2020/05/23/post-pandemic-workplace-coronavirus-changes-work-office-covid-19/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:52+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073813/https://fortune.com/2020/05/23/post-pandemic-workplace-coronavirus-changes-work-office-covid-19/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:55+01:00",
+                  "submittedAt": "2025-07-24T09:38:13+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-tweakers-eprivacy",
+          "year": 2020,
+          "title": "E-privacyverordening biedt meer helderheid over cookiewalls",
+          "authors": ["Hofmans T."],
+          "venue": "Tweakers",
+          "location": "Amsterdam",
+          "publisher": "Tweakers",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://tweakers.net/reviews/7628/e-privacyverordening-biedt-meer-helderheid-over-cookiewalls.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:56+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073825/https://tweakers.net/reviews/7628/e-privacyverordening-biedt-meer-helderheid-over-cookiewalls.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:50:58+01:00",
+                  "submittedAt": "2025-07-24T09:38:25+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-chip-tracking",
+          "year": 2020,
+          "title": "Endzeit für das Tracking. Was kommt nach der CookieCapolypse?",
+          "authors": ["Knoke F."],
+          "venue": "CHIP Plus",
+          "location": "München",
+          "publisher": "CHIP Communications",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "metadata": {
+            "volume": "12-2020"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://chip-kiosk.de/index.php?cl=details&cnid=68b561b054a6d92949c733ef583f5abb&anid=e2189d4940ad2134e2b1c0316bbfb4f1&&wtAdd",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:50:59+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073837/https://chip-kiosk.de/index.php?cl=details&cnid=68b561b054a6d92949c733ef583f5abb&anid=e2189d4940ad2134e2b1c0316bbfb4f1&&wtAdd",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:51:07+01:00",
+                  "submittedAt": "2025-07-24T09:38:37+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-politico-data-retention",
+          "year": 2020,
+          "title": "Data retention. Judges put the 'EU' back in data retention",
+          "authors": ["Manacourt V."],
+          "venue": "POLITICO Pro Cyber Insights",
+          "location": "Brussels",
+          "publisher": "Politico",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.politico.eu/pro/politico-pro-cyber-insights-surveillance-vs-eu-law-toolbox-on-college-agenda-imf-war-games/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:51:07+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-politico-ad-company-cookies",
+          "year": 2020,
+          "title": "Major ad company drops cookies. A switch by a Dutch firm to contextual advertising signals a shift away from the behavioral model that has dominated online advertising",
+          "authors": ["Manacourt V."],
+          "venue": "Politico Pro",
+          "location": "Brussels",
+          "publisher": "Politico",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.politico.eu/pro/major-ad-company-drops-cookies",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:51:13+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-politico-dutch-regulator",
+          "year": 2020,
+          "title": "New ruling deals blow to Dutch regulator's narrow GDPR interpretation",
+          "authors": ["Manacourt V."],
+          "venue": "Politico Pro",
+          "location": "Brussels",
+          "publisher": "Politico",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://pro.politico.eu/news/127815",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:51:25+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-politico-end-cookies",
+          "year": 2020,
+          "title": "The end of cookies",
+          "authors": ["Manacourt V."],
+          "venue": "POLITICO Pro Cyber Insights",
+          "location": "Brussels",
+          "publisher": "Politico",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.politico.eu/pro/politico-pro-cyber-insights-the-end-of-cookies-parliament-gets-eevidence-boost-best-of-ces",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:51:30+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-japan-times-surveillance",
+          "year": 2020,
+          "title": "Surveillance and monitoring invade European post-pandemic workplaces",
+          "authors": ["n.d."],
+          "venue": "The Japan Times",
+          "location": "Tokyo",
+          "publisher": "The Japan Times",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.japantimes.co.jp/news/2020/05/20/world/surveillance-monitoring-europe-coronavirus/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:51:39+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724073936/https://www.japantimes.co.jp/news/2020/05/20/world/surveillance-monitoring-europe-coronavirus/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:51:42+01:00",
+                  "submittedAt": "2025-07-24T09:39:36+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-mlex-covid-tracing",
+          "year": 2020,
+          "title": "Smartphone Covid-19 tracing provokes privacy concerns, questions about its utility",
+          "authors": ["Perera D."],
+          "venue": "MLex",
+          "location": "Brussels",
+          "publisher": "MLex",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://mlexmarketinsight.com/insights-center/editors-picks/area-of-expertise/data-privacy-and-security/smartphone-covid-19-tracing-provokes-privacy-concerns-questions-about-its-utility",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:51:44+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-fd-telecomdata-corona",
+          "year": 2020,
+          "title": "Brussel wil miljoenen mensen gaan volgen via telecomdata tegen corona",
+          "authors": ["Piersma J.", "Pols M."],
+          "venue": "Het Financieele Dagblad",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fd.nl/ondernemen/1339028/brussel-wil-miljoenen-mensen-gaan-volgen-via-telecomdata-tegen-corona",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:51:51+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074025/https://fd.nl/ondernemen/1339028/brussel-wil-miljoenen-mensen-gaan-volgen-via-telecomdata-tegen-corona",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:51:54+01:00",
+                  "submittedAt": "2025-07-24T09:40:25+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-atlantico-tech-travail",
+          "year": 2020,
+          "title": "Ces technologies inquiétantes qui ont envahi le monde du travail depuis la pandémie",
+          "authors": ["Pinte J.P."],
+          "venue": "Atlantico",
+          "location": "Paris, France",
+          "publisher": "Talmont Media",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.atlantico.fr/rdv/3589855/ces-technologies-inquietantes-qui-ont-envahi-le-monde-du-travail-depuis-la-pandemie-technologie-vie-privee-donnees-personnelles-aeroports-securite-jean-paul-pinte",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:51:54+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074037/https://www.atlantico.fr/rdv/3589855/ces-technologies-inquietantes-qui-ont-envahi-le-monde-du-travail-depuis-la-pandemie-technologie-vie-privee-donnees-personnelles-aeroports-securite-jean-paul-pinte",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:51:58+01:00",
+                  "submittedAt": "2025-07-24T09:40:37+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-washington-internet-gdpr",
+          "year": 2020,
+          "title": "Compliance 'Moving Target'. As GDPR Reaches 2nd Anniversary, Enforcement Resources an Issue",
+          "authors": ["Standeford D."],
+          "venue": "Washington Internet Daily and Communications Daily",
+          "location": "Washington, DC",
+          "publisher": "Warren Communications News",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://washingtoninternetdaily.com/article/share?a=602944",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:52:12+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2020-nos-corona-apps",
+          "year": 2020,
+          "title": "Deskundigen zeer kritisch over zeven corona-apps: 'Terug naar de tekentafel'",
+          "authors": ["Schellevis J."],
+          "venue": "NOS",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/artikel/2330998-deskundigen-zeer-kritisch-over-zeven-corona-apps-terug-naar-de-tekentafel.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:52:13+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074102/https://nos.nl/artikel/2330998-deskundigen-zeer-kritisch-over-zeven-corona-apps-terug-naar-de-tekentafel.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:52:16+01:00",
+                  "submittedAt": "2025-07-24T09:41:02+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-de-jurist-facebook",
+          "year": 2020,
+          "title": "Facebook op de pijnbank: 'Gebruikers betaalden jarenlang ongevraagd met hun data'",
+          "authors": ["Wesseling A."],
+          "venue": "De Jurist",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://dejurist.com/nieuws/50008023/facebook-op-de-pijnbank-gebruikers-betaalden-jarenlang-ongevraagd-met-hun-data",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:52:16+01:00",
+              "archiveUrls": [
+                {
+                  "url": "http://web.archive.org/web/20220118204441/https://dejurist.com/nieuws/50008023/facebook-op-de-pijnbank-gebruikers-betaalden-jarenlang-ongevraagd-met-hun-data",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:20:06+00:00",
+                  "archivedAt": "2022-01-18T20:44:41+00:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 16,
+      "items": [
+        {
+          "id": "2019-fd-privacy-democratie",
+          "year": 2019,
+          "title": "Parlementaire democratie grote verliezer door onmacht EU om online privacy te reguleren (Parliamentary democracy loses big due to EU powerlessness to regulate online privacy)",
+          "authors": ["Arnbak A."],
+          "venue": "Het Financieele Dagblad",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fd.nl/opinie/1320461/parlementaire-democratie-grote-verliezer-door-onmacht-eu-om-online-privacy-te-reguleren#",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:52:26+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://fd.nl/opinie/1320461/parlementaire-democratie-grote-verliezer-door-onmacht-eu-om-online-privacy-te-reguleren",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:52:26+01:00",
+                  "submittedAt": "2025-07-24T09:41:26+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-fd-avg-megaboetes",
+          "year": 2019,
+          "title": "Privacywet AVG zal in toekomst belofte van megaboetes en massaclaims inlossen",
+          "authors": ["Arnbak A."],
+          "venue": "Het Financieele Dagblad",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fd.nl/opinie/1346106/privacywet-avg-zal-in-toekomst-belofte-van-megaboetes-en-massaclaims-inlossen",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:52:26+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074138/https://fd.nl/opinie/1346106/privacywet-avg-zal-in-toekomst-belofte-van-megaboetes-en-massaclaims-inlossen",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:52:59+01:00",
+                  "submittedAt": "2025-07-24T09:41:38+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-mare-hidden-internet-en",
+          "year": 2019,
+          "title": "A spider's web of clicks. The internet's hidden side is watching you",
+          "authors": ["Bongers V."],
+          "venue": "Leids Universitair Weekblad Mare",
+          "location": "Leiden",
+          "publisher": "Leiden University",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.mareonline.nl/en/science/the-internets-hidden-side-is-watching-you/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074150/https://www.mareonline.nl/en/science/the-internets-hidden-side-is-watching-you/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:53:03+01:00",
+                  "submittedAt": "2025-07-24T09:41:50+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-mare-spinnenweb-clicks",
+          "year": 2019,
+          "title": "Een spinnenweb van clicks. Hoe de achterkant van het internet ons in de gaten houdt",
+          "authors": ["Bongers V."],
+          "venue": "Leids Universitair Weekblad Mare",
+          "location": "Leiden",
+          "publisher": "Leiden University",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "http://archief.mareonline.nl/archive/2019/01/24/een-spinnenweb-van-clicks",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:53:07+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2019-leiden-phd-privacy",
+          "year": 2019,
+          "title": "Ph.D. Candidate Robbert van Eijk measures privacy component in online advertising",
+          "authors": ["Driesche F. van den"],
+          "venue": "Leiden University",
+          "location": "Leiden",
+          "publisher": "Leiden University",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.universiteitleiden.nl/en/news/2019/01/phd-candidate-robbert-van-eijk-measures-privacy-component-in-online-advertising",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:09+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074206/https://www.universiteitleiden.nl/en/news/2019/01/phd-candidate-robbert-van-eijk-measures-privacy-component-in-online-advertising",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:53:12+01:00",
+                  "submittedAt": "2025-07-24T09:42:06+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-welingelichte-kringen",
+          "year": 2019,
+          "title": "Op de achtergrond kijken honderden bedrijven mee terwijl je surft",
+          "authors": ["Immer-zaal P."],
+          "venue": "Welingelichte kringen",
+          "location": "Epse",
+          "publisher": "Welingelichte kringen",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.welingelichtekringen.nl/tech/886745/op-de-achtergrond-kijken-honderden-bedrijven-mee-terwijl-je-surft-3.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:12+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074218/https://www.welingelichtekringen.nl/tech/886745/op-de-achtergrond-kijken-honderden-bedrijven-mee-terwijl-je-surft-3.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:53:21+01:00",
+                  "submittedAt": "2025-07-24T09:42:18+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-plus-online-surfen",
+          "year": 2019,
+          "title": "Meer bedrijven kijken mee terwijl u surft",
+          "authors": ["Jong S."],
+          "venue": "PlusOnline",
+          "location": "Baarn",
+          "publisher": "MediaPlus bv",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.plusonline.nl/veilig-online/meer-bedrijven-kijken-mee-terwijl-u-surft",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:22+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074231/https://www.plusonline.nl/veilig-online/meer-bedrijven-kijken-mee-terwijl-u-surft",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:53:25+01:00",
+                  "submittedAt": "2025-07-24T09:42:31+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-politico-data-processing",
+          "year": 2019,
+          "title": "A new standard for data processing contracts, New templates could give small companies power to push back against larger firms",
+          "authors": ["Manacourt V."],
+          "venue": "Politico Pro",
+          "location": "Brussels",
+          "publisher": "Politico",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.politico.eu/pro/a-new-standard-for-data-processing-contracts/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:26+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2019-nd-adverteerders",
+          "year": 2019,
+          "title": "Overdwars: Adverteerders op internet kijken graag met u mee",
+          "authors": ["Moeliker R."],
+          "venue": "Nederlands Dagblad",
+          "location": "Amersfoort",
+          "publisher": "Nederlands Dagblad",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.nd.nl/nieuws/nederland/535931/overdwars-adverteerders-op-internet-kijken-graag-met-u-mee",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:39+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724085341/https://www.nd.nl/nieuws/nederland/535931/overdwars-adverteerders-op-internet-kijken-graag-met-u-mee",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T10:53:41+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-security-nl-ap-streng",
+          "year": 2019,
+          "title": "Juristen en datahandelaren: AP te streng met uitleg privacywet",
+          "authors": ["n.d."],
+          "venue": "Security.NL",
+          "location": "Den Haag",
+          "publisher": "The Security Council B.V.",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.security.nl/posting/636518/Juristen+en+datahandelaren%3A+AP+te+streng+met+uitleg+privacywet",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:51+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074327/https://www.security.nl/posting/636518/Juristen+en+datahandelaren%3A+AP+te+streng+met+uitleg+privacywet",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:43:27+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-mare-bodycams",
+          "year": 2019,
+          "title": "Bodycams and trigger-happy cowboys",
+          "authors": ["n.d."],
+          "venue": "Leids Universitair Weekblad Mare",
+          "location": "Leiden",
+          "publisher": "Leiden University",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "http://archief.mareonline.nl/archive/2019/01/31/bodycams-and-trigger-happy-cowboys",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:53:56+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2019-privacy-nieuws-surfen",
+          "year": 2019,
+          "title": "Op de achtergrond kijken honderden bedrijven mee terwijl je surft",
+          "authors": ["n.d."],
+          "venue": "PrivacyNieuws.nl",
+          "location": "Utrecht",
+          "publisher": "Burgerrechtenvereniging Vrijbit",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.privacynieuws.nl/index.php/internet-en-telecom/20442-op-de-achtergrond-kijken-honderden-bedrijven-mee-terwijl-je-surft",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:53:56+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2019-fd-toezichthouder",
+          "year": 2019,
+          "title": "Toezichthouder gaat te ver met uitleg privacywet",
+          "authors": ["Piersma J.", "Pols M."],
+          "venue": "Het Financieele Dagblad",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fd.nl/ondernemen/1328971/toezichthouder-gaat-te-ver-met-uitleg-privacywet",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:56+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074343/https://fd.nl/ondernemen/1328971/toezichthouder-gaat-te-ver-met-uitleg-privacywet",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:43:43+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-nos-bedrijven-surfen",
+          "year": 2019,
+          "title": "Meer en meer bedrijven kijken mee terwijl jij surft",
+          "authors": ["Schellevis J."],
+          "venue": "NOS",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/artikel/2269561-meer-en-meer-bedrijven-kijken-mee-terwijl-jij-surft",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:57+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074354/https://nos.nl/artikel/2269561-meer-en-meer-bedrijven-kijken-mee-terwijl-jij-surft",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:43:54+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-nos-op3-cookieveiling",
+          "year": 2019,
+          "title": "Zo ziet de veiling achter een cookiemelding eruit",
+          "authors": ["Vegelien S."],
+          "venue": "NOS OP3",
+          "location": "Hilversum",
+          "publisher": "NOS OP3 Dutch public broadcast services",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/op3/artikel/2305556-zo-ziet-de-veiling-achter-een-cookiemelding-eruit.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:57+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074406/https://nos.nl/op3/artikel/2305556-zo-ziet-de-veiling-achter-een-cookiemelding-eruit.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:44:06+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-fd-android-data-leak",
+          "year": 2019,
+          "title": "Android-telefoons lekken massaal persoonlijke data zonder toestemming",
+          "authors": ["Wijnen J.F"],
+          "venue": "Het Financieele Dagblad",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fd.nl/ondernemen/1290757/android-telefoons-lekken-op-grote-schaal-persoonlijke-data-zonder-toestemming-gebruikers-wle1cayaCFLV",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:57+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074417/https://fd.nl/ondernemen/1290757/android-telefoons-lekken-op-grote-schaal-persoonlijke-data-zonder-toestemming-gebruikers-wle1cayaCFLV",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:44:17+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "count": 1,
+      "items": [
+        {
+          "id": "2014-mlex-do-not-track",
+          "year": 2014,
+          "title": "Advertising groups blast 'Do Not Track'",
+          "authors": ["Swift M."],
+          "venue": "MLex",
+          "location": "Brussels",
+          "publisher": "MLex",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://content.mlex.com/#/content/550583",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:53:57+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "count": 2,
+      "items": [
+        {
+          "id": "2013-emerce-mozilla-cookies",
+          "year": 2013,
+          "title": "Mozilla wil cookiegedrag inperken",
+          "authors": ["Boogert E."],
+          "venue": "Emerce",
+          "location": "Haarlem",
+          "publisher": "Emerce",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.emerce.nl/nieuws/mozilla-cookiegedrag-inperken",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:58+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074432/https://www.emerce.nl/nieuws/mozilla-cookiegedrag-inperken",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:44:32+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2013-trouw-firefox-cookies",
+          "year": 2013,
+          "title": "Surfgedrag niet meer te koop: Firefox legt handel in cookies aan ban",
+          "authors": ["Pels D."],
+          "venue": "Trouw",
+          "location": "Amsterdam",
+          "publisher": "Trouw",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "metadata": {
+            "notes": "Print edition, 5 Jul 2013, p. 16"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.trouw.nl/nieuws/firefox-legt-handel-in-cookies-aan-banden~b97e7884/",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:53:58+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724085359/https://www.trouw.nl/nieuws/firefox-legt-handel-in-cookies-aan-banden~b97e7884/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T10:53:59+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "count": 4,
+      "items": [
+        {
+          "id": "2012-el-pais-marketing",
+          "year": 2012,
+          "title": "Empresas de marketing calculan al instante las opciones de compra del internauta. Preocupación por la discriminación del público según su nivel adquisitivo",
+          "authors": ["Singer N."],
+          "venue": "El País",
+          "location": "Madrid",
+          "publisher": "El País",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://elpais.com/tecnologia/2012/12/12/actualidad/1355324735_581908.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:54:11+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074506/https://elpais.com/tecnologia/2012/12/12/actualidad/1355324735_581908.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:45:06+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2012-nytimes-attention-bought",
+          "year": 2012,
+          "title": "You for sale: Your Attention, Bought in an Instant",
+          "authors": ["Singer N."],
+          "venue": "New York Times",
+          "location": "New York, NY",
+          "publisher": "New York Times",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.nytimes.com/2012/11/18/technology/your-online-attention-bought-in-an-instant-by-advertisers.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:54:11+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074518/https://www.nytimes.com/2012/11/18/technology/your-online-attention-bought-in-an-instant-by-advertisers.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:45:18+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "count": 2,
+      "items": [
+        {
+          "id": "2011-emerce-browser-privacy",
+          "year": 2011,
+          "title": "Browsermakers gaan privacy consument beschermen",
+          "authors": ["Boogert E."],
+          "venue": "Emerce",
+          "location": "Haarlem",
+          "publisher": "Emerce",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.nytimes.com/2012/11/18/technology/your-online-attention-bought-in-an-instant-by-advertisers.html",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:54:12+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074531/https://www.nytimes.com/2012/11/18/technology/your-online-attention-bought-in-an-instant-by-advertisers.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:45:31+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2011-mediaforum-vmc",
+          "year": 2011,
+          "title": "VMC-studiemiddag",
+          "authors": ["Verhulst D."],
+          "venue": "Mediaforum: Tijdschrift voor media- en communicatierecht",
+          "location": "Amsterdam",
+          "publisher": "Cramwinckel",
+          "category": "quote in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "http://deeplinking.kluwer.nl/?param=00B6910E&cpid=WKNL-LTR-Nav2",
+              "title": "Read Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:54:13+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724074542/http://deeplinking.kluwer.nl/?param=00B6910E&cpid=WKNL-LTR-Nav2",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T09:45:42+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
