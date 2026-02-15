@@ -1,0 +1,649 @@
+{
+  "title": "Keynote Speaker Engagements",
+  "contentType": "presentation",
+  "totalItems": 23,
+  "lastUpdated": "2025-07-19",
+  "sections": [
+    {
+      "year": 2025,
+      "count": 1,
+      "items": [
+        {
+          "id": "2025-oecd-consent-technologies",
+          "year": 2025,
+          "title": "OECD Roundtable on Scoping Emerging Consent Practices in the Digital Ecosystem",
+          "authors": ["Eijk R. van"],
+          "venue": "OECD Roundtable on Scoping Emerging Consent Practices in the Digital Ecosystem",
+          "location": "Paris",
+          "publisher": "The Organisation for Economic Co-operation and Development (OECD)",
+          "category": "opening remarks",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/pulse/opening-remarks-evolution-consent-technologies-rob-van-eijk-7i8ne",
+              "title": "View Presentation",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:45:22+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250318163703/https://www.linkedin.com/pulse/opening-remarks-evolution-consent-technologies-rob-van-eijk-7i8ne",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:45:24+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 2,
+      "items": [
+        {
+          "id": "2023-conference-board-deidentification",
+          "year": 2023,
+          "title": "De-identification techniques",
+          "authors": ["Eijk R. van"],
+          "venue": "Chief Privacy Officers Council",
+          "location": "New York",
+          "publisher": "The Conference Board",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.conference-board.org/councils/chief-privacy-officers",
+              "title": "View Information",
+              "status": "active",
+              "lastChecked": "2025-12-19T20:30:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20251219195613/https://www.conference-board.org/councils/chief-privacy-officers",
+                  "source": "archive.org",
+                  "status": "active",
+                  "submittedAt": "2025-12-19T19:56:13+00:00",
+                  "lastChecked": "2025-12-19T19:56:13+00:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-edaa-summit-ethics",
+          "year": 2023,
+          "title": "Futurist Keynote: Ethics in Tech: Online Advertiser's Path Forward",
+          "authors": ["Eijk R. van"],
+          "venue": "EDAA Summit 2023. The Era of advertising transparency",
+          "location": "Brussels",
+          "publisher": "European Interactive Digital Advertising Alliance",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://edaasummit.eu/#1694528110173-a34d43f9-e572",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:45:58+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20230928085322/https://edaasummit.eu/#1694528110173-a34d43f9-e572",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:00+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 5,
+      "items": [
+        {
+          "id": "2022-mont-blanc-privacy-shield",
+          "year": 2022,
+          "title": "An Update on the Privacy Shield 2.0 aka the Trans-Atlantic Data Privacy Framework",
+          "authors": ["Eijk R. van"],
+          "venue": "Leuven Retreat",
+          "location": "Leuven",
+          "publisher": "Mont Blanc Circle",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://montblanccircle.com/",
+              "title": "View Information",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:01+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724001958/https://montblanccircle.com/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:04+01:00",
+                  "submittedAt": "2025-07-24T02:19:58+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-berlin-group-deidentification",
+          "year": 2022,
+          "title": "Key takeaways from three de-identification techniques",
+          "authors": ["Eijk R. van"],
+          "venue": "69th Berlin Group Meeting",
+          "location": "Tel Aviv",
+          "publisher": "International Working Group on Data Protection in Technology (IWGDPT)",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://fpf.org/wp-content/uploads/2017/06/FPF_Visual-Guide-to-Practical-Data-DeID.pdf",
+              "title": "Download Material",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:05+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724064618/https://fpf.org/wp-content/uploads/2017/06/FPF_Visual-Guide-to-Practical-Data-DeID.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:09+01:00",
+                  "submittedAt": "2025-07-24T08:46:18+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-gpa-deidentification",
+          "year": 2022,
+          "title": "Key takeaways from three de-identification techniques",
+          "authors": ["Eijk R. van"],
+          "venue": "Global Privacy Assembly (GPA)",
+          "location": "Istanbul",
+          "publisher": "GPA",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://fpf.org/wp-content/uploads/2017/06/FPF_Visual-Guide-to-Practical-Data-DeID.pdf",
+              "title": "Download Material",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:09+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724002011/https://fpf.org/wp-content/uploads/2017/06/FPF_Visual-Guide-to-Practical-Data-DeID.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:12+01:00",
+                  "submittedAt": "2025-07-24T02:20:11+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-gpen-deidentification",
+          "year": 2022,
+          "title": "Key takeaways from three de-identification techniques",
+          "authors": ["Eijk R. van"],
+          "venue": "Global Privacy Enforcement Network (GPEN) Atlantic Call",
+          "location": "Virtual",
+          "publisher": "GPEN",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://fpf.org/wp-content/uploads/2017/06/FPF_Visual-Guide-to-Practical-Data-DeID.pdf",
+              "title": "Download Material",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:12+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724002017/https://fpf.org/wp-content/uploads/2017/06/FPF_Visual-Guide-to-Practical-Data-DeID.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:15+01:00",
+                  "submittedAt": "2025-07-24T02:20:17+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-alpine-privacy-adtech",
+          "year": 2022,
+          "title": "The Future of AdTech, Alternatives to Contextual Advertising?",
+          "authors": ["Eijk R. van"],
+          "venue": "Alpine Privacy Days",
+          "location": "Zuoz",
+          "publisher": "Bull, Signatu AS, and MLL",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.alpineprivacydays.net/past-events-2022/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-12-19T20:30:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20230923111253/https://www.alpineprivacydays.net/overnatting/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T15:30:00+01:00",
+                  "submittedAt": "2023-09-23T11:12:53+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 3,
+      "items": [
+        {
+          "id": "2021-bnp-paribas-cookies",
+          "year": 2021,
+          "title": "Cookies and Tracking Technologies: Risks, Challenges, and Future Outlook",
+          "authors": ["Eijk R. van"],
+          "venue": "BNP Paribas World Data Protection Week 2021",
+          "location": "London",
+          "publisher": "BNP Paribas",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://ssrn.com/abstract=3773624",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:18+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724002025/https://ssrn.com/abstract=3773624",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:24+01:00",
+                  "submittedAt": "2025-07-24T02:20:25+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-bva-cookieless",
+          "year": 2021,
+          "title": "Cookieless: post-cookie advertising",
+          "authors": ["Eijk R. van"],
+          "venue": "bvA netwerk van merkleiders",
+          "location": "Amsterdam",
+          "publisher": "bvA netwerk van merkleiders (Dutch Advertisers Association)",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/PostCookieAdvertising_210608.pdf",
+              "title": "Download Presentation",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:46:24+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2021-primr-explainable-ml",
+          "year": 2021,
+          "title": "Explaining Explainable Machine Learning (XML)—What Research Review Boards Need to Know",
+          "authors": ["Jordan S.", "Hendricks-Sturrup R.", "Eijk R. van"],
+          "venue": "Advancing Ethical Research Conference (AER21)",
+          "location": "Boston",
+          "publisher": "Public Responsibility in Medicine and Research (PRIM&R)",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "pdf",
+              "url": "/assets/pdf/AER21.pdf",
+              "title": "Download Presentation",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:46:24+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 1,
+      "items": [
+        {
+          "id": "2020-iir-direct-marketing",
+          "year": 2020,
+          "title": "Keynote: De toekomst van Direct Marketing: hoe ziet dat eruit?",
+          "authors": ["Eijk R. van"],
+          "venue": "IIR Actualiteitenseminar ePrivacy & Marketing",
+          "location": "Utrecht",
+          "publisher": "IIR Trainingen & Conferenties",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 2,
+      "items": [
+        {
+          "id": "2019-deutsche-telecom-privacy",
+          "year": 2019,
+          "title": "Measuring Privacy, Web Privacy Measurement in Real-Time Bidding Systems",
+          "authors": ["Eijk R. van"],
+          "venue": "2019 Deutsche Telecom International Privacy Leader Meeting (2019)",
+          "location": "Bonn",
+          "publisher": "Deutsche Telecom",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        },
+        {
+          "id": "2019-ap-wifi-tracking",
+          "year": 2019,
+          "title": "Wi-Fi tracking in de publieke ruimte",
+          "authors": ["Eijk R. van"],
+          "venue": "Dag van de FG",
+          "location": "Utrecht",
+          "publisher": "Autoriteit Persoonsgegevens",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://autoriteitpersoonsgegevens.nl/nl/nieuws/ap-organiseert-dag-van-de-fg-op-27-mei-2019",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:25+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724064646/https://autoriteitpersoonsgegevens.nl/nl/nieuws/ap-organiseert-dag-van-de-fg-op-27-mei-2019",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:28+01:00",
+                  "submittedAt": "2025-07-24T08:46:46+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "count": 2,
+      "items": [
+        {
+          "id": "2017-wp-tele-browser-settings",
+          "year": 2017,
+          "title": "On browser settings, cookies, and (not) being tracked by digital advertisements",
+          "authors": ["Eijk R. van"],
+          "venue": "Working Party on Telecommunications and Information Society (WP TELE)",
+          "location": "Brussels",
+          "publisher": "Council of the European Union",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "10.2139/ssrn.3003152"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://dx.doi.org/10.2139/ssrn.3003152",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:30+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724002040/https://dx.doi.org/10.2139/ssrn.3003152",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:37+01:00",
+                  "submittedAt": "2025-07-24T02:20:40+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2017-libe-do-not-track",
+          "year": 2017,
+          "title": "Browser settings and consent: A brief introduction to Do Not Track (DNT)",
+          "authors": ["Eijk R. van", "Toubiana V."],
+          "venue": "Committee on Civil Liberties, Justice and Home Affairs (LIBE)",
+          "location": "Brussels",
+          "publisher": "Committee on Civil Liberties, Justice and Home Affairs (LIBE)",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "count": 3,
+      "items": [
+        {
+          "id": "2016-wp29-rtb-introduction",
+          "year": 2016,
+          "title": "A Brief Introduction to Real Time Bidding (RTB)",
+          "authors": ["Eijk R. van"],
+          "venue": "Article 29 Working Party (WP29)",
+          "location": "Brussels",
+          "publisher": "Article 29 Working Party (WP29)",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "10.2139/ssrn.2856941"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://dx.doi.org/10.2139/ssrn.2856941",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:40+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724064710/https://dx.doi.org/10.2139/ssrn.2856941",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:46:47+01:00",
+                  "submittedAt": "2025-07-24T08:47:10+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2016-hartstichting-data-stewardship",
+          "year": 2016,
+          "title": "Data Stewardship: Data Sharing and (EU) Privacy Legislation",
+          "authors": ["Eijk R. van"],
+          "venue": "Gezond leven: goed voor je hart",
+          "location": "Den Haag",
+          "publisher": "Hartstichting & ZonMw",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "https://dx.doi.org/10.2139/ssrn.2830495"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://dx.doi.org/10.2139/ssrn.2830495",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:46:49+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724002055/https://dx.doi.org/10.2139/ssrn.2830495",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:47:00+01:00",
+                  "submittedAt": "2025-07-24T02:20:55+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2016-big-data-festival",
+          "year": 2016,
+          "title": "De haakjes van Big Data",
+          "authors": ["Herik H.J. van den", "Eijk R. van"],
+          "venue": "(Big) Data festival",
+          "location": "The Hague",
+          "publisher": "Ministry of Infrastructure and Environment",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "count": 1,
+      "items": [
+        {
+          "id": "2015-vno-ncw-big-data",
+          "year": 2015,
+          "title": "Big Data: een Introductie",
+          "authors": ["Herik H.J. van den", "Eijk R. van"],
+          "venue": "Ondernemen en Big Data",
+          "location": "The Hague",
+          "publisher": "VNO-NCW WEST",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "count": 1,
+      "items": [
+        {
+          "id": "2013-idg-social-innovation",
+          "year": 2013,
+          "title": "Social Innovation & Big Data",
+          "authors": ["Herik H.J. van den", "Eijk R. van"],
+          "venue": "IT Innovation Day",
+          "location": "Amersfoort",
+          "publisher": "IDG Nederland",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "count": 1,
+      "items": [
+        {
+          "id": "2012-dafta-cloud-computing",
+          "year": 2012,
+          "title": "International Perspectives on Cloud Computing",
+          "authors": ["Eijk R. van"],
+          "venue": "36th Datenschutz-fachtagung",
+          "location": "Köln",
+          "publisher": "DAFTA",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "count": 1,
+      "items": [
+        {
+          "id": "2011-vmc-cookies-advertising",
+          "year": 2011,
+          "title": "Aspects of cookies: web tracking and online behavioral advertising",
+          "authors": ["Eijk R. van", "Nas S."],
+          "venue": "Vereniging voor Media- en Communicatierecht Series",
+          "location": "Amsterdam",
+          "publisher": "Vereniging voor Media- en Communicatierecht (VMC)",
+          "category": "keynote",
+          "mediaType": "keynote",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    }
+  ]
+}

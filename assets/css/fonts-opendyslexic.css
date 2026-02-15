@@ -1,0 +1,59 @@
+/* OpenDyslexic fonts - loaded on-demand for accessibility */
+/* Only loaded when dyslexic-font class is present */
+
+/* OpenDyslexic Regular */
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.eot');
+  src:
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.woff2') format('woff2'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.woff') format('woff'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* OpenDyslexic Bold */
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.eot');
+  src:
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.woff2') format('woff2'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.woff') format('woff'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* OpenDyslexic Italic */
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.eot');
+  src:
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.woff2') format('woff2'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.woff') format('woff'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Italic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* OpenDyslexic Bold Italic */
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.eot');
+  src:
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.woff2') format('woff2'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.woff') format('woff'),
+    url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}

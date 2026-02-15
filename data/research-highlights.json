@@ -1,0 +1,514 @@
+{
+  "title": "Research Highlights",
+  "contentType": "research",
+  "totalItems": 12,
+  "lastUpdated": "2026-01-28",
+  "sections": [
+    {
+      "year": 2026,
+      "count": 1,
+      "items": [
+        {
+          "id": "data-protection-day-2026-panel",
+          "year": 2026,
+          "title": "Data Protection Day 2026: Can Regulatory Frameworks Keep Up with Online Tracking?",
+          "intro": "On Data Protection Day 2026, organized by the European Data Protection Supervisor (EDPS) and the Council of Europe, I moderated a panel examining whether regulatory frameworks can effectively address the rapidly evolving online tracking landscape. The panel brought together Rosa Barcelo (McDermott Will & Emery), Itxaso Domínguez de Olazábal (EDRi), and Cristiana Santos (Utrecht University) for a discussion structured around five themes: the Digital Omnibus proposal's scope, shifts affecting Article 5(3) of the ePrivacy Directive's consent-first principle, contested analytics exceptions, practical consent mechanisms including machine-readable signals and dark patterns, and the emerging question of AI agents browsing and consenting on behalf of users. In a related session, the Lisbon Council hosted a High-Level Working Lunch on Privacy-Enhancing Technologies in Digital Advertising, exploring whether PETs represent a way around privacy rules or an important way forward for Europe's competitiveness.",
+          "description": "Panel moderation examining whether regulatory frameworks can effectively address the evolving online tracking landscape, featuring discussion on the Digital Omnibus proposal, ePrivacy Directive consent principles, and AI agents consenting on behalf of users.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/data-protection-day-2026-panel.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the Data Protection Day 2026 panel on regulatory frameworks and online tracking",
+          "date": "2026-01-28",
+          "tags": [
+            "Data Protection Day",
+            "ePrivacy Directive",
+            "Digital Omnibus",
+            "online tracking",
+            "consent",
+            "AI agents",
+            "privacy-enhancing technologies",
+            "EDPS"
+          ],
+          "readingTime": "5 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2026-01-28T10:00:00+01:00",
+            "guid": "https://blaeu.com/blog/data-protection-day-2026-panel",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Panel moderation examining whether regulatory frameworks can effectively address the evolving online tracking landscape. Discussion covered the Digital Omnibus proposal, ePrivacy Directive consent principles, and the emerging challenge of AI agents consenting on behalf of users.",
+            "rssCategories": ["Speaking", "ePrivacy", "Data Protection"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/data-protection-day-2026-panel",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-02T14:00:00+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "count": 7,
+      "items": [
+        {
+          "id": "ai-prompting-trap-over-engineering-2025",
+          "year": 2025,
+          "title": "AI-Learning by Building: The AI Prompting Trap - How Language Choices Create Over-Engineering",
+          "intro": "What started as a weekend project to build a simple multi-page website became an accidental experiment in AI-driven complexity escalation. Through analysis of actual prompts and 400+ git commits, I discovered how specific trigger words—'comprehensive,' 'consider,' 'improve where needed'—systematically transformed Claude Code from a helpful assistant into an enterprise architecture consultant. The evidence is undeniable: one commit changed 7,000 lines to implement a 4-tier quality system for a blog. This forensic analysis reveals the specific language patterns that create scope creep and provides practical frameworks for requesting appropriately-sized solutions.",
+          "description": "Forensic analysis of how specific prompting language triggers AI over-engineering, with practical frameworks for controlling AI complexity and preventing scope creep in development projects.",
+          "authors": ["Rob van Eijk"],
+          "category": "engineering",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/ai-prompting-trap-over-engineering-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing AI prompting complexity through color fields expressing language evolution, scope creep patterns, and the transformation from simple requests to enterprise solutions",
+          "date": "2025-08-01",
+          "tags": [
+            "AI prompting",
+            "over-engineering",
+            "scope creep",
+            "Claude Code",
+            "development methodology",
+            "AI-learning",
+            "prompt engineering",
+            "project complexity"
+          ],
+          "readingTime": "18 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2025-08-01T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/ai-prompting-trap-over-engineering",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Forensic analysis of how specific prompting language triggers AI over-engineering, with practical frameworks for controlling AI complexity and preventing scope creep in development projects.",
+            "rssCategories": ["AI Prompting", "Engineering", "Development Methodology"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/ai-prompting-trap-over-engineering",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-08-01T00:00:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "ocr-vision-ai-understanding-2025",
+          "year": 2025,
+          "title": "AI-Learning by Building: From OCR to Vision AI Understanding",
+          "intro": "Traditional OCR extracts text but loses crucial visual context from historical documents. This project tackled digitizing a 190-page Dutch history textbook while preserving visual narratives that give historical meaning to the content. The challenge: How to properly digitize historical documents without losing visual context? The solution evolved through six phases, from basic PDF processing to sophisticated Vision AI understanding using Claude's advanced models. The breakthrough came with enhanced prompts that capture both textual content and detailed visual descriptions—transforming a page number '172' into comprehensive descriptions of watercolor maritime illustrations, period clothing, and historical context.",
+          "description": "Enhanced document processing system combining traditional OCR with Vision AI to preserve both textual content and visual context from historical documents, using Claude models and advanced prompt engineering.",
+          "authors": ["Rob van Eijk"],
+          "category": "engineering",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/ocr-vision-ai-understanding-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the evolution of OCR to Vision AI understanding through color fields expressing breakthrough transformation and sophisticated historical document preservation",
+          "date": "2025-07-12",
+          "tags": [
+            "OCR",
+            "Vision AI",
+            "document processing",
+            "Claude",
+            "historical preservation",
+            "AI-learning",
+            "machine learning"
+          ],
+          "readingTime": "12 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2025-07-12T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/ocr-vision-ai-understanding",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Enhanced document processing system combining traditional OCR with Vision AI to preserve both textual content and visual context from historical documents, using Claude models and advanced prompt engineering.",
+            "rssCategories": ["OCR", "Vision AI", "AI Learning"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/ocr-vision-ai-understanding",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T16:35:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "ai-model-deployment-patterns-2025",
+          "year": 2025,
+          "title": "AI-Learning by Building: Unified AI Model Deployment Patterns",
+          "intro": "Modern AI development often requires accessing different models for different tasks—some running locally for privacy, others through APIs for advanced capabilities, and enterprise models through cloud infrastructure. This project implemented a unified AI model deployment system using Open WebUI + LiteLLM that enables seamless access across three distinct patterns: local models for privacy and cost control, direct API access for premium capabilities, and cloud-hosted models for enterprise-grade infrastructure. The system handles automatic failover, cost optimization, and provides a single interface that prevents vendor lock-in while adapting to different privacy, performance, and compliance requirements.",
+          "description": "Implementation of a unified AI model deployment system supporting three patterns: local models, direct API access, and cloud hosting, with automatic failover and cost optimization.",
+          "authors": ["Rob van Eijk"],
+          "category": "engineering",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/ai-model-deployment-patterns-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing unified AI model deployment patterns through color fields expressing seamless access, vendor independence, and flexible optimization across deployment types",
+          "date": "2025-07-01",
+          "tags": [
+            "AI deployment",
+            "model architecture",
+            "OpenWebUI",
+            "LiteLLM",
+            "infrastructure",
+            "AI-learning",
+            "automation"
+          ],
+          "readingTime": "10 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2025-07-01T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/ai-model-deployment-patterns",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Implementation of a unified AI model deployment system supporting three patterns: local models, direct API access, and cloud hosting, with automatic failover and cost optimization.",
+            "rssCategories": ["AI Deployment", "Infrastructure", "Engineering"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/ai-model-deployment-patterns",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T16:30:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "oecd-consent-technologies-roundtable-2025",
+          "year": 2025,
+          "title": "OECD Consent Technologies Roundtable: Opening Remarks on the Evolution of Consent",
+          "intro": "This recap covers the panel moderation at the OECD Consent Technologies Roundtable held in Paris on March 18, 2025. The opening remarks framed the discussion around key tensions and challenges in the rapidly evolving consent management space, focusing on the evolution from basic website analytics to today's complex multi-party tracking ecosystem. The moderation addressed three critical challenges facing consent management: the fundamental imbalance between granting and revoking consent (Consent vs. Revocation Asymmetry), the tension between interface simplicity and meaningful user control, and the complex problem of signal interpretation when multiple consent indicators conflict. The discussion emphasized the promise of standardization while acknowledging the need to balance simplicity against nuanced privacy choices and the concept of 'privacy in numbers' through uniform signals.",
+          "description": "Panel moderation remarks at OECD Consent Technologies Roundtable addressing three critical challenges in consent management: asymmetry between granting and revoking consent, interface complexity tensions, and signal interpretation conflicts.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/oecd-consent-technologies-roundtable-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing OECD Consent Technologies Roundtable through color fields expressing international cooperation, policy harmonization, and collaborative privacy standards evolution",
+          "date": "2025-03-18",
+          "tags": [
+            "OECD",
+            "consent management",
+            "privacy technologies",
+            "policy",
+            "international cooperation",
+            "digital privacy",
+            "governance"
+          ],
+          "readingTime": "6 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": true,
+            "pubDate": "2025-03-18T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/oecd-consent-technologies-roundtable",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Keynote moderation of OECD roundtable on emerging consent practices in the digital ecosystem, focusing on the evolution of consent technologies and their impact on digital privacy frameworks across OECD member countries.",
+            "rssCategories": ["OECD", "Consent Management", "Policy"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/oecd-consent-technologies-roundtable",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-31T16:30:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "multi-tier-backup-system-2025",
+          "year": 2025,
+          "title": "AI-Learning by Building: Creating a Robust Multi-Tier Backup System",
+          "intro": "How do you protect your data when your cloud provider doesn't offer encryption, lifecycle management, or regional replication? How to prevent vendor lock-in? This project created a comprehensive backup system that works with any cloud storage provider—from AWS S3 to Microsoft OneDrive to Google Drive and beyond. The solution provides three-tier protection through daily incremental backups, weekly full backups, and monthly/yearly archives with Git-based change detection, PAR2 redundancy protection, and adaptive sliding window techniques. The approach offers complete flexibility to choose providers based on compliance, cost, or geographic requirements while maintaining enterprise-grade protection through strong encryption, verifiable integrity, and detailed change history.",
+          "description": "How I created a comprehensive backup system for cloud storage providers that lack built-in management features, using Git-based change detection, PAR2 redundancy protection, and adaptive sliding window techniques.",
+          "authors": ["Rob van Eijk"],
+          "category": "engineering",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/multi-tier-backup-system-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing multi-tier backup system through layered color fields expressing systematic protection, redundancy, and vendor independence",
+          "date": "2025-03-01",
+          "tags": ["backup", "cloud storage", "data protection", "AI-learning", "automation"],
+          "readingTime": "15 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2025-03-01T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/multi-tier-backup",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "How I created a comprehensive backup system for cloud storage providers that lack built-in management features, using Git-based change detection, PAR2 redundancy protection, and adaptive sliding window techniques.",
+            "rssCategories": ["Backup Systems", "Data Protection", "Engineering"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/multi-tier-backup",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T12:00:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "parametric-eq-classical-music-2025",
+          "year": 2025,
+          "title": "AI-Learning by Building: Parametric EQ Setup for Classical Music Production",
+          "intro": "Quality headphones offer excellent sound but can cause listening fatigue with classical music due to their frequency response. Classical music is tough on headphones—the frequency response that works for pop or rock can make symphonies sound muddy or harsh, with weak bass for cellos, blurred mids, and scratchy violin highs. This project used AI-assisted parametric EQ fine-tuning to tackle this challenge. Using Claude 3.7 Sonnet and Gemini Advanced 2.0 Flash to generate Python code for frequency analysis, I applied targeted adjustments across four key frequency ranges. The results: instrument separation is cleaner, bass has more presence without muddiness, and listening fatigue is eliminated—transforming my headphones for optimal classical music enjoyment.",
+          "description": "Exploration of parametric EQ techniques for classical music production, combining traditional audio engineering with AI-assisted frequency analysis and professional mixing approaches.",
+          "authors": ["Rob van Eijk"],
+          "category": "engineering",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/parametric-eq-classical-music-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing parametric EQ for classical music through color fields expressing technical precision, frequency balance, and the artistic refinement of orchestral sound engineering",
+          "date": "2025-02-22",
+          "tags": [
+            "audio engineering",
+            "parametric EQ",
+            "classical music",
+            "AI-learning",
+            "music production",
+            "frequency analysis"
+          ],
+          "readingTime": "8 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2025-02-22T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/parametric-eq-classical-music",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Exploration of parametric EQ techniques for classical music production, combining traditional audio engineering with AI-assisted frequency analysis and professional mixing approaches.",
+            "rssCategories": ["Audio Engineering", "AI Learning", "Music Production"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/parametric-eq-classical-music",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T16:15:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "email-security-system-2025",
+          "year": 2025,
+          "title": "AI-Learning by Building: Creating an Enterprise-Grade Email Security System for Personal Use",
+          "intro": "Email security remains challenging, especially when users access messages across different devices and platforms. Most organizations face a common problem: employees access email through desktop applications, mobile apps, and web browsers, with each platform offering different security features, making consistent protection difficult. This project created an enterprise-grade email protection system for small organizations using AI-assisted development. Like a well-designed Lego structure, the system consists of interconnected components that work together to examine incoming emails and verify web links before they reach users. Built using Infrastructure as Code and integrated with Amazon WorkMail, it provides enterprise-level capabilities at a scale and cost suitable for smaller organizations, offering real-time email processing, comprehensive monitoring, and automated threat detection.",
+          "description": "How I created an enterprise-grade email security system for small organizations using AI-assisted development, featuring real-time link verification and threat detection through AWS infrastructure.",
+          "authors": ["Rob van Eijk"],
+          "category": "engineering",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/email-security-system-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing enterprise-grade email security through color fields expressing interconnected protection, security checkpoints, and systematic threat detection",
+          "date": "2025-01-15",
+          "tags": [
+            "email security",
+            "AI-learning",
+            "AWS",
+            "cybersecurity",
+            "enterprise-grade",
+            "automation"
+          ],
+          "readingTime": "12 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2025-01-15T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/email-security-system",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "How I created an enterprise-grade email security system for small organizations using AI-assisted development, featuring real-time link verification and threat detection through AWS infrastructure.",
+            "rssCategories": ["Email Security", "AI Learning", "Engineering"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/email-security-system",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T15:00:00+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 0,
+      "items": []
+    },
+    {
+      "year": 2023,
+      "count": 4,
+      "items": [
+        {
+          "id": "navigating-future-digital-marketing-2023",
+          "year": 2023,
+          "title": "Navigating the Future of Digital Marketing: On the importance of adding noise to the data flows",
+          "intro": "As we stand at the intersection of technological innovation and privacy regulation, the digital marketing industry faces unprecedented challenges and opportunities. The traditional foundations of online advertising—built on extensive user tracking and precise behavioral targeting—are being transformed by both regulatory pressures and technological advances that prioritize user privacy. This presentation delivered on December 11, 2023, provides an in-depth projection into 2024's online advertising landscape, focusing on privacy-enhancing technologies that enable effective marketing while protecting user privacy. The analysis covers the evolution from traditional cookie-based advertising to privacy-preserving alternatives including Chrome Privacy Sandbox APIs, differential privacy, federated learning, and multi-party computation, exploring how 'adding noise to the data flows' creates a sustainable future for digital advertising in a post-cookie world.",
+          "description": "Comprehensive analysis of privacy-enhancing technologies transforming digital marketing, from cookie deprecation to advanced techniques like differential privacy and federated learning.",
+          "authors": ["Rob van Eijk"],
+          "category": "technology",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/navigating-future-digital-marketing-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the future of digital marketing through color fields expressing privacy-preserving innovation, post-cookie transformation, and effective marketing balance",
+          "date": "2023-12-11",
+          "tags": [
+            "digital marketing",
+            "privacy-enhancing technologies",
+            "cookies",
+            "differential privacy",
+            "federated learning",
+            "advertising",
+            "PETs",
+            "Chrome Privacy Sandbox"
+          ],
+          "readingTime": "6 min read",
+          "featured": false,
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/navigating-future-digital-marketing",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T17:00:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "privacy-generative-ai-symposium-2023",
+          "year": 2023,
+          "title": "Privacy & Generative AI Symposium Recap",
+          "intro": "This recap covers the Privacy & Generative AI Symposium organized by the Office of the Privacy Commissioner of Canada on December 7, 2023. The event examined the critical intersection of privacy and generative artificial intelligence, bringing together experts, policymakers, and industry professionals to discuss opportunities and challenges in rapidly evolving AI technologies. Gary Marcus delivered the keynote presentation, challenging prevailing assumptions about current AI systems and highlighting AI data leakage risks, transparency imperatives, and the need for independent scientific voices in policy discussions. Three expert panels explored generative AI technology opportunities and risks, governance frameworks and regulation, and the balance between innovation and human rights protection. Key themes included embedding ethical considerations throughout AI development lifecycles, treating privacy protection as foundational, and developing adaptive regulatory frameworks that can evolve with technology.",
+          "description": "My recap of the Privacy & Generative AI Symposium featuring Gary Marcus's keynote on AI limitations and expert panel discussions on governance, ethics, and regulatory frameworks.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/privacy-generative-ai-symposium-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing Privacy & Generative AI Symposium through color fields expressing expert convergence, foundational privacy principles, and balanced innovation-rights dialogue",
+          "date": "2023-12-07",
+          "tags": [
+            "AI governance",
+            "privacy",
+            "generative AI",
+            "policy",
+            "ethics",
+            "symposium",
+            "regulation"
+          ],
+          "readingTime": "8 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2023-12-07T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/privacy-generative-ai-symposium",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Comprehensive recap of the Privacy & Generative AI Symposium featuring insights from Gary Marcus and expert panels on AI governance, ethics, and human rights.",
+            "rssCategories": ["AI Governance", "Privacy", "Policy"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/privacy-generative-ai-symposium",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T16:45:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "addressing-bias-ai-systems-2023",
+          "year": 2023,
+          "title": "Addressing Bias in AI Systems: A Holistic Approach to Detection, Reporting, and Mitigation",
+          "intro": "This summary covers key insights from the Future of Privacy Forum workshop on Privacy Preserving Machine Learning, held on May 25, 2023. The workshop focused on addressing bias in AI systems through practical frameworks for detection, reporting, and mitigation. Participants developed five critical questions for bias assessment: What is the data's provenance? How representative is the data? Is the data balanced? Has intersectionality been considered? Are sensitive attributes present in the data? The workshop emphasized that AI bias is not merely a technical problem but a socio-technical challenge requiring both algorithmic understanding and awareness of human social dynamics. Key insights included the importance of continuous vigilance in bias detection, the need for diverse perspectives throughout AI development lifecycles, and the recognition that effective bias mitigation requires systematic approaches that go beyond one-time assessments.",
+          "description": "My notes from the Future of Privacy Forum workshop on Privacy Preserving Machine Learning, focusing on practical bias assessment through five critical questions and the socio-technical nature of AI bias.",
+          "authors": ["Eijk R. van"],
+          "category": "other",
+          "mediaType": "blogpost",
+          "contentType": "research",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/addressing-bias-ai-systems-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing bias detection in AI systems through color fields expressing holistic methodology, intersectionality considerations, and systematic assessment frameworks",
+          "date": "2023-05-25",
+          "readingTime": "7 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": true,
+            "pubDate": "2023-05-25T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/addressing-bias-ai-systems",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Summary of FPF workshop on Privacy Preserving Machine Learning, focusing on bias assessment in AI systems through five key questions about data quality and representation.",
+            "rssCategories": ["AI Governance", "Privacy", "Machine Learning"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/addressing-bias-ai-systems",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T19:50:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "microtargeting-2023",
+          "year": 2023,
+          "title": "Microtargeting: On the critical connection between ethics and ad-technology",
+          "intro": "This is the complete transcript of my keynote address delivered at the EDAA Summit 2023 in Brussels, examining the intersection of ethics and technology in digital advertising, with particular focus on political microtargeting and democratic implications. The keynote addresses the roles and responsibilities of three main actors in the digital advertising landscape: publishers, advertisers, and platforms. Drawing from research conducted with the Dutch Broadcasting Foundation NOS, the presentation reveals significant cookie law violations by major Dutch political parties and explores the broader implications for democratic processes, data protection, and the need for ethical advertising practices that respect privacy rights and democratic values. An update section discusses subsequent developments, including the Dutch DPA's firm response to these violations and the enactment of EU Regulation 2024/900 on political advertising transparency.",
+          "description": "Complete transcript of my EDAA Summit 2023 keynote on microtargeting ethics in political campaigns, plus consent management panel content and updates on Dutch DPA responses and EU Regulation 2024/900.",
+          "authors": ["Eijk R. van"],
+          "category": "other",
+          "mediaType": "blogpost",
+          "contentType": "research",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/microtargeting-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing microtargeting ethics through color fields expressing democratic concerns, regulatory governance, and the critical intersection of ethics and ad-technology",
+          "date": "2023-03-15",
+          "readingTime": "9 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": true,
+            "pubDate": "2023-03-15T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/microtargeting-ethics-ad-technology",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Keynote on digital advertising ethics, microtargeting in political campaigns, and data protection concerns in the context of the 2023 Dutch elections and social media advertising.",
+            "rssCategories": ["Digital Privacy", "Ad Technology", "Ethics"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/microtargeting-ethics-ad-technology",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2025-07-30T19:50:00+01:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

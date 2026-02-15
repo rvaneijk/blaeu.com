@@ -1,0 +1,964 @@
+{
+  "title": "Professional Publications",
+  "contentType": "publication",
+  "totalItems": 28,
+  "lastUpdated": "2026-02-15",
+  "sections": [
+    {
+      "year": 2025,
+      "count": 1,
+      "items": [
+        {
+          "id": "2025-fpf-minding-mindful-machines",
+          "year": 2025,
+          "title": "Minding Mindful Machines: AI Agents and Data Protection Considerations",
+          "authors": ["Berrick D.", "Eijk R. van", "Smith M.", "Wills K."],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/minding-mindful-machines-ai-agents-and-data-protection-considerations/",
+              "title": "View Publication",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:33+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250205173740/https://fpf.org/blog/minding-mindful-machines-ai-agents-and-data-protection-considerations/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:35+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 2,
+      "items": [
+        {
+          "id": "2024-fpf-confidential-computing",
+          "year": 2024,
+          "title": "Confidential Computing and Privacy. Policy Implications of Trusted Execution Environments",
+          "authors": ["Adams S.", "Gray S.", "Massey A.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/wp-content/uploads/2024/07/FPF-Confidential-Computing-Digital.pdf",
+              "title": "View Publication",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:42+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20240715230345/https://fpf.org/wp-content/uploads/2024/07/FPF-Confidential-Computing-Digital.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:44+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2024-fpf-ai-privacy-roundtable",
+          "year": 2024,
+          "title": "Technologist Roundtable: Key Issues in AI and Data Protection Post-Event Summary and Takeaways",
+          "authors": ["Eijk R. van", "Gray S.", "Smith M."],
+          "venue": "Future of Privacy Forum",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Issue Brief"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/wp-content/uploads/2024/12/Post-Event-Summary-and-Takeaways-_-FPF-Roundtable-on-AI-and-Privacy-1-2.pdf",
+              "title": "View Issue Brief",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:44+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20241211194136/https://fpf.org/wp-content/uploads/2024/12/Post-Event-Summary-and-Takeaways-_-FPF-Roundtable-on-AI-and-Privacy-1-2.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:46+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 5,
+      "items": [
+        {
+          "id": "2023-addressing-bias-ai",
+          "year": 2023,
+          "title": "Addressing bias in AI systems: a holistic approach to detection, reporting, and mitigation",
+          "authors": ["Eijk R. van"],
+          "venue": "LinkedIn",
+          "location": "Brussels",
+          "publisher": "LinkedIn",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:47+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231125130813/https://www.linkedin.com/pulse/addressing-bias-ai-systems-holistic-approach-rob-van-eijk-593xc",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:48+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-microtargeting-ethics",
+          "year": 2023,
+          "title": "Microtargeting: On the critical connection between ethics and ad-technology",
+          "authors": ["Eijk R. van"],
+          "venue": "LinkedIn",
+          "location": "Brussels",
+          "publisher": "LinkedIn",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:49+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231125130712/https://www.linkedin.com/pulse/microtargeting-critical-connection-between-ethics-rob-van-eijk-igeye",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:51+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-navigating-digital-marketing",
+          "year": 2023,
+          "title": "Recap of the presentation - Navigating the Future of Digital Marketing: On the importance of adding noise to the data flows",
+          "authors": ["Eijk R. van"],
+          "venue": "The Office of the Information and Privacy Commissioner of Ontario",
+          "location": "Toronto",
+          "publisher": "The Office of the Information and Privacy Commissioner of Ontario",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/pulse/navigating-future-digital-marketing-importance-adding-rob-van-eijk-3goje",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:52+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20240115125420/https://www.linkedin.com/pulse/navigating-future-digital-marketing-importance-adding-rob-van-eijk-3goje/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:52+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-privacy-generative-ai",
+          "year": 2023,
+          "title": "Privacy & Generative AI Symposium Recap",
+          "authors": ["Eijk R. van"],
+          "venue": "LinkedIn",
+          "location": "Toronto",
+          "publisher": "LinkedIn",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/pulse/privacy-generative-ai-symposium-recap-rob-van-eijk-54ore/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:53+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20231218112852/https://www.linkedin.com/pulse/privacy-generative-ai-symposium-recap-rob-van-eijk-54ore/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:55+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-fpf-article-25-gdpr",
+          "year": 2023,
+          "title": "Unlocking Data Protection By Design & By Default: Lessons from the Enforcement of Article 25 GDPR",
+          "authors": ["Michelakaki C.", "Barros Vale S."],
+          "venue": "Future of Privacy Forum",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "report",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "editors": ["Eijk R. van", "Zanfir-Fortuna G.", "Perera I."]
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/wp-content/uploads/2023/05/FPF-Article-25-GDPR-A4-FINAL-Digital.pdf",
+              "title": "View Report",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:56+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081718/https://fpf.org/wp-content/uploads/2023/05/FPF-Article-25-GDPR-A4-FINAL-Digital.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:58+01:00",
+                  "submittedAt": "2025-07-24T10:17:18+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 1,
+      "items": [
+        {
+          "id": "2022-etsi-consumer-iot",
+          "year": 2022,
+          "title": "ETSI's consumer IoT cybersecurity 'conformance assessments': parallels with the AI Act",
+          "authors": ["Barros Vale S.", "Demetzou K.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/etsis-consumer-iot-cybersecurity-conformance-assessments-parallels-with-the-ai-act/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:58+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081729/https://fpf.org/blog/etsis-consumer-iot-cybersecurity-conformance-assessments-parallels-with-the-ai-act/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:01+01:00",
+                  "submittedAt": "2025-07-24T10:17:29+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 8,
+      "items": [
+        {
+          "id": "2021-itpi-eu-data-strategy",
+          "year": 2021,
+          "title": "ITPI Event Recap – The EU Data Strategy and the Draft Data Governance Act",
+          "authors": ["Barros Vale S.", "Colbert C.", "Magazanik L.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum & Israel Tech Policy Institute",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum & Tel Aviv: Israel Tech Policy Institute",
+          "category": "abstract",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/itpi-event-recap-the-eu-data-strategy-and-the-draft-data-governance-act/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:01+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081741/https://fpf.org/blog/itpi-event-recap-the-eu-data-strategy-and-the-draft-data-governance-act/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:04+01:00",
+                  "submittedAt": "2025-07-24T10:17:41+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-dublin-privacy-symposium",
+          "year": 2021,
+          "title": "Dublin Privacy Symposium Recap – Designing for Trust: Enhancing Transparency & Preventing User Manipulation",
+          "authors": ["Barros Vale S.", "Dessalgne M.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/event-recap-dublin-privacy-symposium-2021-designing-for-trust-enhancing-transparency-preventing-user-manipulation/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:04+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081752/https://fpf.org/blog/event-recap-dublin-privacy-symposium-2021-designing-for-trust-enhancing-transparency-preventing-user-manipulation/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:06+01:00",
+                  "submittedAt": "2025-07-24T10:17:52+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-data-protection-enforcement",
+          "year": 2021,
+          "title": "Insights into the Future of Data Protection Enforcement: Regulatory Strategies of European Data Protection Authorities for 2021-2022",
+          "authors": ["Barros Vale S.", "Zanfir-Fortuna G.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "report",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/insights-into-the-future-of-data-protection-enforcement-regulatory-strategies-of-european-data-protection-authorities-for-2021-2022/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:06+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081803/https://fpf.org/blog/insights-into-the-future-of-data-protection-enforcement-regulatory-strategies-of-european-data-protection-authorities-for-2021-2022/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:09+01:00",
+                  "submittedAt": "2025-07-24T10:18:03+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-cookies-crumbles",
+          "year": 2021,
+          "title": "\"Are crumbles all that remains of the cookies?\" A conversation on the future of adtech at the Nordic Privacy Arena 2021",
+          "authors": ["Barros Vale S.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/are-crumbles-all-that-remains-of-the-cookies-a-conversation-on-the-future-of-ad-tech-at-the-nordic-privacy-arena-2021/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:09+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081815/https://fpf.org/blog/are-crumbles-all-that-remains-of-the-cookies-a-conversation-on-the-future-of-ad-tech-at-the-nordic-privacy-arena-2021/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:12+01:00",
+                  "submittedAt": "2025-07-24T10:18:15+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-schrems-ii-article-49",
+          "year": 2021,
+          "title": "Schrems II: Article 49 GDPR derogations may not be so narrow and restrictive after all?",
+          "authors": ["Eijk R. van", "Zanfir-Fortuna G."],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/schrems-ii-article-49-gdpr-derogations-may-not-be-so-narrow-and-restrictive-after-all/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:12+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081827/https://fpf.org/blog/schrems-ii-article-49-gdpr-derogations-may-not-be-so-narrow-and-restrictive-after-all/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:15+01:00",
+                  "submittedAt": "2025-07-24T10:18:27+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-understanding-data-flows",
+          "year": 2021,
+          "title": "Understanding Interconnected Local and Global Data Flows",
+          "authors": ["Eijk R. van", "Polonetsky J.", "Tene O.", "Zanfir-Fortuna G."],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/understanding-the-retail-data-ecosystem-and-edtech-data-flows/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:15+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081839/https://fpf.org/blog/understanding-the-retail-data-ecosystem-and-edtech-data-flows/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:17+01:00",
+                  "submittedAt": "2025-07-24T10:18:39+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-asia-pacific-privacy",
+          "year": 2021,
+          "title": "Event Report: From \"Consent-Centric\" Frameworks to Responsible Data Practices and Privacy Accountability in Asia Pacific",
+          "authors": ["Girot C.", "Demetzou K.", "Barros Vale S.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum",
+          "location": "Singapore, Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/event-report-from-consent-centric-frameworks-to-responsible-data-practices-and-privacy-accountability-in-asia-pacific/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:17+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081850/https://fpf.org/blog/event-report-from-consent-centric-frameworks-to-responsible-data-practices-and-privacy-accountability-in-asia-pacific/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:21+01:00",
+                  "submittedAt": "2025-07-24T10:18:50+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-bridging-standards-gap",
+          "year": 2021,
+          "title": "Event Recap: Bridging the Standards Gap",
+          "authors": ["Park, J.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/cpdp2021-event-recap-bridging-the-standards-gap",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:21+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081901/https://fpf.org/blog/cpdp2021-event-recap-bridging-the-standards-gap",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:25+01:00",
+                  "submittedAt": "2025-07-24T10:19:01+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 8,
+      "items": [
+        {
+          "id": "2020-annual-privacy-forum",
+          "year": 2020,
+          "title": "Event Recap: Panel at the Annual Privacy Forum 2020. To track and to get tracked, new innovative methods and advancements",
+          "authors": ["Dorwart, H.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/event-recap-panel-at-the-annual-privacy-forum-2020/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:25+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081913/https://fpf.org/blog/event-recap-panel-at-the-annual-privacy-forum-2020/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:27+01:00",
+                  "submittedAt": "2025-07-24T10:19:13+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-privacy-crowd-contexts",
+          "year": 2020,
+          "title": "Privacy in High Density Crowd Contexts",
+          "authors": ["Dorwart, H.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/fpf-dataskydd-net-webinar-privacy-in-high-density-crowd-contexts/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:27+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081924/https://fpf.org/blog/fpf-dataskydd-net-webinar-privacy-in-high-density-crowd-contexts/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:30+01:00",
+                  "submittedAt": "2025-07-24T10:19:24+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-eprivacy-verordening",
+          "year": 2020,
+          "title": "Wat gaat de ePrivacy Verordening betekenen?",
+          "authors": ["Dubbeld L.", "Eijk R. van"],
+          "venue": "IIR Trainingen & Conferenties",
+          "location": "Amsterdam",
+          "publisher": "IIR Trainingen & Conferenties",
+          "category": "article",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://iir.nl/wp-content/uploads/IIR_Whitepaper_ePrivacy.pdf",
+              "title": "View Article",
+              "status": "broken",
+              "lastChecked": "2025-07-24T10:59:36+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2020-appathon-coronavirus",
+          "year": 2020,
+          "title": "Invited expert. In: Appathon coronavirusapp",
+          "authors": ["Eijk R. van"],
+          "venue": "Ministerie van Volksgezondheid, Welzijn en Sport",
+          "location": "Den Haag",
+          "publisher": "Ministerie van Volksgezondheid, Welzijn en Sport",
+          "category": "panel",
+          "mediaType": "video",
+          "contentType": "media",
+          "displayContext": "modal",
+          "summary": "Rob van Eijk participates as an invited privacy expert in the Dutch Ministry of Health's Appathon, a public assessment event for proposed coronavirus contact tracing apps held in April 2020. The Ministry received over 750 app proposals, shortlisted seven, and convened approximately 67 independent experts in privacy, security, epidemiology, and ICT to evaluate them. Van Eijk provides expert commentary on the privacy and data protection aspects of the shortlisted apps. The Ministry subsequently acknowledged that none of the seven apps fully met all requirements, spurring further development of what would become the CoronaMelder contact tracing app.",
+          "metadata": {
+            "duration": "Video: 4h57m09s - 5h25m38s"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=VvEcFsXoDps",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:37+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-tech-talk-anonymization",
+          "year": 2020,
+          "title": "Tech Talk with the Regulators – Understanding Anonymization Under the GDPR",
+          "authors": ["Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "abstract",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/tech-talk-with-the-regulators-understanding-anonymization-under-the-gdpr/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:37+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082008/https://fpf.org/blog/tech-talk-with-the-regulators-understanding-anonymization-under-the-gdpr/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:40+01:00",
+                  "submittedAt": "2025-07-24T10:20:08+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-privacy-regulator-distance",
+          "year": 2020,
+          "title": "Privacy Regulator Takes a Noticeable Distance From Market Forces",
+          "authors": ["Eijk R. van", "Zwenne G.-J."],
+          "venue": "Het Financieele Dagblad",
+          "location": "Amsterdam",
+          "publisher": "Het Financieele Dagblad",
+          "category": "article in magazine/newspaper",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://ssrn.com/abstract=3509643",
+              "title": "Download Article",
+              "status": "active",
+              "lastChecked": "2025-12-19T20:30:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2020-new-decade-priorities",
+          "year": 2020,
+          "title": "New Decade, New Priorities: A summary of twelve European Data Protection Authorities' strategic and operational plans for 2020 and beyond",
+          "authors": ["Kress, C.", "Zanfir-Fortuna G.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "report",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/fpf-charts-dpas-priorities-and-focus-areas-for-the-next-decade/",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:41+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082020/https://fpf.org/blog/fpf-charts-dpas-priorities-and-focus-areas-for-the-next-decade/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:59:45+01:00",
+                  "submittedAt": "2025-07-24T10:20:20+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-serious-privacy-podcast",
+          "year": 2020,
+          "title": "Eijk R. van Discusses Trends in European Privacy Discussions",
+          "authors": ["Lingane J.", "Eijk R. van"],
+          "venue": "Future of Privacy Forum Blog",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "type": "Blog Post"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://seriousprivacy.buzzsprout.com/840448/9647366-predictions-worries-and-wisdom-from-iapp-brussels",
+              "title": "View Blog Post",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:46+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724085947/https://seriousprivacy.buzzsprout.com/840448/9647366-predictions-worries-and-wisdom-from-iapp-brussels",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T10:59:47+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 1,
+      "items": [
+        {
+          "id": "2019-online-advertenties",
+          "year": 2019,
+          "title": "Het gevolgd worden door online advertenties",
+          "authors": ["Eijk R. van"],
+          "venue": "Nederlands Juristenblad",
+          "location": "Deventer",
+          "publisher": "Wolters Kluwer",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "citation": "94(5)/308: 379"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://deeplinking.kluwer.nl/?param=00D14F0E&cpid=WKNL-LTR-Nav2",
+              "title": "View Article",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:59:57+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724085959/https://deeplinking.kluwer.nl/?param=00D14F0E&cpid=WKNL-LTR-Nav2",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T20:15:16+00:00",
+                  "submittedAt": "2025-07-24T10:59:59+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "count": 1,
+      "items": [
+        {
+          "id": "2018-dnt-1-1",
+          "year": 2018,
+          "title": "DNT 1.1",
+          "authors": ["O'Neill M.", "Eijk R. van"],
+          "venue": "W3C Tracking Protection Working Group",
+          "location": "World Wide Web Consortium",
+          "publisher": "World Wide Web Consortium",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "https://dx.doi.org/10.2139/ssrn.3313026",
+            "type": "Discussion Paper"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://dx.doi.org/10.2139/ssrn.3313026",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2025-07-24T11:00:11+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724082116/https://dx.doi.org/10.2139/ssrn.3313026",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T11:00:17+01:00",
+                  "submittedAt": "2025-07-24T10:21:16+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 1991,
+      "count": 1,
+      "items": [
+        {
+          "id": "1991-lexicon-informatica",
+          "year": 1991,
+          "title": "Contributions for the Telematics and Business Software Sections",
+          "authors": ["Eijk R. van"],
+          "venue": "Lexicon Informatica deel 2. Samson Bedrijfsinformatie",
+          "location": "Alphen aan den Rijn",
+          "publisher": "Samson",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "publication",
+          "displayContext": "modal",
+          "metadata": {
+            "editors": ["Leenaars J.", "Michiels E.", "Schotgerrits A."],
+            "oclc": "842514830"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://worldcat.org/title/842514830",
+              "title": "View Publication",
+              "status": "active",
+              "lastChecked": "2025-12-19T20:30:00+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

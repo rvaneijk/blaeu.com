@@ -1,0 +1,832 @@
+{
+  "title": "Professional Learning Programs",
+  "contentType": "training",
+  "totalItems": 55,
+  "lastUpdated": "2026-02-07",
+  "sections": [
+    {
+      "year": 2026,
+      "count": 2,
+      "items": [
+        {
+          "id": "2026-fpf-deidentification",
+          "year": 2026,
+          "title": "De-Identification",
+          "authors": ["Eijk R. van"],
+          "venue": "FPF Member Training Program",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2026-02-07T12:00:00+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2026-fpf-online-advertising",
+          "year": 2026,
+          "title": "Fundamentals of Online Advertising",
+          "authors": ["Eijk R. van", "Miller D."],
+          "venue": "FPF Member Training Program",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2026-02-07T12:00:00+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "count": 3,
+      "items": [
+        {
+          "id": "2025-data-clean-rooms",
+          "year": 2025,
+          "title": "Data Clean Rooms: Configuring Compliance",
+          "authors": ["Miller D.", "Eijk R. van"],
+          "venue": "California Privacy Protection Agency",
+          "location": "San Francisco",
+          "publisher": "California Privacy Protection Agency",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": []
+        },
+        {
+          "id": "2025-fpf-deidentification",
+          "year": 2025,
+          "title": "De-Identification",
+          "authors": ["Eijk R. van"],
+          "venue": "FPF Training Program",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:02+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081011/https://fpf.org/training/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:05+01:00",
+                  "submittedAt": "2025-07-24T10:10:11+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-adtech-back-to-basics",
+          "year": 2025,
+          "title": "AdTech: Back to Basics",
+          "authors": ["Eijk R. van", "Miller D."],
+          "venue": "dplegal Spring Biannual Meeting",
+          "location": "Astellas, Surrey",
+          "publisher": "Sidley",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 3,
+      "items": [
+        {
+          "id": "2024-pets-digital-advertising",
+          "year": 2024,
+          "title": "Connecting Privacy-Enhancing Technologies (PETs) with Digital Advertising: Highlighting the Significance of Introducing Noise into Data Flows",
+          "authors": ["Eijk R. van"],
+          "venue": "Personal Data Protection Commission Singapore, Infocomm Media Development Authority",
+          "location": "Singapore",
+          "publisher": "Personal Data Protection Commission Singapore, Infocomm Media Development Authority",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": []
+        },
+        {
+          "id": "2024-fpf-deidentification",
+          "year": 2024,
+          "title": "De-Identification",
+          "authors": ["Eijk R. van"],
+          "venue": "FPF Training Program",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:05+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081022/https://fpf.org/training/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:07+01:00",
+                  "submittedAt": "2025-07-24T10:10:22+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2024-fpf-online-advertising",
+          "year": 2024,
+          "title": "Fundamentals of Online Advertising",
+          "authors": ["Eijk R. van"],
+          "venue": "FPF Training Program",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:07+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081033/https://fpf.org/training/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:09+01:00",
+                  "submittedAt": "2025-07-24T10:10:33+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 6,
+      "items": [
+        {
+          "id": "2023-cpdp-ppml-panel",
+          "year": 2023,
+          "title": "State-Of-Play Of Privacy-Preserving Machine Learning (PPML) - Auditing Bias, Mitigating Privacy Risks in ML-Systems",
+          "authors": ["Carignan L.", "Kingsman N.", "Ruehle V.", "Shokri R."],
+          "venue": "Computers, Privacy & Data Protection Conference (CPDP2023)",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator - Eijk R. van"
+          },
+          "summary": "Rob van Eijk moderates a masterclass with Lindsay Carignan, Nigel Kingsman, Victor Ruehle, and Reza Shokri on technical auditing for AI and machine learning systems. Carignan and Kingsman from Holistic AI examine bias auditing under NYC Local Law 144 and the EU AI Act, contrasting equality of outcome with equality of opportunity using the Disparate Impact metric. Ruehle and Shokri then address privacy risk in ML systems. They present Membership Inference Attacks as a standardized metric to quantify re-identification risk and introduce the open-source ML Privacy Meter. The panel evaluates Differential Privacy, PII scrubbing, and Federated Learning, emphasizing the trade-offs between model utility and privacy guarantees. Essential viewing for practitioners implementing technical audits for regulatory compliance.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=uzkgvRFFZjY",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:10+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-fpf-deidentification",
+          "year": 2023,
+          "title": "De-Identification",
+          "authors": ["Eijk R. van"],
+          "venue": "FPF Training Program",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:10+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081114/https://fpf.org/training/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:12+01:00",
+                  "submittedAt": "2025-07-24T10:11:14+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-ontario-digital-marketing",
+          "year": 2023,
+          "title": "Navigating the Future of Digital Marketing: On the importance of adding noise to the data flows",
+          "authors": ["Eijk R. van"],
+          "venue": "The Office of the Information and Privacy Commissioner of Ontario",
+          "location": "Toronto",
+          "publisher": "The Office of the Information and Privacy Commissioner of Ontario",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/navigating-future-digital-marketing",
+              "title": "View Content",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:13+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2023-fpf-online-advertising-massey",
+          "year": 2023,
+          "title": "Fundamentals of Online Advertising",
+          "authors": ["Eijk R. van", "Massey A."],
+          "venue": "FPF Training Program",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:15+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081128/https://fpf.org/training/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:16+01:00",
+                  "submittedAt": "2025-07-24T10:11:28+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-fpf-automated-decision-making",
+          "year": 2023,
+          "title": "Automated Decision-Making Under the GDPR",
+          "authors": ["Michelakaki C.", "Eijk R. van"],
+          "venue": "FPF Training Program",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:16+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081140/https://fpf.org/training/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:18+01:00",
+                  "submittedAt": "2025-07-24T10:11:40+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-fpf-data-protection-design",
+          "year": 2023,
+          "title": "Unlocking Data Protection By Design & By Default: Lessons from the Enforcement of Article 25 GDPR",
+          "authors": ["Michelakaki C.", "Eijk R. van"],
+          "venue": "FPF Training Program",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/training/",
+              "title": "View Training Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:18+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081151/https://fpf.org/training/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:20+01:00",
+                  "submittedAt": "2025-07-24T10:11:51+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 2,
+      "items": [
+        {
+          "id": "2022-cpdp-deidentification-masterclass",
+          "year": 2022,
+          "title": "Future of Privacy Masterclass: State-of-Play of De-Identification Techniques",
+          "authors": ["Holohan N.", "Mosquera L.", "Rossi A.", "Stalla-Bourdillon S."],
+          "venue": "Computers, Privacy & Data Protection Conference (CPDP2022)",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "summary": "Rob van Eijk moderates a CPDP 2022 masterclass surveying the state of de-identification techniques under GDPR. Van Eijk opens by revisiting the 2016 FPF de-identification infographic and situating it against GDPR's updated anonymization standard. Sophie Stalla-Bourdillon and Alfred Rossi of Immuta present homomorphic encryption as a technique allowing computation on encrypted data without decryption. Naoise Holohan of IBM Research introduces differential privacy as a mathematical framework for quantifying privacy loss through calibrated noise injection, explaining epsilon values and the privacy-utility trade-off. Lucy Mosquera of Replica Analytics demonstrates synthetic data generation techniques including sequential synthesis, variational autoencoders, and generative adversarial networks. The masterclass emphasizes combining multiple privacy-enhancing technologies for comprehensive protection and equips practitioners with understanding of which techniques meet GDPR anonymization thresholds and under which conditions.",
+          "metadata": {
+            "role": "Moderator - Eijk R. van"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=r1J93rTeeaY",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:21+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2022-cpra-universal-opt-outs",
+          "year": 2022,
+          "title": "Session 5: Universal Opt-Outs and Global Privacy Controls",
+          "authors": ["Vyas T.", "Eijk R. van"],
+          "venue": "CPRA Law + Tech Series: Understanding Data, Decisionmaking, and Design",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum & California Lawyers Association",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "summary": "Tanvi Vyas of Mozilla and Rob van Eijk of the Future of Privacy Forum Europe deliver the fifth session of the CPRA Law and Tech Series, co-hosted with the California Lawyers Association. Van Eijk provides a technical breakdown of how online tracking operates through ad anatomy, browser rendering, third-party cookies, and cross-site data flows. Vyas traces the history of privacy controls from opt-out cookies and Do Not Track to the Global Privacy Control specification. GPC sends an HTTP header that binding US state laws now require companies to honour, unlike its predecessor DNT which lacked legal enforcement. Van Eijk introduces the Advanced Data Protection Control as a European equivalent handling both opt-outs and GDPR consent signals.",
+          "metadata": {
+            "moderator": "Gray S."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=MauPHIRmUmc",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:21+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 2,
+      "items": [
+        {
+          "id": "2021-fpf-deidentification",
+          "year": 2021,
+          "title": "De-Identification",
+          "authors": ["Finch K.", "Eijk R. van"],
+          "venue": "Understanding Digital Data Flows",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/understanding-digital-data-flows-de-identification/#overview",
+              "title": "View Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:22+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://fpf.org/fpf-event/understanding-digital-data-flows-de-identification/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:22+01:00",
+                  "submittedAt": "2025-07-24T10:12:58+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-fpf-online-advertising",
+          "year": 2021,
+          "title": "Online Advertising Fundamentals",
+          "authors": ["Harris C.", "Eijk R. van"],
+          "venue": "Understanding Digital Data Flows",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/understanding-digital-data-flows-fundamentals-of-online-advertising/#overview",
+              "title": "View Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:22+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://fpf.org/fpf-event/understanding-digital-data-flows-fundamentals-of-online-advertising/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:22+01:00",
+                  "submittedAt": "2025-07-24T10:13:09+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 6,
+      "items": [
+        {
+          "id": "2020-blockchain-masterclass",
+          "year": 2020,
+          "title": "Understanding Blockchain",
+          "authors": ["Artzt M.", "Laan J. van der"],
+          "venue": "Digital Data Flows Masterclass",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "summary": "Rob van Eijk and Brenda Leong of the Future of Privacy Forum host the final session of the Digital Data Flows Masterclass series on blockchain technology. Jake van der Laan of the New Brunswick FCNB explains the technical foundations: blockchain as an append-only transaction log secured by cryptographic hash functions, proof-of-work consensus, and smart contracts. Matthias Artzt of Deutsche Bank then addresses the direct tension with GDPR, examining who qualifies as a Data Controller on a permissionless chain and why the right to erasure is technically incompatible with immutability. Artzt presents the primary compliance solution: storing only a cryptographic hash on-chain while keeping personal data in a deletable off-chain database.",
+          "metadata": {
+            "moderators": "Eijk, R. & Leong B."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://youtu.be/nKpoWj1MQek",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:23+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-ml-masterclass",
+          "year": 2020,
+          "title": "Understanding Machine Learning",
+          "authors": ["Binns R.", "Tomsett R.", "Schmidt R."],
+          "venue": "Digital Data Flows Masterclass",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "metadata": {
+            "moderators": "Eijk R. van, Jordan S. & Zanfir-Fortuna G."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/takeaways-from-the-understanding-machine-learning-masterclass/",
+              "title": "View Content",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:23+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081333/https://fpf.org/blog/takeaways-from-the-understanding-machine-learning-masterclass/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:25+01:00",
+                  "submittedAt": "2025-07-24T10:13:33+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-ml-speech-masterclass",
+          "year": 2020,
+          "title": "Machine Learning and Speech",
+          "authors": ["Carpuat M.", "Natarajan P."],
+          "venue": "Digital Data Flows Masterclass",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "summary": "Rob van Eijk of the Future of Privacy Forum hosts a Digital Data Flows Masterclass on machine learning and speech processing. Marine Carpuat of the University of Maryland explains neural machine translation, tracing the shift from phrase-based statistical models to deep learning. She highlights the challenge of low-resource languages, the back-translation technique for generating synthetic training data, and warns that fluently inadequate translations can have serious real-world consequences. Prem Natarajan of Amazon Alexa AI describes the architecture of conversational AI systems and outlines how active learning, transfer learning, and self-learning reduce dependence on labelled training data. The session closes with a discussion of the tension between GDPR data minimisation and the scale of datasets needed for speech AI.",
+          "metadata": {
+            "moderators": "Eijk, R. & Jordan S."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=uRJsTy50Sqs",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:26+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-iab-adtech-part1",
+          "year": 2020,
+          "title": "Inzicht in Adtech PART 1",
+          "summary": "Rob van Eijk presents the first part of an IAB Nederland webinar on understanding online advertising technology, co-hosted with Tim Geenen of LiveRamp. Van Eijk explains how browsers process web content through rendering engines, JavaScript interpreters, and data storage, using live examples to show how a single banner ad triggers dozens of calls to external ad-tech vendors. He maps the real-time bidding ecosystem from publisher to advertiser via supply-side and demand-side platforms, and demonstrates browser fingerprinting as an emerging alternative to cookies. The session compares how major browsers differ in their tracking protections and covers GDPR consent requirements following the Planet49 ruling, including why pre-ticked boxes and cookie walls are unlawful.",
+          "authors": ["Eijk R. van", "Geenen T."],
+          "venue": "IAB Nederland",
+          "location": "Amsterdam",
+          "publisher": "IAB Nederland",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=TKwtnywIQr0",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:27+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-iab-adtech-part2",
+          "year": 2020,
+          "title": "Inzicht in Adtech PART 2",
+          "summary": "Rob van Eijk and Tim Geenen of IAB Nederland present the second part of their adtech series, shifting from technical mechanics to legal compliance. Van Eijk revisits the real-time bidding ecosystem to show how data leakage occurs when publishers lose control over third-party calls. He audits live websites using developer tools, demonstrating consent banners that fire tracking scripts before user interaction, rendering them legally useless. The Planet49 ruling is explained in detail: pre-ticked boxes are invalid and consent withdrawal must be as easy as acceptance. Van Eijk critiques CMP dark patterns where accepting is one click but rejecting requires multiple steps, and closes by advocating for Privacy Enhancing Technologies and contextual advertising as sustainable alternatives.",
+          "authors": ["Eijk R. van", "Geenen T."],
+          "venue": "IAB Nederland",
+          "location": "Amsterdam",
+          "publisher": "IAB Nederland",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=MId8BQSTlTE",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:28+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-understanding-adtech",
+          "year": 2020,
+          "title": "Understanding Adtech",
+          "summary": "Rob van Eijk and Courtney Harris of the Future of Privacy Forum present a session on the online advertising technology ecosystem as part of the Understanding Digital Data Flows series. The session explains how advertisers reach consumers through programmatic advertising, covering the roles of publishers, supply-side platforms, demand-side platforms, data management platforms, and ad servers. The discussion helps policymakers and regulators understand the technical mechanisms behind adtech to better evaluate privacy compliance and enforcement.",
+          "authors": ["Harris C.", "Eijk R. van"],
+          "venue": "Understanding Digital Data Flows",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=T7gsnd55yzE",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:28+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 2,
+      "items": [
+        {
+          "id": "2019-nsf-lightning-talk",
+          "year": 2019,
+          "title": "Lightning Talk: The network is watching you",
+          "authors": ["Eijk R. van"],
+          "venue": "Applied Privacy Research Coordination Network",
+          "location": "Washington",
+          "publisher": "Future of Privacy Forum & US National Science Foundation",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/research-coordination-network/",
+              "title": "View Program",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:29+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724081541/https://fpf.org/research-coordination-network/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:58:31+01:00",
+                  "submittedAt": "2025-07-24T10:15:41+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-online-advertising-technologies",
+          "year": 2019,
+          "title": "Online Advertising Technologies",
+          "authors": ["Eijk R. van", "Towvim A."],
+          "venue": "Digital Data Flows Masterclass",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels & Future of Privacy Forum",
+          "category": "professional learning",
+          "mediaType": "video",
+          "contentType": "training",
+          "displayContext": "modal",
+          "summary": "Stacey Gray of the Future of Privacy Forum moderates a Digital Data Flows Masterclass on online advertising technologies. Adam Towvim of Brandeis International Business School traces the evolution from direct media buying to programmatic advertising, explaining how advertisers, publishers, and intermediaries interact through cookies, pixels, and cross-device tracking. Rob van Eijk of Leiden University provides a technical deep-dive into the nine-step real-time bidding process, covering cookie syncing, bid request metadata, header bidding, and private deals. Van Eijk introduces his graph-based research visualising data flows between ad-tech companies. The panel closes with a discussion of ad fraud, identity resolution across devices, and the privacy implications of broadcasting user metadata to hundreds of partners in each auction.",
+          "metadata": {
+            "moderator": "Gray S."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://youtu.be/YWJ7ZXEmzHw",
+              "title": "Play Video",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:58:32+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2001-2010",
+      "count": 29,
+      "items": [
+        {
+          "id": "prince2-program",
+          "year": "2002-2010",
+          "title": "PRojects IN Controlled Environments - Association of Projectmanagement Group (APMG)",
+          "authors": ["Eijk R. van"],
+          "venue": "CAI",
+          "location": "The Hague",
+          "publisher": "CAI",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "metadata": {
+            "program": "APMG PRINCE2",
+            "certifications": ["Train-the-Trainer", "Practitioner", "Foundation"]
+          },
+          "links": []
+        },
+        {
+          "id": "exin-i-tracks-program",
+          "year": "2005-2010",
+          "title": "EXIN I-TRACKS Certification Program",
+          "authors": ["Eijk R. van"],
+          "venue": "CAI",
+          "location": "The Hague",
+          "publisher": "CAI",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "metadata": {
+            "program": "EXIN I-TRACKS",
+            "certifications": [
+              "ASL Foundation (ASLF)",
+              "BISL Library for Business Information Services (BISL)",
+              "CMM Foundation (CMMF)",
+              "Communication Techniques 1 (PCF)",
+              "Communication Techniques 2 (PCA)",
+              "Database Modeling (DBMA)",
+              "Databases & SQL (DBSQLF)",
+              "DSDM Dynamic systems development method Foundation (DSDMF)",
+              "Hardware & Networking (HNCF)",
+              "Information Security 1 (ISF)",
+              "Information Security 2 (ISMA)",
+              "IT Management (ITMF)",
+              "IT Project Management 1 (PM-IT)",
+              "IT Project Management 2 (ITPMA)",
+              "ITIL Foundation (ITILF)",
+              "ITIL Practitioner Change Management (ITPR CHM)",
+              "ITIL Practitioner Problem Management (ITPR PRM)",
+              "Project Participation Foundation (PPF)",
+              "Systems Development (ISDDF)",
+              "Test Management (TMPA)"
+            ]
+          },
+          "links": []
+        },
+        {
+          "id": "exin-ambi-hx-program",
+          "year": "2000-2005",
+          "title": "Automation and Mechanization of Administrative Information - EXIN AMBI HX",
+          "authors": ["Eijk R. van"],
+          "venue": "CAI",
+          "location": "The Hague",
+          "publisher": "CAI",
+          "category": "professional learning",
+          "mediaType": "training",
+          "contentType": "training",
+          "displayContext": "modal",
+          "metadata": {
+            "program": "EXIN AMBI HX",
+            "certifications": [
+              "Introduction to ICT management (HX.1)",
+              "The Organization and Coherence of ICT management (HX.2)",
+              "Management and Policy of ICT management (HX.3)",
+              "Project Management for IT (PMIT)",
+              "Information Security Foundation (ISF)",
+              "Information Security Management Advanced (ISMA)"
+            ]
+          },
+          "links": []
+        }
+      ]
+    }
+  ]
+}

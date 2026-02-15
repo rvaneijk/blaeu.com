@@ -1,0 +1,204 @@
+{
+  "title": "News Highlights",
+  "contentType": "highlight",
+  "totalItems": 6,
+  "lastUpdated": "2026-01-28",
+  "sections": [
+    {
+      "year": 2026,
+      "count": 1,
+      "items": [
+        {
+          "id": "data-protection-day-2026-panel",
+          "year": 2026,
+          "title": "Data Protection Day 2026 Panel",
+          "description": "Panel moderation examining whether regulatory frameworks can effectively address the evolving online tracking landscape. Discussion covered the Digital Omnibus proposal, ePrivacy Directive consent principles, and the emerging challenge of AI agents consenting on behalf of users.",
+          "authors": ["Rob van Eijk"],
+          "venue": "EDPS / Council of Europe, Brussels",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/data-protection-day-2026-panel",
+              "title": "Read more",
+              "icon": "fa-solid fa-internal-link"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-01-28T10:00:00+01:00",
+            "excerpt": "Panel moderation examining whether regulatory frameworks can effectively address the evolving online tracking landscape. Discussion covered the Digital Omnibus proposal, ePrivacy Directive consent principles, and the emerging challenge of AI agents consenting on behalf of users.",
+            "featured": true,
+            "guid": "https://blaeu.com/blog/data-protection-day-2026-panel",
+            "rssCategories": ["Speaking", "ePrivacy", "Data Protection"],
+            "venue": "EDPS / Council of Europe, Brussels"
+          }
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "count": 4,
+      "items": [
+        {
+          "id": "ai-prompting-trap-over-engineering-2025",
+          "year": 2025,
+          "title": "AI-Learning by Building: The AI Prompting Trap",
+          "description": "Analysis of how specific prompting language triggers AI over-engineering, with practical frameworks for controlling AI complexity and preventing scope creep in development projects. Blog post provides forensic analysis of actual prompts and their impact on project complexity.",
+          "authors": ["Rob van Eijk"],
+          "venue": "Technical blog",
+          "category": "technical",
+          "mediaType": "blogpost",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/ai-prompting-trap-over-engineering",
+              "title": "Read more",
+              "icon": "fa-solid fa-internal-link"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2025-08-01T00:00:00+01:00",
+            "excerpt": "Analysis of how specific prompting language triggers AI over-engineering, with practical frameworks for controlling AI complexity and preventing scope creep in development projects.",
+            "featured": false,
+            "guid": "https://blaeu.com/blog/ai-prompting-trap-over-engineering",
+            "rssCategories": ["Technical", "AI Prompting", "Engineering"],
+            "venue": "Technical blog"
+          }
+        },
+        {
+          "id": "facebook-instagram-coverage-2025",
+          "year": 2025,
+          "title": "Facebook/Instagram Research Coverage",
+          "description": "Expert commentary on Facebook and Instagram tracking practices featured in major Dutch public broadcaster NOS. Analysis covers smartphone tracking techniques and privacy implications of social media data collection practices on Android devices.",
+          "authors": ["Rob van Eijk"],
+          "venue": "NOS Dutch Public Broadcasting",
+          "category": "media",
+          "mediaType": "interview",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://nos.nl/artikel/2569805-onderzoekers-facebook-en-instagram-gebruikten-spionagetrucje-op-android-smartphones",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2025-12-19T15:21:03+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250605135331/https://nos.nl/artikel/2569805-onderzoekers-facebook-en-instagram-gebruikten-spionagetrucje-op-android-smartphones",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T15:21:03+01:00",
+                  "submittedAt": "2025-06-05T13:53:31+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2025-06-03T14:45:00+01:00",
+            "excerpt": "Expert commentary on Facebook and Instagram tracking practices featured in major Dutch public broadcaster NOS. Analysis covers smartphone tracking techniques and privacy implications of social media data collection practices on Android devices.",
+            "featured": true,
+            "rssCategories": ["Media", "Privacy", "Social Media"],
+            "venue": "NOS Dutch Public Broadcasting"
+          }
+        },
+        {
+          "id": "oecd-consent-technologies-2025",
+          "year": 2025,
+          "title": "OECD Consent Technologies Roundtable",
+          "description": "Keynote moderation of OECD roundtable on emerging consent practices in the digital ecosystem, Paris. Discussion focused on the evolution of consent technologies and their impact on digital privacy frameworks across OECD member countries.",
+          "authors": ["Rob van Eijk"],
+          "venue": "OECD Paris",
+          "category": "speaking",
+          "mediaType": "keynote",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/oecd-consent-technologies-roundtable",
+              "title": "Read more",
+              "icon": "fa-solid fa-internal-link"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2025-03-18T10:00:00+01:00",
+            "excerpt": "Keynote moderation of OECD roundtable on emerging consent practices in the digital ecosystem, Paris. Discussion focused on the evolution of consent technologies and their impact on digital privacy frameworks across OECD member countries.",
+            "featured": true,
+            "guid": "https://blaeu.com/blog/oecd-consent-technologies-roundtable",
+            "rssCategories": ["Speaking", "OECD", "Consent Management"],
+            "venue": "OECD Paris"
+          }
+        },
+        {
+          "id": "ai-learning-email-security-2025",
+          "year": 2025,
+          "title": "AI-Learning by Building: Creating an Enterprise-Grade Email Security System for Personal Use",
+          "description": "How I created an enterprise-grade email security system for small organizations using AI-assisted development, featuring real-time link verification and threat detection through AWS infrastructure.",
+          "authors": ["Rob van Eijk"],
+          "venue": "Technical blog",
+          "category": "technical",
+          "mediaType": "blogpost",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/email-security-system",
+              "title": "Read more",
+              "icon": "fa-solid fa-internal-link"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2025-01-15T00:00:00.000Z",
+            "excerpt": "How I created an enterprise-grade email security system for small organizations using AI-assisted development, featuring real-time link verification and threat detection through AWS infrastructure.",
+            "featured": false,
+            "guid": "https://blaeu.com/blog/email-security-system",
+            "rssCategories": ["Email Security", "AI Learning", "Engineering"],
+            "venue": "Technical blog"
+          }
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 1,
+      "items": [
+        {
+          "id": "privacy-generative-ai-symposium-2023",
+          "year": 2023,
+          "title": "Privacy & Generative AI Symposium Recap",
+          "description": "Comprehensive recap of the Privacy & Generative AI Symposium featuring insights from Gary Marcus and expert panels on AI governance, ethics, and human rights.",
+          "authors": ["Rob van Eijk"],
+          "venue": "Technical blog",
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/privacy-generative-ai-symposium",
+              "title": "Read more",
+              "icon": "fa-solid fa-internal-link"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2023-12-07T00:00:00.000Z",
+            "excerpt": "Comprehensive recap of the Privacy & Generative AI Symposium featuring insights from Gary Marcus and expert panels on AI governance, ethics, and human rights.",
+            "featured": false,
+            "guid": "https://blaeu.com/blog/privacy-generative-ai-symposium",
+            "rssCategories": ["AI Governance", "Privacy", "Policy"],
+            "venue": "Technical blog"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "title": "Committees & Boards",
+  "contentType": "service",
+  "totalItems": 16,
+  "lastUpdated": "2025-07-19",
+  "sections": [
+    {
+      "year": 2025,
+      "count": 2,
+      "items": [
+        {
+          "id": "2025-alpine-privacy-days-4th",
+          "year": 2025,
+          "title": "4th Alpine Privacy Days",
+          "authors": ["Eijk R. van"],
+          "venue": "Alpine Privacy Days",
+          "location": "Zuoz",
+          "publisher": "Bull & Co Advokatfirma AS and MLL Legal Ltd",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.alpineprivacydays.net/past-events-2025/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-12-19T21:00:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234018/https://www.alpineprivacydays.net",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:31+01:00",
+                  "submittedAt": "2025-07-24T01:40:18+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-brussels-privacy-symposium-9th",
+          "year": 2025,
+          "title": "9th Annual Brussels Privacy Symposium",
+          "authors": ["Eijk R. van"],
+          "venue": "Brussels Privacy Symposium",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum & Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "metadata": {
+            "theme": "tbd"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/brussels-privacy-symposium-2025/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:32+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234023/https://fpf.org/fpf-event/brussels-privacy-symposium-2025/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:34+01:00",
+                  "submittedAt": "2025-07-24T01:40:23+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 2,
+      "items": [
+        {
+          "id": "2024-alpine-privacy-days-3rd",
+          "year": 2024,
+          "title": "3rd Alpine Privacy Days",
+          "authors": ["Eijk R. van"],
+          "venue": "Alpine Privacy Days",
+          "location": "Zuoz",
+          "publisher": "Bull & Co Advokatfirma AS and MLL Legal Ltd",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.alpineprivacydays.net/past-events-2024/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-12-19T21:00:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234029/https://www.alpineprivacydays.net",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:36+01:00",
+                  "submittedAt": "2025-07-24T01:40:29+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2024-brussels-privacy-symposium-8th",
+          "year": 2024,
+          "title": "8th Annual Brussels Privacy Symposium",
+          "authors": ["Eijk R. van"],
+          "venue": "Brussels Privacy Symposium",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum & Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "metadata": {
+            "theme": "Integrating the AI Act in the EU Data Governance Ecosystem: Bridging Regulatory Regimes"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/brussels-privacy-symposium-2024/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:36+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234034/https://fpf.org/fpf-event/brussels-privacy-symposium-2024/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:40+01:00",
+                  "submittedAt": "2025-07-24T01:40:34+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 2,
+      "items": [
+        {
+          "id": "2023-alpine-privacy-days-2nd",
+          "year": 2023,
+          "title": "2nd Alpine Privacy Days",
+          "authors": ["Eijk R. van"],
+          "venue": "Alpine Privacy Days",
+          "location": "Zuoz",
+          "publisher": "Bull & Co Advokatfirma AS, Signatu AS, and MLL Legal Ltd",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.alpineprivacydays.net/past-events-2023/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-12-19T21:00:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234040/https://www.alpineprivacydays.net",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:42+01:00",
+                  "submittedAt": "2025-07-24T01:40:40+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-brussels-privacy-symposium-7th",
+          "year": 2023,
+          "title": "7th Annual Brussels Privacy Symposium",
+          "authors": ["Eijk R. van"],
+          "venue": "Brussels Privacy Symposium",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum & Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "metadata": {
+            "theme": "Understanding the EU Data Strategy Architecture: Common Threads - Points of Junction - Incongruities"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/brussels-privacy-symposium-2023/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:42+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234046/https://fpf.org/fpf-event/brussels-privacy-symposium-2023/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:45+01:00",
+                  "submittedAt": "2025-07-24T01:40:46+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 2,
+      "items": [
+        {
+          "id": "2022-alpine-privacy-days-1st",
+          "year": 2022,
+          "title": "1st Alpine Privacy Days",
+          "authors": ["Eijk R. van"],
+          "venue": "Alpine Privacy Days",
+          "location": "Zuoz",
+          "publisher": "Bull & Co Advokatfirma AS, Signatu AS, and MLL Legal Ltd",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.alpineprivacydays.net/past-events-2022/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-12-19T21:00:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234052/https://www.alpineprivacydays.net",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:47+01:00",
+                  "submittedAt": "2025-07-24T01:40:52+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-brussels-privacy-symposium-6th",
+          "year": 2022,
+          "title": "6th Annual Brussels Privacy Symposium",
+          "authors": ["Eijk R. van"],
+          "venue": "Brussels Privacy Symposium",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum & Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "metadata": {
+            "theme": "Vulnerable People, Marginalization and Data Protection"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/2022-brussels-privacy-symposium/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-12-19T00:00:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20221004134750/https://fpf.org/fpf-event/2022-brussels-privacy-symposium/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-12-19T00:00:00+01:00",
+                  "submittedAt": "2022-10-04T13:47:50+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 2,
+      "items": [
+        {
+          "id": "2021-brussels-privacy-symposium-5th",
+          "year": 2021,
+          "title": "5th Annual Brussels Privacy Symposium",
+          "authors": ["Eijk R. van"],
+          "venue": "Brussels Privacy Symposium",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum & Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "metadata": {
+            "theme": "The Age of AI Regulation: Global Strategic Directions"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/brussels-privacy-symposium-2021-the-age-of-ai-regulation-global-strategic-directions/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:48+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20240609190846/https://fpf.org/fpf-event/brussels-privacy-symposium-2021-the-age-of-ai-regulation-global-strategic-directions/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:51+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-dublin-privacy-symposium",
+          "year": 2021,
+          "title": "Dublin Privacy Symposium",
+          "authors": ["Eijk R. van"],
+          "venue": "Dublin Privacy Symposium",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "metadata": {
+            "theme": "Designing for Trust: Enhancing Transparency & Preventing User Manipulation"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/dublin-privacy-virtual-symposium/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:52+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234059/https://fpf.org/fpf-event/dublin-privacy-virtual-symposium/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:54+01:00",
+                  "submittedAt": "2025-07-24T01:40:59+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 1,
+      "items": [
+        {
+          "id": "2020-brussels-privacy-symposium-4th",
+          "year": 2020,
+          "title": "4th Annual Brussels Privacy Symposium",
+          "authors": ["Eijk R. van"],
+          "venue": "Brussels Privacy Symposium",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum & Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "metadata": {
+            "theme": "Research and the Protection of Personal Data under the GDPR"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/4th-annual-brussels-privacy-symposium-research-and-the-protection-of-personal-data-under-the-gdpr/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-12-19T20:30:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20251219195419/https://fpf.org/blog/4th-annual-brussels-privacy-symposium-research-and-the-protection-of-personal-data-under-the-gdpr/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "submittedAt": "2025-12-19T19:54:19+00:00",
+                  "lastChecked": "2025-12-19T19:54:19+00:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 1,
+      "items": [
+        {
+          "id": "2019-bold-cities-symposium",
+          "year": 2019,
+          "title": "BOLD Cities symposium",
+          "authors": ["Eijk R. van"],
+          "venue": "BOLD Cities symposium",
+          "location": "Leiden",
+          "publisher": "Centre for BOLD Cities Leiden-Delft-Erasmus Universities",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "metadata": {
+            "theme": "Privacy and cybersecurity lessons for SHARED cities"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.centre-for-bold-cities.nl/agenda/2019-01-29-bold-cities-symposium-privacy-and-cybersecurity-lessons-for-shared-cities",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:55+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234104/https://www.centre-for-bold-cities.nl/agenda/2019-01-29-bold-cities-symposium-privacy-and-cybersecurity-lessons-for-shared-cities",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:44:58+01:00",
+                  "submittedAt": "2025-07-24T01:41:04+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "count": 1,
+      "items": [
+        {
+          "id": "2018-w3c-privacy-linked-data",
+          "year": 2018,
+          "title": "W3C Workshop on Privacy and Linked Data",
+          "authors": ["Eijk R. van"],
+          "venue": "W3C Workshop on Privacy and Linked Data",
+          "location": "Vienna",
+          "publisher": "World Wide Web Consortium",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.w3.org/2018/vocabws/program-committee.html",
+              "title": "View Committee",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:44:58+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234110/https://www.w3.org/2018/vocabws/program-committee.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:45:03+01:00",
+                  "submittedAt": "2025-07-24T01:41:10+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "count": 1,
+      "items": [
+        {
+          "id": "2014-w3c-privacy-user-controls",
+          "year": 2014,
+          "title": "W3C Workshop on Privacy and User-Centric Controls",
+          "authors": ["Eijk R. van"],
+          "venue": "W3C Workshop on Privacy and User-Centric Controls",
+          "location": "Berlin",
+          "publisher": "World Wide Web Consortium",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.w3.org/2014/privacyws/",
+              "title": "View Workshop",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:45:03+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234115/https://www.w3.org/2014/privacyws/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:45:10+01:00",
+                  "submittedAt": "2025-07-24T01:41:15+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "count": 2,
+      "items": [
+        {
+          "id": "2012-w3c-dnt-workshop",
+          "year": 2012,
+          "title": "W3C Workshop Do Not Track and beyond",
+          "authors": ["Eijk R. van"],
+          "venue": "W3C Workshop Do Not Track and beyond",
+          "location": "Berkeley, CA",
+          "publisher": "World Wide Web Consortium & Berkeley Center for Law and Technology, UC Berkeley School of Law",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.w3.org/2012/dnt-ws/",
+              "title": "View Workshop",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:45:10+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234121/https://www.w3.org/2012/dnt-ws/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:45:13+01:00",
+                  "submittedAt": "2025-07-24T01:41:21+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2012-web-privacy-measurement-conference",
+          "year": 2012,
+          "title": "Conference on Web Privacy Measurement",
+          "authors": ["Eijk R. van"],
+          "venue": "Conference on Web Privacy Measurement",
+          "location": "Berkeley, CA",
+          "publisher": "Berkeley Center for Law and Technology, UC Berkeley School of Law",
+          "category": "program committee",
+          "mediaType": "academic",
+          "contentType": "service",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.law.berkeley.edu/research/bclt/past-events/2012-conferences/may-2012-web-privacy-measurement/",
+              "title": "View Conference",
+              "status": "active",
+              "lastChecked": "2025-07-24T10:45:15+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723234127/https://www.law.berkeley.edu/research/bclt/past-events/2012-conferences/may-2012-web-privacy-measurement/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2025-07-24T10:45:20+01:00",
+                  "submittedAt": "2025-07-24T01:41:27+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

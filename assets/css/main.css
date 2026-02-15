@@ -1,0 +1,1386 @@
+@import 'tailwindcss';
+@config "../../../tailwind.config.mjs";
+
+/* Keyboard shortcuts and accessibility styles - inlined to reduce network requests */
+
+/* Focus mode styles - Enhanced for WCAG 2.2 AAA */
+.focus-mode *:focus,
+.focus-mode *:focus-visible,
+.focus-mode footer a:focus,
+.focus-mode footer a:focus-visible,
+.focus-mode .skip-to-content:focus,
+.focus-mode .skip-to-content:focus-visible {
+  outline: 4px solid #ffcc00 !important; /* Thicker outline for better visibility */
+  outline-offset: 4px !important; /* Increased offset */
+  box-shadow: 0 0 0 4px rgba(255, 204, 0, 0.6) !important; /* Enhanced box shadow with higher opacity */
+  transition:
+    outline 0.2s ease,
+    box-shadow 0.2s ease !important;
+  border-radius: 0.25rem !important;
+}
+
+/* Ensure modal focus is also enhanced in focus mode */
+.focus-mode [role='dialog'][aria-modal='true'] *:focus,
+.focus-mode [role='dialog'][aria-modal='true'] *:focus-visible {
+  outline: 4px solid #ffcc00 !important;
+  outline-offset: 4px !important;
+  box-shadow: 0 0 0 4px rgba(255, 204, 0, 0.6) !important;
+}
+
+/* Motion preferences - respect user settings */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001s !important;
+    transition-duration: 0.001s !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Custom reduced motion styles - applied when using the widget toggle */
+.reduce-motion *,
+.reduce-motion *::before,
+.reduce-motion *::after {
+  animation-duration: 0.001s !important;
+  transition-duration: 0.001s !important;
+  animation-iteration-count: 1 !important;
+  scroll-behavior: auto !important;
+}
+
+/* Only hide specific overlay elements, not all fixed elements */
+.reduce-motion .overlay.animation-overlay,
+.reduce-motion [class*='animation-overlay'],
+.reduce-motion [id*='animation-overlay'] {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Simplified reduce motion - we just pause videos now */
+.reduce-motion .video-container {
+  position: relative;
+}
+
+/* Visual indicator that motion is reduced */
+.reduce-motion .accessibility-widget-toggle {
+  position: relative;
+}
+
+.reduce-motion .accessibility-widget-toggle::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  width: 12px;
+  height: 12px;
+  background-color: #ffcc00;
+  border-radius: 50%;
+  border: 2px solid white;
+  z-index: 1;
+}
+
+/* Make navbar always visible in reduce motion mode */
+.reduce-motion nav.fixed {
+  background-color: white !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+  z-index: 10 !important;
+  visibility: visible !important;
+  display: block !important;
+}
+
+/* Ensure mobile menu is visible and properly styled in reduced motion mode when open */
+.reduce-motion #mobile-menu.max-h-60 {
+  background-color: white !important;
+  opacity: 1 !important;
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+  max-height: 500px !important;
+  display: block !important;
+  pointer-events: auto !important;
+  visibility: visible !important;
+  transition: none !important;
+}
+
+/* Ensure mobile menu is properly hidden when closed in reduced motion mode */
+.reduce-motion #mobile-menu.max-h-0 {
+  max-height: 0 !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  transition: none !important;
+  display: none !important;
+}
+
+/* Ensure mobile menu button is always visible in reduced motion mode */
+.reduce-motion button[aria-controls='mobile-menu'],
+.reduce-motion #mobile-menu-button {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+  display: inline-flex !important;
+}
+
+/* Fix text colors in navbar when in reduce motion mode */
+.reduce-motion nav.fixed a.font-medium {
+  color: #374151 !important; /* text-gray-700 */
+}
+
+.reduce-motion nav.fixed a.font-medium:hover {
+  color: #2563eb !important; /* text-blue-600 */
+}
+
+/* Keep active link styling */
+.reduce-motion nav.fixed a.font-medium.border-b-2 {
+  color: #2563eb !important; /* text-blue-600 */
+  border-color: #2563eb !important; /* border-blue-600 */
+}
+
+/* Screen reader announcer styles */
+.sr-announcer {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Hide browser's native captions */
+.captions-enabled video::cue {
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Adjust the position of the entire video container when captions are enabled */
+.captions-enabled .video-container {
+  position: relative;
+}
+
+/* Create a custom caption container that we can position more freely */
+.captions-enabled .video-container::after {
+  content: attr(data-caption-text);
+  display: block;
+  position: absolute;
+  bottom: 180px; /* Position even higher up, above the arrow */
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 80%;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 1.2rem;
+  z-index: 10;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.captions-enabled .video-container[data-caption-active='true']::after {
+  opacity: 1;
+}
+
+/* Make captions more visible in high contrast mode */
+.captions-enabled.high-contrast-mode .video-container::after {
+  background-color: black;
+  color: yellow;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+}
+
+/* Adjust caption positioning for mobile */
+@media (max-width: 768px) {
+  .captions-enabled .video-container::after {
+    bottom: 200px; /* Move captions even higher on mobile */
+    font-size: 1rem; /* Slightly smaller text on mobile */
+    max-width: 90%;
+  }
+}
+
+/* Print styles - hide navigation and widgets for clean PDF output */
+@media print {
+  nav,
+  footer,
+  .back-to-top-btn,
+  AccessibilityWidget,
+  AccessibilityPolicyWidget,
+  CookiePolicyWidget,
+  KeyboardShortcutsWidget,
+  PrivacyStatementWidget,
+  ResponsibleDisclosureWidget,
+  TermsWidget {
+    display: none !important;
+  }
+
+  /* Show print-only content */
+  .print-only {
+    display: block !important;
+  }
+
+  /* Reduce top padding for print to move content up */
+  main#main-content {
+    padding-top: 1rem !important;
+  }
+
+  /* Ensure colored backgrounds render in print */
+  .bg-red-50,
+  .bg-green-50,
+  .bg-blue-50,
+  .bg-yellow-50,
+  .bg-gray-50 {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Ensure proper spacing in colored boxes - fix green box spacing issue */
+  .bg-green-50 code {
+    display: block !important;
+    margin-top: 0.5rem !important;
+  }
+
+  /* Browser handles page margins (25.5mm default) */
+
+  /* Keep sections together */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  /* Keep key sections together */
+  .key-takeaways,
+  blockquote,
+  pre,
+  code {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Avoid orphans/widows */
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Keep custom sections together */
+  .print-keep-together {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Force page breaks */
+  .page-break-before {
+    page-break-before: always !important;
+    break-before: page !important;
+  }
+
+  .page-break-after {
+    page-break-after: always !important;
+    break-after: page !important;
+  }
+
+  /* Prevent empty last page */
+  body {
+    page-break-after: avoid !important;
+  }
+
+  /* Remove bottom margins on last elements but preserve padding in containers */
+  :last-child {
+    margin-bottom: 0 !important;
+  }
+
+  /* Preserve minimal padding in colored boxes and containers */
+  .bg-red-50 :last-child,
+  .bg-green-50 :last-child,
+  .bg-blue-50 :last-child,
+  .bg-yellow-50 :last-child,
+  .bg-gray-50 :last-child {
+    padding-bottom: 0.25rem !important;
+  }
+
+  /* Reduce spacing in components for print */
+  .mt-8 {
+    margin-top: 1rem !important;
+  }
+  .p-6 {
+    padding: 1rem !important;
+  }
+  .mb-6 {
+    margin-bottom: 1rem !important;
+  }
+  .mb-8 {
+    margin-bottom: 1rem !important;
+  }
+  .my-6 {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+  .mb-4 {
+    margin-bottom: 0.5rem !important;
+  }
+  .space-y-4 > * + * {
+    margin-top: 0.5rem !important;
+  }
+  .space-y-2 > * + * {
+    margin-top: 0.25rem !important;
+  }
+  .space-y-3 > * + * {
+    margin-top: 0.5rem !important;
+  }
+
+  /* Reduce gaps in grid layouts */
+  .gap-6 {
+    gap: 1rem !important;
+  }
+  .gap-4 {
+    gap: 0.75rem !important;
+  }
+
+  /* Specific handling for common last elements */
+  p:last-child,
+  div:last-child,
+  section:last-child,
+  article:last-child {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  /* Manual control for last section */
+  .print-last-section {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}
+
+/* Hide print-only content on screen */
+.print-only {
+  display: none;
+}
+
+/* Global settings */
+html {
+  overflow-x: hidden;
+  width: 100%;
+}
+body {
+  font-family: amblelight;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #222;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  width: 100%;
+}
+
+/* Dark mode global styles */
+html.dark body {
+  background-color: #111827;
+  color: #e5e7eb;
+}
+
+html.dark nav.fixed {
+  background-color: #1f2937 !important;
+  border-color: #374151 !important;
+}
+
+html.dark nav.fixed .border-b {
+  border-color: #374151 !important;
+}
+
+html.dark .md\:hidden.bg-white {
+  background-color: #1f2937 !important;
+}
+
+html.dark nav.fixed a.font-medium {
+  color: #d1d5db !important;
+}
+
+html.dark nav.fixed a.font-medium:hover {
+  color: #00a8e6 !important;
+}
+
+html.dark nav.fixed button {
+  color: #d1d5db !important;
+}
+
+/* Dark mode for accessibility widget panel */
+html.dark .accessibility-widget-panel {
+  background-color: #1f2937 !important;
+  color: #e5e7eb !important;
+}
+
+html.dark .accessibility-widget-header {
+  border-color: #374151 !important;
+}
+
+html.dark .accessibility-widget-title {
+  color: #f3f4f6 !important;
+}
+
+html.dark .accessibility-widget-close {
+  color: #9ca3af !important;
+}
+
+html.dark .accessibility-widget-close:hover {
+  color: #f3f4f6 !important;
+  background-color: #374151 !important;
+}
+
+html.dark .accessibility-control label {
+  color: #d1d5db !important;
+}
+
+html.dark .control-button {
+  background-color: #374151 !important;
+  border-color: #4b5563 !important;
+  color: #e5e7eb !important;
+}
+
+html.dark .control-button:hover {
+  background-color: #4b5563 !important;
+}
+
+html.dark .control-button.active {
+  background-color: #00a8e6 !important;
+  color: white !important;
+  border-color: #00a8e6 !important;
+}
+
+html.dark .reset-button {
+  background-color: #374151 !important;
+  border-color: #4b5563 !important;
+  color: #e5e7eb !important;
+}
+
+html.dark .reset-button:hover {
+  background-color: #4b5563 !important;
+}
+
+html.dark .language-button {
+  background-color: #374151 !important;
+  border-color: #4b5563 !important;
+  color: #d1d5db !important;
+}
+
+html.dark .language-button.active {
+  background-color: #00a8e6 !important;
+  color: white !important;
+  border-color: #00a8e6 !important;
+}
+
+html.dark .language-button:hover:not(.active) {
+  background-color: #4b5563 !important;
+}
+
+html.dark .control-switch input[type='checkbox'] {
+  background-color: #4b5563 !important;
+}
+
+html.dark .keyboard-shortcuts-hint {
+  background-color: #1e293b !important;
+}
+
+html.dark .keyboard-shortcuts-hint:hover {
+  background-color: #334155 !important;
+}
+
+html.dark .keyboard-shortcuts-hint .text-gray-500 {
+  color: #9ca3af !important;
+}
+
+html.dark .keyboard-shortcuts-hint kbd {
+  background-color: #374151 !important;
+  border-color: #4b5563 !important;
+  color: #d1d5db !important;
+}
+
+/* Dark mode for other widget panels */
+html.dark .cookie-policy-widget-panel,
+html.dark .privacy-statement-widget-panel,
+html.dark .terms-widget-panel,
+html.dark .responsible-disclosure-widget-panel,
+html.dark .accessibility-policy-widget-panel,
+html.dark .keyboard-shortcuts-widget-panel {
+  background-color: #1f2937 !important;
+  color: #e5e7eb !important;
+}
+
+/* Dark mode for common Tailwind patterns */
+html.dark .bg-white {
+  background-color: #1f2937 !important;
+}
+
+html.dark .bg-gray-50 {
+  background-color: #111827 !important;
+}
+
+html.dark .bg-gray-100 {
+  background-color: #1f2937 !important;
+}
+
+html.dark .text-gray-900 {
+  color: #f3f4f6 !important;
+}
+
+html.dark .text-gray-800 {
+  color: #e5e7eb !important;
+}
+
+html.dark .text-gray-700 {
+  color: #d1d5db !important;
+}
+
+html.dark .text-gray-600 {
+  color: #9ca3af !important;
+}
+
+html.dark .text-gray-500 {
+  color: #9ca3af !important;
+}
+
+html.dark .text-gray-400 {
+  color: #6b7280 !important;
+}
+
+html.dark .border-gray-200 {
+  border-color: #374151 !important;
+}
+
+html.dark .border-gray-300 {
+  border-color: #4b5563 !important;
+}
+
+html.dark .divide-gray-200 > * + * {
+  border-color: #374151 !important;
+}
+
+html.dark .shadow-md {
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.3),
+    0 2px 4px -1px rgba(0, 0, 0, 0.2) !important;
+}
+
+html.dark .shadow-lg {
+  box-shadow:
+    0 10px 15px -3px rgba(0, 0, 0, 0.3),
+    0 4px 6px -2px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Dark mode for blog post prose content */
+html.dark .prose {
+  color: #d1d5db !important;
+}
+
+html.dark .prose h1,
+html.dark .prose h2,
+html.dark .prose h3,
+html.dark .prose h4 {
+  color: #f3f4f6 !important;
+}
+
+html.dark .prose a {
+  color: #60a5fa !important;
+}
+
+html.dark .prose strong {
+  color: #f3f4f6 !important;
+}
+
+html.dark .prose blockquote {
+  color: #d1d5db !important;
+  border-color: #4b5563 !important;
+}
+
+html.dark .prose code {
+  color: #e5e7eb !important;
+}
+
+/* Dark mode for colored boxes in blog posts */
+html.dark .bg-blue-50 {
+  background-color: rgba(30, 58, 138, 0.3) !important;
+}
+
+html.dark .bg-green-50 {
+  background-color: rgba(20, 83, 45, 0.3) !important;
+}
+
+html.dark .bg-yellow-50 {
+  background-color: rgba(113, 63, 18, 0.3) !important;
+}
+
+html.dark .bg-red-50 {
+  background-color: rgba(127, 29, 29, 0.3) !important;
+}
+
+html.dark .text-blue-800 {
+  color: #93c5fd !important;
+}
+
+html.dark .text-green-800 {
+  color: #86efac !important;
+}
+
+html.dark .text-yellow-800 {
+  color: #fde68a !important;
+}
+
+html.dark .text-red-800 {
+  color: #fca5a5 !important;
+}
+
+/* Dark mode reduce-motion navbar override */
+html.dark.reduce-motion nav.fixed {
+  background-color: #1f2937 !important;
+}
+
+html.dark.reduce-motion nav.fixed a.font-medium {
+  color: #d1d5db !important;
+}
+
+html.dark.reduce-motion nav.fixed a.font-medium:hover {
+  color: #00a8e6 !important;
+}
+
+/* Dark mode for widget panels with hardcoded hex colors in scoped styles */
+html.dark .cookie-policy-widget-panel,
+html.dark .privacy-statement-widget-panel,
+html.dark .terms-widget-panel,
+html.dark .responsible-disclosure-widget-panel,
+html.dark .accessibility-policy-widget-panel,
+html.dark .keyboard-shortcuts-widget-panel {
+  background-color: #1f2937 !important;
+  color: #e5e7eb !important;
+  border-color: #374151 !important;
+}
+
+/* Widget panel headers */
+html.dark [class*='widget-header'] {
+  border-color: #374151 !important;
+}
+
+html.dark [class*='widget-title'] {
+  color: #f3f4f6 !important;
+}
+
+html.dark [class*='widget-close'] {
+  color: #9ca3af !important;
+}
+
+html.dark [class*='widget-close']:hover {
+  color: #f3f4f6 !important;
+  background-color: #374151 !important;
+}
+
+/* Widget panel content */
+html.dark [class*='widget-content'] h3,
+html.dark [class*='widget-content'] h4 {
+  color: #f3f4f6 !important;
+}
+
+html.dark [class*='widget-content'] p,
+html.dark [class*='widget-content'] li {
+  color: #d1d5db !important;
+}
+
+/* Widget section containers with light backgrounds */
+html.dark [class*='widget-section'],
+html.dark [class*='widget-panel'] [style*='background-color: #f8f9fa'],
+html.dark [class*='widget-panel'] .bg-gray-50 {
+  background-color: #111827 !important;
+}
+
+/* Dark mode for skeleton loading states */
+html.dark .animate-pulse .bg-gray-200,
+html.dark .animate-pulse .bg-gray-300 {
+  background-color: #374151 !important;
+}
+
+/* Mobile full-screen widget panel backgrounds */
+@media (max-width: 640px) {
+  html.dark .accessibility-widget-panel.expanded .accessibility-widget-header,
+  html.dark [class*='widget-panel'].expanded [class*='widget-header'] {
+    background: #1f2937 !important;
+  }
+}
+
+/* Dark mode section connector */
+html.dark .bg-gradient-to-b {
+  background: linear-gradient(to bottom, #111827, #1f2937) !important;
+}
+
+/* Dark mode for icon circles in service cards */
+html.dark .bg-blue-100 {
+  background-color: rgba(30, 58, 138, 0.3) !important;
+}
+
+/* Dark mode for tab/card borders and hover states */
+html.dark .hover\:bg-gray-50:hover {
+  background-color: #1f2937 !important;
+}
+
+html.dark .hover\:bg-gray-100:hover {
+  background-color: #374151 !important;
+}
+
+/* Dark mode for links that use brand colors */
+html.dark .prose a:hover {
+  color: #93c5fd !important;
+}
+
+/* Dark mode for table of contents */
+html.dark .toc {
+  background-color: #1f2937 !important;
+  border-color: #374151 !important;
+}
+html.dark .toc-heading {
+  color: #d1d5db !important;
+}
+html.dark .toc-link {
+  color: #9ca3af !important;
+}
+html.dark .toc-link:hover {
+  color: #e5e7eb !important;
+}
+
+/* Dark mode for breadcrumb links */
+html.dark .breadcrumb-link {
+  color: #9ca3af !important;
+}
+html.dark .breadcrumb-link:hover {
+  color: #e5e7eb !important;
+}
+
+/* Dark mode for share links */
+html.dark .share-link,
+html.dark .prose .share-link,
+html.dark .prose a.share-link {
+  color: #ffd700 !important;
+}
+html.dark .share-link:hover,
+html.dark .prose .share-link:hover,
+html.dark .prose a.share-link:hover {
+  color: #e6c200 !important;
+}
+
+/* Dark mode for hr elements */
+html.dark hr {
+  border-color: #374151 !important;
+}
+
+/* Dark mode for kbd elements (keyboard shortcut keys) */
+html.dark kbd {
+  color: #e5e7eb !important;
+  background-color: #374151 !important;
+  border-color: #4b5563 !important;
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Dark mode for tag badges */
+html.dark .bg-gray-200 {
+  background-color: #374151 !important;
+}
+
+html.dark .bg-gray-300 {
+  background-color: #4b5563 !important;
+}
+
+/* Dark mode for blue link text */
+html.dark .text-blue-600 {
+  color: #60a5fa !important;
+}
+
+html.dark .text-blue-500 {
+  color: #60a5fa !important;
+}
+
+html.dark .hover\:text-blue-800:hover {
+  color: #93c5fd !important;
+}
+
+/* Dark mode year headers in tab content panels */
+html.dark .year-header {
+  background: #374151 !important;
+  border-color: #6b7280 !important;
+}
+
+/* Blog hero image captions */
+html.dark .blog-caption {
+  color: #d1d5db !important;
+}
+
+/* Dark mode: add border to boxed content for better contrast */
+html.dark .bg-gray-100.rounded-lg {
+  border: 1px solid #374151 !important;
+}
+
+/* Dark mode for border accents */
+html.dark .border-blue-600 {
+  border-color: #3b82f6 !important;
+}
+
+code {
+  font-family: 'Liberation Sans';
+}
+
+.prose {
+  font-family: 'Liberation Sans';
+}
+
+/* Global focus styles for accessibility - WCAG 2.2 AA compliant */
+:focus {
+  outline: none; /* Remove default focus styles */
+}
+
+:focus-visible {
+  /* Enhanced focus style with high contrast - meets WCAG 2.2 AA requirements */
+  outline: 2px solid #0066cc; /* High contrast blue for better visibility */
+  outline-offset: 3px;
+  border-radius: 0.25rem;
+  box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.4); /* Additional indicator for better visibility */
+}
+
+/* Enhanced focus states */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[role='button']:focus-visible,
+footer a:focus-visible {
+  /* Enhanced focus style with high contrast - meets WCAG 2.2 AA requirements */
+  outline: 2px solid #0066cc; /* High contrast blue for better visibility */
+  outline-offset: 3px;
+  border-radius: 0.25rem;
+  box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.4); /* Additional indicator for better visibility */
+}
+
+/* Skip-to-content link - enhanced for WCAG 2.2 AA */
+.skip-to-content,
+.skip-to {
+  position: absolute;
+  left: -9999px;
+  top: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  z-index: 9999;
+  padding: 12px 20px; /* Larger target size */
+  background: #0066cc; /* Higher contrast */
+  color: white; /* Contrast ratio > 7:1 */
+  font-weight: bold;
+  font-size: 1rem;
+  text-align: center;
+  min-width: 200px; /* Ensure good target size */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.skip-to-content:focus,
+.skip-to-content:focus-visible,
+.skip-to:focus,
+.skip-to:focus-visible {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: auto;
+  height: auto;
+  outline: 3px solid #ffcc00;
+  outline-offset: 2px;
+}
+
+/* Special focus mode handling for skip link */
+.focus-mode .skip-to-content:focus,
+.focus-mode .skip-to-content:focus-visible,
+.focus-mode .skip-to:focus,
+.focus-mode .skip-to:focus-visible {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: auto;
+  height: auto;
+  outline: 4px solid #ffcc00 !important;
+  outline-offset: 4px !important;
+  box-shadow: 0 0 0 4px rgba(255, 204, 0, 0.6) !important;
+}
+
+/* Screen reader only - properly hide content from visual users but keep it for screen readers */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Visually hidden but will show on focus - useful for skip links */
+.sr-only-focusable:not(:focus) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Modal focus management - enhanced for WCAG 2.2 AA */
+[role='dialog'][aria-modal='true'] *:focus {
+  /* Ensure focus stays highly visible inside modals */
+  outline: 2px solid #0066cc;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.4);
+  transition:
+    outline 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+/* Explicitly add footer link focus styles - enhanced for dark backgrounds */
+footer a:focus {
+  outline: 2px solid #ffffff; /* Solid white outline for dark backgrounds */
+  outline-offset: 3px;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.4);
+}
+
+footer a:focus-visible {
+  outline: 2px solid #ffffff;
+  outline-offset: 3px;
+  border-radius: 0.25rem;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.4);
+}
+
+/* Ensure non-interactive elements don't get focus */
+div:not([tabindex]),
+span:not([tabindex]),
+p:not([tabindex]),
+h1:not([tabindex]),
+h2:not([tabindex]),
+h3:not([tabindex]),
+h4:not([tabindex]),
+h5:not([tabindex]),
+h6:not([tabindex]) {
+  outline: none;
+}
+
+/* Accessibility widget announce for screen readers */
+.screen-reader-announce {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+/* WCAG 2.2 Level AA and AAA - Target Size compliance */
+/* Level AA: Ensure all interactive elements meet minimum target size of 24x24px */
+/* Level AAA: Where possible, use 44x44px for better accessibility */
+button,
+[role='button'],
+input[type='button'],
+input[type='submit'],
+input[type='reset'],
+a[href]:not(.sr-only):not(.skip-to-content),
+select,
+[tabindex]:not([tabindex='-1']) {
+  min-width: 44px; /* Enhanced to AAA level */
+  min-height: 44px; /* Enhanced to AAA level */
+  padding: 8px; /* Ensure adequate padding */
+  touch-action: manipulation; /* Improve responsiveness on touch devices */
+}
+
+/* Ensure language switcher links in footer meet minimum target size */
+footer [title='English'],
+footer [title='Nederlands'] {
+  min-width: 24px;
+  min-height: 24px;
+  padding: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Ensure "Read more" links and similar action links meet minimum target size */
+a[role='button'],
+.inline-flex.items-center,
+a.inline-flex.items-center,
+[href='#media-details'],
+[href^='#research-'],
+.research-link,
+.media-link {
+  min-width: 24px;
+  min-height: 24px;
+  padding: 6px 8px;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Ensure accessibility widget controls meet minimum size */
+.accessibility-widget .control-button,
+.accessibility-widget .position-button,
+.accessibility-widget-toggle,
+.accessibility-widget-close {
+  min-width: 24px;
+  min-height: 24px;
+}
+
+/* Style for adjacent language links to prevent overlap */
+footer a[title='English'] + span + a[title='Nederlands'],
+footer a[title='Nederlands'] + span + a[title='English'] {
+  margin-left: 6px;
+}
+
+/* Navbar styling */
+nav[aria-label='Main Navigation'] {
+  transition: background-color 0.3s ease;
+}
+
+/* Navbar background when scrolled */
+nav[aria-label='Main Navigation'].bg-white {
+  background-color: white;
+}
+
+/* Fixed widget spacings that remain consistent regardless of font size changes */
+:root {
+  --widget-spacing: 20px; /* Spacing between widgets */
+  --widget-size: 50px; /* Fixed widget size */
+}
+
+/* Widget positioning for vertical stack - explicitly ordered by z-index and position */
+
+/* Panel z-index stacking order - not scoped to components so it works globally */
+.accessibility-widget-panel.open {
+  z-index: 5000 !important;
+  position: relative !important; /* Force stacking context */
+}
+
+.cookie-policy-widget-panel.open {
+  z-index: 5100 !important;
+  position: relative !important; /* Force stacking context */
+}
+
+.privacy-statement-widget-panel.open {
+  z-index: 5200 !important;
+  position: relative !important; /* Force stacking context */
+}
+
+.terms-widget-panel.open {
+  z-index: 5300 !important;
+  position: relative !important; /* Force stacking context */
+}
+
+.responsible-disclosure-widget-panel.open {
+  z-index: 5400 !important;
+  position: relative !important; /* Force stacking context */
+}
+
+/* Hide cookie widget button and the entire widget when accessibility panel is open */
+body.accessibility-panel-open .cookie-policy-widget,
+body.accessibility-panel-open .cookie-policy-widget-toggle,
+body.accessibility-panel-open .cookie-policy-widget button {
+  z-index: 1 !important; /* Force very low z-index */
+  opacity: 0 !important; /* Hide it visually */
+  visibility: hidden !important; /* Remove from tab order and screen readers */
+  display: none !important; /* Physically remove from layout */
+  pointer-events: none !important; /* Prevent any interaction */
+}
+
+/* Keep accessibility toggle button visible and above its panel when open */
+body.accessibility-panel-open .accessibility-widget-toggle {
+  z-index: 5001 !important; /* Ensure the toggle is above its own panel */
+  position: fixed !important; /* Force fixed position */
+  transform: none !important; /* Prevent any transformations */
+  bottom: 20px !important; /* Force position at bottom */
+  /* Dynamic positioning handled by JavaScript - do not force right position here */
+}
+
+/* Specific rules for left/right-handed positions when panel is open */
+body.accessibility-panel-open .accessibility-widget-bottom-left .accessibility-widget-toggle {
+  left: 20px !important;
+  right: auto !important;
+}
+
+body.accessibility-panel-open .accessibility-widget-bottom-right .accessibility-widget-toggle {
+  right: 20px !important;
+  left: auto !important;
+}
+
+/* Back to top button - top position */
+.back-to-top-container,
+[aria-label='Page navigation'] {
+  bottom: calc(var(--widget-spacing) * 7) !important; /* 140px from bottom */
+  z-index: 50 !important; /* Lower z-index than panels (panels are 1000+) */
+  /* Position is controlled by inline styles and classes based on accessibility preference */
+}
+
+/* Default position overrides for the back-to-top button - MUST have very high specificity */
+html body .back-to-top-container.left-aligned,
+body .left-aligned[role='complementary'][aria-label='Page navigation'],
+body .back-to-top-container[data-position='left'],
+html[data-widget-position='bottom-left'] .back-to-top-container,
+[data-widget-position='bottom-left'] ~ * .back-to-top-container {
+  left: 20px !important;
+  right: auto !important;
+}
+
+html body .back-to-top-container.right-aligned,
+body .right-aligned[role='complementary'][aria-label='Page navigation'],
+body .back-to-top-container[data-position='right'],
+html[data-widget-position='bottom-right'] .back-to-top-container,
+[data-widget-position='bottom-right'] ~ * .back-to-top-container {
+  right: 20px !important;
+  left: auto !important;
+}
+
+/* Override for dyslexic font - USING SAME POSITION AS DEFAULT FONT */
+.dyslexic-font [aria-label='Page navigation'],
+.dyslexic-font .back-to-top-container {
+  bottom: calc(var(--widget-spacing) * 7) !important; /* Force same position as default font */
+}
+
+/* Responsible disclosure widget - very top position (no button, only panel) */
+.responsible-disclosure-widget {
+  z-index: 55 !important; /* Highest z-index */
+}
+
+/* Make sure the panel always receives pointer events even if the parent doesn't */
+.responsible-disclosure-widget-panel {
+  pointer-events: auto !important; /* Ensure panel always receives clicks */
+}
+
+/* Terms widget - second from top */
+.terms-widget {
+  z-index: 54 !important; /* Second highest z-index for buttons */
+}
+
+.terms-widget-bottom-right {
+  bottom: var(--widget-spacing) !important; /* 20px from bottom */
+  right: var(--widget-spacing) !important;
+}
+
+/* Privacy statement widget - middle-high position in widget stack */
+.privacy-statement-widget {
+  z-index: 53 !important; /* Third highest z-index for buttons */
+}
+
+.privacy-statement-widget-bottom-right {
+  bottom: var(--widget-spacing) !important; /* 20px from bottom */
+  right: var(--widget-spacing) !important;
+}
+
+/* Dyslexic font override for privacy statement widget */
+.dyslexic-font .privacy-statement-widget-bottom-right {
+  bottom: var(--widget-spacing) !important; /* Force same position */
+}
+
+/* Dyslexic font override for terms widget */
+.dyslexic-font .terms-widget-bottom-right {
+  bottom: var(--widget-spacing) !important; /* Force same position */
+}
+
+/* Force panel position consistently */
+html body .privacy-statement-widget-panel,
+html body .cookie-policy-widget-panel,
+html body .terms-widget-panel,
+html body .responsible-disclosure-widget-panel,
+html body .privacy-statement-widget .privacy-statement-widget-panel,
+html body .cookie-policy-widget .cookie-policy-widget-panel,
+html body .terms-widget .terms-widget-panel,
+html body .responsible-disclosure-widget .responsible-disclosure-widget-panel,
+.privacy-statement-widget-bottom-left .privacy-statement-widget-panel,
+.privacy-statement-widget-bottom-right .privacy-statement-widget-panel,
+.cookie-policy-widget-bottom-left .cookie-policy-widget-panel,
+.cookie-policy-widget-bottom-right .cookie-policy-widget-panel,
+.terms-widget-bottom-left .terms-widget-panel,
+.terms-widget-bottom-right .terms-widget-panel,
+.responsible-disclosure-widget-bottom-left .responsible-disclosure-widget-panel,
+.responsible-disclosure-widget-bottom-right .responsible-disclosure-widget-panel {
+  bottom: 60px !important; /* Adjusted position as requested for all panels */
+}
+
+/* Extra rule with highest specificity to catch any edge cases */
+.cookie-policy-widget .cookie-policy-widget-panel[role='dialog'],
+.cookie-policy-widget .cookie-policy-widget-panel.open,
+.cookie-policy-widget .cookie-policy-widget-panel.expanded,
+.cookie-policy-widget-bottom-left .cookie-policy-widget-panel[role='dialog'],
+.cookie-policy-widget-bottom-right .cookie-policy-widget-panel[role='dialog'],
+.terms-widget .terms-widget-panel[role='dialog'],
+.terms-widget .terms-widget-panel.open,
+.terms-widget .terms-widget-panel.expanded,
+.terms-widget-bottom-left .terms-widget-panel[role='dialog'],
+.terms-widget-bottom-right .terms-widget-panel[role='dialog'],
+.responsible-disclosure-widget .responsible-disclosure-widget-panel[role='dialog'],
+.responsible-disclosure-widget .responsible-disclosure-widget-panel.open,
+.responsible-disclosure-widget .responsible-disclosure-widget-panel.expanded,
+.responsible-disclosure-widget-bottom-left .responsible-disclosure-widget-panel[role='dialog'],
+.responsible-disclosure-widget-bottom-right .responsible-disclosure-widget-panel[role='dialog'] {
+  bottom: 60px !important;
+  position: absolute !important;
+}
+
+/* Cookie policy widget - middle position */
+.cookie-policy-widget {
+  z-index: 52 !important; /* Middle z-index between buttons but below panels */
+}
+
+/* When accessibility panel is open, lower cookie widget z-index */
+.accessibility-widget-panel.open ~ .cookie-policy-widget,
+.accessibility-widget-panel.open ~ * .cookie-policy-widget {
+  z-index: 49 !important;
+}
+
+.cookie-policy-widget-bottom-right {
+  bottom: 80px !important; /* Closer to accessibility widget (20px) but still above it */
+  right: var(--widget-spacing) !important;
+}
+
+/* Dyslexic font override for cookie policy widget */
+.dyslexic-font .cookie-policy-widget-bottom-right {
+  bottom: 80px !important; /* Force same position */
+}
+
+/* Accessibility widget - bottom position */
+.accessibility-widget {
+  z-index: 51 !important; /* Lowest z-index for buttons */
+}
+
+.accessibility-widget-bottom-right {
+  bottom: 20px !important; /* At bottom (20px) */
+  right: var(--widget-spacing) !important;
+}
+
+/* Dyslexic font override for accessibility widget */
+.dyslexic-font .accessibility-widget-bottom-right {
+  bottom: 20px !important; /* Force same position */
+}
+
+/* Ensure consistent widget sizes regardless of font size */
+.cookie-policy-widget-toggle,
+.accessibility-widget-toggle,
+.back-to-top-btn {
+  width: var(--widget-size) !important;
+  height: var(--widget-size) !important;
+  min-width: var(--widget-size) !important;
+  min-height: var(--widget-size) !important;
+  max-width: var(--widget-size) !important;
+  max-height: var(--widget-size) !important;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease !important;
+}
+
+/* Allow mobile full-screen for expanded widget panels - override relative positioning */
+@media (max-width: 640px) {
+  .privacy-statement-widget-panel.open.expanded,
+  .terms-widget-panel.open.expanded {
+    position: fixed !important; /* Override relative positioning for mobile full-screen */
+  }
+}
+
+/* Hide back-to-top button when cookie policy, privacy statement, terms or responsible disclosure is expanded in mobile mode */
+@media (max-width: 640px) {
+  .cookie-policy-widget-panel.expanded ~ [aria-label='Page navigation'],
+  .cookie-policy-widget-panel.expanded ~ div[role='complementary'][aria-label='Page navigation'],
+  .privacy-statement-widget-panel.expanded ~ [aria-label='Page navigation'],
+  .privacy-statement-widget-panel.expanded
+    ~ div[role='complementary'][aria-label='Page navigation'],
+  .terms-widget-panel.expanded ~ [aria-label='Page navigation'],
+  .terms-widget-panel.expanded ~ div[role='complementary'][aria-label='Page navigation'],
+  .responsible-disclosure-widget-panel.expanded ~ [aria-label='Page navigation'],
+  .responsible-disclosure-widget-panel.expanded
+    ~ div[role='complementary'][aria-label='Page navigation'] {
+    opacity: 0 !important;
+    pointer-events: none !important;
+    visibility: hidden !important;
+  }
+}
+
+/* Custom button colors for better visual distinction */
+.back-to-top-btn {
+  background-color: #ffcc00 !important;
+  color: #333 !important;
+}
+
+/* Add hover effect to back-to-top button */
+.back-to-top-btn:hover {
+  background-color: #e6b800 !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25) !important;
+}
+
+.cookie-policy-widget-toggle {
+  background-color: #0066cc !important;
+  color: white !important;
+}
+
+.accessibility-widget-toggle {
+  background-color: #0066cc !important;
+  color: white !important;
+}
+
+/* Global link styling */
+a:not(.no-hover) {
+  transition: color 0.2s ease;
+}
+
+a:not(.no-hover):hover {
+  color: #ffcc00;
+}
+
+/* Hero video mobile responsiveness fix */
+.hero-container {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.hero-inner-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .video-container {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100vh !important;
+    width: 100% !important;
+    overflow: hidden;
+  }
+
+  .video-element {
+    height: 100vh !important;
+    max-height: 100vh !important;
+    width: 100% !important;
+    object-fit: cover !important;
+  }
+}
