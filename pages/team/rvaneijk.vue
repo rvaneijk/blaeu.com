@@ -30,7 +30,7 @@
             </p>
             <NuxtLink
               to="/recordings"
-              class="inline-flex items-center gap-2 bg-[#FFD700] text-gray-900 px-6 py-3 rounded-lg font-semibold hover:bg-[#FFC700] transition-colors duration-200"
+              class="inline-flex items-center gap-2 bg-brand-gold text-black px-6 py-3 rounded-lg font-semibold shadow-md hover:bg-brand-blue hover:text-white hover:shadow-lg transition-colors duration-200"
             >
               Watch Selected Recordings
               <i class="fas fa-arrow-right fa-sm" aria-hidden="true"></i>

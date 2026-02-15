@@ -6,45 +6,53 @@
 <template>
   <div class="flex items-center gap-3 mt-4">
     <span class="text-sm share-label">Share:</span>
-    <a
-      :href="linkedInUrl"
-      target="_blank"
-      rel="noopener noreferrer"
-      class="share-link"
-      aria-label="Share on LinkedIn"
-      title="Share on LinkedIn"
-    >
-      <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
-    </a>
-    <a
-      :href="blueskyUrl"
-      target="_blank"
-      rel="noopener noreferrer"
-      class="share-link"
-      aria-label="Share on Bluesky"
-      title="Share on Bluesky"
-    >
-      <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
-    </a>
-    <button
-      class="share-link"
-      aria-label="Share on Mastodon"
-      title="Share on Mastodon"
-      @click="shareOnMastodon"
-    >
-      <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
-    </button>
-    <a :href="emailUrl" class="share-link" aria-label="Share via email" title="Share via email">
-      <i class="fa-regular fa-envelope" aria-hidden="true"></i>
-    </a>
-    <button
-      class="share-link"
-      :aria-label="copied ? 'Link copied!' : 'Copy link'"
-      :title="copied ? 'Link copied!' : 'Copy link'"
-      @click="copyLink"
-    >
-      <i :class="copied ? 'fa-solid fa-check' : 'fa-solid fa-link'" aria-hidden="true"></i>
-    </button>
+    <span class="tooltip-wrap">
+      <a
+        :href="linkedInUrl"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="share-link"
+        aria-label="Share on LinkedIn"
+        data-tooltip="Share on LinkedIn"
+      >
+        <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+      </a>
+      <span class="tooltip-text">Share on LinkedIn</span>
+    </span>
+    <span class="tooltip-wrap">
+      <a
+        :href="blueskyUrl"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="share-link"
+        aria-label="Share on Bluesky"
+      >
+        <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+      </a>
+      <span class="tooltip-text">Share on Bluesky</span>
+    </span>
+    <span class="tooltip-wrap">
+      <button class="share-link" aria-label="Share on Mastodon" @click="shareOnMastodon">
+        <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+      </button>
+      <span class="tooltip-text">Share on Mastodon</span>
+    </span>
+    <span class="tooltip-wrap">
+      <a :href="emailUrl" class="share-link" aria-label="Share via email">
+        <i class="fa-regular fa-envelope" aria-hidden="true"></i>
+      </a>
+      <span class="tooltip-text">Share via email</span>
+    </span>
+    <span class="tooltip-wrap">
+      <button
+        class="share-link"
+        :aria-label="copied ? 'Link copied!' : 'Copy link'"
+        @click="copyLink"
+      >
+        <i :class="copied ? 'fa-solid fa-check' : 'fa-solid fa-link'" aria-hidden="true"></i>
+      </button>
+      <span class="tooltip-text">{{ copied ? 'Link copied!' : 'Copy link' }}</span>
+    </span>
   </div>
 </template>
 
@@ -126,5 +134,37 @@
   }
   .share-link i {
     color: inherit !important;
+  }
+  .tooltip-wrap {
+    position: relative;
+    display: inline-flex;
+  }
+  .tooltip-text {
+    position: absolute;
+    bottom: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    background: #1f2937;
+    color: #f9fafb;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .tooltip-text::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 4px solid transparent;
+    border-top-color: #1f2937;
+  }
+  .tooltip-wrap:hover .tooltip-text,
+  .tooltip-wrap:focus-within .tooltip-text {
+    opacity: 1;
   }
 </style>

@@ -95,21 +95,24 @@
       <div
         class="absolute left-0 right-0 flex flex-col items-center z-20 bottom-32 sm:bottom-28 md:bottom-20 lg:bottom-12"
       >
-        <div class="text-white font-light tracking-widest mb-2 opacity-80 hero-explore">
-          EXPLORE
-        </div>
-        <!-- Click handler for smooth scrolling to About section -->
-        <a
-          href="#about-us"
-          class="cursor-pointer"
-          aria-label="Scroll down to explore more content"
-          @click.prevent="scrollToAbout"
-        >
-          <i
-            class="fas fa-chevron-down text-white text-2xl opacity-80 animate-bounce-subtle"
-            aria-hidden="true"
-          ></i>
-        </a>
+        <span class="explore-tooltip-wrap">
+          <div class="text-white font-light tracking-widest mb-2 opacity-80 hero-explore">
+            EXPLORE
+          </div>
+          <!-- Click handler for smooth scrolling to About section -->
+          <a
+            href="#about-us"
+            class="cursor-pointer"
+            aria-label="Scroll down to explore more content"
+            @click.prevent="scrollToAbout"
+          >
+            <i
+              class="fas fa-chevron-down text-white text-2xl opacity-80 animate-bounce-subtle"
+              aria-hidden="true"
+            ></i>
+          </a>
+          <span class="explore-tooltip-text">Scroll down to explore</span>
+        </span>
       </div>
     </div>
   </div>
@@ -367,6 +370,40 @@
   .hero-explore {
     font-size: 16px !important; /* text-base - matches navbar exactly */
     font-weight: 300 !important; /* font-light */
+  }
+
+  .explore-tooltip-wrap {
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .explore-tooltip-text {
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    background: rgba(31, 41, 55, 0.9);
+    color: #f9fafb;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .explore-tooltip-text::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 4px solid transparent;
+    border-top-color: rgba(31, 41, 55, 0.9);
+  }
+  .explore-tooltip-wrap:hover .explore-tooltip-text {
+    opacity: 1;
   }
 
   .hero-subheadline {

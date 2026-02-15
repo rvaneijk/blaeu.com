@@ -7,6 +7,7 @@
   <div class="min-h-screen bg-gray-50">
     <!-- Header -->
     <tw-NavbarMinimal />
+    <ScrollProgressBar />
 
     <!-- Main content -->
     <main id="main-content" class="pt-28">

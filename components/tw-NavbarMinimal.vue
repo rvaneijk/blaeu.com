@@ -18,17 +18,20 @@
         <div class="flex items-center justify-between h-16">
           <!-- BRAND LOGO -->
           <div class="flex items-center ml-2">
-            <NuxtLink to="/" class="flex items-center">
-              <NuxtImg
-                src="/assets/png/logo_transparent.png"
-                alt="Blaeu Logo"
-                class="h-8"
-                format="webp"
-                quality="85"
-                :width="90"
-                :height="32"
-              />
-            </NuxtLink>
+            <span class="logo-tooltip-wrap">
+              <NuxtLink to="/" class="flex items-center" aria-label="Go to homepage">
+                <NuxtImg
+                  src="/assets/png/logo_transparent.png"
+                  alt="Blaeu Logo"
+                  class="h-8"
+                  format="webp"
+                  quality="85"
+                  :width="90"
+                  :height="32"
+                />
+              </NuxtLink>
+              <span class="logo-tooltip-text">Go to homepage</span>
+            </span>
           </div>
 
           <!-- DESKTOP PRIMARY NAVIGATION -->
@@ -125,45 +128,49 @@
             </NuxtLink>
 
             <!-- Dark Mode Toggle -->
-            <button
-              class="dark-mode-toggle dark-mode-toggle-desktop p-1 text-gray-500 hover:text-brand-gold transition-colors"
-              :aria-label="isDark ? 'Switch to light mode' : 'Switch to dark mode'"
-              :title="isDark ? 'Switch to light mode' : 'Switch to dark mode'"
-              @click="toggleDarkMode"
-            >
-              <svg
-                v-if="isDark"
-                xmlns="http://www.w3.org/2000/svg"
-                class="h-5 w-5"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                aria-hidden="true"
+            <span class="darkmode-tooltip-wrap">
+              <button
+                class="dark-mode-toggle dark-mode-toggle-desktop p-1 text-gray-500 hover:text-brand-gold transition-colors"
+                :aria-label="isDark ? 'Switch to light mode' : 'Switch to dark mode'"
+                @click="toggleDarkMode"
               >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"
-                />
-              </svg>
-              <svg
-                v-else
-                xmlns="http://www.w3.org/2000/svg"
-                class="h-5 w-5"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                aria-hidden="true"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"
-                />
-              </svg>
-            </button>
+                <svg
+                  v-if="isDark"
+                  xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"
+                  />
+                </svg>
+                <svg
+                  v-else
+                  xmlns="http://www.w3.org/2000/svg"
+                  class="h-5 w-5"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"
+                  />
+                </svg>
+              </button>
+              <span class="darkmode-tooltip-text">
+                {{ isDark ? 'Switch to light mode' : 'Switch to dark mode' }}
+              </span>
+            </span>
           </div>
 
           <!-- MOBILE CONTROLS -->
@@ -421,6 +428,74 @@
   }
 
   /* Dark mode toggle */
+  .darkmode-tooltip-wrap {
+    position: relative;
+    display: inline-flex;
+  }
+  .darkmode-tooltip-text {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    background: #1f2937;
+    color: #f9fafb;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    z-index: 50;
+  }
+  .darkmode-tooltip-text::before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 4px solid transparent;
+    border-bottom-color: #1f2937;
+  }
+  .darkmode-tooltip-wrap:hover .darkmode-tooltip-text,
+  .darkmode-tooltip-wrap:focus-within .darkmode-tooltip-text {
+    opacity: 1;
+  }
+
+  .logo-tooltip-wrap {
+    position: relative;
+    display: inline-flex;
+  }
+  .logo-tooltip-text {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    background: #1f2937;
+    color: #f9fafb;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    z-index: 50;
+  }
+  .logo-tooltip-text::before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 4px solid transparent;
+    border-bottom-color: #1f2937;
+  }
+  .logo-tooltip-wrap:hover .logo-tooltip-text,
+  .logo-tooltip-wrap:focus-within .logo-tooltip-text {
+    opacity: 1;
+  }
+
   .dark-mode-toggle {
     background: none;
     border: none;

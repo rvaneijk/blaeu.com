@@ -27,6 +27,7 @@
       <i class="fa-solid fa-cookie-bite text-xl" aria-hidden="true"></i>
       <span class="sr-only">Cookie Policy</span>
     </button>
+    <span v-if="!isOpen" class="widget-toggle-tooltip">Cookie policy</span>
 
     <!-- Widget panel with controls -->
     <div
@@ -1062,6 +1063,36 @@ If there is an inconsistency between the Dutch and English-language version of t
   .cookie-policy-widget-bottom-right {
     bottom: 78px !important; /* Fine-tuned to balance spacing between widgets */
     right: 20px !important;
+  }
+
+  /* Toggle button tooltip */
+  .widget-toggle-tooltip {
+    position: absolute;
+    right: calc(100% + 8px);
+    top: 50%;
+    transform: translateY(-50%);
+    white-space: nowrap;
+    background: #1f2937;
+    color: #f9fafb;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    z-index: 10;
+  }
+  .widget-toggle-tooltip::after {
+    content: '';
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 4px solid transparent;
+    border-left-color: #1f2937;
+  }
+  .cookie-policy-widget:hover .widget-toggle-tooltip {
+    opacity: 1;
   }
 
   /* Toggle button */
