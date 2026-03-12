@@ -1,0 +1,504 @@
+{
+  "title": "Research Highlights",
+  "contentType": "research",
+  "totalItems": 11,
+  "lastUpdated": "2026-02-18",
+  "sections": [
+    {
+      "year": 2026,
+      "count": 1,
+      "items": [
+        {
+          "id": "data-protection-day-2026-panel",
+          "year": 2026,
+          "title": "Data Protection Day 2026: Can Regulatory Frameworks Keep Up with Online Tracking?",
+          "intro": "On Data Protection Day 2026, organized by the European Data Protection Supervisor (EDPS) and the Council of Europe, I moderated a panel examining whether regulatory frameworks can effectively address the rapidly evolving online tracking landscape. The panel brought together Rosa Barcelo (McDermott Will & Emery), Itxaso Domínguez de Olazábal (EDRi), and Cristiana Santos (Utrecht University) for a discussion structured around five themes: the Digital Omnibus proposal's scope, shifts affecting Article 5(3) of the ePrivacy Directive's consent-first principle, contested analytics exceptions, practical consent mechanisms including machine-readable signals and dark patterns, and the emerging question of AI agents browsing and consenting on behalf of users. In a related session, the Lisbon Council hosted a High-Level Working Lunch on Privacy-Enhancing Technologies in Digital Advertising, exploring whether PETs represent a way around privacy rules or an important way forward for Europe's competitiveness.",
+          "description": "Panel moderation examining whether regulatory frameworks can effectively address the evolving online tracking landscape, featuring discussion on the Digital Omnibus proposal, ePrivacy Directive consent principles, and AI agents consenting on behalf of users.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/data-protection-day-2026-panel.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the Data Protection Day 2026 panel on regulatory frameworks and online tracking",
+          "date": "2026-01-28",
+          "tags": [
+            "Data Protection Day",
+            "ePrivacy Directive",
+            "Digital Omnibus",
+            "online tracking",
+            "consent",
+            "AI agents",
+            "privacy-enhancing technologies",
+            "EDPS"
+          ],
+          "readingTime": "5 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2026-01-28T10:00:00+01:00",
+            "guid": "https://blaeu.com/blog/data-protection-day-2026-panel/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Panel moderation examining whether regulatory frameworks can effectively address the evolving online tracking landscape. Discussion covered the Digital Omnibus proposal, ePrivacy Directive consent principles, and the emerging challenge of AI agents consenting on behalf of users.",
+            "rssCategories": ["Speaking", "ePrivacy", "Data Protection"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/data-protection-day-2026-panel",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:44+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "count": 2,
+      "items": [
+        {
+          "id": "bridging-gap-pets-2025",
+          "year": 2025,
+          "title": "Bridging the Gap on Privacy Enhancing Technologies",
+          "intro": "This recap covers a CPDP 2025 panel exploring how to bridge the gap between privacy enhancing technologies (PETs) and government opportunities to lead on data protection. The panel brought together experts from Google, the European Commission, and the OECD, with Rob van Eijk (Future of Privacy Forum) moderating. The discussion examined why PET adoption continues to lag behind expectations and what governments can do to change that trajectory. Four themes structured the conversation. Understanding barriers and benefits. Regulatory frameworks and governance. Moving to action. And questions from the audience on fairness, sovereignty, and access for smaller organizations.",
+          "description": "CPDP 2025 panel recap exploring how governments can accelerate privacy enhancing technology adoption through procurement, regulatory incentives, and leading by example.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/bridging-gap-pets-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the CPDP 2025 panel on bridging the gap between privacy enhancing technologies and government leadership",
+          "date": "2025-01-29",
+          "tags": [
+            "privacy enhancing technologies",
+            "PETs",
+            "government adoption",
+            "CPDP",
+            "GDPR",
+            "anonymization",
+            "multiparty computation",
+            "eIDAS",
+            "OECD",
+            "procurement"
+          ],
+          "readingTime": "10 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2025-01-29T10:00:00+01:00",
+            "guid": "https://blaeu.com/blog/bridging-gap-privacy-enhancing-technologies/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "CPDP 2025 panel recap on how governments can bridge the gap on privacy enhancing technologies through procurement incentives, regulatory clarity, and leading by example.",
+            "rssCategories": ["Speaking", "Privacy Enhancing Technologies", "Data Protection"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/bridging-gap-privacy-enhancing-technologies",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:44+01:00"
+            }
+          ]
+        },
+        {
+          "id": "oecd-consent-technologies-roundtable-2025",
+          "year": 2025,
+          "title": "OECD Consent Technologies Roundtable: Opening Remarks on the Evolution of Consent",
+          "intro": "This recap covers the panel moderation at the OECD Consent Technologies Roundtable held in Paris on March 18, 2025. The opening remarks framed the discussion around key tensions and challenges in the rapidly evolving consent management space, focusing on the evolution from basic website analytics to today's complex multi-party tracking ecosystem. The moderation addressed three critical challenges facing consent management: the fundamental imbalance between granting and revoking consent (Consent vs. Revocation Asymmetry), the tension between interface simplicity and meaningful user control, and the complex problem of signal interpretation when multiple consent indicators conflict. The discussion emphasized the promise of standardization while acknowledging the need to balance simplicity against nuanced privacy choices and the concept of 'privacy in numbers' through uniform signals.",
+          "description": "Panel moderation remarks at OECD Consent Technologies Roundtable addressing three critical challenges in consent management: asymmetry between granting and revoking consent, interface complexity tensions, and signal interpretation conflicts.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/oecd-consent-technologies-roundtable-2025.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing OECD Consent Technologies Roundtable through color fields expressing international cooperation, policy harmonization, and collaborative privacy standards evolution",
+          "date": "2025-03-18",
+          "tags": [
+            "OECD",
+            "consent management",
+            "privacy technologies",
+            "policy",
+            "international cooperation",
+            "digital privacy",
+            "governance"
+          ],
+          "readingTime": "6 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": true,
+            "pubDate": "2025-03-18T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/oecd-consent-technologies-roundtable/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Keynote moderation of OECD roundtable on emerging consent practices in the digital ecosystem, focusing on the evolution of consent technologies and their impact on digital privacy frameworks across OECD member countries.",
+            "rssCategories": ["OECD", "Consent Management", "Policy"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/oecd-consent-technologies-roundtable",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:44+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 5,
+      "items": [
+        {
+          "id": "privacy-generative-ai-symposium-2023",
+          "year": 2023,
+          "title": "Privacy & Generative AI Symposium Recap",
+          "intro": "This recap covers the Privacy & Generative AI Symposium organized by the Office of the Privacy Commissioner of Canada on December 7, 2023. The event examined the critical intersection of privacy and generative artificial intelligence, bringing together experts, policymakers, and industry professionals to discuss opportunities and challenges in rapidly evolving AI technologies. Gary Marcus delivered the keynote presentation, challenging prevailing assumptions about current AI systems and highlighting AI data leakage risks, transparency imperatives, and the need for independent scientific voices in policy discussions. Three expert panels explored generative AI technology opportunities and risks, governance frameworks and regulation, and the balance between innovation and human rights protection. Key themes included embedding ethical considerations throughout AI development lifecycles, treating privacy protection as foundational, and developing adaptive regulatory frameworks that can evolve with technology.",
+          "description": "My recap of the Privacy & Generative AI Symposium featuring Gary Marcus's keynote on AI limitations and expert panel discussions on governance, ethics, and regulatory frameworks.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/privacy-generative-ai-symposium-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing Privacy & Generative AI Symposium through color fields expressing expert convergence, foundational privacy principles, and balanced innovation-rights dialogue",
+          "date": "2023-12-07",
+          "tags": [
+            "AI governance",
+            "privacy",
+            "generative AI",
+            "policy",
+            "ethics",
+            "symposium",
+            "regulation"
+          ],
+          "readingTime": "8 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2023-12-07T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/privacy-generative-ai-symposium/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Comprehensive recap of the Privacy & Generative AI Symposium featuring insights from Gary Marcus and expert panels on AI governance, ethics, and human rights.",
+            "rssCategories": ["AI Governance", "Privacy", "Policy"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/privacy-generative-ai-symposium",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:44+01:00"
+            }
+          ]
+        },
+        {
+          "id": "plutopia-podcast-advertising-2023",
+          "year": 2023,
+          "title": "From Cookies to Hyper-Nudging. The Evolving Privacy Landscape of Digital Advertising",
+          "intro": "This recap covers a Plutopia podcast episode where Rob van Eijk (Future of Privacy Forum) joins hosts John Lebkowsky, Scoop Sweeney, and contributing editor Wendy Grossman for a wide-ranging discussion on digital advertising and privacy. The conversation covers how real-time bidding works, the role of cookies as unique identifiers, and the complex ecosystem of over a thousand companies that trade ad space in milliseconds. Van Eijk explains the differences between EU and US privacy frameworks, explores contextual advertising as a privacy-friendly alternative with strong economic results, and breaks down Google's post-cookie technology proposals including the Topics API and Protected Audience API. The discussion introduces the concept of \"hyper-nudging\" and examines how generative AI transforms advertising design, measurement, and personalization at scale.",
+          "description": "Plutopia podcast recap featuring Rob van Eijk on real-time bidding, EU privacy frameworks, contextual advertising, Google post-cookie APIs, and the concept of hyper-nudging through generative AI.",
+          "authors": ["Rob van Eijk"],
+          "category": "technology",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/plutopia-podcast-advertising-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the evolving privacy landscape of digital advertising",
+          "date": "2023-08-01",
+          "tags": [
+            "real-time bidding",
+            "digital advertising",
+            "cookies",
+            "privacy law",
+            "GDPR",
+            "ePrivacy",
+            "contextual advertising",
+            "Google Privacy Sandbox",
+            "generative AI",
+            "hyper-nudging"
+          ],
+          "readingTime": "10 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2023-08-01T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/plutopia-podcast-advertising-privacy/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Plutopia podcast recap on real-time bidding, EU privacy frameworks, contextual advertising as a privacy-friendly alternative, Google's post-cookie APIs, and the concept of hyper-nudging through generative AI.",
+            "rssCategories": ["Digital Advertising", "Privacy", "Generative AI"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/plutopia-podcast-advertising-privacy",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:44+01:00"
+            }
+          ]
+        },
+        {
+          "id": "membership-inference-privacy-risk-2023",
+          "year": 2023,
+          "title": "Membership Inference. Quantifying Privacy Risk in Machine Learning",
+          "intro": "This recap covers the second half of a CPDP 2023 workshop on Privacy Preserving Machine Learning, focusing on membership inference as a quantitative measure of privacy risk. The discussion explored how machine learning models leak information about their training data in subtle ways, how membership inference games quantify that leakage through privacy risk curves, and how layering privacy enhancing technologies such as PII scrubbing and differential privacy shifts the risk profile from high-risk to acceptable levels. The panel also surfaced a fundamental tension between making models fairer for underrepresented groups and protecting individual privacy through differential privacy.",
+          "description": "CPDP 2023 workshop recap on membership inference as a quantitative measure of privacy risk in machine learning, covering privacy risk curves, differential privacy, and layered privacy enhancing technologies.",
+          "authors": ["Rob van Eijk"],
+          "category": "technology",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/membership-inference-privacy-risk-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the CPDP 2023 panel on membership inference and privacy risk measurement in machine learning",
+          "date": "2023-05-25",
+          "tags": [
+            "membership inference",
+            "privacy risk",
+            "machine learning",
+            "differential privacy",
+            "privacy enhancing technologies",
+            "PETs",
+            "information leakage",
+            "CPDP",
+            "privacy auditing",
+            "AI fairness"
+          ],
+          "readingTime": "8 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2023-05-25T10:00:00+02:00",
+            "guid": "https://blaeu.com/blog/membership-inference-privacy-risk/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "CPDP 2023 workshop recap on membership inference as a quantitative measure of privacy risk in machine learning, covering privacy risk curves, differential privacy, and layered privacy enhancing technologies.",
+            "rssCategories": ["Machine Learning", "Privacy", "AI Governance"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/membership-inference-privacy-risk",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:45+01:00"
+            }
+          ]
+        },
+        {
+          "id": "addressing-bias-ai-systems-2023",
+          "year": 2023,
+          "title": "Addressing Bias in AI Systems: A Holistic Approach to Detection, Reporting, and Mitigation",
+          "intro": "This summary covers key insights from the Future of Privacy Forum workshop on Privacy Preserving Machine Learning, held on May 25, 2023. The workshop focused on addressing bias in AI systems through practical frameworks for detection, reporting, and mitigation. Participants developed five critical questions for bias assessment: What is the data's provenance? How representative is the data? Is the data balanced? Has intersectionality been considered? Are sensitive attributes present in the data? The workshop emphasized that AI bias is not merely a technical problem but a socio-technical challenge requiring both algorithmic understanding and awareness of human social dynamics. Key insights included the importance of continuous vigilance in bias detection, the need for diverse perspectives throughout AI development lifecycles, and the recognition that effective bias mitigation requires systematic approaches that go beyond one-time assessments.",
+          "description": "My notes from the Future of Privacy Forum workshop on Privacy Preserving Machine Learning, focusing on practical bias assessment through five critical questions and the socio-technical nature of AI bias.",
+          "authors": ["Eijk R. van"],
+          "category": "other",
+          "mediaType": "blogpost",
+          "contentType": "research",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/addressing-bias-ai-systems-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing bias detection in AI systems through color fields expressing holistic methodology, intersectionality considerations, and systematic assessment frameworks",
+          "date": "2023-05-25",
+          "readingTime": "7 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": true,
+            "pubDate": "2023-05-25T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/addressing-bias-ai-systems/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Summary of FPF workshop on Privacy Preserving Machine Learning, focusing on bias assessment in AI systems through five key questions about data quality and representation.",
+            "rssCategories": ["AI Governance", "Privacy", "Machine Learning"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/addressing-bias-ai-systems",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:45+01:00"
+            }
+          ]
+        },
+        {
+          "id": "microtargeting-2023",
+          "year": 2023,
+          "title": "Microtargeting: On the critical connection between ethics and ad-technology",
+          "intro": "This is the complete transcript of my keynote address delivered at the EDAA Summit 2023 in Brussels, examining the intersection of ethics and technology in digital advertising, with particular focus on political microtargeting and democratic implications. The keynote addresses the roles and responsibilities of three main actors in the digital advertising landscape: publishers, advertisers, and platforms. Drawing from research conducted with the Dutch Broadcasting Foundation NOS, the presentation reveals significant cookie law violations by major Dutch political parties and explores the broader implications for democratic processes, data protection, and the need for ethical advertising practices that respect privacy rights and democratic values. An update section discusses subsequent developments, including the Dutch DPA's firm response to these violations and the enactment of EU Regulation 2024/900 on political advertising transparency.",
+          "description": "Complete transcript of my EDAA Summit 2023 keynote on microtargeting ethics in political campaigns, plus consent management panel content and updates on Dutch DPA responses and EU Regulation 2024/900.",
+          "authors": ["Eijk R. van"],
+          "category": "other",
+          "mediaType": "blogpost",
+          "contentType": "research",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/microtargeting-2023.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing microtargeting ethics through color fields expressing democratic concerns, regulatory governance, and the critical intersection of ethics and ad-technology",
+          "date": "2023-03-15",
+          "readingTime": "9 min read",
+          "featured": true,
+          "rssMetadata": {
+            "featured": true,
+            "pubDate": "2023-03-15T00:00:00.000Z",
+            "guid": "https://blaeu.com/blog/microtargeting-ethics-ad-technology/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Keynote on digital advertising ethics, microtargeting in political campaigns, and data protection concerns in the context of the 2023 Dutch elections and social media advertising.",
+            "rssCategories": ["Digital Privacy", "Ad Technology", "Ethics"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/microtargeting-ethics-ad-technology",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:45+01:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 3,
+      "items": [
+        {
+          "id": "designing-trust-2021",
+          "year": 2021,
+          "title": "Designing for Trust. Enhancing Transparency and Preventing User Manipulation",
+          "intro": "This recap covers the Designing Trust symposium organized by the Future of Privacy Forum in cooperation with the Dublin chapter of Women in eDiscovery. The event addressed how organizations can enhance transparency and prevent user manipulation across web, mobile, wearable, voice assistant, and IoT interfaces. Two keynote presentations explored dark pattern research in cookie consent management and user testing of privacy icons for the California Consumer Privacy Act. A panel discussion examined UX research on consent behaviors, accessibility challenges in privacy design, the failures of cookie consent systems, transparency obligations for connected devices, and legal boundaries around dark patterns in both EU and US jurisdictions.",
+          "description": "Symposium recap on designing for trust through enhanced transparency and preventing user manipulation, covering dark patterns, privacy icons, consent fatigue, accessibility, and connected device transparency.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/designing-trust-2021.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the Designing Trust symposium on enhancing transparency and preventing user manipulation in privacy interfaces",
+          "date": "2021-06-22",
+          "tags": [
+            "dark patterns",
+            "transparency",
+            "consent",
+            "privacy icons",
+            "CCPA",
+            "accessibility",
+            "connected devices",
+            "cookie consent",
+            "user experience",
+            "GDPR"
+          ],
+          "readingTime": "12 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2021-06-22T10:00:00+02:00",
+            "guid": "https://blaeu.com/blog/designing-trust/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "Symposium recap on designing for trust, covering dark patterns in cookie consent, privacy icon testing for the CCPA, consent fatigue, accessibility in privacy design, and transparency for connected devices.",
+            "rssCategories": ["Speaking", "Consent", "Dark Patterns"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/designing-trust",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:45+01:00"
+            }
+          ]
+        },
+        {
+          "id": "technical-standards-privacy-2021",
+          "year": 2021,
+          "title": "Technical Standards Bridging Data Protection, Telecom Regulation, and Procurement",
+          "intro": "This recap covers a CPDP 2021 panel on Technical Standards bringing together Data Protection with Telecommunications Regulation, Digital Regulations and Procurement. The panel explored how to bridge the gap between releasing technical standards and embedding these into products and services available on the market. The discussion covered the definitional challenges of privacy in standards, the relationship between law and code, the case for decentralized platform architectures, privacy as an invisible risk, the enforcement gap around privacy by design, and the underdeveloped demand side for privacy standards in procurement.",
+          "description": "CPDP 2021 panel recap exploring how technical standards can bridge the gap between privacy regulation and product implementation, covering standardization, decentralization, and privacy by design enforcement.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/technical-standards-privacy-2021.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the CPDP 2021 panel on technical standards bridging data protection with telecommunications regulation and procurement",
+          "date": "2021-01-27",
+          "tags": [
+            "technical standards",
+            "privacy by design",
+            "GDPR",
+            "standardization",
+            "decentralization",
+            "IEEE",
+            "IETF",
+            "procurement",
+            "CPDP"
+          ],
+          "readingTime": "12 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2021-01-27T10:00:00+01:00",
+            "guid": "https://blaeu.com/blog/technical-standards-privacy-regulation/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "CPDP 2021 panel recap on how technical standards can bridge data protection, telecom regulation, and procurement. Covers the relationship between law and code, decentralized architectures, and the enforcement gap around privacy by design.",
+            "rssCategories": ["Speaking", "Technical Standards", "Data Protection"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/technical-standards-privacy-regulation",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:45+01:00"
+            }
+          ]
+        },
+        {
+          "id": "consent-workshop-ieee-2021",
+          "year": 2021,
+          "title": "Does Consent Work? If Not Consent, What Else?",
+          "intro": "This recap covers the 1st International Workshop on Consent Management in Online Services, Networks and Things (COnSeNT 2021), organized by IEEE Computer Society. The workshop asked a direct question. Does consent work? If not consent, what else? The panel brought together participants from CNIL, IAB Europe, the New York Times, Tilburg University, Kantara Initiative, and the Future of Privacy Forum. The discussion covered the validity of cookie banners, the Transparency and Consent Framework, consentification of legitimate interest, revoking consent in practice, and the search for alternatives including browser signals and consent receipts.",
+          "description": "COnSeNT 2021 workshop recap examining whether cookie consent works, covering the TCF, consentification of legitimate interest, revoking consent, browser signals, and consent receipts.",
+          "authors": ["Rob van Eijk"],
+          "category": "policy",
+          "mediaType": "blogpost",
+          "contentType": "blog",
+          "displayContext": "highlight",
+          "image": "/assets/blog/rothko-abstracts/consent-workshop-ieee-2021.svg",
+          "imageAlt": "Rothko-inspired abstract composition representing the COnSeNT 2021 workshop on whether consent works and what alternatives exist",
+          "date": "2021-01-27",
+          "tags": [
+            "consent",
+            "cookie banners",
+            "ePrivacy",
+            "GDPR",
+            "TCF",
+            "consent receipts",
+            "browser signals",
+            "legitimate interest",
+            "IEEE"
+          ],
+          "readingTime": "12 min read",
+          "featured": false,
+          "rssMetadata": {
+            "featured": false,
+            "pubDate": "2021-01-27T10:00:00+01:00",
+            "guid": "https://blaeu.com/blog/consent-workshop-ieee-2021/",
+            "author": "team@blaeu.com (Rob van Eijk)",
+            "excerpt": "COnSeNT 2021 workshop recap on whether cookie consent works. Covers the TCF, consentification of legitimate interest, revoking consent in practice, and alternatives through browser signals and consent receipts.",
+            "rssCategories": ["Speaking", "Consent", "Data Protection"]
+          },
+          "links": [
+            {
+              "type": "internal",
+              "url": "/blog/consent-workshop-ieee-2021",
+              "title": "Read Full Post",
+              "status": "active",
+              "lastChecked": "2026-02-20T16:36:45+01:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
