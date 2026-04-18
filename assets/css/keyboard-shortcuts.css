@@ -1,0 +1,204 @@
+/* keyboard-shortcuts.css */
+
+/* Focus mode styles - Enhanced for WCAG 2.2 AAA */
+.focus-mode *:focus,
+.focus-mode *:focus-visible,
+.focus-mode footer a:focus,
+.focus-mode footer a:focus-visible,
+.focus-mode .skip-to-content:focus,
+.focus-mode .skip-to-content:focus-visible {
+  outline: 4px solid #ffcc00 !important; /* Thicker outline for better visibility */
+  outline-offset: 4px !important; /* Increased offset */
+  box-shadow: 0 0 0 4px rgba(255, 204, 0, 0.6) !important; /* Enhanced box shadow with higher opacity */
+  transition:
+    outline 0.2s ease,
+    box-shadow 0.2s ease !important;
+  border-radius: 0.25rem !important;
+}
+
+/* Ensure modal focus is also enhanced in focus mode */
+.focus-mode [role='dialog'][aria-modal='true'] *:focus,
+.focus-mode [role='dialog'][aria-modal='true'] *:focus-visible {
+  outline: 4px solid #ffcc00 !important;
+  outline-offset: 4px !important;
+  box-shadow: 0 0 0 4px rgba(255, 204, 0, 0.6) !important;
+}
+
+/* Motion preferences - respect user settings */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001s !important;
+    transition-duration: 0.001s !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Custom reduced motion styles - applied when using the widget toggle */
+.reduce-motion *,
+.reduce-motion *::before,
+.reduce-motion *::after {
+  animation-duration: 0.001s !important;
+  transition-duration: 0.001s !important;
+  animation-iteration-count: 1 !important;
+  scroll-behavior: auto !important;
+}
+
+/* Only hide specific overlay elements, not all fixed elements */
+.reduce-motion .overlay.animation-overlay,
+.reduce-motion [class*='animation-overlay'],
+.reduce-motion [id*='animation-overlay'] {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Simplified reduce motion - we just pause videos now */
+.reduce-motion .video-container {
+  position: relative;
+}
+
+/* Visual indicator that motion is reduced */
+.reduce-motion .accessibility-widget-toggle {
+  position: relative;
+}
+
+.reduce-motion .accessibility-widget-toggle::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  width: 12px;
+  height: 12px;
+  background-color: #ffcc00;
+  border-radius: 50%;
+  border: 2px solid white;
+  z-index: 1;
+}
+
+/* Make navbar always visible in reduce motion mode */
+.reduce-motion nav.fixed {
+  background-color: white !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+  z-index: 10 !important;
+  visibility: visible !important;
+  display: block !important;
+}
+
+/* Ensure mobile menu is visible and properly styled in reduced motion mode when open */
+.reduce-motion #mobile-menu.max-h-60 {
+  background-color: white !important;
+  opacity: 1 !important;
+  box-shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+  max-height: 500px !important;
+  display: block !important;
+  pointer-events: auto !important;
+  visibility: visible !important;
+  transition: none !important;
+}
+
+/* Ensure mobile menu is properly hidden when closed in reduced motion mode */
+.reduce-motion #mobile-menu.max-h-0 {
+  max-height: 0 !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+  transition: none !important;
+  display: none !important;
+}
+
+/* Ensure mobile menu button is always visible in reduced motion mode */
+.reduce-motion button[aria-controls='mobile-menu'],
+.reduce-motion #mobile-menu-button {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+  display: inline-flex !important;
+}
+
+/* Fix text colors in navbar when in reduce motion mode */
+.reduce-motion nav.fixed a.font-medium {
+  color: #374151 !important; /* text-gray-700 */
+}
+
+.reduce-motion nav.fixed a.font-medium:hover {
+  color: #2563eb !important; /* text-blue-600 */
+}
+
+/* Keep active link styling */
+.reduce-motion nav.fixed a.font-medium.border-b-2 {
+  color: #2563eb !important; /* text-blue-600 */
+  border-color: #2563eb !important; /* border-blue-600 */
+}
+
+/* Screen reader announcer styles */
+.sr-announcer {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Hide browser's native captions */
+.captions-enabled video::cue {
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Adjust the position of the entire video container when captions are enabled */
+.captions-enabled .video-container {
+  position: relative;
+}
+
+/* Create a custom caption container that we can position more freely */
+.captions-enabled .video-container::after {
+  content: attr(data-caption-text);
+  display: block;
+  position: absolute;
+  bottom: 180px; /* Position even higher up, above the arrow */
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 80%;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 1.2rem;
+  z-index: 10;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.captions-enabled .video-container[data-caption-active='true']::after {
+  opacity: 1;
+}
+
+/* Make captions more visible in high contrast mode */
+.captions-enabled.high-contrast-mode .video-container::after {
+  background-color: black;
+  color: yellow;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+}
+
+/* Adjust caption positioning for mobile */
+@media (max-width: 768px) {
+  .captions-enabled .video-container::after {
+    bottom: 200px; /* Move captions even higher on mobile */
+    font-size: 1rem; /* Slightly smaller text on mobile */
+    max-width: 90%;
+  }
+}
