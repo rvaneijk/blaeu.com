@@ -1,0 +1,58 @@
+/* BigJohn */
+@font-face {
+  font-family: 'big_johnregular';
+  src: url('/assets/fonts/BigJohn/big_john-webfont.eot');
+  src:
+    url('/assets/fonts/BigJohn/big_john-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/BigJohn/big_john-webfont.woff2') format('woff2'),
+    url('/assets/fonts/BigJohn/big_john-webfont.woff') format('woff'),
+    url('/assets/fonts/BigJohn/big_john-webfont.ttf') format('truetype'),
+    url('/assets/fonts/BigJohn/big_john-webfont.svg#big_johnregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Amble Regular */
+@font-face {
+  font-family: 'ambleregular';
+  src: url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.eot');
+  src:
+    url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.woff') format('woff'),
+    url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.ttf') format('truetype'),
+    url('/assets/fonts/Amble/Regular/Amble-Regular-webfont.svg#ambleregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Amble Bold */
+@font-face {
+  font-family: 'amblebold';
+  src: url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.eot');
+  src:
+    url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.woff') format('woff'),
+    url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.ttf') format('truetype'),
+    url('/assets/fonts/Amble/Bold/Amble-Bold-webfont.svg#amblebold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Amble Light */
+@font-face {
+  font-family: 'amblelight';
+  src: url('/assets/fonts/Amble/Light/Amble-Light-webfont.eot');
+  src:
+    url('/assets/fonts/Amble/Light/Amble-Light-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/Amble/Light/Amble-Light-webfont.woff') format('woff'),
+    url('/assets/fonts/Amble/Light/Amble-Light-webfont.ttf') format('truetype'),
+    url('/assets/fonts/Amble/Light/Amble-Light-webfont.svg#amblelight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* OpenDyslexic fonts moved to fonts-opendyslexic.css for lazy loading */
