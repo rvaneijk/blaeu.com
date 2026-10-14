@@ -1,0 +1,176 @@
+{
+  "title": "News Highlights",
+  "contentType": "highlight",
+  "totalItems": 4,
+  "lastUpdated": "2026-05-23",
+  "sections": [
+    {
+      "year": 2026,
+      "count": 4,
+      "items": [
+        {
+          "id": "cpdp2026-os-trusted-ai",
+          "year": 2026,
+          "title": "CPDP 2026: The Role of Operating Systems in Trusted AI",
+          "description": "Panel moderation at CPDP 2026 examining DMA Article 6(7) interoperability obligations, the tension between forced OS openness and GDPR-level privacy protections, hardware and software access risks, and whether a single interoperability standard can work across Apple, Google, and other platforms.",
+          "authors": ["Rob van Eijk"],
+          "venue": "CPDP Conference 2026, Brussels",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-05-20",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_cpdp2026-dma-interoperability-activity-7463219622465691649-bbuC",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-05-23T13:43:51+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523093932/https://www.linkedin.com/posts/rvaneijk88_cpdp2026-dma-interoperability-activity-7463219622465691649-bbuC",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-05-23T13:43:52+01:00",
+                  "submittedAt": "2026-05-23T11:38:23+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-05-20T16:00:00+02:00",
+            "excerpt": "Panel moderation at CPDP 2026 on DMA Article 6(7) interoperability and OS-level privacy, examining the tension between forced openness and GDPR protections across Apple, Google, and other platforms.",
+            "featured": true,
+            "rssCategories": ["Speaking", "DMA", "Interoperability", "Privacy", "CPDP2026"],
+            "venue": "CPDP Conference 2026, Brussels"
+          }
+        },
+        {
+          "id": "web-standards-workshop-2026",
+          "year": 2026,
+          "title": "Expert Workshop: Web Standards for Data Protection in the EU",
+          "description": "Invited participation in the RegTech4AI expert workshop on Article 88b of the Omnibus proposal and a potential standardization mandate for automated privacy signals. Discussion covered GPC adoption, the iOS/WebKit constraint on browser-level signals, and the policy boundary between targeting and attribution.",
+          "authors": ["Rob van Eijk"],
+          "venue": "RegTech4AI / Maastricht Law and Tech Lab, Brussels",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-05-18",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_gdpr-gpc-omnibus-activity-7463248947831271424-Wl9H",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-05-23T13:43:53+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523093951/https://www.linkedin.com/posts/rvaneijk88_gdpr-gpc-omnibus-activity-7463248947831271424-Wl9H",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-05-23T13:43:53+01:00",
+                  "submittedAt": "2026-05-23T11:38:35+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-05-18T13:00:00+02:00",
+            "excerpt": "Invited participation in the RegTech4AI expert workshop on Article 88b of the Omnibus proposal and a potential standardization mandate for automated privacy signals, covering GPC adoption and the policy boundary between targeting and attribution.",
+            "featured": true,
+            "rssCategories": ["Speaking", "Web Standards", "Privacy", "GPC", "Omnibus"],
+            "venue": "RegTech4AI / Maastricht Law and Tech Lab, Brussels"
+          }
+        },
+        {
+          "id": "dma-anonymisation-roundtable-2026",
+          "year": 2026,
+          "title": "Roundtable: Anonymisation at the Crossroads of EU Digital Regulations",
+          "description": "Expert participation in a public roundtable on DMA Article 6(11) organised by Sophie Stalla-Bourdillon at VUB Brussels Privacy Hub. Discussion covered anonymisation of search data, singling out as the central test, how sessionisation and linkability enable re-identification, and the risk of incoherence between DMA and GDPR anonymisation standards.",
+          "authors": ["Rob van Eijk"],
+          "venue": "Brussels Privacy Hub / VUB, Brussels",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-05-18",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_dma-gdpr-anonymisation-activity-7462441720975261696-cbqw",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-05-23T13:43:54+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523094053/https://www.linkedin.com/posts/rvaneijk88_dma-gdpr-anonymisation-activity-7462441720975261696-cbqw",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-05-23T13:43:55+01:00",
+                  "submittedAt": "2026-05-23T11:38:46+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-05-18T10:00:00+02:00",
+            "excerpt": "Expert participation in VUB Brussels Privacy Hub roundtable on DMA Article 6(11) and anonymisation, examining singling out as the central re-identification test and the risk of diverging standards between DMA and GDPR.",
+            "featured": true,
+            "rssCategories": ["Speaking", "DMA", "Anonymisation", "GDPR", "Privacy"],
+            "venue": "Brussels Privacy Hub / VUB, Brussels"
+          }
+        },
+        {
+          "id": "privacy-symposium-2026-pets",
+          "year": 2026,
+          "title": "Bridging Borders with Trust: PETs to Preserve Customer Control in Cross-Border Legal Conflict",
+          "description": "Panel at the Privacy Symposium 2026 in Venice examining how privacy-enhancing technologies, particularly confidential computing and trusted execution environments, can reconcile cross-border data flows with data residency requirements and regulatory friction across jurisdictions.",
+          "authors": ["Eijk R. van", "Shainski R."],
+          "venue": "Privacy Symposium Conference 2026, Venice",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-04-21",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_back-from-a-great-week-at-the-privacy-symposium-ugcPost-7453450543039180800-BuZ4",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-05-23T13:43:56+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523094308/https://www.linkedin.com/posts/rvaneijk88_back-from-a-great-week-at-the-privacy-symposium-ugcPost-7453450543039180800-BuZ4",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-05-23T13:43:57+01:00",
+                  "submittedAt": "2026-05-23T11:43:05+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-04-21T14:00:00+02:00",
+            "excerpt": "Panel at Privacy Symposium 2026 Venice on how confidential computing and trusted execution environments can reconcile cross-border data flows with data residency requirements and digital sovereignty frameworks.",
+            "featured": true,
+            "rssCategories": [
+              "Speaking",
+              "PETs",
+              "Confidential Computing",
+              "Cross-Border Data",
+              "Privacy Symposium"
+            ],
+            "venue": "Privacy Symposium Conference 2026, Venice"
+          }
+        }
+      ]
+    }
+  ]
+}
