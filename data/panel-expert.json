@@ -1,0 +1,1767 @@
+{
+  "title": "Panel Expert Engagements",
+  "contentType": "presentation",
+  "totalItems": 52,
+  "lastUpdated": "2026-05-23",
+  "sections": [
+    {
+      "year": 2026,
+      "count": 6,
+      "items": [
+        {
+          "id": "2026-privacy-symposium-data-afterlife-ai",
+          "year": 2026,
+          "title": "Data's Afterlife in the Age of AI: Secondary Use, Model Training, and the Boundaries of Consent",
+          "authors": [
+            "Will M.",
+            "Robert R.",
+            "Nouwens M.",
+            "Eijk R. van",
+            "Alvarez Valdés C.",
+            "Wood S. (Moderator)"
+          ],
+          "venue": "Privacy Symposium Conference 2026",
+          "location": "Venice",
+          "publisher": "Privacy Symposium",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Wood S."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2026/schedule/14214/Data%E2%80%99s%20Afterlife%20in%20the%20Age%20of%20AI%3A%20Secondary%20Use%2C%20Model%20Training%2C%20and%20the%20Boundaries%20of%20Consent",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:14+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523114507/https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2026/schedule/14214/Data%E2%80%99s%20Afterlife%20in%20the%20Age%20of%20AI%3A%20Secondary%20Use%2C%20Model%20Training%2C%20and%20the%20Boundaries%20of%20Consent?platform=",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:16+01:00",
+                  "submittedAt": "2026-05-23T13:44:02+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2026-privacy-symposium-pets-cross-border",
+          "year": 2026,
+          "title": "Bridging Borders with Trust: Privacy-Enhancing Technologies to Preserve Customer Control in Cross-Border Legal Conflict",
+          "authors": ["Eijk R. van", "Shainski R.", "David A. (Moderator)"],
+          "venue": "Privacy Symposium Conference 2026",
+          "location": "Venice",
+          "publisher": "Privacy Symposium",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: David A."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2026/schedule/14175/Bridging%20Borders%20with%20Trust%3A%20Privacy-Enhancing%20Technologies%20to%20Preserve%20Customer%20Control%20in%20Cross-Border%20Legal%20Conflict%20%20",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:17+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523114522/https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2026/schedule/14175/Bridging%20Borders%20with%20Trust%3A%20Privacy-Enhancing%20Technologies%20to%20Preserve%20Customer%20Control%20in%20Cross-Border%20Legal%20Conflict%20%20?platform=",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:18+01:00",
+                  "submittedAt": "2026-05-23T13:44:13+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2026-lisbon-council-pets-roundtable",
+          "year": 2026,
+          "title": "High-Level Working Lunch on Privacy-Enhancing Technologies in Digital Advertising",
+          "authors": ["Vittoria B.", "Wouters R. van", "Eijk R. van", "Moderator: Osimo D."],
+          "venue": "Data Protection Day 2026",
+          "location": "Brussels",
+          "publisher": "The Lisbon Council",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Osimo D."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://lisboncouncil.net/newsandevents/privacy-enhancing-technologies/",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:19+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260202114158/https://lisboncouncil.net/newsandevents/privacy-enhancing-technologies/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:20+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2026-cpdp-trusted-ai-operating-systems",
+          "year": 2026,
+          "title": "The role of operating systems in trusted AI",
+          "authors": [
+            "Barros Vale B.",
+            "Davis G.",
+            "Eijk R. van",
+            "Ribera Martínez A.",
+            "Nimara K.",
+            "Bassini M. (Moderator)"
+          ],
+          "venue": "Computers, Privacy & Data Protection Conference (CPDP2026)",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Bassini M."
+          },
+          "summary": "Marco Bassini of Tilburg University moderates a CPDP 2026 panel on the role of operating systems in trusted AI, centred on interoperability under DMA Article 6(7). Alba Ribera Martínez argues that the Commission's specification decisions erode GDPR and security safeguards. Gary Davis of Apple lists what the Commission asks of Android, from hotword waking to live microphone, contacts, and screen access, and calls each a new attack surface. Karina Nimara of the Developers Alliance warns that bad actors will exploit unlimited access and that apps would compete for finite battery and processing power. Sebastião Barros Vale of the EDPS insists that the DMA leaves the GDPR intact, with OS providers and apps as separate controllers. Rob van Eijk explains the layered, sandboxed design of a phone OS and asks who consents when a user delegates decisions to an AI agent. Several panellists want the EDPS, ENISA, and independent experts to join DG Competition in this work.",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_cpdp2026-dma-interoperability-activity-7463219622465691649-bbuC",
+              "title": "LinkedIn Post",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:20+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523093932/https://www.linkedin.com/posts/rvaneijk88_cpdp2026-dma-interoperability-activity-7463219622465691649-bbuC",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:21+01:00",
+                  "submittedAt": "2026-05-23T11:38:23+01:00"
+                }
+              ]
+            },
+            {
+              "type": "recording",
+              "url": "https://www.youtube.com/watch?v=m7fEXSUEILU",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:22+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2026-regtech4ai-web-standards-workshop",
+          "year": 2026,
+          "title": "Expert Workshop: Web Standards for Data Protection in the EU",
+          "authors": ["Eijk R. van"],
+          "venue": "RegTech4AI Expert Workshop",
+          "location": "Brussels",
+          "publisher": "RegTech4AI / Maastricht Law and Tech Lab",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Invited expert"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_gdpr-gpc-omnibus-activity-7463248947831271424-Wl9H",
+              "title": "LinkedIn Post",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:23+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523093951/https://www.linkedin.com/posts/rvaneijk88_gdpr-gpc-omnibus-activity-7463248947831271424-Wl9H",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:23+01:00",
+                  "submittedAt": "2026-05-23T11:38:35+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2026-vub-dma-anonymisation-roundtable",
+          "year": 2026,
+          "title": "Roundtable: Anonymisation at the Crossroads of EU Digital Regulations",
+          "authors": ["Stalla-Bourdillon S. (Moderator)", "Eijk R. van"],
+          "venue": "Brussels Privacy Hub / VUB",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussel",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Stalla-Bourdillon S."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_dma-gdpr-anonymisation-activity-7462441720975261696-cbqw",
+              "title": "LinkedIn Post",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:24+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523094053/https://www.linkedin.com/posts/rvaneijk88_dma-gdpr-anonymisation-activity-7462441720975261696-cbqw",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:25+01:00",
+                  "submittedAt": "2026-05-23T11:38:46+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "count": 7,
+      "items": [
+        {
+          "id": "2025-privacy-symposium-ppt-ai",
+          "year": 2025,
+          "title": "Privacy Preserving Technologies (PPT) in Sharing of Personal Data for AI Development and Regulatory Compliance",
+          "authors": [
+            "Acuña J.",
+            "Ortega-Fernandez I.",
+            "Ramon J.",
+            "Eijk R. van",
+            "Kogut Czarkowska M. (Moderator)"
+          ],
+          "venue": "Privacy Symposium Conference 2025",
+          "location": "Venice",
+          "publisher": "Privacy Symposium",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Kogut Czarkowska M."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2025/schedule/13651/Privacy%20Preserving%20Technologies%20%28PPT%29%20in%20Sharing%20of%20Personal%20Data%20for%20AI%20Development%20and%20Regulatory%20Compliance",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:25+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250430112611/https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2025/schedule/13651/Privacy%20Preserving%20Technologies%20(PPT)%20in%20Sharing%20of%20Personal%20Data%20for%20AI%20Development%20and%20Regulatory%20Compliance?platform=",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:26+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-bph-partners-panel",
+          "year": 2025,
+          "title": "Partners of the Hub Panel",
+          "authors": [
+            "Bruggeman E.",
+            "Eijk R. van",
+            "Kolanowski S.",
+            "Stalla-Bourdillon S. (Moderator)"
+          ],
+          "venue": "Navigating Tomorrow: A Data Protection Decade and Future Challenges in the Algorithmic Era",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Stalla-Bourdillon S."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://brusselsprivacyhub.com/2025/02/04/5-february-celebrating-10-years-of-the-bph-2025/",
+              "title": "View Event",
+              "status": "broken",
+              "lastChecked": "2026-10-25T11:31:26+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250723205713/https://brusselsprivacyhub.com/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:28+01:00",
+                  "submittedAt": "2025-07-24T09:46:09+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-dla-piper-digital-strategy-day",
+          "year": 2025,
+          "title": "EU digital regulation: how will simplification and competitiveness coexist?",
+          "authors": [
+            "Capobianco A.",
+            "McNamara, M.",
+            "Eijk R. van",
+            "Scarafia S.",
+            "Sterneberg R. (Moderator)"
+          ],
+          "venue": "Privacy Symposium Conference 2025",
+          "location": "Brussels",
+          "publisher": "DLA Piper Digital Strategy Day 2.0",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Sterneberg R."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.dlapiper.com/en/events/2025/10/seminar-simplifying-eu-digital-regulation",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:28+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20251029134247/https://www.dlapiper.com/en/events/2025/10/seminar-simplifying-eu-digital-regulation",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:29+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-privacy-symposium-anonymization",
+          "year": 2025,
+          "title": "Anonymization, Pseudonymization and Synthetic Data: Clarifying the Borders and Legal Implications",
+          "authors": [
+            "D'Acquisto G.",
+            "Jotterand A.",
+            "Panfilo D.",
+            "Eijk R. van",
+            "Gaudino F. (Moderator)"
+          ],
+          "venue": "Privacy Symposium Conference 2025",
+          "location": "Venice",
+          "publisher": "Privacy Symposium",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Gaudino F."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2025/schedule/13646/Anonymization%2C%20Pseudonymization%20and%20Synthetic%20Data%3A%20Clarifying%20the%20Borders%20and%20Legal%20Implications",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:30+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250430112435/https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2025/schedule/13646/Anonymization,%20Pseudonymization%20and%20Synthetic%20Data:%20Clarifying%20the%20Borders%20and%20Legal%20Implications?platform=",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:32+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-privacy-symposium-gdpr-ai",
+          "year": 2025,
+          "title": "The GDPR and Generative AI After the EDPB Opinion and First Enforcement Actions",
+          "authors": [
+            "Nicolazzi R.",
+            "Eijk R. van",
+            "Vukić Z.",
+            "Hogan D.",
+            "Christakis T. (Moderator)"
+          ],
+          "venue": "Privacy Symposium Conference 2025",
+          "location": "Venice",
+          "publisher": "Privacy Symposium",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Christakis T."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2025/schedule/13585/%20The%20GDPR%20and%20Generative%20AI%20After%20the%20EDPB%20Opinion%20and%20First%20Enforcement%20Actions",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:33+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250430112109/https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2025/people/13314/Rob%20van%20Eijk",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:35+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-privacy-symposium-privacy-first-marketing",
+          "year": 2025,
+          "title": "From Principles to Practice: Crafting Privacy-first Marketing that Delivers",
+          "authors": ["Eijk R. van", "Sadovnikov D.", "Judin T.", "Olivi G. (Moderator)"],
+          "venue": "Privacy Symposium Conference 2025",
+          "location": "Venice",
+          "publisher": "Privacy Symposium",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Olivi G."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2025/schedule/13819/From%20Principles%20to%20Practice%3A%20Crafting%20Privacy-first%20Marketing%20that%20Delivers",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:36+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250430112422/https://sites.grenadine.co/sites/iot/en/privacy-symposium-conference-2025/schedule/13819/From%20Principles%20to%20Practice:%20Crafting%20Privacy-first%20Marketing%20that%20Delivers?platform=",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:37+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2025-mozilla-unleashing-pets",
+          "year": 2025,
+          "title": "Unleashing PETs: Regulating Online Ads for a Privacy-First Future",
+          "authors": [
+            "Wilkström-Eemeren P. van",
+            "Eijk R. van",
+            "Windwehr S.",
+            "Thompson M.",
+            "Stampelos T. (Moderator)"
+          ],
+          "venue": "Mozilla Mornings",
+          "location": "Brussels",
+          "publisher": "Mozilla",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Stampelos T."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://blog.mozilla.org/netpolicy/2025/03/31/mozilla-mornings-unleashing-pets-regulating-online-ads-for-a-privacy-first-future/",
+              "title": "View Information",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:37+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250404200122/https://blog.mozilla.org/netpolicy/2025/03/31/mozilla-mornings-unleashing-pets-regulating-online-ads-for-a-privacy-first-future/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:38+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "count": 7,
+      "items": [
+        {
+          "id": "2024-cpdp-eu-strategy-data",
+          "year": 2024,
+          "title": "Where are we heading? Looking into the EU Strategy for Data through the Lens of AI and Data Protection",
+          "authors": [
+            "Bolognini L.",
+            "Craddock P.",
+            "Eijk R. van",
+            "Vidal P.",
+            "Alvarez C. (Moderator)"
+          ],
+          "venue": "Computers, Privacy & Data Protection Conference (CPDP2024)",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Alvarez C."
+          },
+          "summary": "Cecilia Álvarez of Meta moderates a CPDP 2024 panel on the EU strategy for data, seen through AI and data protection. Rob van Eijk sets out how the data strategy, the DMA, the DSA, and the AI Act fit together, including Article 6(11) of the DMA and the AI Act timeline. Patricia Vidal, a competition lawyer, explains that dominance is not abusive in itself and that charging a fee is not abusive per se. Luca Bolognini calls for balancing rights with proportionality and practical rationality, and questions the EDPB's generic opinion on pay or consent. Peter Craddock argues that data protection reads necessity more strictly than contract law and that regulators overlook business realities. On pay or consent, Van Eijk applies proportionality and asks for alternatives for users who cannot pay.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=BYAcDaUifLI",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:39+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2024-click-trap-digital-regulation",
+          "year": 2024,
+          "title": "Digital Regulation at the EU Level",
+          "authors": ["Benifei, B. Hortal Foronda, F.", "Eijk R. van", "Bolongaro K. (Moderator)"],
+          "venue": "Films & Politics #01 – \"The Click Trap\" Film Screening (Belgian Premiere) & Panel Discussion",
+          "location": "Brussels",
+          "publisher": "Fides",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Bolongaro K."
+          },
+          "summary": "Rob van Eijk joins MEPs Brando Benifei and Francisca Hortal Foronda for a panel on digital regulation at the EU level, moderated by Kait Bolongaro. The panel follows the Belgian premiere of The Click Trap, a documentary about how digital advertising and micro-targeting fuel disinformation and threaten democracies.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=1ehPLYzv6ZM",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:40+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2024-alpine-legitimate-interest",
+          "year": 2024,
+          "title": "What is a legitimate interest under GDPR Article 6(1)(f)? and How can a purely commercial interest be legitimate based on case C-621/22?",
+          "authors": ["Bygrave L.", "Eijk R. van"],
+          "venue": "3rd Alpine Privacy Days",
+          "location": "Zuoz",
+          "publisher": "Bull, Signatu AS, and MLL",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.alpineprivacydays.net/past-events-2024/",
+              "title": "View programme",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:41+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20240224152006/https://www.alpineprivacydays.net/program-2024/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:42+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2024-google-publisher-privacy-wire",
+          "year": 2024,
+          "title": "Transatlantic Privacy Wire: Overheard in the EU",
+          "authors": ["Eijk R. van"],
+          "venue": "The 2024 Publisher Privacy Symposium",
+          "location": "New York",
+          "publisher": "Google",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        },
+        {
+          "id": "2024-asia-prime-to-buy",
+          "year": 2024,
+          "title": "Prime[d] To Buy: Flash Sales And Deceptive Design",
+          "authors": [
+            "Jhamb D.",
+            "Rai A.",
+            "Sinders C.",
+            "Rajmohan K.",
+            "Eijk R. van",
+            "Janin P.",
+            "Vasudevan S. (Moderator)"
+          ],
+          "venue": "Virtual Report Launch",
+          "location": "Delhi",
+          "publisher": "Advanced Study Institute of Asia (ASIA)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Vasudevan S."
+          },
+          "summary": "The Advanced Study Institute of Asia (ASIA) launches its report Prime[d] To Buy on flash sales and deceptive design. Its researchers found deceptive patterns in all 26 Indian apps they studied, about five per app. They also found inflated discounts and Apple users paying more than Android users. Vasudevan then chairs a panel. Jhamb of Grant Thornton points to missing detection tools and audits. Rai of the Aapti Institute raises micro-targeting and the loss of trust, and Rajmohan of the Internet Freedom Foundation the weak enforceability of India's 2023 guidelines on dark patterns. Rob van Eijk explains how the EU's DMA and DSA address deceptive design, and how enforcement is changing cookie banners and consent flows on large platforms.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/live/Ys1hgKtG3eg",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:43+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2024-google-ask-authorities",
+          "year": 2024,
+          "title": "Ask the Authorities: Two Former Regulators Tell All",
+          "authors": ["Mithal M.", "Eijk R. van"],
+          "venue": "The 2024 Publisher Privacy Symposium",
+          "location": "New York",
+          "publisher": "Google",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        },
+        {
+          "id": "2024-google-privacy-prophecies",
+          "year": 2024,
+          "title": "Privacy Prophecies & Fresh Takes Panel",
+          "authors": ["Mithal M.", "Tiffith L.", "Halama M.", "Rohol S.", "Eijk R. van"],
+          "venue": "The 2024 Publisher Privacy Symposium",
+          "location": "New York",
+          "publisher": "Google",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 5,
+      "items": [
+        {
+          "id": "2023-scl-ai-ethics",
+          "year": 2023,
+          "title": "AI and ethics panel",
+          "authors": ["Binns R.", "Kelly-Lyth A.", "Eijk R. van", "Dunphy-Morie M. (Moderator)"],
+          "venue": "SCL Data Protection Update 2023",
+          "location": "London",
+          "publisher": "Society for Computers and Law (SCL)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Dunphy-Morie M."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.scl.org/events/1749-scl-annual-data-protection-update-2023-wednesday-25-january-2023-london",
+              "title": "View Event",
+              "status": "broken",
+              "lastChecked": "2026-10-25T11:31:43+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250109044558/https://www.scl.org/events/1749-scl-annual-data-protection-update-2023-wednesday-25-january-2023-london",
+                  "source": "archive.org",
+                  "status": "broken",
+                  "lastChecked": "2026-10-25T11:31:44+01:00",
+                  "submittedAt": "2026-02-20T16:29:05+01:00"
+                },
+                {
+                  "url": "https://web.archive.org/web/20240115030730/https://www.scl.org/events/1749-scl-annual-data-protection-update-2023-wednesday-25-january-2023-london",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T12:00:00+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-cpdp-privacy-innovation",
+          "year": 2023,
+          "title": "Privacy Through Innovation - Privacy Enhancing Technologies, Consumer Protection And The Online Ads Ecosystem",
+          "authors": [
+            "Chavez A.",
+            "Benassi M.-P.",
+            "Hanloser S.",
+            "Reimsbach-Kounatze C.",
+            "Eijk R. van",
+            "Jansen M. (Moderator)"
+          ],
+          "venue": "Computers, Privacy & Data Protection Conference (CPDP2023)",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Jansen M."
+          },
+          "summary": "Marek Jansen moderates a CPDP 2023 panel on whether privacy-enhancing technologies can reconcile online advertising with privacy. Anthony Chavez of Google presents the Privacy Sandbox, a set of purpose-built APIs that replace third-party cookies and combine on-device processing, secure enclaves, and differential privacy. Marie-Paule Benassi of the European Commission introduces the Cookie Pledge, which treats consent fatigue as a consumer protection issue. Stefan Hanloser of ProSiebenSat.1 argues that contextual advertising earns less than targeted advertising, and warns that the new APIs may favour large intermediaries. Rob van Eijk of FPF sees the APIs as a way to apply purpose limitation and data minimisation. He points to profitable contextual models and warns of AI-driven hyper-nudging. Christian Reimsbach-Kounatze of the OECD warns against PET hype and names cost, skills, and legal uncertainty as barriers.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=ODYNFuSpULg",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:45+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-google-publishers-advisory",
+          "year": 2023,
+          "title": "The opportunity of privacy safe advertising",
+          "authors": ["Herp C.", "Holdaway J.", "Eijk R. van", "Fletscher K. (Moderator)"],
+          "venue": "Publishers' Advisory Council 2023",
+          "location": "Barcelona",
+          "publisher": "Google",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Fletscher K."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://rsvp.withgoogle.com/events/publishers-advisory-council-2023/speakers",
+              "title": "View Information",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:46+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724075130/https://rsvp.withgoogle.com/events/publishers-advisory-council-2023/speakers",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:47+01:00",
+                  "submittedAt": "2025-07-24T09:50:03+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-privacy-symposium-sandbox",
+          "year": 2023,
+          "title": "Privacy Through Innovation and the Online Ads Ecosystem - The Privacy Sandbox Initiative",
+          "authors": ["Smith B.", "Eijk R. van", "Laumann K."],
+          "venue": "2023 Privacy Symposium Conference",
+          "location": "Venice",
+          "publisher": "Mandat International",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://sites.grenadine.co/sites/iot/en/2023-privacy-symposium-conference/schedule/10381/Privacy%20Through%20Innovation%20and%20the%20Online%20Ads%20Ecosystem%20-%20The%20Privacy%20Sandbox%20Initiative",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:48+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724075017/https://sites.grenadine.co/sites/iot/en/2023-privacy-symposium-conference/schedule/10381/Privacy%20Through%20Innovation%20and%20the%20Online%20Ads%20Ecosystem%20-%20The%20Privacy%20Sandbox%20Initiative",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:49+01:00",
+                  "submittedAt": "2025-07-24T09:50:14+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2023-google-gsec-ai-ethics",
+          "year": 2023,
+          "title": "AI and ethics panel",
+          "authors": ["Tuomisto-Inch H.", "Hansloser S.", "Eijk R. van", "Jansen M. (Moderator)"],
+          "venue": "Partner Summit at GSEC",
+          "location": "Munich",
+          "publisher": "Google",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Jansen M."
+          },
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 9,
+      "items": [
+        {
+          "id": "2022-fpf-adm-roundtable",
+          "year": 2022,
+          "title": "Automated decision-making and profiling: lessons from court and DPA decisions",
+          "authors": [
+            "Barros Vale B.",
+            "Malgieri G.",
+            "Hildebrandt M.",
+            "Alsenoy B. van",
+            "Eijk R. van",
+            "Zanfir-Fortuna G. (Moderator)"
+          ],
+          "venue": "ADM case law Report: roundtable discussion",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Zanfir-Fortuna G."
+          },
+          "summary": "Rob van Eijk opens and Gabriela Zanfir-Fortuna moderates an FPF roundtable in Brussels on the FPF report on automated decision-making. Co-author Sebastião Barros Vale presents findings from more than 70 court and DPA decisions. The GDPR governs automated decisions well beyond Article 22, he finds. The Article 22 threshold itself is high, and enforcers interpret it differently, as in the Uber, Ola, and Clearview AI cases. Mireille Hildebrandt of VUB notes that trade secrets do not block an explanation of the parameters behind a score. Gianclaudio Malgieri of the Brussels Privacy Hub asks why gig workers see different outcomes and why data subjects carry the burden of proof. Brendan Van Alsenoy of the EDPS calls Article 22 a rule rather than a standard and sees a role for sector-specific rules, such as the platform work directive.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=icSjq1umcaw/",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:50+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2022-iab-digital-advertising",
+          "year": 2022,
+          "title": "Digital Advertising Policy and Legal State of Play in Europe",
+          "authors": ["Bellamy B.", "Weber M.", "Eijk R. van", "Adhumeau T. (Moderator)"],
+          "venue": "IAB Public Policy & Legal Summit",
+          "location": "Virtual",
+          "publisher": "Interactive Advertising Bureau (IAB)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Adhumeau T."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.iab.com/events/public-policy-and-legal-summit-2022/#index-1",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:55+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://www.iab.com/events/public-policy-and-legal-summit-2022/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:55+01:00",
+                  "submittedAt": "2025-07-24T09:51:12+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-privacy-symposium-vr-metaverse",
+          "year": 2022,
+          "title": "Privacy in Virtual Reality and Metaverse Spaces",
+          "authors": [
+            "Bernes A.",
+            "Eijk R. van",
+            "Fratta S.",
+            "Hansen M.",
+            "Bolognini L. (Moderator)"
+          ],
+          "venue": "2022 Privacy Symposium Conference",
+          "location": "Venice",
+          "publisher": "Ca' Foscari University",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Bolognini L."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://sites.grenadine.co/sites/iot/en/2022-privacy-symposium-conference/schedule/8165/Privacy%20in%20Virtual%20Reality%20and%20Metaverse%20Spaces%20/%20Privacy%20nella%20Realt%C3%A0%20Virtuale%20e%20nel%20Metaverso%E2%80%A8%20[EN/IT]",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:56+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://sites.grenadine.co/sites/iot/en/2022-privacy-symposium-conference/schedule/8165/Privacy%20in%20Virtual%20Reality%20and%20Metaverse%20Spaces%20/%20Privacy%20nella%20Realt%C3%A0%20Virtuale%20e%20nel%20Metaverso%E2%80%A8%20%5BEN/IT%5D",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:57+01:00",
+                  "submittedAt": "2025-07-23T21:28:24.055Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-mozilla-data-revolution",
+          "year": 2022,
+          "title": "The Next Data Revolution",
+          "authors": [
+            "Bryson J.",
+            "Eijk R. van",
+            "Greenglass J.",
+            "Korzeniowski P.",
+            "Wittek J.",
+            "Boel L. de (Moderator)"
+          ],
+          "venue": "Mozilla Festival 2022",
+          "location": "Virtual",
+          "publisher": "Mozilla",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "summary": "Laura De Boel of Wilson Sonsini moderates an online Mozilla Festival panel on 7 March 2022 about the next structural shift in the data economy. The speakers are Joanna Bryson of the Hertie School, Rob van Eijk of the Future of Privacy Forum Europe, Jonathan Greenglass of Coil, Piotr Korzeniowski of Piwik PRO, and Jan Wittek of eyeo.",
+          "metadata": {
+            "role": "Moderator: Boel L. de"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://mozilla.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ac5b7805-68a1-4428-82ed-ae510112b1cf",
+              "title": "Watch recording",
+              "status": "broken",
+              "lastChecked": "2026-05-23T13:45:02+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260220152944/https://mozilla.hosted.panopto.com/Panopto/Pages/Auth/EmbedLogin.aspx?panoptoState=bc66b749-0d3e-44b6-b494-b25f012c6e20&bounceUrl=https%3A%2F%2Fmozilla.hosted.panopto.com%2FPanopto%2FPages%2FAuth%2FLogin.aspx%3FAuth%3DSessionView%26panoptoState%3Dc7cc0eb3-209a-4cf0-a387-b25f012c6e1b",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:58+01:00",
+                  "submittedAt": "2025-07-24T09:51:26+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-arc-compliance-challenges",
+          "year": 2022,
+          "title": "Lived experience of Compliance and its challenges",
+          "authors": ["Doyle G.", "Eijk R. van", "Roberts S.", "Colleary K. (Moderator)"],
+          "venue": "Project ARC - Awareness Raising Campaign for SMEs",
+          "location": "Croatia/Ireland/Belgium",
+          "publisher": "Croatian Personal Data Protection Agency (Agencija za Zaštitu Osobnih Podataka-AZOP), Data Protection Commission Ireland & Vrije Universiteit Brussel (VUB)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Colleary K."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://arc-rec-project.eu/arc/",
+              "title": "View Project",
+              "status": "broken",
+              "lastChecked": "2026-10-25T11:32:00+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250113172424/https://arc-rec-project.eu/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:02+01:00",
+                  "submittedAt": "2025-07-24T09:52:15+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-zoom-dutch-us-privacy",
+          "year": 2022,
+          "title": "The Dutch and U.S. Approaches to Data Privacy",
+          "authors": [
+            "Domingus M.",
+            "Nas S.",
+            "Meulenkamp L.",
+            "Eijk R. van",
+            "Kallmer J. (Moderator)"
+          ],
+          "venue": "Zoom Data Privacy Event",
+          "location": "Amsterdam",
+          "publisher": "Zoom",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Kallmer J."
+          },
+          "links": []
+        },
+        {
+          "id": "2022-iapp-brussels-data-revolution",
+          "year": 2022,
+          "title": "The Next Data Revolution",
+          "authors": ["Eijk R. van", "Fleischer P.", "Scorza G.", "De Cicco, D. (Moderator)"],
+          "venue": "Virtual Brussels KnowledgeNet",
+          "location": "Brussels",
+          "publisher": "International Association of Privacy Professionals (IAPP)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: De Cicco, D."
+          },
+          "links": []
+        },
+        {
+          "id": "2022-iapp-evaluating-algorithms",
+          "year": 2022,
+          "title": "Evaluating Algorithms: Incorporating Privacy and Ethics into AI/ML Projects",
+          "authors": ["Eijk R. van", "Hall B.", "Ross A.", "Cohen B. (Moderator)"],
+          "venue": "IAPP Global Privacy Summit 2022",
+          "location": "Washington. DC",
+          "publisher": "International Association of Privacy Professionals (IAPP)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Cohen B."
+          },
+          "links": []
+        },
+        {
+          "id": "2022-google-ads-privacy-future",
+          "year": 2022,
+          "title": "Ads, Privacy and the Future of the Web",
+          "authors": ["Grady, P.", "Vale, M.", "Eijk R. van", "Barceló A. (Moderator)"],
+          "venue": "Meet the Experts from the Google Safety Engineering Center",
+          "location": "Munich",
+          "publisher": "Google",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Barceló A."
+          },
+          "links": []
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 8,
+      "items": [
+        {
+          "id": "2021-meta-privacy-changes",
+          "year": 2021,
+          "title": "Impact of Privacy Changes on the Advertising Industry",
+          "authors": ["Chapel A.", "Gordon T.", "Eijk R. van", "Nebol-Perlman G. (Moderator)"],
+          "venue": "Meta's Innovation Summit: A Deep Dive into Privacy-Enhancing Technologies",
+          "location": "Menlo Park, CA",
+          "publisher": "Meta",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Nebol-Perlman G."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://metainnovationsummit.splashthat.com/",
+              "title": "View Event",
+              "status": "broken",
+              "lastChecked": "2026-10-25T11:32:02+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2021-google-io-privacy-tech",
+          "year": 2021,
+          "title": "Roundtable on Privacy-Preserving Technology and the Evolution of Digital Advertising",
+          "authors": [
+            "Goel V.",
+            "Seltzer W.",
+            "Bannister P.",
+            "Riley C.",
+            "Eijk R. van",
+            "Kammourieh Donnelly L. (Moderator)"
+          ],
+          "venue": "Google I/O",
+          "location": "Mountain View",
+          "publisher": "Google",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Kammourieh Donnelly L."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://events.google.com/io/program/schedule?lng=en",
+              "title": "View Event",
+              "status": "broken",
+              "lastChecked": "2026-10-25T11:32:02+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20210807094729/https://events.google.com/io/program/schedule?lng=en",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T12:00:00+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-consent-workshop-ieee",
+          "year": 2021,
+          "title": "Does Consent work? If not Consent, what else?",
+          "authors": [
+            "Heslot A.",
+            "Kamara I.",
+            "Lizar M.",
+            "Berjon R.",
+            "Eijk R. van",
+            "Feehan T."
+          ],
+          "summary": "Vitor Jesus moderates a COnSeNT 2021 panel on whether consent works online and what could replace it. Armand Heslot of the CNIL states that a cookie banner with only an accept button does not give valid consent, because refusing must be as easy as accepting. Townsend Feehan of IAB Europe presents the Transparency and Consent Framework as a tool to comply with GDPR and ePrivacy. Robin Berjon of The New York Times calls the TCF a configuration string. He argues for needing less consent, for example by ruling out third-party controllers. Irene Kamara of Tilburg University calls letting users choose legitimate interest unlawful, and points to the Radio Equipment Directive to make standards binding. Mark Lizar argues for consent receipts that people keep themselves. Rob van Eijk explores privacy preferences set in browsers and devices.",
+          "venue": "1st International Workshop on Consent Management in Online Services, Networks and Things (COnSeNT 2021)",
+          "location": "Virtual",
+          "publisher": "IEEE Computer Society: PrivDash, ADAPT Centre Trinity College Dublin, School of Law Utrecht University",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://youtu.be/QkK8Wsfz9Kg",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:03+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2021-privacy-security-academy-dnt",
+          "year": 2021,
+          "title": "From Do-Not-Track to Global Privacy Control—Lessons Learned About the Value and Limitations of Technology Tools to Protect Privacy",
+          "authors": ["Israel S.", "Eijk R. van", "Groman M.", "Brookman J."],
+          "venue": "Privacy+Security Forum 2021",
+          "location": "Washington, DC",
+          "publisher": "Privacy+Security Academy",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.privacysecurityacademy.com/from-do-not-track-to-global-privacy-control-lessons-learned/",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:05+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724075407/https://www.privacysecurityacademy.com/from-do-not-track-to-global-privacy-control-lessons-learned/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:06+01:00",
+                  "submittedAt": "2025-07-24T09:53:59+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-iapp-dnt-gpc-sandbox",
+          "year": 2021,
+          "title": "DNT, GPC and Privacy Sandbox: Applying Technical Standards to Privacy Problems",
+          "authors": ["Israel S.", "Eijk R. van", "Groman M.", "Brookman J.", "Seltzer W."],
+          "venue": "IAPP Privacy. Security. Risk. 2021",
+          "location": "San Diego, CA",
+          "publisher": "International Association of Privacy Professionals (IAPP)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://iapp.org/conference/iapp-privacy-security-risk/schedule-and-program-psr21/?id=a191P000003EmpyQAC",
+              "title": "View Session",
+              "status": "broken",
+              "lastChecked": "2026-05-23T13:28:25+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250118012347/https://iapp.org/404/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:07+01:00",
+                  "submittedAt": "2025-07-24T09:54:11+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-fpf-asia-consent-choices",
+          "year": 2021,
+          "title": "Shaping choices in the digital world: how consent can become meaningful again",
+          "authors": [
+            "Johnston A.",
+            "Booty E.",
+            "Raghvanan M.",
+            "Eijk R. van",
+            "Srenivasan, R. (Moderator)"
+          ],
+          "venue": "Exploring Trends: From \"Consent-Centric\" Frameworks To Responsible Data Practices And Privacy Accountability In Asia Pacific",
+          "location": "Singapore",
+          "publisher": "Future of Privacy Forum, Personal Data Protection Commission of Singapore, the Asian Business Law Institute",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Srenivasan, R."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/fpf-event/exploring-trends-from-consent-centric-frameworks-to-responsible-data-practices-and-privacy-accountability-in-asia-pacific/#speakers",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:08+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://fpf.org/fpf-event/exploring-trends-from-consent-centric-frameworks-to-responsible-data-practices-and-privacy-accountability-in-asia-pacific/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:08+01:00",
+                  "submittedAt": "2025-07-24T09:54:22+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-neudata-alt-data",
+          "year": 2021,
+          "title": "Alt Data: Maximizing Information While Minimizing Privacy Risk. Explore options for privacy-protective uses and types that limit privacy exposure, including de-identification, pseudonymization, aggregation, and publicly available information",
+          "authors": ["Mohr C.", "Eijk R. van", "Koscuiszka K.", "D'Amico D."],
+          "venue": "Neudata Event",
+          "location": "New York, NY",
+          "publisher": "Neudata",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.neudata.co/events/alternative-data-maximizing-information-while-minimizing-privacy-risk",
+              "title": "View Event",
+              "status": "broken",
+              "lastChecked": "2026-10-25T11:32:10+01:00"
+            }
+          ]
+        },
+        {
+          "id": "2021-leiden-herik-symposium",
+          "year": 2021,
+          "title": "Caleidoscoop van successen",
+          "authors": [
+            "Oerlemans J. J.",
+            "Verheij B.",
+            "Schermer B.",
+            "Eijk R. van",
+            "Kielman H.",
+            "Koelewijn W.",
+            "Roos T. de (Moderator)"
+          ],
+          "venue": "De Uitdaging van de Blinde Vlek. Symposium ter gelegenheid van het afscheid van Prof. Dr. H. Jaap van den Herik",
+          "location": "Leiden",
+          "publisher": "Leiden University",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Roos T. de"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.leidenlawconference.nl/legal-courses/2021/symposium-de-kracht-van-de-blinde-vlek/#tab-programma",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:11+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://www.leidenlawconference.nl/legal-courses/2021/symposium-de-kracht-van-de-blinde-vlek/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:11+01:00",
+                  "submittedAt": "2025-07-24T09:54:38+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 4,
+      "items": [
+        {
+          "id": "2020-bph-meet-author",
+          "year": 2020,
+          "title": "Web Privacy Measurement and the Power of online tracking technologies (Dr Eijk R. van)",
+          "authors": ["Barcelo R.", "Eijk R. van", "Zeeland I. van", "Hijmans H. (Moderator)"],
+          "venue": "Meet the Author Series",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussel",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Hijmans H."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://brusselsprivacyhub.eu/publications/ws40.html",
+              "title": "View Session",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:12+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724075648/https://brusselsprivacyhub.eu/publications/ws40.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:13+01:00",
+                  "submittedAt": "2025-07-24T09:55:22+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-rightscon-ar-vr",
+          "year": 2020,
+          "title": "Human rights in the AR/VR era: privacy, safety, and responsible innovation in the immersive future",
+          "authors": [
+            "Castano Parra D.",
+            "Chanprasert P.",
+            "Eijk R. van",
+            "Heller B.",
+            "Pearlman K.",
+            "Dagostino, N. (Moderator)"
+          ],
+          "venue": "RightsCon Online",
+          "location": "Virtual",
+          "publisher": "RightsCon",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Dagostino, N."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://rightscon.course.tc/2020/events/human-rights-in-the-arvr-era-privacy-safety-and-responsible-innovation-in-the-immersive-future-2xXM3Kwh7n8FW2NRe9tZhi",
+              "title": "View Session",
+              "status": "broken",
+              "lastChecked": "2026-05-23T11:55:39+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523095556/https://rightscon.summit.tc/t/2020/events/human-rights-in-the-arvr-era-privacy-safety-and-responsible-innovation-in-the-immersive-future-2xXM3Kwh7n8FW2NRe9tZhi",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:14+01:00",
+                  "submittedAt": "2025-07-24T09:56:06+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-enisa-tracking-methods",
+          "year": 2020,
+          "title": "To track and to get tracked, new innovative methods and advancements",
+          "authors": ["Eijk R. van", "Hansen M.", "Silva F.", "Drogkaris P. (Moderator)"],
+          "venue": "ENISA Annual Privacy Forum",
+          "location": "Attiki",
+          "publisher": "European Union Agency for Cybersecurity",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "role": "Moderator: Drogkaris P."
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://2020.privacyforum.eu/images/annual-privacy-forum-apf-2020-notes.pdf",
+              "title": "View Notes",
+              "status": "broken",
+              "lastChecked": "2026-05-23T11:56:05+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20240527104208/https://2020.privacyforum.eu/images/annual-privacy-forum-apf-2020-notes.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:15+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-fpf-privacy-pandemics",
+          "year": 2020,
+          "title": "Privacy & Pandemics Virtual Workshop: The Role of Mobile Apps",
+          "authors": [
+            "Deshe S.",
+            "Agmon T.",
+            "Birnhack M.",
+            "Kim H.",
+            "Das R.",
+            "Penrod S.",
+            "Preneel B.",
+            "Polonetsky J.",
+            "Shmerling Magazanik L.",
+            "Harris C.",
+            "Sanderson P.",
+            "Eijk R. van"
+          ],
+          "venue": "Future of Privacy Forum & Tech Policy Institute Workshop",
+          "location": "Washington DC/Tel Aviv",
+          "publisher": "Future of Privacy Forum & Tel Aviv: Tech Policy Institute",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fpf.org/blog/privacy-pandemics-virtual-workshop-the-role-of-mobile-apps/",
+              "title": "View Information",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:16+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724075804/https://fpf.org/blog/privacy-pandemics-virtual-workshop-the-role-of-mobile-apps/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:17+01:00",
+                  "submittedAt": "2025-07-24T09:56:34+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "count": 1,
+      "items": [
+        {
+          "id": "2018-cpdp-technology-privacy",
+          "year": 2018,
+          "title": "Technology for Privacy: Protecting Against Online Tracking and Profiling",
+          "authors": [
+            "Eijk R. van",
+            "Naranjo D.",
+            "O'Neill M.",
+            "Moderators: Bourka A.",
+            "Rannenberg K."
+          ],
+          "venue": "Computers, Privacy & Data Protection Conference (CPDP2018)",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussels",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "summary": "ENISA organises this CPDP 2018 panel, chaired by Athena Bourka and moderated by Kai Rannenberg of Goethe University Frankfurt. It asks how technology can protect users against tracking and profiling across devices and apps, in line with the GDPR and the proposed ePrivacy Regulation. The speakers are Rob van Eijk of Leiden University, Mike O'Neill of BayCloud, Diego Naranjo of EDRi, and Fenneke Buskermolen of the European Commission. The panel covers the main techniques for online and mobile tracking, how privacy by design can help, and best practices for preventing tracking and obtaining consent.",
+          "metadata": {
+            "role": "Moderators: Bourka A. & Rannenberg K."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=_ehlooemvJ0",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:17+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "count": 2,
+      "items": [
+        {
+          "id": "2014-eu-parliament-do-not-track",
+          "year": 2014,
+          "title": "Do Not Track, is self-regulation enough?",
+          "authors": [
+            "Madelin R.",
+            "Nemitz P.",
+            "Dubois, N.",
+            "Eijk R. van",
+            "Hamilton S.",
+            "Moderators: Andersdotter A.",
+            "Castex F."
+          ],
+          "venue": "European Parliament Event",
+          "location": "Brussels",
+          "publisher": "European Parliament",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "summary": "MEP Amelia Andersdotter chairs a European Parliament event on whether self-regulation is enough for Do Not Track. Robert Madelin of DG CONNECT calls tracking creepy and a risk to the information base of democracy, and argues that self-regulation can work if it is accountable. Rob van Eijk of the Dutch DPA, who represented the Article 29 Working Party in the W3C, states that in the EU Do Not Track means do not collect without consent. He urges industry to innovate with user-centric design. Nicolas Dubois of DG Justice, standing in for Paul Nemitz, explains how the data protection reform handles tracking through the right to object and codes of conduct. Stuart Hamilton of IFLA raises e-readers that monitor reading habits. Justin Brookman of CDT and Walter van Holst of EDRi question whether the narrow W3C standard can deliver what EU law requires.",
+          "metadata": {
+            "role": "Moderators: Andersdotter A. & Castex F."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=T9fqpE5e5S0",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:18+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2014-ipen-workshop",
+          "year": 2014,
+          "title": "IPEN Workshop 2014",
+          "authors": [
+            "Stahl F.",
+            "Burgmair S.",
+            "Tschofenig H.",
+            "Kubieziel J.",
+            "Eijk R. van",
+            "Wright J.",
+            "Peticolas S.",
+            "Klabunde A. (Moderator)"
+          ],
+          "venue": "IPEN Workshop 2014",
+          "location": "Berlin",
+          "publisher": "European Data Protection Supervisor",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "summary": "Achim Klabunde of the EDPS moderates the first panel of the IPEN Workshop 2014, on the gaps between existing privacy tools and what people need. Florian Stahl and Stefan Burgmair present the OWASP Top 10 Privacy Risks for web applications. Hannes Tschofenig of ARM explains how the IETF and the W3C build privacy considerations into standards. Jens Kubieziel traces how Tor evolved, including its defences against censorship. Joss Wright of the Oxford Internet Institute notes that privacy keeps moving up the development stack and that academic cryptography rarely reaches products. Stéphane Petitcolas of the CNIL shows what mobile apps leak in practice. Rob van Eijk of the Dutch DPA frames privacy as a fundamental right shaped by purpose and context. Most data flows, he notes, happen beyond the device and out of view.",
+          "metadata": {
+            "role": "Moderator: Klabunde A."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mO7bjmUAq-Q",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:19+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "count": 2,
+      "items": [
+        {
+          "id": "2012-igf-tracking-trackers",
+          "year": 2012,
+          "title": "Who is following me: tracking the trackers",
+          "authors": [
+            "Eijk R. van",
+            "Jayaram M.",
+            "Kutterer C.",
+            "Seltzer W.",
+            "Watson S.",
+            "Zorbas K.",
+            "Lawson J. (Moderator)"
+          ],
+          "venue": "Internet Governance Forum (IGF2012)",
+          "location": "Baku",
+          "publisher": "Internet Governance Forum (IGF)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "summary": "Christine Runnegar of ISOC and Sophie Kwasny of the Council of Europe co-moderate an IGF 2012 workshop on tracking the trackers. Rob van Eijk, a PhD student at Leiden University who represents the Article 29 Working Party in the W3C Do Not Track debate, explains that unique identifiers, from cookies to browser fingerprints, are the core of tracking. The European position, he says, is \"do not collect\" without consent. Wendy Seltzer of the W3C describes the Do Not Track standard in progress. Cornelia Kutterer of Microsoft explains why Internet Explorer 10 sends Do Not Track by default. Kimon Zorbas of IAB Europe calls that default paternalistic and argues that limits on behavioural advertising favour large platforms. Malavika Jayaram of CIS India describes Indian rules that make cyber cafés identify and log their users.",
+          "metadata": {
+            "role": "Moderator: Lawson J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=mtPqt906u_g",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:20+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2012-iapp-cookies-consent",
+          "year": 2012,
+          "title": "Strictly Speaking: Cookies, Consent and Compliance",
+          "authors": ["Wefers Bettink W.", "Eijk R. van", "Wagner F."],
+          "venue": "IAPP Europe Data Protection congress",
+          "location": "Brussels",
+          "publisher": "International Association of Privacy Professionals (IAPP)",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "metadata": {
+            "doi": "10.2139/ssrn.2697041"
+          },
+          "links": [
+            {
+              "type": "download",
+              "url": "https://dx.doi.org/10.2139/ssrn.2697041",
+              "title": "Download Paper",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:20+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250426005208/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2697041",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:32:22+01:00",
+                  "submittedAt": "2025-07-24T10:00:01+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "count": 1,
+      "items": [
+        {
+          "id": "2011-fpf-anonymization",
+          "year": 2011,
+          "title": "Legal perspectives on anonymization",
+          "authors": [
+            "Eijk R. van",
+            "Geiger H.",
+            "Solove D.J.",
+            "Yakowitz J.",
+            "Hoffman D. (Moderator)"
+          ],
+          "venue": "Future of Privacy Forum De-identification Workshop Day",
+          "location": "Washington DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "panel",
+          "mediaType": "panel",
+          "contentType": "presentation",
+          "displayContext": "modal",
+          "summary": "David Hoffman of Intel moderates the closing panel of a Future of Privacy Forum workshop on what re-identification research means for the law. Daniel Solove of George Washington University Law School presents PII 2.0, which treats identifiability as a continuum of risk and applies fewer Fair Information Practices as the risk falls. Jane Yakowitz of Brooklyn Law School argues that the value of public research data outweighs realistic re-identification risks. She proposes a safe harbour for data producers who apply basic anonymisation, and penalties for recipients who re-identify. Harley Geiger of CDT turns to health data and cautions that a ban on re-identification would hamper security research. Rob van Eijk of the Dutch DPA, speaking for himself, treats re-identification as further processing that needs a legal ground. He proposes managing privacy risk like security risk. The discussion turns to First Amendment limits on penalising re-identification.",
+          "metadata": {
+            "role": "Moderator: Hoffman D."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=PPO65tKPI7I",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:23+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

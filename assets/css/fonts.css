@@ -1,0 +1,18 @@
+/* Source Sans 3 (SIL OFL 1.1), all text; the Blaeu wordmark is the only serif */
+@font-face {
+  font-family: 'sourcesans3';
+  src: url('/assets/fonts/SourceSans3/source-sans-3-latin-400.woff2') format('woff2');
+  font-weight: 100 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'sourcesans3';
+  src: url('/assets/fonts/SourceSans3/source-sans-3-latin-600.woff2') format('woff2');
+  font-weight: 600 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* OpenDyslexic fonts moved to fonts-opendyslexic.css for lazy loading */

@@ -1,0 +1,302 @@
+{
+  "title": "News Highlights",
+  "contentType": "highlight",
+  "totalItems": 8,
+  "lastUpdated": "2026-10-23",
+  "sections": [
+    {
+      "year": 2026,
+      "count": 8,
+      "items": [
+        {
+          "id": "oecd-dfft-plenary-2026",
+          "year": 2026,
+          "title": "OECD DFFT Community of Experts and Senior Officials Meeting",
+          "description": "Invited participation in the 3rd Plenary of the OECD Data Free Flow with Trust (DFFT) Expert Community and Senior Officials Meeting, “Trusted Data Flows Through Many Lenses: Expert Insights for Policy Actions” (participation by invitation only), on privacy-enhancing technologies (PETs).",
+          "authors": ["Rob van Eijk"],
+          "venue": "OECD, Paris",
+          "category": "expert meeting",
+          "mediaType": "conference",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-10-19",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.oecd.org/en/about/programmes/data-free-flow-with-trust.html",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:05+01:00"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-10-20T17:00:00+02:00",
+            "excerpt": "Invited participation in the OECD DFFT Expert Community and Senior Officials Meeting in Paris (invitation only), on privacy-enhancing technologies (PETs).",
+            "featured": true,
+            "rssCategories": ["Expert meeting", "OECD", "DFFT", "PETs", "Data flows"],
+            "venue": "OECD, Paris"
+          }
+        },
+        {
+          "id": "anonymous-by-contract-2026",
+          "year": 2026,
+          "title": "Anonymous by contract? Applying the EDPB anonymisation flowchart to the DMA's Article 6(11) search-data measures",
+          "description": "In July 2026 the EDPB adopted draft Guidelines 02/2026 on anonymisation, and nine days later the European Commission adopted its final measures in case DMA.100209, requiring Alphabet to share record-level Google Search data with rival search engines and calling the result anonymised. This paper tests that claim against the EDPB's own flowchart.",
+          "authors": ["Rob van Eijk"],
+          "venue": "SSRN",
+          "category": "publication",
+          "mediaType": "academic",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-07-31",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7132283",
+              "title": "Read the paper",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:05+01:00"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-07-31T12:00:00+02:00",
+            "excerpt": "The Commission calls the Google Search data that Alphabet must share under DMA Article 6(11) anonymised. This paper tests that claim against the EDPB's July 2026 anonymisation flowchart.",
+            "featured": true,
+            "rssCategories": ["Publication", "Anonymisation", "DMA", "GDPR", "EDPB"],
+            "venue": "SSRN"
+          }
+        },
+        {
+          "id": "samman-pseudonymised-anonymous-2026",
+          "year": 2026,
+          "title": "From Pseudonymised to Anonymous Data: joint policy report",
+          "description": "Joint policy report with Benjamin de Vanssay (Cabinet SAMMAN): a practical framework for assessing when pseudonymised data becomes anonymous under the SRB ruling, applied to real use cases provided by European companies.",
+          "authors": ["Rob van Eijk", "Benjamin de Vanssay"],
+          "venue": "Cabinet SAMMAN & Blaeu, Paris and Brussels",
+          "category": "publication",
+          "mediaType": "report",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-06-18",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6972998",
+              "title": "Read the report",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:05+01:00"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-06-18T12:00:00+02:00",
+            "excerpt": "Joint policy report with Cabinet SAMMAN: a practical framework for assessing when pseudonymised data becomes anonymous under the SRB ruling, applied to real use cases from European companies.",
+            "featured": false,
+            "rssCategories": ["Publication", "Anonymisation", "GDPR", "SRB ruling"],
+            "venue": "Cabinet SAMMAN & Blaeu, Paris and Brussels"
+          }
+        },
+        {
+          "id": "cpdp2026-os-trusted-ai",
+          "year": 2026,
+          "title": "CPDP 2026: The Role of Operating Systems in Trusted AI",
+          "description": "Panellist at CPDP 2026 on DMA Article 6(7) interoperability obligations, the tension between forced OS openness and GDPR-level privacy protections, hardware and software access risks, and whether a single interoperability standard can work across Apple, Google, and other platforms.",
+          "authors": ["Rob van Eijk"],
+          "venue": "Computers, Privacy & Data Protection Conference (CPDP2026), Brussels",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-05-20",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_cpdp2026-dma-interoperability-activity-7463219622465691649-bbuC",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:06+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523093932/https://www.linkedin.com/posts/rvaneijk88_cpdp2026-dma-interoperability-activity-7463219622465691649-bbuC",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:07+01:00",
+                  "submittedAt": "2026-05-23T11:38:23+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-05-20T16:00:00+02:00",
+            "excerpt": "Panellist at CPDP 2026 on DMA Article 6(7) interoperability and OS-level privacy, discussing the tension between forced openness and GDPR protections across Apple, Google, and other platforms.",
+            "featured": true,
+            "rssCategories": ["Speaking", "DMA", "Interoperability", "Privacy", "CPDP2026"],
+            "venue": "Computers, Privacy & Data Protection Conference (CPDP2026), Brussels"
+          }
+        },
+        {
+          "id": "web-standards-workshop-2026",
+          "year": 2026,
+          "title": "Expert Workshop: Web Standards for Data Protection in the EU",
+          "description": "Invited participation in the RegTech4AI expert workshop on Article 88b of the Omnibus proposal and a potential standardisation mandate for automated privacy signals. Discussion covered GPC adoption, the iOS/WebKit constraint on browser-level signals, and the policy boundary between targeting and attribution.",
+          "authors": ["Rob van Eijk"],
+          "venue": "RegTech4AI / Maastricht Law and Tech Lab, Brussels",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-05-18",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_gdpr-gpc-omnibus-activity-7463248947831271424-Wl9H",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:08+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523093951/https://www.linkedin.com/posts/rvaneijk88_gdpr-gpc-omnibus-activity-7463248947831271424-Wl9H",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:09+01:00",
+                  "submittedAt": "2026-05-23T11:38:35+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-05-18T13:00:00+02:00",
+            "excerpt": "Invited participation in the RegTech4AI expert workshop on Article 88b of the Omnibus proposal and a potential standardisation mandate for automated privacy signals, covering GPC adoption and the policy boundary between targeting and attribution.",
+            "featured": false,
+            "rssCategories": ["Speaking", "Web Standards", "Privacy", "GPC", "Omnibus"],
+            "venue": "RegTech4AI / Maastricht Law and Tech Lab, Brussels"
+          }
+        },
+        {
+          "id": "dma-anonymisation-roundtable-2026",
+          "year": 2026,
+          "title": "Roundtable: Anonymisation at the Crossroads of EU Digital Regulations",
+          "description": "Expert participation in a public roundtable on DMA Article 6(11) organised by Sophie Stalla-Bourdillon at VUB Brussels Privacy Hub. Discussion covered anonymisation of search data, singling out as the central test, how sessionisation and linkability enable re-identification, and the risk of incoherence between DMA and GDPR anonymisation standards.",
+          "authors": ["Rob van Eijk"],
+          "venue": "Brussels Privacy Hub / VUB, Brussels",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-05-18",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_dma-gdpr-anonymisation-activity-7462441720975261696-cbqw",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:10+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523094053/https://www.linkedin.com/posts/rvaneijk88_dma-gdpr-anonymisation-activity-7462441720975261696-cbqw",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:11+01:00",
+                  "submittedAt": "2026-05-23T11:38:46+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-05-18T10:00:00+02:00",
+            "excerpt": "Expert participation in VUB Brussels Privacy Hub roundtable on DMA Article 6(11) and anonymisation, examining singling out as the central re-identification test and the risk of diverging standards between DMA and GDPR.",
+            "featured": false,
+            "rssCategories": ["Speaking", "DMA", "Anonymisation", "GDPR", "Privacy"],
+            "venue": "Brussels Privacy Hub / VUB, Brussels"
+          }
+        },
+        {
+          "id": "privacy-symposium-2026-pets",
+          "year": 2026,
+          "title": "Bridging Borders with Trust: PETs to Preserve Customer Control in Cross-Border Legal Conflict",
+          "description": "Panel at the Privacy Symposium 2026 in Venice examining how privacy-enhancing technologies, particularly confidential computing and trusted execution environments, can reconcile cross-border data flows with data residency requirements and regulatory friction across jurisdictions.",
+          "authors": ["Eijk R. van", "Shainski R."],
+          "venue": "Privacy Symposium Conference 2026, Venice",
+          "category": "speaking",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-04-21",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.linkedin.com/posts/rvaneijk88_back-from-a-great-week-at-the-privacy-symposium-ugcPost-7453450543039180800-BuZ4",
+              "title": "Read more",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:11+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523094308/https://www.linkedin.com/posts/rvaneijk88_back-from-a-great-week-at-the-privacy-symposium-ugcPost-7453450543039180800-BuZ4",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:31:12+01:00",
+                  "submittedAt": "2026-05-23T11:43:05+01:00"
+                }
+              ]
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-04-21T14:00:00+02:00",
+            "excerpt": "Panel at Privacy Symposium 2026 Venice on how confidential computing and trusted execution environments can reconcile cross-border data flows with data residency requirements and digital sovereignty frameworks.",
+            "featured": false,
+            "rssCategories": [
+              "Speaking",
+              "PETs",
+              "Confidential Computing",
+              "Cross-Border Data",
+              "Privacy Symposium"
+            ],
+            "venue": "Privacy Symposium Conference 2026, Venice"
+          }
+        },
+        {
+          "id": "data-protection-day-2026-ppt",
+          "year": 2026,
+          "title": "Data Protection Day 2026: Chasing Shadows",
+          "description": "Moderated the Data Protection Day 2026 panel 'Chasing Shadows: Can regulation keep up as online tracking continues to transform?'. The panel debated whether the Digital Omnibus proposal modernises the ePrivacy rules on online tracking or erodes fundamental rights, and how standardised browser consent signals fit the GDPR's requirement for granular consent.",
+          "authors": ["Rob van Eijk"],
+          "venue": "EDPS and Council of Europe, Brussels",
+          "category": "moderation",
+          "mediaType": "panel",
+          "contentType": "highlight",
+          "displayContext": "highlight",
+          "date": "2026-01-28",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://www.youtube.com/watch?v=UnkrPiCn5To",
+              "title": "Watch the recording",
+              "icon": "fa-solid fa-external-link",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:31:13+01:00"
+            }
+          ],
+          "rssMetadata": {
+            "pubDate": "2026-01-28T15:00:00+01:00",
+            "excerpt": "Moderated the Data Protection Day 2026 panel (EDPS and Council of Europe) on whether regulation can keep up with online tracking: the Digital Omnibus, ePrivacy, and browser consent signals.",
+            "featured": true,
+            "rssCategories": [
+              "Moderation",
+              "PETs",
+              "Artificial intelligence",
+              "ePrivacy",
+              "Digital Omnibus"
+            ],
+            "venue": "EDPS and Council of Europe, Brussels"
+          }
+        }
+      ]
+    }
+  ]
+}

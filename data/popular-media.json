@@ -1,0 +1,973 @@
+{
+  "title": "Popular Media Appearances",
+  "contentType": "media",
+  "totalItems": 31,
+  "lastUpdated": "2026-07-20",
+  "sections": [
+    {
+      "year": 2026,
+      "count": 2,
+      "items": [
+        {
+          "id": "2026-plutopia-digital-sovereignty",
+          "year": 2026,
+          "date": "2026-07-20",
+          "title": "Eijk R. van: Privacy, AI, and Digital Sovereignty",
+          "authors": ["Lebkowsky J.", "Sweeney S.", "Grossman W.M."],
+          "venue": "Plutopia News Network Podcast",
+          "location": "Austin, TX",
+          "publisher": "Plutopia News Network",
+          "category": "podcast",
+          "mediaType": "podcast",
+          "contentType": "media",
+          "summary": "Rob van Eijk returns to hosts Jon Lebkowsky, Scoop Sweeney, and Wendy M. Grossman, starting from his policy report on pseudonymised and anonymous data, written with Benjamin de Vanssay. He explains why Europe protects privacy as a fundamental right while the US relies on consumer protection, and how data protection authorities investigate and gather evidence. On consent, he notes that the Global Privacy Control works in California because the law backs it, which Do Not Track never had. On AI, he favours narrow, purpose-built models over large general ones. The talk moves on to data centres, digital sovereignty, and open source. It ends on whether Trump v. Slaughter threatens the EU-US Data Privacy Framework, a question he leaves to the experts.",
+          "links": [
+            {
+              "type": "podcast",
+              "url": "https://plutopia.io/rob-van-eijk-privacy-ai-and-digital-sovereignty/",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:32:53+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20261025103255/https://plutopia.io/rob-van-eijk-privacy-ai-and-digital-sovereignty/",
+                  "source": "archive.org",
+                  "status": "submitted",
+                  "lastChecked": "2026-10-25T11:32:55+01:00",
+                  "submittedAt": "2026-10-25T11:32:55+01:00"
+                }
+              ]
+            },
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=9g10a3dh3ZA",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:05+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2026-via-live-podcast",
+          "year": 2026,
+          "date": "2026-03-06",
+          "title": "VIA Live Podcast – Privacy-centric AdTech Summit",
+          "authors": ["van Doorn D.", "Grantz S.", "Eijk R. van", "Moderator: Holslag B."],
+          "venue": "Privacy-centric AdTech Summit",
+          "location": "Amsterdam",
+          "publisher": "VIA and DDMA",
+          "category": "podcast",
+          "mediaType": "podcast",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "podcast",
+              "url": "https://open.spotify.com/episode/0C3M77q4jYXCqCpiifPFuG",
+              "title": "Listen on Spotify",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:06+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260523114722/https://open.spotify.com/episode/0C3M77q4jYXCqCpiifPFuG?si=D2GKQuc3RO6sN6kxamsP8A&nd=1&dlsi=1f9e2cc9714f4783",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:08+01:00",
+                  "submittedAt": "2026-05-23T13:45:58+01:00"
+                }
+              ]
+            },
+            {
+              "type": "external",
+              "url": "https://vianederland.nl/event/privacy-centric-ad-tech-summit",
+              "title": "View Event",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:08+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260304102423/https://vianederland.nl/event/privacy-centric-ad-tech-summit",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:09+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "count": 1,
+      "items": [
+        {
+          "id": "2025-bph-panel",
+          "year": 2025,
+          "title": "10 Years of Brussels Privacy Hub: expert insights",
+          "description": "Perspective on agentic AI and neuro-symbolic AI, and what they mean for privacy over the next decade",
+          "authors": ["Eijk R. van"],
+          "venue": "10 Years of Brussels Privacy Hub – What's Next",
+          "location": "Brussels",
+          "publisher": "Brussels Privacy Hub, Vrije Universiteit Brussel",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "summary": "For the Brussels Privacy Hub's tenth anniversary, Rob van Eijk gives a short expert view on where AI is heading. He is watching two developments. Agentic AI hands decisions over to software agents, and neuro-symbolic AI adds step-by-step reasoning so that AI can act as a coach or mentor. Both, he says, raise new privacy questions about user autonomy and loss of control. They lead him to a broader question about what it will mean to be human as society embraces these technologies.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.linkedin.com/posts/brussels-privacy-hub_10-years-of-brussels-privacy-hub-whats-activity-7304863715483369474-Iat2",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:09+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250326160957/https://www.linkedin.com/posts/brussels-privacy-hub_10-years-of-brussels-privacy-hub-whats-activity-7304863715483369474-Iat2?rcm=ACoAAAAMyOkBfn8ZbAgCiXa5hj-SD1wbMEkazQc",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:10+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "count": 5,
+      "items": [
+        {
+          "id": "2023-edaa-interview",
+          "year": 2023,
+          "title": "EDAA Summit 2023 - Interview with Eijk R. van",
+          "authors": ["EDAA"],
+          "venue": "Web EDAA",
+          "location": "Brussels",
+          "publisher": "European Digital Advertisers Association",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "summary": "In a short interview at the EDAA Summit 2023, Rob van Eijk asks regulators to learn more about how advertising technology works, including the limits and opportunities of the APIs now in play, so they can assess the effect on people's rights and freedoms. Privacy principles must keep up as the technology changes, he says. That means understanding the data flows that web services create along the whole value chain. In the summit aftermovie (1m51s), he adds that a self-regulation framework \"in today's day and age needs to have teeth\".",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=cPhl2P-It4E",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:11+01:00",
+              "archiveUrls": []
+            },
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=zBJ3MYSQpH8",
+              "title": "Watch aftermovie (1m51s)",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:12+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-norway-dpa",
+          "year": 2023,
+          "title": "Norway Data Protection Authority on the EDPB adoption of their Order",
+          "authors": ["Judin T.", "Eijk R. van"],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "summary": "Jules Polonetsky of FPF hosts Rob van Eijk and Tobias Judin of the Norwegian DPA on the EDPB decision that extends Norway's ban on Meta's behavioural advertising across the EEA. Judin explains that Norway used the GDPR's urgency procedure, part of the one-stop-shop rules, because Meta kept processing unlawfully after the Irish orders. He stresses that legitimate interest is not dead and that the ban is limited to behavioural advertising. Van Eijk weighs the balancing test and points to the pending CJEU case C-621/22 on purely commercial interests. He sees adtech moving from open real-time bidding to closed systems. On pay or okay, Judin calls it a case-by-case question of whether users can choose freely.",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=IxFsoaH_chY",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:13+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-plutopia-podcast",
+          "year": 2023,
+          "title": "Eijk R. van: Hyper-nudging",
+          "authors": ["Lebkowsky J.", "Sweeney S.", "Grossman W.M."],
+          "venue": "Plutopia News Network Podcast",
+          "location": "Austin, TX",
+          "publisher": "Plutopia News Network",
+          "category": "podcast",
+          "mediaType": "podcast",
+          "contentType": "media",
+          "summary": "Rob van Eijk of FPF joins hosts Jon Lebkowsky, Scoop Sweeney, and Wendy M. Grossman to discuss where online advertising is heading. He explains how real-time bidding shares unique identifiers among thousands of companies, and how Google's Topics and Protected Audience APIs aim to replace the third-party cookie by keeping data in the browser and adding noise. He contrasts US consumer law with the EU's GDPR and ePrivacy rules. Contextual advertising in the Netherlands and Norway, he notes, has proved profitable. He describes hyper-nudging, a term he coined with Grossman for generative AI that fine-tunes ads to individual behaviour in real time. He expects age checks under laws such as the DSA to push the web towards platforms that require strong identity.",
+          "links": [
+            {
+              "type": "podcast",
+              "url": "https://plutopia.io/rob-van-eijk-hyper-nudging/",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:14+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080213/https://plutopia.io/rob-van-eijk-hyper-nudging/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:15+01:00",
+                  "submittedAt": "2025-07-24T10:02:09+01:00"
+                }
+              ]
+            },
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=otnaSlX_78w",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:16+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2023-privacy-by-design",
+          "year": 2023,
+          "title": "5 Years in, Enforcement of Privacy by Design and the GDPR's Article 25",
+          "authors": ["Michelakaki C.", "Eijk R. van"],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=LVi1_ZpCe5U",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:17+01:00",
+              "archiveUrls": []
+            }
+          ],
+          "summary": "Jules Polonetsky of FPF hosts Christina Michelakaki and Rob van Eijk on FPF's report on five years of GDPR Article 25, data protection by design and by default, which covers more than 160 cases. Michelakaki shows that DPAs disagree on whether Article 25 applies before any harm. The Austrian and Finnish DPAs waited for a breach or actual processing, while the Belgian DPA and the Irish DPC applied it to risk alone. She also cites the Hungarian DPA's fine on a bank that used emotion recognition on customer calls. Van Eijk discusses the Dutch DPA's fine on the OLVG hospital, which did not check access logs and lacked two-factor authentication inside its own network. He points to ISO 27000 and the Europrivacy seal under Article 42 as ways to show compliance."
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "count": 4,
+      "items": [
+        {
+          "id": "2022-dejurist-interview",
+          "year": 2022,
+          "title": "Q&A expert online advertenties Eijk R. van: 'We komen nooit van online advertentiefraude af'",
+          "authors": ["Akkermans I."],
+          "venue": "De Jurist",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://dejurist.com/nieuws/50019818/q-a-expert-online-advertenties-rob-van-eijk-we-komen-nooit-van-online-advertentiefraude-af",
+              "title": "Read Article",
+              "status": "broken",
+              "lastChecked": "2026-10-25T11:33:17+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20220202203051/https://dejurist.com/nieuws/50019818/q-a-expert-online-advertenties-rob-van-eijk-we-komen-nooit-van-online-advertentiefraude-af",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:18+01:00",
+                  "archivedAt": "2022-02-02T20:30:51+00:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-nieuwsuur-adfraud",
+          "year": 2022,
+          "title": "Ad fraud is a billion-dollar industry",
+          "description": "Ad fraud is a billion-dollar industry (in Dutch)",
+          "authors": ["Bouwma R."],
+          "venue": "Nieuwsuur",
+          "location": "Hilversum",
+          "publisher": "NOS-NTR Dutch Public Broadcast Services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "summary": "Nieuwsuur reporter Rudy Bouma investigates online advertising fraud, in which bots click on ads instead of people. Advertisers lose tens of billions a year. The item covers the Russian fraudster Aleksandr Zhukov, who ran servers in Amsterdam, and the dispute over the scale of the problem. The industry association VIA puts bot clicks at 1 to 2 per cent, while TU Delft professor Michel van Eeten thinks the real figure is 10 to 30 times higher. Rob van Eijk, who wrote his PhD on real-time ad auctions, also expects the true number to be much higher because detection software misses many bot clicks. He concludes that cybercriminals have the upper hand.",
+          "metadata": {
+            "timestamp": "23m37s - 30m42s"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.npostart.nl/nieuwsuur/30-01-2022/VPWON_1334426",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:18+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20251007105845/https://npo.nl/start/serie/nieuwsuur/seizoen-2022/nieuwsuur_2819/afspelen",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:20+01:00",
+                  "submittedAt": "2025-07-24T10:03:32+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2022-data-walks",
+          "year": 2022,
+          "title": "Lessons Learned: Data Walks Project for Privacy Friendly Smart Cities",
+          "summary": "Jules Polonetsky of FPF hosts Jonas Breuer and Ine van Zeeland of SMIT at VUB, with Rob van Eijk, on their Data Walks project. The researchers took more than 100 citizens on 14 walks past cameras, sensors, and smart bins in three Belgian cities. Most people never notice information signs, they found, and people want to know why a city collects their data. The walks also surface concerns that a desk-based DPIA would miss. Van Eijk points to Amsterdam's online sensor map and to privacy-friendly designs in Rotterdam, such as infrared sensors that count waiting cyclists and cameras that turn people into wireframes. Cities usually rely on public interest, he notes, because consent is impractical in public space.",
+          "authors": ["Zeeland I. van", "Breuer J.", "Eijk R. van"],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=fKCtR34kgVk",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:22+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "count": 6,
+      "items": [
+        {
+          "id": "2021-health-apps",
+          "year": 2021,
+          "title": "Personal Health Environments",
+          "description": "Personal Health Environments (in Dutch)",
+          "authors": ["Bruin E. de"],
+          "venue": "Max Meldpunt: Remt medicijn werking coronavaccin?",
+          "location": "Hilversum",
+          "publisher": "Omroep MAX",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "summary": "In MAX Meldpunt on NPO 2 on 7 May 2021, presenter Elles de Bruin talks with Rob van Eijk and Marc van Dijk of MedMij about the safety of personal health environments (PGOs), the new apps and websites in which patients collect their medical records. GP Bart van Pinxteren explains why he welcomes the system. Van Eijk, who worked for years at the Dutch Data Protection Authority, warns that the damage would be beyond measure if medical data fell into the hands of criminals or hackers, and argues that the companies that build and offer PGOs need close scrutiny.",
+          "metadata": {
+            "timestamp": "11m28s - 25m06s"
+          },
+          "links": [
+            {
+              "type": "external",
+              "url": "https://web.archive.org/web/20261027155143/https://www.maxmeldpunt.nl/uitzendingen/remt-medicijn-werking-coronavaccin/",
+              "title": "View Episode"
+            }
+          ]
+        },
+        {
+          "id": "2021-retail-data-infographic",
+          "year": 2021,
+          "title": "Understanding the Retail Data Ecosystem and EdTech Data Flows",
+          "authors": ["Eijk R. van", "Polonetsky J.", "Tene O.", "Zanfir-Fortuna G."],
+          "venue": "Future of Privacy Forum",
+          "location": "Brussels",
+          "publisher": "Future of Privacy Forum",
+          "category": "infographic",
+          "mediaType": "infographic",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "download",
+              "url": "https://fpf.org/wp-content/uploads/2021/02/infographic_2.22.21v3.pdf",
+              "title": "Download Infographic",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:24+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080454/https://fpf.org/wp-content/uploads/2021/02/infographic_2.22.21v3.pdf",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:25+01:00",
+                  "submittedAt": "2025-07-24T10:04:54+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-green-certificate",
+          "year": 2021,
+          "title": "EU Digital Green Certificate",
+          "description": "EU Digital Green Certificate (in Dutch)",
+          "authors": ["Galan M. de", "Lemoine N."],
+          "venue": "Nieuwsuur",
+          "location": "Hilversum",
+          "publisher": "NOS-NTR Dutch Public Broadcast Services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "summary": "Nieuwsuur reporters Mirjam de Galan and Nathalie Lemoine look at how European countries prepare a corona pass so that people can travel again. France is already testing one, and Lithuania uses a vaccination pass to reopen venues. Rob van Eijk expects the Netherlands to follow soon. Moving vaccination data from the yellow vaccination booklet to a phone is not hard, he says, but the app is complex because of privacy. It must read a person's test history and block all other personal data, and the data may serve only this purpose, not other aims such as fighting terrorism.",
+          "metadata": {
+            "timestamp": "00m00s - 13m35s"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.npostart.nl/nieuwsuur/28-04-2021/VPWON_1324199",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:25+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20241209221044/https://npo.nl/start/serie/nieuwsuur/seizoen-2021/nieuwsuur_2185/afspelen",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:26+01:00",
+                  "submittedAt": "2025-07-24T10:05:05+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2021-privacy-hard-myths",
+          "year": 2021,
+          "title": "Privacy is Hard and Seven Other Myths. Achieving Privacy Through Careful Design by Jaap-Henk Hoepman",
+          "authors": [
+            "Hoepman J.-H.",
+            "González Fuster G.",
+            "Koerner K.",
+            "Lefkovitz N.",
+            "Le Grand G.",
+            "Eijk R. van"
+          ],
+          "venue": "FPF Book Club",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "summary": "Jules Polonetsky of FPF hosts a book club on Privacy is Hard and Seven Other Myths by Jaap-Henk Hoepman of Radboud University. Hoepman explains that many systems can be built with far more privacy, though technology alone is not enough, and names the business model as the elephant in the room. Asked what he would fix first, he picks sender anonymity on the internet and interoperable messaging. Rob van Eijk links the book's account of IRMA to attribute-based credentials and asks whether privacy as control still fits centralised systems. Gloria González Fuster, Gwendal Le Grand, Katharina Koerner, and Naomi Lefkovitz see the book as a bridge between lawyers and engineers. They also discuss involving stakeholders early and the role of regulation when markets fail.",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=SEIWCJCLwZk",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:27+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2021-data-flows-complexity",
+          "year": 2021,
+          "title": "The complexity of data flows for two common situations, retail and online learning",
+          "summary": "Jules Polonetsky and Rob van Eijk of FPF present an FPF infographic, led by Van Eijk, that maps the data flows behind two common situations: online retail and remote learning. Van Eijk shows how a retailer relies on a stack of cloud services, from hosting and analytics to customer support, SMS, and multi-factor authentication. Specialist vendors run each of them, with their own subcontractors. For online learning he adds edge caching, video classrooms, learning management systems, and single sign-on. Polonetsky sets this against the Schrems II judgment. Nobody can split services that run on globally intertwined stacks by geography, he argues, so safeguards have to start from how data flows.",
+          "authors": ["Polonetsky J.", "Eijk R. van"],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=6H_Dwcy8F-8",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:28+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2021-serious-privacy-podcast",
+          "year": 2021,
+          "title": "Predictions, Worries, and Wisdom from IAPP Brussels",
+          "summary": "In this Serious Privacy episode, Paul Breitbarth and K Royal share short interviews that Breitbarth recorded at the IAPP conference in Brussels, asking privacy professionals for their predictions, worries, and words of wisdom. Guests include Rob van Eijk and Gabriela Zanfir-Fortuna of the Future of Privacy Forum, Bojana Bellamy of CIPL, Estelle Massé of Access Now, Trevor Hughes of the IAPP, Alexander Hanff, Andreea Lisievici, Anna Pouliou, Aoife Sexton, and Caroline Olstedt Carlström. Topics include AI, using data for good, awareness of digital identities, children's privacy, Brexit, and joint enforcement.",
+          "authors": ["Royal K.", "Breitbarth P."],
+          "venue": "Serious Privacy",
+          "location": "Brussels",
+          "publisher": "TrustArc",
+          "category": "podcast",
+          "mediaType": "podcast",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "podcast",
+              "url": "https://seriousprivacy.buzzsprout.com/840448/9647366-predictions-worries-and-wisdom-from-iapp-brussels",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:29+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250615094411/https://seriousprivacy.buzzsprout.com/840448/episodes/9647366-predictions-worries-and-wisdom-from-iapp-brussels",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:30+01:00",
+                  "submittedAt": "2025-07-24T10:06:13+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "count": 4,
+      "items": [
+        {
+          "id": "2020-us-legislation",
+          "year": 2020,
+          "title": "FPF LinkedIn Live on 2020 US legislation",
+          "authors": ["Barron J.", "Eijk R. van", "Zanfir-Fortuna G."],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "summary": "Jules Polonetsky of the Future of Privacy Forum hosts a LinkedIn Live roundtable, 2021 U.S. Privacy Landscape: Update for Global Stakeholders, on what the new US Administration and Congress mean internationally for privacy and data protection. He is joined by Jonathan M. Baron of Baron Public Affairs, a policy and political risk strategist. FPF's global and Europe leads, Gabriela Zanfir-Fortuna and Rob van Eijk, complete the panel.",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.linkedin.com/video/live/urn:li:ugcPost:6737002245038198784/",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:31+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080734/https://www.linkedin.com/video/live/urn:li:ugcPost:6737002245038198784/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:32+01:00",
+                  "submittedAt": "2025-07-24T10:06:25+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-schrems-ii-guidance",
+          "year": 2020,
+          "title": "EU Data Protection Chiefs: Schrems II Guidance Update",
+          "authors": ["Breitbarth P.", "Eijk R. van", "Fenessy K.", "Zanfir-Fortuna G."],
+          "venue": "FPF LinkedIn Live",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "summary": "Jules Polonetsky of the Future of Privacy Forum hosts a LinkedIn Live, EU Data Protection Chiefs: Schrems II Guidance Update, a week after the Court of Justice's Schrems II judgment. He is joined by Rob van Eijk and Gabriela Zanfir-Fortuna of FPF, Caitlin Fennessy of the IAPP, Andrew Serwin of DLA Piper, and Paul Breitbarth of TrustArc. They discuss the European Data Protection Board's answers to frequently asked questions on the judgment, and first reactions from DPAs, companies, the US government, and data protection scholars.",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.linkedin.com/posts/julespolonetsky_eu-data-protection-chiefs-schrems-ii-guidance-activity-6692489755311140864-kQPh",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:33+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080640/https://www.linkedin.com/posts/julespolonetsky_eu-data-protection-chiefs-schrems-ii-guidance-activity-6692489755311140864-kQPh",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:35+01:00",
+                  "submittedAt": "2025-07-24T10:06:37+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2020-ethical-algorithm",
+          "year": 2020,
+          "title": "The Ethical Algorithm: The Science of Socially Aware Algorithm Design by Michael Kearns and Aaron Roth",
+          "authors": ["Kearns M."],
+          "venue": "FPF Book Club",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "summary": "Jules Polonetsky of FPF hosts a book club with Michael Kearns and Aaron Roth of the University of Pennsylvania on The Ethical Algorithm. The authors argue that the problems algorithms cause need, in large part, algorithmic solutions, with privacy and fairness built into the models. They present differential privacy as a mature, rigorous definition. Fairness research, they say, is some fifteen years behind, with competing definitions that cannot all hold at once. Rob van Eijk asks whether humans can stay in the loop. The authors answer that human oversight is necessary but not sufficient at scale. Other questions cover contact tracing, interpretability, and how to test for bias when the GDPR limits collecting sensitive data.",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=CnQSv5SVZ3Q",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:36+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-online-privacy",
+          "year": 2020,
+          "title": "Online privacy?",
+          "description": "Online privacy? (in Dutch)",
+          "summary": "Hadda Yadine and Ricky Groen of the Fons Vitae Lyceum in Amsterdam interview Rob van Eijk for their profielwerkstuk, a secondary school research project, on whether privacy on the internet still exists at all.",
+          "authors": ["Yadine H.", "Groen R."],
+          "venue": "Fons Vitae Lyceum",
+          "location": "Amsterdam",
+          "publisher": "Fons Vitae Lyceum",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=lBJSiMFooC4",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:37+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2020-appathon-coronavirus",
+          "year": 2020,
+          "title": "Invited expert. In: Appathon coronavirusapp",
+          "authors": ["Eijk R. van"],
+          "venue": "Ministerie van Volksgezondheid, Welzijn en Sport",
+          "location": "Den Haag",
+          "publisher": "Ministerie van Volksgezondheid, Welzijn en Sport",
+          "category": "other",
+          "mediaType": "other",
+          "contentType": "media",
+          "displayContext": "modal",
+          "summary": "Rob van Eijk takes part as an invited privacy expert in the Appathon that the Dutch Ministry of Health held in April 2020 to assess proposed coronavirus contact tracing apps. The ministry had received over 750 proposals and shortlisted seven. About 67 independent experts in privacy, security, epidemiology, and ICT evaluated them. Van Eijk comments on the privacy and data protection aspects of the shortlisted apps.",
+          "metadata": {
+            "duration": "Video: 4h57m09s - 5h25m38s"
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=VvEcFsXoDps",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:34:58+01:00",
+              "archiveUrls": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "count": 7,
+      "items": [
+        {
+          "id": "2019-privacy-advisor-podcast",
+          "year": 2019,
+          "title": "The inside scoop on the future of online advertising",
+          "summary": "Angelique Carson hosts The Privacy Advisor Podcast with Rob van Eijk, who had just joined the Future of Privacy Forum as managing director for Europe after nearly ten years at the Dutch Data Protection Authority. There he represented European data protection authorities in the W3C negotiations on Do Not Track. They discuss why Do Not Track failed and what has to change for online advertising to thrive. He also describes what it is like to work as a technologist inside a data protection authority.",
+          "authors": ["Carson A."],
+          "venue": "The Privacy Advisor Podcast",
+          "location": "Washington, DC",
+          "publisher": "International Association of Privacy Professionals (IAPP)",
+          "category": "podcast",
+          "mediaType": "podcast",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "podcast",
+              "url": "https://iapp.org/news/a/the-privacy-advisor-podcast-the-inside-scoop-on-the-future-of-online-advertising/",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:38+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080750/https://iapp.org/news/a/the-privacy-advisor-podcast-the-inside-scoop-on-the-future-of-online-advertising/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:39+01:00",
+                  "submittedAt": "2025-07-24T10:07:46+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-dual-phd-experience",
+          "year": 2019,
+          "title": "Experiences of dual Ph.D. students: Eijk R. van and the Dutch Data Protection Authority about the Dual Ph.D. Centre",
+          "summary": "Cecile Schut of the Dutch Data Protection Authority and Rob van Eijk, a dual PhD candidate at Leiden University, share their experiences of the Dual PhD Centre programme. Van Eijk explains his motivation for in-depth research on measuring privacy in digital contexts and the technology behind online advertising. Schut gives the employer's view. Deep in-house expertise is a core value of the Authority, she says, and the Authority needs to be able to show that expertise to the outside world. The interview covers the programme's support, including research methodology training in the first year, a weekly peer group, close supervision, and an evaluation every six months.",
+          "authors": ["Doorn, J."],
+          "venue": "Dual Ph.D. Centre",
+          "location": "The Hague",
+          "publisher": "Dual Ph.D. Centre, Faculty of Governance and Global Affairs, Leiden University",
+          "category": "interview",
+          "mediaType": "interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://www.youtube.com/watch?v=7Qj0eMYZBkE",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:40+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2019-network-watching",
+          "year": 2019,
+          "title": "The network is watching you",
+          "description": "Based on interviews with Rob van Eijk, who shared his expertise and reviewed the final draft.",
+          "authors": ["Engel E."],
+          "venue": "Het Financieele Dagblad",
+          "location": "Amsterdam",
+          "publisher": "FD Mediagroep",
+          "category": "infographic",
+          "mediaType": "infographic",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://fd.nl/futures/1291047/the-network-is-watching-you-wle1cayaCFLV",
+              "title": "View Article",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:40+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080830/https://fd.nl/futures/1291047/the-network-is-watching-you-wle1cayaCFLV",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:42+01:00",
+                  "submittedAt": "2025-07-24T10:08:27+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-privacy-power-book",
+          "year": 2019,
+          "title": "Of Privacy and Power: The Transatlantic Struggle over Freedom and Security by Henry Farrell and Abraham Newma",
+          "authors": ["Farrell H."],
+          "venue": "FPF Book Club, Future of Privacy Forum",
+          "location": "Washington, DC",
+          "publisher": "Future of Privacy Forum",
+          "category": "webinar",
+          "mediaType": "other",
+          "contentType": "media",
+          "summary": "Jules Polonetsky of FPF hosts a book club with Henry Farrell of George Washington University on Of Privacy and Power, written with Abraham Newman. Farrell describes the transatlantic conflict as a contest between cross-national coalitions, with security officials on both sides facing civil liberties advocates and data protection authorities. He sees Max Schrems using the Snowden revelations to bring down Safe Harbor, and the CJEU using such cases to expand its authority. Rob van Eijk, who joined the Dutch DPA in 2010, says the book showed him the bigger picture he had seen through a keyhole. He asks which cases could come next and what DPA guidance is still worth. Gabriela Zanfir-Fortuna points to the shared 1970s roots of US and European rules.",
+          "metadata": {
+            "role": "Moderator: Polonetsky J."
+          },
+          "links": [
+            {
+              "type": "video",
+              "url": "https://youtu.be/vre3q8D-J68",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:43+01:00",
+              "archiveUrls": []
+            }
+          ]
+        },
+        {
+          "id": "2019-radio-tracking",
+          "year": 2019,
+          "title": "Meer en meer bedrijven kijken mee terwijl jij surft",
+          "summary": "On the day he defended his PhD at Leiden University, 29 January 2019, Rob van Eijk speaks to NOS journalist Joost Schellevis on the NOS Radio 1 Journaal about the hidden side of online advertising. In real-time bidding, an auction sets the price of an ad slot in a fraction of a second, partly based on who is visiting. A few years ago, he says, tens of companies were watching while you surf. Now there are hundreds, and his research shows thousands of companies active in this market.",
+          "authors": ["Schellevis J.", "Trehy J."],
+          "venue": "NOS Radio 1 Journaal",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "radio interview",
+          "mediaType": "radio interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "audio",
+              "url": "https://www.nporadio1.nl/wetenschap-techniek/14365-meer-en-meer-bedrijven-kijken-mee-terwijl-jij-surft",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:44+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20251007110317/https://www.nporadio1.nl/nieuws/wetenschap-techniek/c53317a6-8b80-462b-917a-888d24150f1a/meer-en-meer-bedrijven-kijken-mee-terwijl-jij-surft",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:45+01:00",
+                  "submittedAt": "2025-07-24T10:09:13+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-monstercookies",
+          "year": 2019,
+          "title": "Monstercookies. What happens if you accept advertising cookies",
+          "description": "In Dutch. Based on interviews with Rob van Eijk, who shared his expertise and reviewed the final draft.",
+          "authors": ["Vegelien S."],
+          "venue": "NOS OP 3 Tech",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "mobile/web application",
+          "mediaType": "mobile/web application",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "external",
+              "url": "https://app.nos.nl/op3/cookies/",
+              "title": "View App",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:45+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250724080927/https://app.nos.nl/op3/cookies/",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:46+01:00",
+                  "submittedAt": "2025-07-24T10:09:24+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2019-bnr-ochtendspits",
+          "year": 2019,
+          "title": "De ochtendspits",
+          "summary": "Bauke van Werven interviews Rob van Eijk on BNR Nieuwsradio's morning programme De Ochtendspits on 29 January 2019, the day he defended his PhD at Leiden University, during CPDP conference week in Brussels.",
+          "authors": ["Werven B. van"],
+          "venue": "BNR Nieuwsradio",
+          "location": "Amsterdam",
+          "publisher": "FD Media Group",
+          "category": "radio interview",
+          "mediaType": "radio interview",
+          "contentType": "media",
+          "links": [
+            {
+              "type": "audio",
+              "url": "https://www.bnr.nl/player/archief/20190129094615300",
+              "title": "Watch recording",
+              "status": "broken",
+              "lastChecked": "2026-05-23T13:46:43+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20251004224631/https://www.bnr.nl/gemist",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:50+01:00",
+                  "submittedAt": "2025-07-24T10:09:36+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "count": 2,
+      "items": [
+        {
+          "id": "2013-fractie-seconde",
+          "year": 2013,
+          "title": "Handel in een fractie van een seconde",
+          "authors": ["Kamphuis B."],
+          "venue": "NOS Zomercolumn",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "summary": "This NOS video item from July 2013 is about real-time bidding. Advertisers trade personal data worldwide as a matter of course, the item says, and real-time bidding now does it in a fraction of a second, with a Dutch company leading the way.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://nos.nl/video/527311-handel-in-een-fractie-van-een-seconde.html",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:50+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20250108191111/https://nos.nl/video/527311-handel-in-een-fractie-van-een-seconde.html",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:51+01:00",
+                  "submittedAt": "2025-07-24T10:09:48+01:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2013-rtb-growth",
+          "year": 2013,
+          "title": "Hoe is real time bidding gegroeid?",
+          "authors": ["Kamphuis B."],
+          "venue": "NOS Zomercolumn",
+          "location": "Hilversum",
+          "publisher": "NOS Dutch public broadcast services",
+          "category": "television interview",
+          "mediaType": "television interview",
+          "contentType": "media",
+          "summary": "In an NOS item from July 2013, Rob van Eijk, then doing PhD research at Leiden University on online tracking, explains how real-time bidding has grown and why it will keep growing.",
+          "links": [
+            {
+              "type": "video",
+              "url": "https://nos.nl/video/527121-hoe-is-real-time-bidding-gegroeid",
+              "title": "Watch recording",
+              "status": "active",
+              "lastChecked": "2026-10-25T11:33:51+01:00",
+              "archiveUrls": [
+                {
+                  "url": "https://web.archive.org/web/20260220153408/https://nos.nl/video/527121-hoe-is-real-time-bidding-gegroeid",
+                  "source": "archive.org",
+                  "status": "active",
+                  "lastChecked": "2026-10-25T11:33:52+01:00",
+                  "submittedAt": "2025-07-24T10:09:59+01:00"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

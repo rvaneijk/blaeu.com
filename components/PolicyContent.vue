@@ -1,0 +1,131 @@
+<template>
+  <div>
+    <template v-for="(section, sIndex) in policy.sections" :key="sIndex">
+      <component
+        :is="headingTag"
+        v-if="section.title"
+        :class="headingLevel === 2 ? pageHeadingClass : widgetHeadingClass"
+      >
+        {{ section.title }}
+      </component>
+
+      <template v-for="(block, bIndex) in section.blocks" :key="bIndex">
+        <ul
+          v-if="block.type === 'list'"
+          class="list-disc pl-6 space-y-2 mb-6 marker:text-gray-600 dark:marker:text-gray-400"
+        >
+          <li v-for="(item, iIndex) in block.items" :key="iIndex">
+            <template v-for="(run, rIndex) in toRuns(item)" :key="rIndex">
+              <a
+                v-if="run.href"
+                :href="run.href"
+                :class="linkClass"
+                :target="isExternal(run.href) ? '_blank' : undefined"
+                :rel="isExternal(run.href) ? 'noopener' : undefined"
+              >
+                {{ run.text }}
+              </a>
+              <em v-else-if="run.italic">{{ run.text }}</em>
+              <template v-else>{{ run.text }}</template>
+            </template>
+          </li>
+        </ul>
+        <ol
+          v-else-if="block.type === 'olist'"
+          class="list-decimal pl-5 space-y-4 mb-6 marker:text-gray-600 dark:marker:text-gray-400"
+        >
+          <li v-for="(item, iIndex) in block.items" :key="iIndex">
+            <template v-for="(run, rIndex) in toRuns(item)" :key="rIndex">
+              <a
+                v-if="run.href"
+                :href="run.href"
+                :class="linkClass"
+                :target="isExternal(run.href) ? '_blank' : undefined"
+                :rel="isExternal(run.href) ? 'noopener' : undefined"
+              >
+                {{ run.text }}
+              </a>
+              <em v-else-if="run.italic">{{ run.text }}</em>
+              <template v-else>{{ run.text }}</template>
+            </template>
+          </li>
+        </ol>
+        <p v-else :class="paragraphClass(block)">
+          <template v-for="(line, lIndex) in toLines(block.text)" :key="lIndex">
+            <br v-if="lIndex > 0" />
+            <template v-for="(run, rIndex) in line" :key="rIndex">
+              <a
+                v-if="run.href"
+                :href="run.href"
+                :class="linkClass"
+                :target="isExternal(run.href) ? '_blank' : undefined"
+                :rel="isExternal(run.href) ? 'noopener' : undefined"
+              >
+                {{ run.text }}
+              </a>
+              <em v-else-if="run.italic">{{ run.text }}</em>
+              <template v-else>{{ run.text }}</template>
+            </template>
+          </template>
+        </p>
+      </template>
+    </template>
+  </div>
+</template>
+
+<script setup lang="ts">
+  import { computed } from 'vue'
+  import type { Policy, PolicyBlock } from '~/data/policies/types'
+
+  interface Run {
+    text: string
+    href?: string
+    italic?: boolean
+  }
+
+  const props = withDefaults(
+    defineProps<{
+      policy: Policy
+      headingLevel?: 2 | 3
+    }>(),
+    { headingLevel: 2 }
+  )
+
+  const headingTag = computed(() => (props.headingLevel === 2 ? 'h2' : 'h3'))
+  const pageHeadingClass =
+    'text-xl font-bold text-gray-900 dark:text-gray-100 mt-10 mb-3 leading-tight tracking-tight'
+  const widgetHeadingClass = 'text-xl font-semibold mt-6 mb-3'
+  const linkClass =
+    'text-gray-900 dark:text-gray-100 underline underline-offset-2 hover:decoration-2 dark:hover:text-brand-gold transition-colors [overflow-wrap:anywhere]'
+
+  const paragraphClass = (block: PolicyBlock): string => {
+    if (block.strong) return 'font-medium mb-2'
+    if (block.small) return 'text-sm text-gray-500 dark:text-gray-400 mt-6 mb-4'
+    return 'mb-4'
+  }
+
+  // *italic*, [label](url), a bare URL, or an email address
+  const linkPattern =
+    /\*([^*]+)\*|\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)|(https?:\/\/[^\s]+?(?=[.,;)]?(?:\s|$))|[\w.+-]+@[\w-]+\.[\w.-]+?(?=[.,;)]?(?:\s|$)))/g
+
+  const isExternal = (href: string): boolean =>
+    href.startsWith('http') && !href.startsWith('https://blaeu.com')
+
+  const toRuns = (line: string): Run[] => {
+    const runs: Run[] = []
+    let last = 0
+    for (const match of line.matchAll(linkPattern)) {
+      const index = match.index ?? 0
+      if (index > last) runs.push({ text: line.slice(last, index) })
+      const [whole, italic, label, labelHref, value = ''] = match
+      if (italic) runs.push({ text: italic, italic: true })
+      else if (label && labelHref) runs.push({ text: label, href: labelHref })
+      else runs.push({ text: value, href: value.includes('@') ? `mailto:${value}` : value })
+      last = index + whole.length
+    }
+    if (last < line.length) runs.push({ text: line.slice(last) })
+    return runs
+  }
+
+  const toLines = (text?: string): Run[][] => (text ?? '').split('\n').map(toRuns)
+</script>
