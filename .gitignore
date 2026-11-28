@@ -1,0 +1,12 @@
+# Keys
+.env
+.env.*
+!.env.example
+token.txt
+key.txt
+*.pem
+*.p12
+
+# Local
+node_modules/
+.DS_Store
